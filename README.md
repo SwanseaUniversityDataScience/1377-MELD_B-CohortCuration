@@ -1,6 +1,8 @@
 
-<p float="center">
-  <img src="Logo/ADRW_PDS.png" width="700" />
+<p align="center">
+  <img src="Logo/Swansea_PopDataScience_logo2.png" width="50%" />
+  &nbsp;&nbsp;
+  <img src="Logo/University_of_Southampton_Logo.png" width="40%" />
 </p>
 
 # Cohort profile for the creation of the sail meld-b e-cohort (SMC) and the concepts curation pipeline
@@ -19,6 +21,7 @@
 We have established the SAIL MELD-B electronic cohort (e-cohort SMC) and the SAIL MELD-B children and Young adults e-cohort (SMYC) as a part of the Multidisciplinary Ecosystem to study Lifecourse Determinants and Prevention of Early-onset Burdensome Multimorbidity (MELD-B) project. Each cohort has been created to investigate and develop a deeper understanding of the lived experience of the ‘burdensomeness’ of multimorbidity by identifying new clusters of burdensomness indicators, exploring early life risk factors of multimorbidity and modelling hypothetical prevention scenarios.
 
 ## 🖋️ How to cite this work 
+Pending publication
 
 ## 📃 Funding 
 The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work was supported by the National Institute for Health Research (NIHR) under its Programme Artificial Intelligence for Multiple and Long-Term Conditions (NIHR203988). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
@@ -33,3 +36,7 @@ This work uses data provided by patients and collected by the NHS as part of the
 All research has been completed under the permission and approval of the SAIL independent Information Governance Review Panel (IGRP) project number 1377. Further details of this process can be found on the SAIL Databank website (https://saildatabank.com/)
 
 ## ♻️ License 
+Shield: [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
