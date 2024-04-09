@@ -5,7 +5,7 @@
   <img src="Logo/University_of_Southampton_Logo.png" width="40%" />
 </p>
 
-# Cohort profile for the creation of the sail meld-b e-cohort (SMC) and the concepts curation pipeline
+# Cohort profile for the creation of the SAIL MELD-B e-cohort (SMC) and SAIL MELD-B children and Young adult e-cohort (SMYC)
 ### Roberta Chiovoloni <sup>1</sup>, Nisreen A Alwan <sup>2,</sup><sup>3,</sup><sup>4</sup>, Ann Berrington <sup>5</sup>,   Michael Boniface<sup>6</sup>, Nic Fair<sup>6</sup>, Simon DS Fraser<sup>2</sup>, Emilia Holland<sup>2</sup>, Rebecca B Hoyle<sup>7</sup>, Jakub Dylag<sup>6</sup>, Rhiannon K Owen<sup>1</sup>, Mozhdeh Shiranirad<sup>7</sup>, Sebastian Staennard<sup>2</sup>, Zlatko Zlatev<sup>5</sup>, Ashley Akbari<sup>1</sup> 
 
 <sup>1</sup> Population Data Science, Swansea University Medical School, Faculty of Medicine, Health & Life Science, Swansea University <br>
