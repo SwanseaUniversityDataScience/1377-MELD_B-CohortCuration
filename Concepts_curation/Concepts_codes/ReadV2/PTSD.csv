@@ -1,0 +1,9 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1S1..,,PTSD,,Flashbacks,Long-term condition
+1S10.,,PTSD,,Short duration flashbacks,Long-term condition
+1S11.,,PTSD,,Long duration flashbacks,Long-term condition
+1S12.,,PTSD,,Episodic flashbacks,Long-term condition
+1S13.,,PTSD,,Duplicative flashbacks,Long-term condition
+E2831,,PTSD,,Acute posttrauma stress state,Long-term condition
+E29y1,,PTSD,,Other post-traumatic stress disorder,Long-term condition
+Eu431,,PTSD,,[X]Traumatic neurosis,Long-term condition

@@ -1,0 +1,81 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1284.,,SCHIZOPHRENIA,,FH: Schizophrenia,Long-term condition
+13L3.,,SCHIZOPHRENIA,,Schizophrenic child,Long-term condition
+13Y2.,,SCHIZOPHRENIA,,Schizophrenia association member,Long-term condition
+1464.,,SCHIZOPHRENIA,,H/O: schizophrenia,Long-term condition
+212T.,,SCHIZOPHRENIA,,"Psychosis, schizophrenia + bipolar affective disord resolved",Long-term condition
+212W.,,SCHIZOPHRENIA,,Schizophrenia resolved,Long-term condition
+E10..,,SCHIZOPHRENIA,,Schizophrenic disorders,Long-term condition
+E100.,,SCHIZOPHRENIA,,Simple schizophrenia,Long-term condition
+E1000,,SCHIZOPHRENIA,,Unspecified schizophrenia,Long-term condition
+E1001,,SCHIZOPHRENIA,,Subchronic schizophrenia,Long-term condition
+E1002,,SCHIZOPHRENIA,,Chronic schizophrenic,Long-term condition
+E1003,,SCHIZOPHRENIA,,Acute exacerbation of subchronic schizophrenia,Long-term condition
+E1004,,SCHIZOPHRENIA,,Acute exacerbation of chronic schizophrenia,Long-term condition
+E1005,,SCHIZOPHRENIA,,Schizophrenia in remission,Long-term condition
+E100z,,SCHIZOPHRENIA,,Simple schizophrenia NOS,Long-term condition
+E101.,,SCHIZOPHRENIA,,Hebephrenic schizophrenia,Long-term condition
+E1010,,SCHIZOPHRENIA,,Unspecified hebephrenic schizophrenia,Long-term condition
+E1011,,SCHIZOPHRENIA,,Subchronic hebephrenic schizophrenia,Long-term condition
+E1012,,SCHIZOPHRENIA,,Chronic hebephrenic schizophrenia,Long-term condition
+E1013,,SCHIZOPHRENIA,,Acute exacerbation of subchronic hebephrenic schizophrenia,Long-term condition
+E1014,,SCHIZOPHRENIA,,Acute exacerbation of chronic hebephrenic schizophrenia,Long-term condition
+E1015,,SCHIZOPHRENIA,,Hebephrenic schizophrenia in remission,Long-term condition
+E101z,,SCHIZOPHRENIA,,Hebephrenic schizophrenia NOS,Long-term condition
+E102.,,SCHIZOPHRENIA,,Catatonic schizophrenia,Long-term condition
+E1020,,SCHIZOPHRENIA,,Unspecified catatonic schizophrenia,Long-term condition
+E1021,,SCHIZOPHRENIA,,Subchronic catatonic schizophrenia,Long-term condition
+E1022,,SCHIZOPHRENIA,,Chronic catatonic schizophrenia,Long-term condition
+E1023,,SCHIZOPHRENIA,,Acute exacerbation of subchronic catatonic schizophrenia,Long-term condition
+E1024,,SCHIZOPHRENIA,,Acute exacerbation of chronic catatonic schizophrenia,Long-term condition
+E1025,,SCHIZOPHRENIA,,Catatonic schizophrenia in remission,Long-term condition
+E102z,,SCHIZOPHRENIA,,Catatonic schizophrenia NOS,Long-term condition
+E103.,,SCHIZOPHRENIA,,Paranoid schizophrenia,Long-term condition
+E1030,,SCHIZOPHRENIA,,Unspecified paranoid schizophrenia,Long-term condition
+E1031,,SCHIZOPHRENIA,,Subchronic paranoid schizophrenia,Long-term condition
+E1032,,SCHIZOPHRENIA,,Chronic paranoid schizophrenia,Long-term condition
+E1033,,SCHIZOPHRENIA,,Acute exacerbation of subchronic paranoid schizophrenia,Long-term condition
+E1034,,SCHIZOPHRENIA,,Acute exacerbation of chronic paranoid schizophrenia,Long-term condition
+E1035,,SCHIZOPHRENIA,,Paranoid schizophrenia in remission,Long-term condition
+E103z,,SCHIZOPHRENIA,,Paranoid schizophrenia NOS,Long-term condition
+E104.,,SCHIZOPHRENIA,,Acute schizophrenic episode,Long-term condition
+E105.,,SCHIZOPHRENIA,,Latent schizophrenia,Long-term condition
+E1050,,SCHIZOPHRENIA,,Unspecified latent schizophrenia,Long-term condition
+E1051,,SCHIZOPHRENIA,,Subchronic latent schizophrenia,Long-term condition
+E1052,,SCHIZOPHRENIA,,Chronic latent schizophrenia,Long-term condition
+E1053,,SCHIZOPHRENIA,,Acute exacerbation of subchronic latent schizophrenia,Long-term condition
+E1054,,SCHIZOPHRENIA,,Acute exacerbation of chronic latent schizophrenia,Long-term condition
+E1055,,SCHIZOPHRENIA,,Latent schizophrenia in remission,Long-term condition
+E105z,,SCHIZOPHRENIA,,Latent schizophrenia NOS,Long-term condition
+E106.,,SCHIZOPHRENIA,,Residual schizophrenia,Long-term condition
+E107.,,SCHIZOPHRENIA,,Schizo-affective schizophrenia,Long-term condition
+E1070,,SCHIZOPHRENIA,,Unspecified schizo-affective schizophrenia,Long-term condition
+E1071,,SCHIZOPHRENIA,,Subchronic schizo-affective schizophrenia,Long-term condition
+E1072,,SCHIZOPHRENIA,,Chronic schizo-affective schizophrenia,Long-term condition
+E1073,,SCHIZOPHRENIA,,Acute exacerbation subchronic schizo-affective schizophrenia,Long-term condition
+E1074,,SCHIZOPHRENIA,,Acute exacerbation of chronic schizo-affective schizophrenia,Long-term condition
+E1075,,SCHIZOPHRENIA,,Schizo-affective schizophrenia in remission,Long-term condition
+E107z,,SCHIZOPHRENIA,,Schizo-affective schizophrenia NOS,Long-term condition
+E10y.,,SCHIZOPHRENIA,,Other schizophrenia,Long-term condition
+E10y0,,SCHIZOPHRENIA,,Atypical schizophrenia,Long-term condition
+E10y1,,SCHIZOPHRENIA,,Coenesthopathic schizophrenia,Long-term condition
+E10yz,,SCHIZOPHRENIA,,Other schizophrenia NOS,Long-term condition
+E10z.,,SCHIZOPHRENIA,,Schizophrenia NOS,Long-term condition
+E14z.,,SCHIZOPHRENIA,,Childhood schizophrenia NOS,Long-term condition
+Eu052,,SCHIZOPHRENIA,,[X]Organic delusional [schizophrenia-like] disorder,Long-term condition
+Eu2..,,SCHIZOPHRENIA,,"[X]Schizophrenia, schizotypal and delusional disorders",Long-term condition
+Eu20.,,SCHIZOPHRENIA,,[X]Schizophrenia,Long-term condition
+Eu200,,SCHIZOPHRENIA,,[X]Paranoid schizophrenia,Long-term condition
+Eu201,,SCHIZOPHRENIA,,[X]Hebephrenic schizophrenia,Long-term condition
+Eu202,,SCHIZOPHRENIA,,[X]Schizophrenic flexibilatis cerea,Long-term condition
+Eu203,,SCHIZOPHRENIA,,[X]Undifferentiated schizophrenia,Long-term condition
+Eu204,,SCHIZOPHRENIA,,[X]Post-schizophrenic depression,Long-term condition
+Eu205,,SCHIZOPHRENIA,,[X]Chronic undifferentiated schizophrenia,Long-term condition
+Eu206,,SCHIZOPHRENIA,,[X]Simple schizophrenia,Long-term condition
+Eu20y,,SCHIZOPHRENIA,,[X]Other schizophrenia,Long-term condition
+Eu20z,,SCHIZOPHRENIA,,"[X]Schizophrenia, unspecified",Long-term condition
+Eu21.,,SCHIZOPHRENIA,,[X]Prodromal schizophrenia,Long-term condition
+Eu231,,SCHIZOPHRENIA,,[X]Cycloid psychosis with symptoms of schizophrenia,Long-term condition
+Eu232,,SCHIZOPHRENIA,,[X]Acute schizophrenia-like psychotic disorder,Long-term condition
+Eu252,,SCHIZOPHRENIA,,[X]Mixed schizophrenic and affective psychosis,Long-term condition
+ZV110,,SCHIZOPHRENIA,,[V]Personal history of schizophrenia,Long-term condition

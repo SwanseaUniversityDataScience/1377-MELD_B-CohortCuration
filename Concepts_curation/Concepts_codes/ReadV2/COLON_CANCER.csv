@@ -1,0 +1,53 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+68W25,,COLON_CANCER,,Bowel scope (flexi-sig) screen: suspected cancer detected,Long-term condition
+9Ow1.,,COLON_CANCER,,Bowel cancer detected by national screening programme,Long-term condition
+B0720,,COLON_CANCER,,Malignant neoplasm of pharyngeal recess,Long-term condition
+B13..,,COLON_CANCER,,Malignant neoplasm of colon,Long-term condition
+B130.,,COLON_CANCER,,Malignant neoplasm of hepatic flexure of colon,Long-term condition
+B131.,,COLON_CANCER,,Malignant neoplasm of transverse colon,Long-term condition
+B132.,,COLON_CANCER,,Malignant neoplasm of descending colon,Long-term condition
+B133.,,COLON_CANCER,,Malignant neoplasm of sigmoid colon,Long-term condition
+B134.,,COLON_CANCER,,Malignant neoplasm of caecum,Long-term condition
+B135.,,COLON_CANCER,,Malignant neoplasm of appendix,Long-term condition
+B136.,,COLON_CANCER,,Malignant neoplasm of ascending colon,Long-term condition
+B137.,,COLON_CANCER,,Malignant neoplasm of splenic flexure of colon,Long-term condition
+B138.,,COLON_CANCER,,"Malignant neoplasm, overlapping lesion of colon",Long-term condition
+B139.,,COLON_CANCER,,Hereditary nonpolyposis colon cancer,Long-term condition
+B13y.,,COLON_CANCER,,Malignant neoplasm of other specified sites of colon,Long-term condition
+B13z.,,COLON_CANCER,,Colonic cancer,Long-term condition
+B14..,,COLON_CANCER,,"Malignant neoplasm of rectum, rectosigmoid junction and anus",Long-term condition
+B140.,,COLON_CANCER,,Malignant neoplasm of rectosigmoid junction,Long-term condition
+B141.,,COLON_CANCER,,Malignant neoplasm of rectum,Long-term condition
+B142.,,COLON_CANCER,,Anal carcinoma,Long-term condition
+B1420,,COLON_CANCER,,Malignant neoplasm of cloacogenic zone,Long-term condition
+B143.,,COLON_CANCER,,Malignant neoplasm of anus unspecified,Long-term condition
+B14y.,,COLON_CANCER,,"Malig neop other site rectum, rectosigmoid junction and anus",Long-term condition
+B14z.,,COLON_CANCER,,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",Long-term condition
+B18y2,,COLON_CANCER,,Malignant neoplasm of mesorectum,Long-term condition
+B1z0.,,COLON_CANCER,,Cancer of bowel,Long-term condition
+B575.,,COLON_CANCER,,Secondary malignant neoplasm of large intestine and rectum,Long-term condition
+B5750,,COLON_CANCER,,Secondary malignant neoplasm of colon,Long-term condition
+B5751,,COLON_CANCER,,Secondary malignant neoplasm of rectum,Long-term condition
+B575z,,COLON_CANCER,,Secondary malig neop of large intestine or rectum NOS,Long-term condition
+B803.,,COLON_CANCER,,Carcinoma in situ of colon,Long-term condition
+B8030,,COLON_CANCER,,Carcinoma in situ of hepatic flexure of colon,Long-term condition
+B8031,,COLON_CANCER,,Carcinoma in situ of transverse colon,Long-term condition
+B8032,,COLON_CANCER,,Carcinoma in situ of descending colon,Long-term condition
+B8033,,COLON_CANCER,,Carcinoma in situ of sigmoid colon,Long-term condition
+B8036,,COLON_CANCER,,Carcinoma in situ of ascending colon,Long-term condition
+B8037,,COLON_CANCER,,Carcinoma in situ of splenic flexure of colon,Long-term condition
+B8038,,COLON_CANCER,,High grade dysplasia of colon,Long-term condition
+B803z,,COLON_CANCER,,Carcinoma in situ of colon NOS,Long-term condition
+B804.,,COLON_CANCER,,Carcinoma in situ of rectum and rectosigmoid junction,Long-term condition
+B8040,,COLON_CANCER,,Carcinoma in situ of rectosigmoid junction,Long-term condition
+B8041,,COLON_CANCER,,Carcinoma in situ of rectum,Long-term condition
+B804z,,COLON_CANCER,,Carcinoma in situ of rectum or rectosigmoid junction NOS,Long-term condition
+B902.,,COLON_CANCER,,"Neop of uncertain behaviour stomach, intestines and rectum",Long-term condition
+B9024,,COLON_CANCER,,Neoplasm of uncertain behaviour of colon,Long-term condition
+B9025,,COLON_CANCER,,Neoplasm of uncertain behaviour of rectum,Long-term condition
+B902z,,COLON_CANCER,,"Neop of uncertain behaviour stomach, intestine or rectum NOS",Long-term condition
+BB57.,,COLON_CANCER,,"[M]Adenocarcinoma, intestinal type",Long-term condition
+BB5N.,,COLON_CANCER,,[M]Adenomatous and adenocarcinomatous polyps of colon,Long-term condition
+BB5Nz,,COLON_CANCER,,[M]Adenomatous or adenocarcinomatous polyps of the colon NOS,Long-term condition
+PB5B.,,COLON_CANCER,,Dysplasia of colon,Long-term condition
+ZV100,,COLON_CANCER,,[V]Personal history of malignant neoplasm of large intestine,Long-term condition

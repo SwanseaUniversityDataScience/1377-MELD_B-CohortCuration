@@ -1,0 +1,86 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14V2.,,DIALYSIS,,H/O: renal dialysis,Long-term condition
+4I29.,,DIALYSIS,,Peritoneal dialysis sample,Long-term condition
+4N...,,DIALYSIS,,Dialysis fluid examination,Long-term condition
+4N0..,,DIALYSIS,,Dialysis fluid urea level,Long-term condition
+4N1..,,DIALYSIS,,Dialysis fluid creatinine level,Long-term condition
+4N2..,,DIALYSIS,,Dialysis fluid glucose level,Long-term condition
+4N3..,,DIALYSIS,,Peritoneal dialysis fluid cell count,Long-term condition
+4N4..,,DIALYSIS,,Dialysis fluid potassium level,Long-term condition
+4N5..,,DIALYSIS,,Dialysis fluid sodium level,Long-term condition
+7A606,,DIALYSIS,,Creation of graft fistula for dialysis,Long-term condition
+7A619,,DIALYSIS,,Ligation of arteriovenous dialysis fistula,Long-term condition
+7A61A,,DIALYSIS,,Ligation of arteriovenous dialysis graft,Long-term condition
+7L1A.,,DIALYSIS,,Dialysis for renal failure,Long-term condition
+7L1A0,,DIALYSIS,,Renal dialysis,Long-term condition
+7L1A1,,DIALYSIS,,Peritoneal dialysis,Long-term condition
+7L1A2,,DIALYSIS,,Haemodialysis NEC,Long-term condition
+7L1A3,,DIALYSIS,,Haemofiltration,Long-term condition
+7L1A4,,DIALYSIS,,Automated peritoneal dialysis,Long-term condition
+7L1A5,,DIALYSIS,,Continuous ambulatory peritoneal dialysis,Long-term condition
+7L1A6,,DIALYSIS,,Peritoneal dialysis NEC,Long-term condition
+7L1B.,,DIALYSIS,,Placement ambulatory dialysis apparatus - compens renal fail,Long-term condition
+7L1B0,,DIALYSIS,,Insertion of ambulatory peritoneal dialysis catheter,Long-term condition
+7L1B1,,DIALYSIS,,Removal of ambulatory peritoneal dialysis catheter,Long-term condition
+7L1B2,,DIALYSIS,,Flushing of peritoneal dialysis catheter,Long-term condition
+7L1C0,,DIALYSIS,,Insertion of temporary peritoneal dialysis catheter,Long-term condition
+7L1f0,,DIALYSIS,,Extracorporeal albumin haemodialysis,Long-term condition
+8882.,,DIALYSIS,,Intestinal dialysis,Long-term condition
+8DD..,,DIALYSIS,,Dependence on renal dialysis,Long-term condition
+G72C.,,DIALYSIS,,Ruptured aneurysm of dialysis vascular access,Long-term condition
+G72D.,,DIALYSIS,,Aneurysm of dialysis arteriovenous fistula,Long-term condition
+G72D0,,DIALYSIS,,Aneurysm of superficialised artery of dialysis AV fistula,Long-term condition
+G72D1,,DIALYSIS,,Aneurysm of needle site of dialysis arteriovenous fistula,Long-term condition
+G72D2,,DIALYSIS,,Aneurysm of anastomotic site of dialysis AV fistula,Long-term condition
+G72E.,,DIALYSIS,,Aneurysm of dialysis vascular access,Long-term condition
+Gy1..,,DIALYSIS,,Stenosis of dialysis vascular access,Long-term condition
+Gy10.,,DIALYSIS,,Stenosis of dialysis arteriovenous graft,Long-term condition
+Gy11.,,DIALYSIS,,Stenosis of dialysis arteriovenous shunt,Long-term condition
+Gy110,,DIALYSIS,,Stenosis of arterial side of dialysis arteriovenous shunt,Long-term condition
+Gy111,,DIALYSIS,,Stenosis of venous side of dialysis arteriovenous shunt,Long-term condition
+Gy2..,,DIALYSIS,,Thrombosis of dialysis vascular access,Long-term condition
+Gy20.,,DIALYSIS,,Thrombosis of dialysis arteriovenous graft,Long-term condition
+Gy21.,,DIALYSIS,,Thrombosis of dialysis arteriovenous fistula,Long-term condition
+Gy22.,,DIALYSIS,,Thrombosis of dialysis arteriovenous shunt,Long-term condition
+Gy3..,,DIALYSIS,,Occlusion of dialysis vascular access,Long-term condition
+Gy30.,,DIALYSIS,,Occlusion of dialysis arteriovenous graft,Long-term condition
+Gy31.,,DIALYSIS,,Occlusion of dialysis arteriovenous fistula,Long-term condition
+Gy32.,,DIALYSIS,,Occlusion of dialysis arteriovenous shunt,Long-term condition
+Gy4..,,DIALYSIS,,Infection of dialysis vascular access,Long-term condition
+Gy40.,,DIALYSIS,,Infection of dialysis arteriovenous graft,Long-term condition
+Gy41.,,DIALYSIS,,Infection of dialysis arteriovenous fistula,Long-term condition
+Gy42.,,DIALYSIS,,Infection of dialysis arteriovenous shunt,Long-term condition
+Gy5..,,DIALYSIS,,Haemorrhage of dialysis vascular access,Long-term condition
+Gy50.,,DIALYSIS,,Haemorrhage of dialysis arteriovenous graft,Long-term condition
+Gy51.,,DIALYSIS,,Haemorrhage of dialysis arteriovenous fistula,Long-term condition
+Gy52.,,DIALYSIS,,Haemorrhage of dialysis arteriovenous shunt,Long-term condition
+Gy6..,,DIALYSIS,,Rupture of dialysis vascular access,Long-term condition
+Gy60.,,DIALYSIS,,Rupture of dialysis arteriovenous graft,Long-term condition
+Gy61.,,DIALYSIS,,Rupture of dialysis arteriovenous fistula,Long-term condition
+Gy62.,,DIALYSIS,,Rupture of dialysis arteriovenous shunt,Long-term condition
+SP015,,DIALYSIS,,Mechanical complication of dialysis catheter,Long-term condition
+SP056,,DIALYSIS,,[X] Peritoneal dialysis associated peritonitis,Long-term condition
+SP06B,,DIALYSIS,,Continuous ambulatory peritoneal dialysis associated perit,Long-term condition
+SP07G,,DIALYSIS,,Stenosis of arteriovenous dialysis fistula,Long-term condition
+SP0E.,,DIALYSIS,,Disorders associated with peritoneal dialysis,Long-term condition
+SP0E0,,DIALYSIS,,Bloodstained peritoneal dialysis effluent,Long-term condition
+SP0E1,,DIALYSIS,,Thrombus in peritoneal dialysis catheter,Long-term condition
+SP0F.,,DIALYSIS,,Haemodialysis first use syndrome,Long-term condition
+SP0G.,,DIALYSIS,,Anaphylactoid reaction due to haemodialysis,Long-term condition
+SP0H.,,DIALYSIS,,Disorder associated with dialysis,Long-term condition
+SP0H0,,DIALYSIS,,Dialysis disequilibrium,Long-term condition
+SP3y9,,DIALYSIS,,Acute hypercalcaemia of dialysis,Long-term condition
+TA02.,,DIALYSIS,,"Accid cut,puncture,perf,h'ge - kidney dialysis/oth perfusion",Long-term condition
+TA020,,DIALYSIS,,"Accid cut,puncture,perf,h'ge - kidney dialysis",Long-term condition
+TA120,,DIALYSIS,,Foreign object left in body during kidney dialysis,Long-term condition
+TA220,,DIALYSIS,,Failure of sterile precautions during kidney dialysis,Long-term condition
+TA420,,DIALYSIS,,Mechanical failure of apparatus during kidney dialysis,Long-term condition
+TB11.,,DIALYSIS,,"Kidney dialysis with complication, without blame",Long-term condition
+U641.,,DIALYSIS,,[X]Kidny dialysis caus abn reac pt/lat comp no misad at time,Long-term condition
+ZV451,,DIALYSIS,,[V]Renal dialysis status,Long-term condition
+ZV56.,,DIALYSIS,,[V]Aftercare involving intermittent dialysis,Long-term condition
+ZV560,,DIALYSIS,,[V]Aftercare involving renal dialysis NOS,Long-term condition
+ZV561,,DIALYSIS,,[V]Preparatory care for dialysis,Long-term condition
+ZV56y,,DIALYSIS,,[V]Aftercare involving peritoneal dialysis,Long-term condition
+ZV56z,,DIALYSIS,,[V]Unspecified aftercare involving intermittent dialysis,Long-term condition
+ZVu3G,,DIALYSIS,,[X]Other dialysis,Long-term condition

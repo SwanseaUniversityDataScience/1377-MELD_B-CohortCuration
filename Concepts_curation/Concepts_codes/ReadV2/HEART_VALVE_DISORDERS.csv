@@ -1,0 +1,318 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+0Z1A.,,HEART_VALVE_DISORDERS,,Valveman,Long-term condition
+14S4.,,HEART_VALVE_DISORDERS,,H/O: heart valve recipient,Long-term condition
+14T3.,,HEART_VALVE_DISORDERS,,H/O: artificial heart valve,Long-term condition
+24G..,,HEART_VALVE_DISORDERS,,Aortic valve gradient,Long-term condition
+70101,,HEART_VALVE_DISORDERS,,Insertion of Halber valve for spina bifida,Long-term condition
+70114,,HEART_VALVE_DISORDERS,,Renewal of valve of cerebroventricular shunt,Long-term condition
+70160,,HEART_VALVE_DISORDERS,,Drainage of ventricle of brain using Holter valve,Long-term condition
+74493,,HEART_VALVE_DISORDERS,,Insertion of endobronchial valve,Long-term condition
+744D1,,HEART_VALVE_DISORDERS,,Changing of tracheooesophageal valve,Long-term condition
+74583,,HEART_VALVE_DISORDERS,,Bag valve mask ventilation,Long-term condition
+76112,,HEART_VALVE_DISORDERS,,Hofmeister valved gastrectomy,Long-term condition
+79020,,HEART_VALVE_DISORDERS,,Correct Fallot tetralogy- valved right ventr outflow conduit,Long-term condition
+79025,,HEART_VALVE_DISORDERS,,Repair of tetralogy of Fallot with absent pulmonary valve,Long-term condition
+790D.,,HEART_VALVE_DISORDERS,,Creation of valved cardiac conduit,Long-term condition
+790D0,,HEART_VALVE_DISORDERS,,Creation valved conduit between heart atrium and ventricle,Long-term condition
+790D1,,HEART_VALVE_DISORDERS,,Creation of valved conduit between right atrium+pulm artery,Long-term condition
+790D2,,HEART_VALVE_DISORDERS,,Creation of valved conduit between right ventr +pulm artery,Long-term condition
+790D3,,HEART_VALVE_DISORDERS,,Creation of valved conduit between left ventricle and aorta,Long-term condition
+790D4,,HEART_VALVE_DISORDERS,,Revision of valved cardiac conduit,Long-term condition
+790D6,,HEART_VALVE_DISORDERS,,Creation valved conduit between left vent heart pulm artery,Long-term condition
+790D7,,HEART_VALVE_DISORDERS,,Replacement of valved cardiac conduit,Long-term condition
+790Dy,,HEART_VALVE_DISORDERS,,Other specified creation of valved cardiac conduit,Long-term condition
+790Dz,,HEART_VALVE_DISORDERS,,Creation of valved cardiac conduit NOS,Long-term condition
+790M3,,HEART_VALVE_DISORDERS,,Radical aortopulmonary recon rig vent pulmon art valvel cond,Long-term condition
+790M8,,HEART_VALVE_DISORDERS,,Aortopulm recons with right ventr pulm arter valveless cond,Long-term condition
+791..,,HEART_VALVE_DISORDERS,,Valves of heart and adjacent structures operations,Long-term condition
+7910.,,HEART_VALVE_DISORDERS,,Replacement of mitral valve,Long-term condition
+79100,,HEART_VALVE_DISORDERS,,Allograft replacement of mitral valve,Long-term condition
+79101,,HEART_VALVE_DISORDERS,,Xenograft replacement of mitral valve,Long-term condition
+79102,,HEART_VALVE_DISORDERS,,Prosthetic replacement of mitral valve,Long-term condition
+79103,,HEART_VALVE_DISORDERS,,Replacement of mitral valve NEC,Long-term condition
+79104,,HEART_VALVE_DISORDERS,,Mitral valvuloplasty NEC,Long-term condition
+7910y,,HEART_VALVE_DISORDERS,,Other specified plastic repair of mitral valve,Long-term condition
+7910z,,HEART_VALVE_DISORDERS,,Plastic repair of mitral valve NOS,Long-term condition
+7911.,,HEART_VALVE_DISORDERS,,Replacement of aortic valve,Long-term condition
+79110,,HEART_VALVE_DISORDERS,,Allograft replacement of aortic valve,Long-term condition
+79111,,HEART_VALVE_DISORDERS,,Xenograft replacement of aortic valve,Long-term condition
+79112,,HEART_VALVE_DISORDERS,,Prosthetic replacement of aortic valve,Long-term condition
+79113,,HEART_VALVE_DISORDERS,,Replacement of aortic valve NEC,Long-term condition
+79114,,HEART_VALVE_DISORDERS,,Aortic valvuloplasty NEC,Long-term condition
+79115,,HEART_VALVE_DISORDERS,,Transapical aortic valve implantation,Long-term condition
+79116,,HEART_VALVE_DISORDERS,,Transluminal aortic valve implantation,Long-term condition
+7911y,,HEART_VALVE_DISORDERS,,Other specified plastic repair of aortic valve,Long-term condition
+7911z,,HEART_VALVE_DISORDERS,,Plastic repair of aortic valve NOS,Long-term condition
+7912.,,HEART_VALVE_DISORDERS,,Plastic repair of tricuspid valve,Long-term condition
+79120,,HEART_VALVE_DISORDERS,,Allograft replacement of tricuspid valve,Long-term condition
+79121,,HEART_VALVE_DISORDERS,,Xenograft replacement of tricuspid valve,Long-term condition
+79122,,HEART_VALVE_DISORDERS,,Prosthetic replacement of tricuspid valve,Long-term condition
+79123,,HEART_VALVE_DISORDERS,,Replacement of tricuspid valve NEC,Long-term condition
+79124,,HEART_VALVE_DISORDERS,,Repositioning of tricuspid valve,Long-term condition
+79125,,HEART_VALVE_DISORDERS,,Tricuspid valve repair NEC,Long-term condition
+7912y,,HEART_VALVE_DISORDERS,,Other specified plastic repair of tricuspid valve,Long-term condition
+7912z,,HEART_VALVE_DISORDERS,,Plastic repair of tricuspid valve NOS,Long-term condition
+7913.,,HEART_VALVE_DISORDERS,,Pulmonary valvuloplasty,Long-term condition
+79130,,HEART_VALVE_DISORDERS,,Allograft replacement of pulmonary valve,Long-term condition
+79131,,HEART_VALVE_DISORDERS,,Xenograft replacement of pulmonary valve,Long-term condition
+79132,,HEART_VALVE_DISORDERS,,Prosthetic replacement of pulmonary valve,Long-term condition
+79133,,HEART_VALVE_DISORDERS,,Replacement of pulmonary valve NEC,Long-term condition
+79134,,HEART_VALVE_DISORDERS,,Pulmonary valvuloplasty NEC,Long-term condition
+7913y,,HEART_VALVE_DISORDERS,,Other specified plastic repair of pulmonary valve,Long-term condition
+7913z,,HEART_VALVE_DISORDERS,,Plastic repair of pulmonary valve NOS,Long-term condition
+7914.,,HEART_VALVE_DISORDERS,,Replacement of unspecified valve of heart,Long-term condition
+79140,,HEART_VALVE_DISORDERS,,Allograft replacement of valve of heart NEC,Long-term condition
+79141,,HEART_VALVE_DISORDERS,,Xenograft replacement of valve of heart NEC,Long-term condition
+79142,,HEART_VALVE_DISORDERS,,Prosthetic replacement of valve of heart NEC,Long-term condition
+79143,,HEART_VALVE_DISORDERS,,Replacement of valve of heart NEC,Long-term condition
+79144,,HEART_VALVE_DISORDERS,,Valvuloplasty of heart NEC,Long-term condition
+79145,,HEART_VALVE_DISORDERS,,Truncal valve repair,Long-term condition
+79146,,HEART_VALVE_DISORDERS,,Replacement of truncal valve,Long-term condition
+7914y,,HEART_VALVE_DISORDERS,,Other specified plastic repair of unspecified valve of heart,Long-term condition
+7914z,,HEART_VALVE_DISORDERS,,Plastic repair of unspecified valve of heart NOS,Long-term condition
+7915.,,HEART_VALVE_DISORDERS,,Revision of plastic repair of valve of heart,Long-term condition
+79150,,HEART_VALVE_DISORDERS,,Revision of plastic repair of mitral valve,Long-term condition
+79151,,HEART_VALVE_DISORDERS,,Revision of plastic repair of aortic valve,Long-term condition
+79152,,HEART_VALVE_DISORDERS,,Revision of plastic repair of tricuspid valve,Long-term condition
+79153,,HEART_VALVE_DISORDERS,,Revision of plastic repair of pulmonary valve,Long-term condition
+79154,,HEART_VALVE_DISORDERS,,Revision of plastic repair of truncal valve,Long-term condition
+7915y,,HEART_VALVE_DISORDERS,,Other specified revision of plastic repair of valve of heart,Long-term condition
+7915z,,HEART_VALVE_DISORDERS,,Revision of plastic repair of valve of heart NOS,Long-term condition
+7916.,,HEART_VALVE_DISORDERS,,Open heart valvotomy,Long-term condition
+79160,,HEART_VALVE_DISORDERS,,Open mitral valvotomy,Long-term condition
+79161,,HEART_VALVE_DISORDERS,,Open aortic valvotomy,Long-term condition
+79162,,HEART_VALVE_DISORDERS,,Open tricuspid valvotomy,Long-term condition
+79163,,HEART_VALVE_DISORDERS,,Open pulmonary valvotomy,Long-term condition
+79164,,HEART_VALVE_DISORDERS,,Open truncal valvotomy,Long-term condition
+7916y,,HEART_VALVE_DISORDERS,,Other specified open specified incision of valve of heart,Long-term condition
+7916z,,HEART_VALVE_DISORDERS,,Heart valvotomy NEC,Long-term condition
+7917.,,HEART_VALVE_DISORDERS,,Closed heart valvotomy,Long-term condition
+79170,,HEART_VALVE_DISORDERS,,Closed mitral valvotomy,Long-term condition
+79171,,HEART_VALVE_DISORDERS,,Closed aortic valvotomy,Long-term condition
+79172,,HEART_VALVE_DISORDERS,,Closed tricuspid valvotomy,Long-term condition
+79173,,HEART_VALVE_DISORDERS,,Closed pulmonary valvotomy,Long-term condition
+7917y,,HEART_VALVE_DISORDERS,,Other specified closed incision of valve of heart,Long-term condition
+7917z,,HEART_VALVE_DISORDERS,,Closed incision of valve of heart NOS,Long-term condition
+7918.,,HEART_VALVE_DISORDERS,,Other open operations on valve of heart,Long-term condition
+79180,,HEART_VALVE_DISORDERS,,Annuloplasty of mitral valve,Long-term condition
+79181,,HEART_VALVE_DISORDERS,,Annuloplasty of tricuspid valve,Long-term condition
+79182,,HEART_VALVE_DISORDERS,,Annuloplasty of valve of heart NEC,Long-term condition
+79183,,HEART_VALVE_DISORDERS,,Excision of vegetations of valve of heart,Long-term condition
+79184,,HEART_VALVE_DISORDERS,,Closure of tricuspid valve,Long-term condition
+79185,,HEART_VALVE_DISORDERS,,Closure of pulmonary valve,Long-term condition
+7918y,,HEART_VALVE_DISORDERS,,Other specified other open operation on valve of heart,Long-term condition
+7918z,,HEART_VALVE_DISORDERS,,Other open operation on valve of heart NOS,Long-term condition
+7919.,,HEART_VALVE_DISORDERS,,Therapeutic transluminal operations on valve of heart,Long-term condition
+79190,,HEART_VALVE_DISORDERS,,Percutaneous transluminal mitral valvotomy,Long-term condition
+79191,,HEART_VALVE_DISORDERS,,Percutaneous transluminal aortic valvotomy,Long-term condition
+79192,,HEART_VALVE_DISORDERS,,Percutaneous transluminal tricuspid valvotomy,Long-term condition
+79193,,HEART_VALVE_DISORDERS,,Percutaneous transluminal pulmonary valvotomy,Long-term condition
+79194,,HEART_VALVE_DISORDERS,,Percutaneous transluminal valvuloplasty,Long-term condition
+79195,,HEART_VALVE_DISORDERS,,Percutaneous transluminal pulmonary valve perfor dilation,Long-term condition
+79196,,HEART_VALVE_DISORDERS,,Percutaneous transluminal pulmonary valve replacement,Long-term condition
+7919y,,HEART_VALVE_DISORDERS,,Therapeutic transluminal operation on heart valve OS,Long-term condition
+7919z,,HEART_VALVE_DISORDERS,,Therapeutic transluminal operation on heart valve NOS,Long-term condition
+791A.,,HEART_VALVE_DISORDERS,,Remove obstruction from structure adjacent to valve of heart,Long-term condition
+791A0,,HEART_VALVE_DISORDERS,,Infundibulectomy of heart using patch,Long-term condition
+791A1,,HEART_VALVE_DISORDERS,,Infundibulectomy of heart NEC,Long-term condition
+791A2,,HEART_VALVE_DISORDERS,,Repair of subaortic stenosis,Long-term condition
+791A3,,HEART_VALVE_DISORDERS,,Repair of supraaortic stenosis,Long-term condition
+791A4,,HEART_VALVE_DISORDERS,,Excision of supramitral ring,Long-term condition
+791A5,,HEART_VALVE_DISORDERS,,Aortoventriculoplasty,Long-term condition
+791Ay,,HEART_VALVE_DISORDERS,,Removal of obstruction from struct adjacent heart valve OS,Long-term condition
+791Az,,HEART_VALVE_DISORDERS,,Removal of obstruction from struct adjacent heart valve NOS,Long-term condition
+791B.,,HEART_VALVE_DISORDERS,,Other operations on structure adjacent to valve of heart,Long-term condition
+791B0,,HEART_VALVE_DISORDERS,,Operation on papillary muscle,Long-term condition
+791B1,,HEART_VALVE_DISORDERS,,Operation on chordae tendineae,Long-term condition
+791B2,,HEART_VALVE_DISORDERS,,Operations on mitral subvalvar apparatus,Long-term condition
+791B3,,HEART_VALVE_DISORDERS,,Closure of aorto-left ventricular tunnel,Long-term condition
+791B5,,HEART_VALVE_DISORDERS,,Repair of aortic sinus of Valsalva aneurysm,Long-term condition
+791By,,HEART_VALVE_DISORDERS,,Operation on structure adjacent to heart valve OS,Long-term condition
+791Bz,,HEART_VALVE_DISORDERS,,Operation on structure adjacent to valve of heart NOS,Long-term condition
+791C0,,HEART_VALVE_DISORDERS,,Aortic root replac us pul val auto ri vent pulm art val cond,Long-term condition
+791C1,,HEART_VALVE_DISORDERS,,Ao ro repl us pulm val auto ri vent pul art val cond aortov,Long-term condition
+791C5,,HEART_VALVE_DISORDERS,,Aortoventriculoplasty with pulmonary valve autograft,Long-term condition
+791D.,,HEART_VALVE_DISORDERS,,Excision of valve of heart,Long-term condition
+791D0,,HEART_VALVE_DISORDERS,,Tricuspid valvectomy,Long-term condition
+791D1,,HEART_VALVE_DISORDERS,,Pulmonary valvectomy,Long-term condition
+791Dy,,HEART_VALVE_DISORDERS,,Other specified excision of valve of heart,Long-term condition
+791Dz,,HEART_VALVE_DISORDERS,,Excision of valve of heart NOS,Long-term condition
+791y.,,HEART_VALVE_DISORDERS,,Heart valve or adjacent structures operations OS,Long-term condition
+791z.,,HEART_VALVE_DISORDERS,,Heart valve and adjacent structures operations NOS,Long-term condition
+79310,,HEART_VALVE_DISORDERS,,Inspection of valve of heart,Long-term condition
+7A65.,,HEART_VALVE_DISORDERS,,Repair of valve of vein,Long-term condition
+7A650,,HEART_VALVE_DISORDERS,,Transposition of valve of vein,Long-term condition
+7A651,,HEART_VALVE_DISORDERS,,Interposition of valve of vein,Long-term condition
+7A65y,,HEART_VALVE_DISORDERS,,Other specified repair of valve of vein,Long-term condition
+7A65z,,HEART_VALVE_DISORDERS,,Repair of valve of vein NOS,Long-term condition
+7B402,,HEART_VALVE_DISORDERS,,Congenit. urethral valve excis,Long-term condition
+7B435,,HEART_VALVE_DISORDERS,,Endoscopic destruction of posterior urethral valve,Long-term condition
+7B43A,,HEART_VALVE_DISORDERS,,Endoscopic destruction of urethral valves,Long-term condition
+7B456,,HEART_VALVE_DISORDERS,,Hook ablation of posterior urethral valve,Long-term condition
+7N40.,,HEART_VALVE_DISORDERS,,[SO]Valve of heart,Long-term condition
+7N400,,HEART_VALVE_DISORDERS,,[SO]Mitral valve,Long-term condition
+7N401,,HEART_VALVE_DISORDERS,,[SO]Aortic valve,Long-term condition
+7N402,,HEART_VALVE_DISORDERS,,[SO]Tricuspid valve,Long-term condition
+7N403,,HEART_VALVE_DISORDERS,,[SO]Pulmonary valve,Long-term condition
+7N404,,HEART_VALVE_DISORDERS,,[SO]Truncal valve,Long-term condition
+7N40y,,HEART_VALVE_DISORDERS,,[SO]Specified valve of heart NEC,Long-term condition
+7N40z,,HEART_VALVE_DISORDERS,,[SO]Valve of heart NEC,Long-term condition
+A932.,,HEART_VALVE_DISORDERS,,Syphilitic valve disease,Long-term condition
+A9320,,HEART_VALVE_DISORDERS,,Syphilitic endocarditis of unspecified valve,Long-term condition
+A9321,,HEART_VALVE_DISORDERS,,Syphilitic endocarditis of mitral valve,Long-term condition
+A9322,,HEART_VALVE_DISORDERS,,Syphilitic endocarditis of aortic valve,Long-term condition
+A9323,,HEART_VALVE_DISORDERS,,Syphilitic endocarditis of tricuspid valve,Long-term condition
+A9324,,HEART_VALVE_DISORDERS,,Syphilitic endocarditis of pulmonary valve,Long-term condition
+A932z,,HEART_VALVE_DISORDERS,,Syphilitic endocarditis of heart valve NOS,Long-term condition
+B713.,,HEART_VALVE_DISORDERS,,Benign neoplasm of ileocaecal valve,Long-term condition
+B7139,,HEART_VALVE_DISORDERS,,Benign neoplasm of ileocaecal valve,Long-term condition
+G11..,,HEART_VALVE_DISORDERS,,Mitral valve diseases,Long-term condition
+G110.,,HEART_VALVE_DISORDERS,,Mitral stenosis,Long-term condition
+G111.,,HEART_VALVE_DISORDERS,,Mitral incompetence - rheumatic,Long-term condition
+G112.,,HEART_VALVE_DISORDERS,,Mitral stenosis with regurgitation,Long-term condition
+G113.,,HEART_VALVE_DISORDERS,,Nonrheumatic mitral valve stenosis,Long-term condition
+G114.,,HEART_VALVE_DISORDERS,,Ruptured mitral valve cusp,Long-term condition
+G11z.,,HEART_VALVE_DISORDERS,,Mitral valve disease NOS,Long-term condition
+G12..,,HEART_VALVE_DISORDERS,,Rheumatic aortic valve disease,Long-term condition
+G120.,,HEART_VALVE_DISORDERS,,Rheumatic aortic stenosis,Long-term condition
+G121.,,HEART_VALVE_DISORDERS,,Aortic regurgitation - rheumatic,Long-term condition
+G122.,,HEART_VALVE_DISORDERS,,Rheumatic aortic stenosis with insufficiency,Long-term condition
+G12z.,,HEART_VALVE_DISORDERS,,Rheumatic aortic valve disease NOS,Long-term condition
+G13..,,HEART_VALVE_DISORDERS,,Diseases of mitral and aortic valves,Long-term condition
+G130.,,HEART_VALVE_DISORDERS,,Mitral and aortic stenosis,Long-term condition
+G131.,,HEART_VALVE_DISORDERS,,Mitral stenosis and aortic regurgitation,Long-term condition
+G132.,,HEART_VALVE_DISORDERS,,Mitral incompetence and aortic stenosis,Long-term condition
+G133.,,HEART_VALVE_DISORDERS,,Mitral and aortic regurgitation,Long-term condition
+G13y.,,HEART_VALVE_DISORDERS,,Multiple mitral and aortic valve involvement,Long-term condition
+G13z.,,HEART_VALVE_DISORDERS,,Mitral and aortic valve disease NOS,Long-term condition
+G14..,,HEART_VALVE_DISORDERS,,Other chronic rheumatic endocardial disease,Long-term condition
+G140.,,HEART_VALVE_DISORDERS,,Tricuspid valve disease NEC,Long-term condition
+G1400,,HEART_VALVE_DISORDERS,,Rheumatic tricuspid stenosis,Long-term condition
+G1401,,HEART_VALVE_DISORDERS,,Tricuspid regurgitation - rheumatic,Long-term condition
+G1402,,HEART_VALVE_DISORDERS,,Rheumatic tricuspid stenosis and incompetence,Long-term condition
+G1403,,HEART_VALVE_DISORDERS,,"Tricuspid stenosis, cause unspecified",Long-term condition
+G1404,,HEART_VALVE_DISORDERS,,"Tricuspid regurgitation, cause unspecified",Long-term condition
+G1405,,HEART_VALVE_DISORDERS,,"Tricuspid stenosis and regurgitation, cause unspecified",Long-term condition
+G140z,,HEART_VALVE_DISORDERS,,Rheumatic tricuspid valve disease NOS,Long-term condition
+G141.,,HEART_VALVE_DISORDERS,,Rheumatic pulmonary valve disease,Long-term condition
+G1410,,HEART_VALVE_DISORDERS,,Rheumatic pulmonary stenosis,Long-term condition
+G1411,,HEART_VALVE_DISORDERS,,Rheumatic pulmonary insufficiency,Long-term condition
+G1412,,HEART_VALVE_DISORDERS,,Rheumatic pulmonary stenosis and insufficiency,Long-term condition
+G141z,,HEART_VALVE_DISORDERS,,Rheumatic pulmonary valve disease NOS,Long-term condition
+G14z.,,HEART_VALVE_DISORDERS,,Rheumatic endocarditis NOS,Long-term condition
+G1y..,,HEART_VALVE_DISORDERS,,Other specified chronic rheumatic heart disease,Long-term condition
+G54..,,HEART_VALVE_DISORDERS,,Heart valve disorders - non rheumatic,Long-term condition
+G540.,,HEART_VALVE_DISORDERS,,Mitral regurgitation,Long-term condition
+G5400,,HEART_VALVE_DISORDERS,,"Mitral incompetence, non-rheumatic",Long-term condition
+G5401,,HEART_VALVE_DISORDERS,,"Mitral incompetence, cause unspecified",Long-term condition
+G5402,,HEART_VALVE_DISORDERS,,Mitral valve prolapse,Long-term condition
+G5403,,HEART_VALVE_DISORDERS,,Mitral valve leaf prolapse,Long-term condition
+G540z,,HEART_VALVE_DISORDERS,,Mitral valve disorders NOS,Long-term condition
+G541.,,HEART_VALVE_DISORDERS,,Aortic valve disorders,Long-term condition
+G5410,,HEART_VALVE_DISORDERS,,"Aortic regurgitation, non-rheumatic",Long-term condition
+G5411,,HEART_VALVE_DISORDERS,,"Aortic stenosis, non-rheumatic",Long-term condition
+G5412,,HEART_VALVE_DISORDERS,,"Aortic regurgitation alone, cause unspecified",Long-term condition
+G5413,,HEART_VALVE_DISORDERS,,"Aortic stenosis alone, cause unspecified",Long-term condition
+G5414,,HEART_VALVE_DISORDERS,,Aortic valve stenosis with insufficiency,Long-term condition
+G5415,,HEART_VALVE_DISORDERS,,Aortic stenosis,Long-term condition
+G5416,,HEART_VALVE_DISORDERS,,Aortic valve sclerosis,Long-term condition
+G5417,,HEART_VALVE_DISORDERS,,Aortic valve calcification,Long-term condition
+G541z,,HEART_VALVE_DISORDERS,,Aortic valve disorders NOS,Long-term condition
+G542.,,HEART_VALVE_DISORDERS,,"Tricuspid valve disorders, non-rheumatic",Long-term condition
+G5420,,HEART_VALVE_DISORDERS,,"Tricuspid incompetence, non-rheumatic",Long-term condition
+G5421,,HEART_VALVE_DISORDERS,,"Tricuspid stenosis, non-rheumatic",Long-term condition
+G5422,,HEART_VALVE_DISORDERS,,Nonrheumatic tricuspid valve stenosis with insufficiency,Long-term condition
+G542X,,HEART_VALVE_DISORDERS,,"Nonrheumatic tricuspid valve disorder, unspecified",Long-term condition
+G542z,,HEART_VALVE_DISORDERS,,Tricuspid valve disorders NOS,Long-term condition
+G543.,,HEART_VALVE_DISORDERS,,Pulmonary valve disorders,Long-term condition
+G5430,,HEART_VALVE_DISORDERS,,"Pulmonary regurgitation, non-rheumatic",Long-term condition
+G5431,,HEART_VALVE_DISORDERS,,"Pulmonary stenosis, non-rheumatic",Long-term condition
+G5432,,HEART_VALVE_DISORDERS,,"Pulmonary regurgitation, cause unspecified",Long-term condition
+G5433,,HEART_VALVE_DISORDERS,,"Pulmonary stenosis, cause unspecified",Long-term condition
+G5434,,HEART_VALVE_DISORDERS,,Pulmonary valve stenosis with insufficiency,Long-term condition
+G543z,,HEART_VALVE_DISORDERS,,Pulmonary valve disorders NOS,Long-term condition
+G544.,,HEART_VALVE_DISORDERS,,Multiple valve diseases,Long-term condition
+G5440,,HEART_VALVE_DISORDERS,,Disorders of both aortic and tricuspid valves,Long-term condition
+G5441,,HEART_VALVE_DISORDERS,,Disorders of both mitral and tricuspid valves,Long-term condition
+G5442,,HEART_VALVE_DISORDERS,,"Combined disorders of mitral, aortic and tricuspid valves",Long-term condition
+G544X,,HEART_VALVE_DISORDERS,,"Multiple valve disease, unspecified",Long-term condition
+G54z.,,HEART_VALVE_DISORDERS,,"Endocarditis, valve unspecified",Long-term condition
+G54z0,,HEART_VALVE_DISORDERS,,Regurgitation of unspecified heart valve,Long-term condition
+G54z1,,HEART_VALVE_DISORDERS,,Stenosis of unspecified heart valve,Long-term condition
+G54z2,,HEART_VALVE_DISORDERS,,Chronic cardiac valvulitis NOS,Long-term condition
+G54z3,,HEART_VALVE_DISORDERS,,"Endocarditis, valve unspecified, OS",Long-term condition
+G54z5,,HEART_VALVE_DISORDERS,,Valvular heart disease,Long-term condition
+G54zz,,HEART_VALVE_DISORDERS,,"Endocarditis, valve unspecified, NOS",Long-term condition
+G5804,,HEART_VALVE_DISORDERS,,Congestive heart failure due to valvular disease,Long-term condition
+Gyu10,,HEART_VALVE_DISORDERS,,[X]Other mitral valve diseases,Long-term condition
+Gyu11,,HEART_VALVE_DISORDERS,,[X]Other rheumatic aortic valve diseases,Long-term condition
+Gyu12,,HEART_VALVE_DISORDERS,,[X]Other tricuspid valve diseases,Long-term condition
+Gyu13,,HEART_VALVE_DISORDERS,,[X]Other multiple valve diseases,Long-term condition
+Gyu15,,HEART_VALVE_DISORDERS,,"[X]Multiple valve disease, unspecified",Long-term condition
+Gyu55,,HEART_VALVE_DISORDERS,,[X]Other nonrheumatic mitral valve disorders,Long-term condition
+Gyu56,,HEART_VALVE_DISORDERS,,[X]Other aortic valve disorders,Long-term condition
+Gyu57,,HEART_VALVE_DISORDERS,,[X]Other nonrheumatic tricuspid valve disorders,Long-term condition
+Gyu58,,HEART_VALVE_DISORDERS,,[X]Other pulmonary valve disorders,Long-term condition
+Gyu59,,HEART_VALVE_DISORDERS,,[X]Mitral valve disorders in diseases classified elsewhere,Long-term condition
+Gyu5A,,HEART_VALVE_DISORDERS,,[X]Aortic valve disorders in diseases classified elsewhere,Long-term condition
+Gyu5B,,HEART_VALVE_DISORDERS,,[X]Tricuspid valve disorders/diseases CE,Long-term condition
+Gyu5C,,HEART_VALVE_DISORDERS,,[X]Pulmonary valve disorders in diseases CE,Long-term condition
+Gyu5D,,HEART_VALVE_DISORDERS,,[X]Multiple valve disorders/diseases CE,Long-term condition
+Gyu5E,,HEART_VALVE_DISORDERS,,"[X]Endocarditis,valve unspecified,in diseases CE",Long-term condition
+Gyu5f,,HEART_VALVE_DISORDERS,,"[X]Nonrheumatic tricuspid valve disorder, unspecified",Long-term condition
+P60..,,HEART_VALVE_DISORDERS,,Pulmonary valve anomalies,Long-term condition
+P600.,,HEART_VALVE_DISORDERS,,"Pulmonary valve anomaly, unspecified",Long-term condition
+P601.,,HEART_VALVE_DISORDERS,,Congenital atresia of the pulmonary valve,Long-term condition
+P6010,,HEART_VALVE_DISORDERS,,Hypoplasia of pulmonary valve,Long-term condition
+P601z,,HEART_VALVE_DISORDERS,,Congenital atresia of pulmonary valve NOS,Long-term condition
+P602.,,HEART_VALVE_DISORDERS,,Congenital pulmonary stenosis,Long-term condition
+P6021,,HEART_VALVE_DISORDERS,,Congenital fusion of pulmonary valve segment,Long-term condition
+P602z,,HEART_VALVE_DISORDERS,,Congenital pulmonary stenosis NOS,Long-term condition
+P60z.,,HEART_VALVE_DISORDERS,,Other pulmonary valve anomalies,Long-term condition
+P60z0,,HEART_VALVE_DISORDERS,,Congenital insufficiency of the pulmonary valve,Long-term condition
+P60z2,,HEART_VALVE_DISORDERS,,Supernumerary pulmonary valve cusps,Long-term condition
+P60zz,,HEART_VALVE_DISORDERS,,Other pulmonary valve anomaly NOS,Long-term condition
+P611.,,HEART_VALVE_DISORDERS,,Congenital tricuspid stenosis,Long-term condition
+P62..,,HEART_VALVE_DISORDERS,,Ebstein's anomaly,Long-term condition
+P63..,,HEART_VALVE_DISORDERS,,Congenital aortic valve stenosis,Long-term condition
+P64..,,HEART_VALVE_DISORDERS,,Congenital aortic valve insufficiency,Long-term condition
+P640.,,HEART_VALVE_DISORDERS,,"Congenital aortic valve insufficiency, unspecified",Long-term condition
+P641.,,HEART_VALVE_DISORDERS,,Bicuspid aortic valve,Long-term condition
+P64z.,,HEART_VALVE_DISORDERS,,Congenital aortic valve insufficiency NOS,Long-term condition
+P65..,,HEART_VALVE_DISORDERS,,Congenital mitral stenosis,Long-term condition
+P650.,,HEART_VALVE_DISORDERS,,"Congenital mitral stenosis, unspecified",Long-term condition
+P651.,,HEART_VALVE_DISORDERS,,Fused commissure of the mitral valve,Long-term condition
+P652.,,HEART_VALVE_DISORDERS,,Parachute deformity of the mitral valve,Long-term condition
+P653.,,HEART_VALVE_DISORDERS,,Supernumerary cusps of the mitral valve,Long-term condition
+P65z.,,HEART_VALVE_DISORDERS,,Congenital mitral stenosis NOS,Long-term condition
+P66..,,HEART_VALVE_DISORDERS,,Congenital mitral insufficiency,Long-term condition
+P6W..,,HEART_VALVE_DISORDERS,,Congenital malformation of aortic and mitral valves unsp,Long-term condition
+P6X..,,HEART_VALVE_DISORDERS,,"Congenital malformation of tricuspid valve, unspecified",Long-term condition
+P6y0.,,HEART_VALVE_DISORDERS,,Subaortic stenosis,Long-term condition
+P6y2.,,HEART_VALVE_DISORDERS,,Pulmonary infundibular stenosis,Long-term condition
+P6yy.,,HEART_VALVE_DISORDERS,,Hypoplastic aortic orifice or valve,Long-term condition
+P6yy7,,HEART_VALVE_DISORDERS,,Atresia of heart valve NEC,Long-term condition
+P6yyB,,HEART_VALVE_DISORDERS,,Supernumerary heart valve cusps NEC,Long-term condition
+P6yyC,,HEART_VALVE_DISORDERS,,Fusion of mitral valve cusps,Long-term condition
+P6yyD,,HEART_VALVE_DISORDERS,,Fusion of heart valve cusps NEC,Long-term condition
+P6z0.,,HEART_VALVE_DISORDERS,,Unspecified anomaly of heart valve,Long-term condition
+P711.,,HEART_VALVE_DISORDERS,,Preductal aortic stenosis,Long-term condition
+P712.,,HEART_VALVE_DISORDERS,,Postductal aortic stenosis,Long-term condition
+P7224,,HEART_VALVE_DISORDERS,,Supra-valvular aortic stenosis,Long-term condition
+PD21.,,HEART_VALVE_DISORDERS,,Congenital ureteric valves,Long-term condition
+PD62.,,HEART_VALVE_DISORDERS,,Congenital urethral valvular stricture,Long-term condition
+PD67.,,HEART_VALVE_DISORDERS,,Congenital posterior urethral valves,Long-term condition
+Pyu22,,HEART_VALVE_DISORDERS,,[X]Other congenital malformations of pulmonary valve,Long-term condition
+Pyu23,,HEART_VALVE_DISORDERS,,[X]Other congenital malformations of tricuspid valve,Long-term condition
+Pyu24,,HEART_VALVE_DISORDERS,,[X]Other congenital malformations of aortic & mitral valves,Long-term condition
+Pyu2G,,HEART_VALVE_DISORDERS,,"[X]Congenital malformation of tricuspid valve, unspecified",Long-term condition
+Pyu2H,,HEART_VALVE_DISORDERS,,[X]Congenital malformation of aortic and mitral valves unsp,Long-term condition
+SP002,,HEART_VALVE_DISORDERS,,Mechanical complication of heart valve prosthesis,Long-term condition
+SP004,,HEART_VALVE_DISORDERS,,Infect and inflammatory reaction due to cardiac valve pros,Long-term condition
+SyuK6,,HEART_VALVE_DISORDERS,,[X] Embolism from prosthetic heart valve,Long-term condition
+TB012,,HEART_VALVE_DISORDERS,,"Implant of heart valve prosthesis + complication, no blame",Long-term condition
+ZV422,,HEART_VALVE_DISORDERS,,[V]Heart valve transplanted,Long-term condition
+ZV433,,HEART_VALVE_DISORDERS,,[V]Has artificial heart valve,Long-term condition
+ZV452,,HEART_VALVE_DISORDERS,,[V]Has cerebrospinal fluid valve in situ,Long-term condition
+ZV45H,,HEART_VALVE_DISORDERS,,[V]Presence of prosthetic heart valve,Long-term condition
+ZVu6e,,HEART_VALVE_DISORDERS,,[X]Presence of other heart valve replacement,Long-term condition

@@ -1,0 +1,85 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+146D.,,BIPOLAR_DISORDER,,H/O: manic depressive disorder,Long-term condition
+212T.,,BIPOLAR_DISORDER,,"Psychosis, schizophrenia + bipolar affective disord resolved",Long-term condition
+212V.,,BIPOLAR_DISORDER,,Bipolar affective disorder resolved,Long-term condition
+E11..,,BIPOLAR_DISORDER,,Bipolar psychoses,Long-term condition
+E110.,,BIPOLAR_DISORDER,,"Manic disorder, single episode",Long-term condition
+E1100,,BIPOLAR_DISORDER,,"Single manic episode, unspecified",Long-term condition
+E1101,,BIPOLAR_DISORDER,,"Single manic episode, mild",Long-term condition
+E1102,,BIPOLAR_DISORDER,,"Single manic episode, moderate",Long-term condition
+E1103,,BIPOLAR_DISORDER,,"Single manic episode, severe without mention of psychosis",Long-term condition
+E1104,,BIPOLAR_DISORDER,,"Single manic episode, severe, with psychosis",Long-term condition
+E1105,,BIPOLAR_DISORDER,,Single manic episode in partial or unspecified remission,Long-term condition
+E1106,,BIPOLAR_DISORDER,,Single manic episode in full remission,Long-term condition
+E110z,,BIPOLAR_DISORDER,,"Manic disorder, single episode NOS",Long-term condition
+E111.,,BIPOLAR_DISORDER,,Recurrent manic episodes,Long-term condition
+E1110,,BIPOLAR_DISORDER,,"Recurrent manic episodes, unspecified",Long-term condition
+E1111,,BIPOLAR_DISORDER,,"Recurrent manic episodes, mild",Long-term condition
+E1112,,BIPOLAR_DISORDER,,"Recurrent manic episodes, moderate",Long-term condition
+E1113,,BIPOLAR_DISORDER,,"Recurrent manic episodes, severe without mention psychosis",Long-term condition
+E1114,,BIPOLAR_DISORDER,,"Recurrent manic episodes, severe, with psychosis",Long-term condition
+E1115,,BIPOLAR_DISORDER,,"Recurrent manic episodes, partial or unspecified remission",Long-term condition
+E1116,,BIPOLAR_DISORDER,,"Recurrent manic episodes, in full remission",Long-term condition
+E111z,,BIPOLAR_DISORDER,,Recurrent manic episode NOS,Long-term condition
+E114.,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently manic",Long-term condition
+E1140,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently manic, unspecified",Long-term condition
+E1141,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently manic, mild",Long-term condition
+E1142,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently manic, moderate",Long-term condition
+E1143,,BIPOLAR_DISORDER,,"Bipolar affect disord, currently manic, severe, no psychosis",Long-term condition
+E1144,,BIPOLAR_DISORDER,,"Bipolar affect disord, currently manic,severe with psychosis",Long-term condition
+E1145,,BIPOLAR_DISORDER,,"Bipolar affect disord,currently manic, part/unspec remission",Long-term condition
+E1146,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently manic, full remission",Long-term condition
+E114z,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently manic, NOS",Long-term condition
+E115.,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently depressed",Long-term condition
+E1150,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently depressed, unspecified",Long-term condition
+E1151,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently depressed, mild",Long-term condition
+E1152,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently depressed, moderate",Long-term condition
+E1153,,BIPOLAR_DISORDER,,"Bipolar affect disord, now depressed, severe, no psychosis",Long-term condition
+E1154,,BIPOLAR_DISORDER,,"Bipolar affect disord, now depressed, severe with psychosis",Long-term condition
+E1155,,BIPOLAR_DISORDER,,"Bipolar affect disord, now depressed, part/unspec remission",Long-term condition
+E1156,,BIPOLAR_DISORDER,,"Bipolar affective disorder, now depressed, in full remission",Long-term condition
+E115z,,BIPOLAR_DISORDER,,"Bipolar affective disorder, currently depressed, NOS",Long-term condition
+E116.,,BIPOLAR_DISORDER,,Mixed bipolar affective disorder,Long-term condition
+E1160,,BIPOLAR_DISORDER,,"Mixed bipolar affective disorder, unspecified",Long-term condition
+E1161,,BIPOLAR_DISORDER,,"Mixed bipolar affective disorder, mild",Long-term condition
+E1162,,BIPOLAR_DISORDER,,"Mixed bipolar affective disorder, moderate",Long-term condition
+E1163,,BIPOLAR_DISORDER,,"Mixed bipolar affective disorder, severe, without psychosis",Long-term condition
+E1164,,BIPOLAR_DISORDER,,"Mixed bipolar affective disorder, severe, with psychosis",Long-term condition
+E1165,,BIPOLAR_DISORDER,,"Mixed bipolar affective disorder, partial/unspec remission",Long-term condition
+E1166,,BIPOLAR_DISORDER,,"Mixed bipolar affective disorder, in full remission",Long-term condition
+E116z,,BIPOLAR_DISORDER,,"Mixed bipolar affective disorder, NOS",Long-term condition
+E117.,,BIPOLAR_DISORDER,,Unspecified bipolar affective disorder,Long-term condition
+E1170,,BIPOLAR_DISORDER,,"Unspecified bipolar affective disorder, unspecified",Long-term condition
+E1171,,BIPOLAR_DISORDER,,"Unspecified bipolar affective disorder, mild",Long-term condition
+E1172,,BIPOLAR_DISORDER,,"Unspecified bipolar affective disorder, moderate",Long-term condition
+E1173,,BIPOLAR_DISORDER,,"Unspecified bipolar affective disorder, severe, no psychosis",Long-term condition
+E1174,,BIPOLAR_DISORDER,,"Unspecified bipolar affective disorder,severe with psychosis",Long-term condition
+E1175,,BIPOLAR_DISORDER,,"Unspecified bipolar affect disord, partial/unspec remission",Long-term condition
+E1176,,BIPOLAR_DISORDER,,"Unspecified bipolar affective disorder, in full remission",Long-term condition
+E117z,,BIPOLAR_DISORDER,,"Unspecified bipolar affective disorder, NOS",Long-term condition
+E11y.,,BIPOLAR_DISORDER,,Other and unspecified manic-depressive psychoses,Long-term condition
+E11y0,,BIPOLAR_DISORDER,,Unspecified manic-depressive psychoses,Long-term condition
+E11y3,,BIPOLAR_DISORDER,,Other mixed manic-depressive psychoses,Long-term condition
+E11yz,,BIPOLAR_DISORDER,,Other and unspecified manic-depressive psychoses NOS,Long-term condition
+Eu30.,,BIPOLAR_DISORDER,,"[X]Bipolar disorder, single manic episode",Long-term condition
+Eu301,,BIPOLAR_DISORDER,,[X]Mania without psychotic symptoms,Long-term condition
+Eu302,,BIPOLAR_DISORDER,,[X]Mania with psychotic symptoms,Long-term condition
+Eu30y,,BIPOLAR_DISORDER,,[X]Other manic episodes,Long-term condition
+Eu30z,,BIPOLAR_DISORDER,,[X]Mania NOS,Long-term condition
+Eu31.,,BIPOLAR_DISORDER,,[X]Manic-depressive illness,Long-term condition
+Eu310,,BIPOLAR_DISORDER,,"[X]Bipolar affective disorder, current episode hypomanic",Long-term condition
+Eu311,,BIPOLAR_DISORDER,,[X]Bipolar affect disorder cur epi manic wout psychotic symp,Long-term condition
+Eu312,,BIPOLAR_DISORDER,,[X]Bipolar affect disorder cur epi manic with psychotic symp,Long-term condition
+Eu313,,BIPOLAR_DISORDER,,[X]Bipolar affect disorder cur epi mild or moderate depressn,Long-term condition
+Eu314,,BIPOLAR_DISORDER,,"[X]Bipol aff disord, curr epis sev depress, no psychot symp",Long-term condition
+Eu315,,BIPOLAR_DISORDER,,[X]Bipolar affect dis cur epi severe depres with psyc symp,Long-term condition
+Eu316,,BIPOLAR_DISORDER,,"[X]Bipolar affective disorder, current episode mixed",Long-term condition
+Eu317,,BIPOLAR_DISORDER,,"[X]Bipolar affective disorder, currently in remission",Long-term condition
+Eu318,,BIPOLAR_DISORDER,,[X]Bipolar affective disorder type I,Long-term condition
+Eu319,,BIPOLAR_DISORDER,,[X]Bipolar affective disorder type II,Long-term condition
+Eu31y,,BIPOLAR_DISORDER,,[X]Recurrent manic episodes,Long-term condition
+Eu31z,,BIPOLAR_DISORDER,,"[X]Bipolar affective disorder, unspecified",Long-term condition
+Eu332,,BIPOLAR_DISORDER,,"[X]Manic-depress psychosis,depressd,no psychotic symptoms",Long-term condition
+Eu333,,BIPOLAR_DISORDER,,"[X]Manic-depress psychosis,depressed type+psychotic symptoms",Long-term condition
+Eu340,,BIPOLAR_DISORDER,,[X]Cyclothymia,Long-term condition
+ZV111,,BIPOLAR_DISORDER,,[V]Personal history of manic-depressive psychosis,Long-term condition

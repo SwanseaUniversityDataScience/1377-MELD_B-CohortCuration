@@ -1,0 +1,164 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+13Y4.,,ASTHMA,,Asthma society member,Long-term condition
+14B4.,,ASTHMA,,H/O: asthma,Long-term condition
+14Ok0,,ASTHMA,,At risk of severe asthma exacerbation,Long-term condition
+173A.,,ASTHMA,,,Long-term condition
+173c.,,ASTHMA,,,Long-term condition
+173d.,,ASTHMA,,,Long-term condition
+178..,,ASTHMA,,Asthma trigger,Long-term condition
+1780.,,ASTHMA,,,Long-term condition
+1781.,,ASTHMA,,Asthma trigger - pollen,Long-term condition
+1782.,,ASTHMA,,Asthma trigger - tobacco smoke,Long-term condition
+1783.,,ASTHMA,,Asthma trigger - warm air,Long-term condition
+1784.,,ASTHMA,,Asthma trigger - emotion,Long-term condition
+1785.,,ASTHMA,,Asthma trigger - damp,Long-term condition
+1786.,,ASTHMA,,Asthma trigger - animals,Long-term condition
+1787.,,ASTHMA,,Asthma trigger - seasonal,Long-term condition
+1788.,,ASTHMA,,Asthma trigger - cold air,Long-term condition
+1789.,,ASTHMA,,Asthma trigger - respiratory infection,Long-term condition
+178A.,,ASTHMA,,Asthma trigger - airborne dust,Long-term condition
+178B.,,ASTHMA,,Asthma trigger - exercise,Long-term condition
+1J70.,,ASTHMA,,Suspected asthma,Long-term condition
+1O2..,,ASTHMA,,,Long-term condition
+21262,,ASTHMA,,Asthma resolved,Long-term condition
+212G.,,ASTHMA,,Asthma resolved,Long-term condition
+388t0,,ASTHMA,,Royal College Physician asthma assessment 3 question score,Long-term condition
+38B8.,,ASTHMA,,Severe asthma exacerbation risk assessment,Long-term condition
+38DL.,,ASTHMA,,Asthma control test,Long-term condition
+38DT.,,ASTHMA,,Asthma control questionnaire,Long-term condition
+38DV.,,ASTHMA,,Mini asthma quality of life questionnaire,Long-term condition
+38QM.,,ASTHMA,,Childhood Asthma Control Test,Long-term condition
+661M1,,ASTHMA,,Asthma self-management plan agreed,Long-term condition
+661N1,,ASTHMA,,Asthma self-management plan review,Long-term condition
+663..,,ASTHMA,,Asthma monitoring,Long-term condition
+6636.,,ASTHMA,,Inhaler technique shown,Long-term condition
+663I.,,ASTHMA,,Inhaler technique - poor,Long-term condition
+663N.,,ASTHMA,,,Long-term condition
+663N0,,ASTHMA,,,Long-term condition
+663N1,,ASTHMA,,,Long-term condition
+663N2,,ASTHMA,,,Long-term condition
+663O.,,ASTHMA,,,Long-term condition
+663O0,,ASTHMA,,,Long-term condition
+663P.,,ASTHMA,,,Long-term condition
+663P0,,ASTHMA,,Asthma limits activities 1 to 2 times per month,Long-term condition
+663P1,,ASTHMA,,Asthma limits activities 1 to 2 times per week,Long-term condition
+663P2,,ASTHMA,,Asthma limits activities most days,Long-term condition
+663Q.,,ASTHMA,,,Long-term condition
+663U.,,ASTHMA,,,Long-term condition
+663V.,,ASTHMA,,,Long-term condition
+663V0,,ASTHMA,,,Long-term condition
+663V1,,ASTHMA,,,Long-term condition
+663V2,,ASTHMA,,,Long-term condition
+663V3,,ASTHMA,,,Long-term condition
+663W.,,ASTHMA,,,Long-term condition
+663d.,,ASTHMA,,,Long-term condition
+663e.,,ASTHMA,,,Long-term condition
+663e0,,ASTHMA,,,Long-term condition
+663e1,,ASTHMA,,,Long-term condition
+663f.,,ASTHMA,,,Long-term condition
+663h.,,ASTHMA,,,Long-term condition
+663j.,,ASTHMA,,,Long-term condition
+663m.,,ASTHMA,,,Long-term condition
+663n.,,ASTHMA,,,Long-term condition
+663p.,,ASTHMA,,,Long-term condition
+663q.,,ASTHMA,,,Long-term condition
+663r.,,ASTHMA,,,Long-term condition
+663s.,,ASTHMA,,,Long-term condition
+663t.,,ASTHMA,,,Long-term condition
+663u.,,ASTHMA,,,Long-term condition
+663v.,,ASTHMA,,,Long-term condition
+663w.,,ASTHMA,,,Long-term condition
+663x.,,ASTHMA,,,Long-term condition
+663y.,,ASTHMA,,,Long-term condition
+66Y5.,,ASTHMA,,,Long-term condition
+66Y9.,,ASTHMA,,,Long-term condition
+66YA.,,ASTHMA,,,Long-term condition
+66YC.,,ASTHMA,,,Long-term condition
+66YE.,,ASTHMA,,,Long-term condition
+66YJ.,,ASTHMA,,,Long-term condition
+66YK.,,ASTHMA,,,Long-term condition
+66YP.,,ASTHMA,,,Long-term condition
+66YQ.,,ASTHMA,,,Long-term condition
+66YR.,,ASTHMA,,,Long-term condition
+66YZ.,,ASTHMA,,Does not have asthma management plan,Long-term condition
+66Yp.,,ASTHMA,,Asthma review using Roy Colleg of Physicians three questions,Long-term condition
+66Yq.,,ASTHMA,,Asthma causes night time symptoms 1 to 2 times per week,Long-term condition
+66Yr.,,ASTHMA,,Asthma causes symptoms most nights,Long-term condition
+66Ys.,,ASTHMA,,Asthma never causes night symptoms,Long-term condition
+66Yu.,,ASTHMA,,Number days absent from school due to asthma in past 6 month,Long-term condition
+66Yz0,,ASTHMA,,Asthma management plan declined,Long-term condition
+66Yz5,,ASTHMA,,Telehealth asthma monitoring,Long-term condition
+679J.,,ASTHMA,,Health education - asthma,Long-term condition
+679J0,,ASTHMA,,Health education - asthma self management,Long-term condition
+679J1,,ASTHMA,,Health education - structured asthma discussion,Long-term condition
+679J2,,ASTHMA,,Health education - structured patient focused asthma discuss,Long-term condition
+68C3.,,ASTHMA,,Asthma screening,Long-term condition
+6AP..,,ASTHMA,,Review of patient at risk of asthma,Long-term condition
+8791.,,ASTHMA,,,Long-term condition
+8793.,,ASTHMA,,,Long-term condition
+8794.,,ASTHMA,,,Long-term condition
+8795.,,ASTHMA,,,Long-term condition
+8796.,,ASTHMA,,,Long-term condition
+8797.,,ASTHMA,,,Long-term condition
+8798.,,ASTHMA,,,Long-term condition
+8B3j.,,ASTHMA,,,Long-term condition
+8CMA0,,ASTHMA,,Patient has a written asthma personal action plan,Long-term condition
+8CR0.,,ASTHMA,,,Long-term condition
+8H2P.,,ASTHMA,,"Emergency admission, asthma",Long-term condition
+9N1d.,,ASTHMA,,Seen in asthma clinic,Long-term condition
+9N1d0,,ASTHMA,,Seen in school asthma clinic,Long-term condition
+9N4Q.,,ASTHMA,,DNA - Did not attend asthma clinic,Long-term condition
+9NI8.,,ASTHMA,,Asthma outreach clinic,Long-term condition
+9NNX.,,ASTHMA,,Under care of asthma specialist nurse,Long-term condition
+9OJ..,,ASTHMA,,Asthma monitoring admin.,Long-term condition
+9OJ1.,,ASTHMA,,Attends asthma monitoring,Long-term condition
+9OJ2.,,ASTHMA,,Refuses asthma monitoring,Long-term condition
+9OJ3.,,ASTHMA,,Asthma monitor offer default,Long-term condition
+9OJ4.,,ASTHMA,,Asthma monitor 1st letter,Long-term condition
+9OJ5.,,ASTHMA,,Asthma monitor 2nd letter,Long-term condition
+9OJ6.,,ASTHMA,,Asthma monitor 3rd letter,Long-term condition
+9OJ7.,,ASTHMA,,Asthma monitor verbal invite,Long-term condition
+9OJ8.,,ASTHMA,,Asthma monitor phone invite,Long-term condition
+9OJ9.,,ASTHMA,,Asthma monitoring deleted,Long-term condition
+9OJA.,,ASTHMA,,Asthma monitored,Long-term condition
+9OJB.,,ASTHMA,,Asthma monitorng invit SMS (short message servce) txt messge,Long-term condition
+9OJB0,,ASTHMA,,Asthma monitoring SMS text message 1st invitation,Long-term condition
+9OJB1,,ASTHMA,,Asthma monitoring SMS text message 2nd invitation,Long-term condition
+9OJB2,,ASTHMA,,Asthma monitoring SMS text message 3rd invitation,Long-term condition
+9OJC.,,ASTHMA,,Asthma monitoring invitation email,Long-term condition
+9OJZ.,,ASTHMA,,Asthma monitoring admin.NOS,Long-term condition
+9Oj0.,,ASTHMA,,Hypothyroidism monitoring first letter,Long-term condition
+9Q21.,,ASTHMA,,Patient in asthma study,Long-term condition
+9hA..,,ASTHMA,,,Long-term condition
+9hA1.,,ASTHMA,,Excepted from asthma quality indicators: Patient unsuitable,Long-term condition
+9hA2.,,ASTHMA,,Excepted from asthma quality indicators: Informed dissent,Long-term condition
+G581.,,ASTHMA,,Asthma - cardiac,Long-term condition
+H3120,,ASTHMA,,,Long-term condition
+H33..,,ASTHMA,,,Long-term condition
+H330.,,ASTHMA,,,Long-term condition
+H3300,,ASTHMA,,,Long-term condition
+H3301,,ASTHMA,,,Long-term condition
+H330z,,ASTHMA,,,Long-term condition
+H331.,,ASTHMA,,,Long-term condition
+H3310,,ASTHMA,,,Long-term condition
+H3311,,ASTHMA,,,Long-term condition
+H331z,,ASTHMA,,,Long-term condition
+H332.,,ASTHMA,,,Long-term condition
+H333.,,ASTHMA,,,Long-term condition
+H334.,,ASTHMA,,,Long-term condition
+H335.,,ASTHMA,,Chronic asthma with fixed airflow obstruction,Long-term condition
+H33z.,,ASTHMA,,,Long-term condition
+H33z0,,ASTHMA,,,Long-term condition
+H33z1,,ASTHMA,,,Long-term condition
+H33z2,,ASTHMA,,,Long-term condition
+H33zz,,ASTHMA,,,Long-term condition
+H35y6,,ASTHMA,,,Long-term condition
+H35y7,,ASTHMA,,,Long-term condition
+H3B..,,ASTHMA,,Asthma-chronic obstructive pulmonary disease overlap syndrom,Long-term condition
+H47y0,,ASTHMA,,,Long-term condition
+SLF7.,,ASTHMA,,Antiasthmatic poisoning,Long-term condition
+SLF7z,,ASTHMA,,Antiasthmatic poisoning NOS,Long-term condition
+TJF7.,,ASTHMA,,Adverse reaction to antiasthmatics,Long-term condition
+TJF73,,ASTHMA,,Adverse reaction to theophylline (asthma),Long-term condition
+TJF7z,,ASTHMA,,Adverse reaction to antiasthmatic NOS,Long-term condition
+U60F6,,ASTHMA,,[X] Adverse reaction to antiasthmatics,Long-term condition

@@ -1,0 +1,8 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1491.,,MENIERES_DISEASE,,H/O: vertigo/Meniere's disease,Long-term condition
+F560.,,MENIERES_DISEASE,,Meniere's disease,Long-term condition
+F5600,,MENIERES_DISEASE,,Unspecified Meniere's disease,Long-term condition
+F5601,,MENIERES_DISEASE,,Active cochleovestibular Meniere's disease,Long-term condition
+F5602,,MENIERES_DISEASE,,Active cochlear Meniere's disease,Long-term condition
+F5603,,MENIERES_DISEASE,,Active vestibular Meniere's disease,Long-term condition
+F560z,,MENIERES_DISEASE,,Meniere's disease NOS,Long-term condition

@@ -1,0 +1,25 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1467.,,EATING_DISORDERS,,,Long-term condition
+1JZ..,,EATING_DISORDERS,,Suspected binge eating disorder,Long-term condition
+8HTN.,,EATING_DISORDERS,,Referral to eating disorders clinic,Long-term condition
+9Nk9.,,EATING_DISORDERS,,Seen in eating disorder clinic,Long-term condition
+E2642,,EATING_DISORDERS,,Cyclical vomiting - psychogenic,Long-term condition
+E271.,,EATING_DISORDERS,,,Long-term condition
+E275.,,EATING_DISORDERS,,Other and unspecified non-organic eating disorders,Long-term condition
+E2750,,EATING_DISORDERS,,Unspecified non-organic eating disorder,Long-term condition
+E2751,,EATING_DISORDERS,,,Long-term condition
+E2752,,EATING_DISORDERS,,Pica,Long-term condition
+E2754,,EATING_DISORDERS,,Psychogenic vomiting NOS,Long-term condition
+E275y,,EATING_DISORDERS,,Other specified non-organic eating disorder,Long-term condition
+E275z,,EATING_DISORDERS,,Non-organic eating disorder NOS,Long-term condition
+Eu50.,,EATING_DISORDERS,,[X]Eating disorders,Long-term condition
+Eu500,,EATING_DISORDERS,,,Long-term condition
+Eu501,,EATING_DISORDERS,,,Long-term condition
+Eu502,,EATING_DISORDERS,,,Long-term condition
+Eu503,,EATING_DISORDERS,,,Long-term condition
+Eu504,,EATING_DISORDERS,,[X]Psychogenic overeating,Long-term condition
+Eu505,,EATING_DISORDERS,,[X]Psychogenic vomiting,Long-term condition
+Eu50y,,EATING_DISORDERS,,[X]Psychogenic loss of appetite,Long-term condition
+Eu50z,,EATING_DISORDERS,,"[X]Eating disorder, unspecified",Long-term condition
+Fy05.,,EATING_DISORDERS,,Nocturnal sleep-related eating disorder,Long-term condition
+R0360,,EATING_DISORDERS,,[D]Bulimia NOS,Long-term condition

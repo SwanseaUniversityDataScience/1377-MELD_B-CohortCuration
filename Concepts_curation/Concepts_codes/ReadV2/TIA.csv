@@ -1,0 +1,15 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14AB.,,TIA,,H/O: TIA,Long-term condition
+14AB0,,TIA,,H/O amaurosis fugax,Long-term condition
+8CRB.,,TIA,,Transient ischaemic attack clinical management plan,Long-term condition
+F4236,,TIA,,Amaurosis fugax,Long-term condition
+Fyu55,,TIA,,[X]Other transnt cerebral ischaemic attacks+related syndroms,Long-term condition
+G65..,,TIA,,Transient cerebral ischaemia,Long-term condition
+G657.,,TIA,,Carotid territory transient ischaemic attack,Long-term condition
+G65y.,,TIA,,Other transient cerebral ischaemia,Long-term condition
+G65z.,,TIA,,Transient cerebral ischaemia NOS,Long-term condition
+G65z0,,TIA,,Impending cerebral ischaemia,Long-term condition
+G65z1,,TIA,,Intermittent cerebral ischaemia,Long-term condition
+G65zz,,TIA,,Transient cerebral ischaemia NOS,Long-term condition
+R0027,,TIA,,[D]Drop attack,Long-term condition
+ZV12D,,TIA,,[V]Personal history of transient ischaemic attack,Long-term condition

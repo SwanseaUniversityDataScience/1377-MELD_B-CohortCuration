@@ -1,0 +1,38 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1452.,,ANAEMIA,,H/O: Anaemia vit.B12 deficient,Long-term condition
+2126H,,ANAEMIA,,Vitamin B12 deficiency resolvd,Long-term condition
+42T2.,,ANAEMIA,,Serum vitamin B12 low,Long-term condition
+42U2.,,ANAEMIA,,Serum folate low,Long-term condition
+42U8.,,ANAEMIA,,RBC folate low,Long-term condition
+42UB.,,ANAEMIA,,Whole blood folate low,Long-term condition
+42UD.,,ANAEMIA,,RBC folate abnormal,Long-term condition
+66E..,,ANAEMIA,,B12 deficiency monitoring,Long-term condition
+66E3.,,ANAEMIA,,B12 injections started,Long-term condition
+66E4.,,ANAEMIA,,B12 injections - at home,Long-term condition
+66E5.,,ANAEMIA,,B12 injections - at surgery,Long-term condition
+66E8.,,ANAEMIA,,B12 injections stopped,Long-term condition
+66EZ.,,ANAEMIA,,B12 defic. monitoring NOS,Long-term condition
+7L185,,ANAEMIA,,Intramuscular injection of vitamin B12,Long-term condition
+C2620,,ANAEMIA,,Folic acid deficiency,Long-term condition
+C2621,,ANAEMIA,,Vitamin B12 deficiency,Long-term condition
+D010.,,ANAEMIA,,Pernicious anaemia,Long-term condition
+D011.,,ANAEMIA,,Vitamin B12 deficiency anaemia,Long-term condition
+D0110,,ANAEMIA,,Vitamin B12 deficiency anaemia due to dietary causes,Long-term condition
+D0111,,ANAEMIA,,Vit B12 defic anaemia due to malabsorption with proteinuria,Long-term condition
+D0112,,ANAEMIA,,Transcobalamin II deficiency,Long-term condition
+D011X,,ANAEMIA,,"Vitamin B12 deficiency anaemia, unspecified",Long-term condition
+D011z,,ANAEMIA,,Other vitamin B12 deficiency anaemia NOS,Long-term condition
+D012.,,ANAEMIA,,Folate-deficiency anaemia,Long-term condition
+D0120,,ANAEMIA,,Congenital folate malabsorption anaemia,Long-term condition
+D0121,,ANAEMIA,,Folate-deficiency anaemia due to dietary causes,Long-term condition
+D0122,,ANAEMIA,,"Folate-deficiency anaemia, drug induced",Long-term condition
+D0123,,ANAEMIA,,Folate-deficiency anaemia due to malabsorption,Long-term condition
+D0124,,ANAEMIA,,Folate-deficiency anaemia due to liver disorders,Long-term condition
+D012z,,ANAEMIA,,Folate-deficiency anaemia NOS,Long-term condition
+D0130,,ANAEMIA,,Combined B12 and folate deficiency anaemia,Long-term condition
+Dyu01,,ANAEMIA,,[X]Other dietary vitamin B12 deficiency anaemia,Long-term condition
+Dyu02,,ANAEMIA,,[X]Other vitamin B12 deficiency anaemias,Long-term condition
+Dyu03,,ANAEMIA,,[X]Other folate deficiency anaemias,Long-term condition
+Dyu06,,ANAEMIA,,"[X]Vitamin B12 deficiency anaemia, unspecified",Long-term condition
+F11x6,,ANAEMIA,,Cerebral degeneration due to vitamin B12 deficiency,Long-term condition
+F3815,,ANAEMIA,,Myasthenic syndrome due to pernicious anaemia,Long-term condition

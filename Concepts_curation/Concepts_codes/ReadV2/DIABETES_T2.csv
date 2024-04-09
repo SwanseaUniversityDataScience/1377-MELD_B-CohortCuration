@@ -1,0 +1,56 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+66A3.,,DIABETES_T2,,Diabetic on diet only,Long-term condition
+66A4.,,DIABETES_T2,,Diabetic on oral treatment,Long-term condition
+66AH3,,DIABETES_T2,,Conversion to non-insulin injectable medication,Long-term condition
+66o2.,,DIABETES_T2,,Diabetic on non-insulin injectable medication,Long-term condition
+66o5.,,DIABETES_T2,,Diabetic on oral treatment and glucagon-like peptide 1,Long-term condition
+C1001,,DIABETES_T2,,Non-insulin dependent diabetes mellitus,Long-term condition
+C1074,,DIABETES_T2,,NIDDM with peripheral circulatory disorder,Long-term condition
+C109.,,DIABETES_T2,,Non-insulin dependent diabetes mellitus,Long-term condition
+C1090,,DIABETES_T2,,Type 2 diabetes mellitus with renal complications,Long-term condition
+C1091,,DIABETES_T2,,Non-insulin-dependent diabetes mellitus with ophthalm comps,Long-term condition
+C1092,,DIABETES_T2,,Type 2 diabetes mellitus with neurological complications,Long-term condition
+C1093,,DIABETES_T2,,Non-insulin-dependent diabetes mellitus with multiple comps,Long-term condition
+C1094,,DIABETES_T2,,Non-insulin dependent diabetes mellitus with ulcer,Long-term condition
+C1095,,DIABETES_T2,,Non-insulin dependent diabetes mellitus with gangrene,Long-term condition
+C1096,,DIABETES_T2,,Non-insulin-dependent diabetes mellitus with retinopathy,Long-term condition
+C1097,,DIABETES_T2,,Non-insulin dependent diabetes mellitus - poor control,Long-term condition
+C1099,,DIABETES_T2,,Non-insulin-dependent diabetes mellitus without complication,Long-term condition
+C109A,,DIABETES_T2,,Type II diabetes mellitus with mononeuropathy,Long-term condition
+C109B,,DIABETES_T2,,Non-insulin dependent diabetes mellitus with polyneuropathy,Long-term condition
+C109C,,DIABETES_T2,,Type 2 diabetes mellitus with nephropathy,Long-term condition
+C109D,,DIABETES_T2,,Non-insulin dependent diabetes mellitus with hypoglyca coma,Long-term condition
+C109E,,DIABETES_T2,,Type 2 diabetes mellitus with diabetic cataract,Long-term condition
+C109F,,DIABETES_T2,,Non-insulin-dependent d m with peripheral angiopath,Long-term condition
+C109G,,DIABETES_T2,,Type II diabetes mellitus with arthropathy,Long-term condition
+C109H,,DIABETES_T2,,Non-insulin dependent d m with neuropathic arthropathy,Long-term condition
+C109J,,DIABETES_T2,,Insulin treated Type II diabetes mellitus,Long-term condition
+C109K,,DIABETES_T2,,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Long-term condition
+C10F.,,DIABETES_T2,,Type 2 diabetes mellitus,Long-term condition
+C10F0,,DIABETES_T2,,Type 2 diabetes mellitus with renal complications,Long-term condition
+C10F1,,DIABETES_T2,,Type 2 diabetes mellitus with ophthalmic complications,Long-term condition
+C10F2,,DIABETES_T2,,Type 2 diabetes mellitus with neurological complications,Long-term condition
+C10F3,,DIABETES_T2,,Type II diabetes mellitus with multiple complications,Long-term condition
+C10F4,,DIABETES_T2,,Type 2 diabetes mellitus with ulcer,Long-term condition
+C10F5,,DIABETES_T2,,Type 2 diabetes mellitus with gangrene,Long-term condition
+C10F6,,DIABETES_T2,,Type 2 diabetes mellitus with retinopathy,Long-term condition
+C10F7,,DIABETES_T2,,Type 2 diabetes mellitus - poor control,Long-term condition
+C10F9,,DIABETES_T2,,Type 2 diabetes mellitus without complication,Long-term condition
+C10FA,,DIABETES_T2,,Type 2 diabetes mellitus with mononeuropathy,Long-term condition
+C10FB,,DIABETES_T2,,Type 2 diabetes mellitus with polyneuropathy,Long-term condition
+C10FC,,DIABETES_T2,,Type 2 diabetes mellitus with nephropathy,Long-term condition
+C10FD,,DIABETES_T2,,Type 2 diabetes mellitus with hypoglycaemic coma,Long-term condition
+C10FE,,DIABETES_T2,,Type 2 diabetes mellitus with diabetic cataract,Long-term condition
+C10FF,,DIABETES_T2,,Type 2 diabetes mellitus with peripheral angiopathy,Long-term condition
+C10FG,,DIABETES_T2,,Type 2 diabetes mellitus with arthropathy,Long-term condition
+C10FH,,DIABETES_T2,,Type 2 diabetes mellitus with neuropathic arthropathy,Long-term condition
+C10FJ,,DIABETES_T2,,Insulin treated Type 2 diabetes mellitus,Long-term condition
+C10FK,,DIABETES_T2,,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Long-term condition
+C10FL,,DIABETES_T2,,Type 2 diabetes mellitus with persistent proteinuria,Long-term condition
+C10FM,,DIABETES_T2,,Type 2 diabetes mellitus with persistent microalbuminuria,Long-term condition
+C10FN,,DIABETES_T2,,Type 2 diabetes mellitus with ketoacidosis,Long-term condition
+C10FP,,DIABETES_T2,,Type 2 diabetes mellitus with ketoacidotic coma,Long-term condition
+C10FQ,,DIABETES_T2,,Type 2 diabetes mellitus with exudative maculopathy,Long-term condition
+C10FR,,DIABETES_T2,,Type 2 diabetes mellitus with gastroparesis,Long-term condition
+C10P1,,DIABETES_T2,,Type II diabetes mellitus in remission,Long-term condition
+L1806,,DIABETES_T2,,"Pre-existing diabetes mellitus, non-insulin-dependent",Long-term condition

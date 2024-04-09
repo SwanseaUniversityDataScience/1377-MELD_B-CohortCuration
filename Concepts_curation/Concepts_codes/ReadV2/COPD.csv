@@ -1,0 +1,106 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14B3.,,COPD,,History of chronic obstructive pulmonary disease,Long-term condition
+14OJ.,,COPD,,At risk of chronic obstructive pulmonary disease,Long-term condition
+14OX.,,COPD,,At risk of COPD exacerbation,Long-term condition
+1J71.,,COPD,,Suspected chronic obstructive pulmonary disease,Long-term condition
+661M3,,COPD,,COPD self-management plan agreed,Long-term condition
+661N3,,COPD,,COPD self-management plan review,Long-term condition
+66YB.,,COPD,,,Long-term condition
+66YB0,,COPD,,Chronic obstructive pulmonary disease 3 monthly review,Long-term condition
+66YB1,,COPD,,Chronic obstructive pulmonary disease 6 monthly review,Long-term condition
+66YB2,,COPD,,Telehealth chronic obstructive pulmonary disease monitoring,Long-term condition
+66YD.,,COPD,,,Long-term condition
+66YI.,,COPD,,,Long-term condition
+66YL.,,COPD,,,Long-term condition
+66YM.,,COPD,,,Long-term condition
+66YS.,,COPD,,,Long-term condition
+66YT.,,COPD,,,Long-term condition
+66Yd.,,COPD,,,Long-term condition
+66Ye.,,COPD,,,Long-term condition
+66Yf.,,COPD,,,Long-term condition
+66Yg.,,COPD,,,Long-term condition
+66Yh.,,COPD,,,Long-term condition
+66Yi.,,COPD,,,Long-term condition
+66Yz2,,COPD,,Shared care chronic obstructive pulmonary disease monitoring,Long-term condition
+679V.,,COPD,,Health education - chronic obstructive pulmonary disease,Long-term condition
+8BMW.,,COPD,,Issue of chronic obstructive pulmonary disease rescue pack,Long-term condition
+8CE6.,,COPD,,Chronic obstructive pulmonary disease leaflet given,Long-term condition
+8CMV.,,COPD,,Has chronic obstructive pulmonary disease care plan,Long-term condition
+8CMW5,,COPD,,Chronic obstructive pulmonary disease care pathway,Long-term condition
+8CR1.,,COPD,,,Long-term condition
+8CeD.,,COPD,,Preferred place of care for next exacerbation of COPD,Long-term condition
+8H2R.,,COPD,,Admit COPD emergency,Long-term condition
+8Hkw.,,COPD,,Referral to COPD community nursing team,Long-term condition
+8IEZ.,,COPD,,Chronic obstructive pulmonary disease rescue pack declined,Long-term condition
+9N4W.,,COPD,,DNA - Did not attend COPD clinic,Long-term condition
+9NgP.,,COPD,,On COPD (chr obstruc pulmonary disease) supportv cre pathway,Long-term condition
+9Nk70,,COPD,,Seen in chronic obstructive pulmonary disease clinic,Long-term condition
+9Oi..,,COPD,,Chronic obstructive pulmonary disease monitoring admin,Long-term condition
+9Oi0.,,COPD,,Chronic obstructive pulmonary disease monitoring 1st letter,Long-term condition
+9Oi1.,,COPD,,Chronic obstructive pulmonary disease monitoring 2nd letter,Long-term condition
+9Oi2.,,COPD,,Chronic obstructive pulmonary disease monitoring 3rd letter,Long-term condition
+9Oi3.,,COPD,,Chronic obstructive pulmonary disease monitoring verb invite,Long-term condition
+9Oi4.,,COPD,,Chronic obstructive pulmonary disease monitor phone invite,Long-term condition
+9e03.,,COPD,,GP OOH service notified of COPD care plan,Long-term condition
+9kf..,,COPD,,COPD - enhanced services administration,Long-term condition
+9kf0.,,COPD,,COPD patient unsuitable for pulmonary rehab - enh serv admin,Long-term condition
+9kf1.,,COPD,,Refer COPD structured smoking assessment - enhanc serv admin,Long-term condition
+9kf2.,,COPD,,COPD structured smoking assessment declined - enh serv admin,Long-term condition
+H3...,,COPD,,,Long-term condition
+H30..,,COPD,,,Long-term condition
+H300.,,COPD,,,Long-term condition
+H301.,,COPD,,,Long-term condition
+H302.,,COPD,,,Long-term condition
+H30z.,,COPD,,,Long-term condition
+H31..,,COPD,,,Long-term condition
+H310.,,COPD,,,Long-term condition
+H3100,,COPD,,,Long-term condition
+H3101,,COPD,,,Long-term condition
+H310z,,COPD,,,Long-term condition
+H311.,,COPD,,,Long-term condition
+H3110,,COPD,,,Long-term condition
+H3111,,COPD,,,Long-term condition
+H311z,,COPD,,,Long-term condition
+H312.,,COPD,,,Long-term condition
+H3120,,COPD,,,Long-term condition
+H3121,,COPD,,,Long-term condition
+H3122,,COPD,,,Long-term condition
+H312z,,COPD,,,Long-term condition
+H313.,,COPD,,,Long-term condition
+H31y.,,COPD,,,Long-term condition
+H31y0,,COPD,,,Long-term condition
+H31y1,,COPD,,,Long-term condition
+H31yz,,COPD,,,Long-term condition
+H31z.,,COPD,,,Long-term condition
+H32..,,COPD,,,Long-term condition
+H320.,,COPD,,,Long-term condition
+H3200,,COPD,,,Long-term condition
+H3201,,COPD,,,Long-term condition
+H3202,,COPD,,,Long-term condition
+H3203,,COPD,,,Long-term condition
+H320z,,COPD,,,Long-term condition
+H321.,,COPD,,,Long-term condition
+H322.,,COPD,,,Long-term condition
+H32y.,,COPD,,,Long-term condition
+H32y0,,COPD,,,Long-term condition
+H32y1,,COPD,,,Long-term condition
+H32y2,,COPD,,,Long-term condition
+H32yz,,COPD,,,Long-term condition
+H32z.,,COPD,,,Long-term condition
+H36..,,COPD,,,Long-term condition
+H37..,,COPD,,,Long-term condition
+H38..,,COPD,,,Long-term condition
+H39..,,COPD,,,Long-term condition
+H3A..,,COPD,,End stage chronic obstructive airways disease,Long-term condition
+H3B..,,COPD,,Asthma-chronic obstructive pulmonary disease overlap syndrom,Long-term condition
+H3y..,,COPD,,,Long-term condition
+H3y0.,,COPD,,,Long-term condition
+H3y1.,,COPD,,,Long-term condition
+H3z..,,COPD,,,Long-term condition
+H4640,,COPD,,,Long-term condition
+H4641,,COPD,,,Long-term condition
+H581.,,COPD,,Interstitial emphysema,Long-term condition
+H5832,,COPD,,Eosinophilic bronchitis,Long-term condition
+Hyu3.,,COPD,,,Long-term condition
+Hyu30,,COPD,,,Long-term condition
+Hyu31,,COPD,,,Long-term condition

@@ -1,0 +1,15 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+F3966,,SYSTEMIC_SCLEROSIS,,Myopathy due to scleroderma,Long-term condition
+H572.,,SYSTEMIC_SCLEROSIS,,Lung disease with systemic sclerosis,Long-term condition
+K0H..,,SYSTEMIC_SCLEROSIS,,Acute scleroderma renal crisis,Long-term condition
+K0J0.,,SYSTEMIC_SCLEROSIS,,Renal involvement in scleroderma,Long-term condition
+M210.,,SYSTEMIC_SCLEROSIS,,Circumscribed scleroderma,Long-term condition
+M2100,,SYSTEMIC_SCLEROSIS,,Unspecified circumscribed scleroderma,Long-term condition
+M2104,,SYSTEMIC_SCLEROSIS,,Linear scleroderma,Long-term condition
+M210z,,SYSTEMIC_SCLEROSIS,,Circumscribed scleroderma NOS,Long-term condition
+N001.,,SYSTEMIC_SCLEROSIS,,Scleroderma,Long-term condition
+N0010,,SYSTEMIC_SCLEROSIS,,Progressive systemic sclerosis,Long-term condition
+N0011,,SYSTEMIC_SCLEROSIS,,CREST syndrome,Long-term condition
+N0012,,SYSTEMIC_SCLEROSIS,,Systemic sclerosis induced by drugs and chemicals,Long-term condition
+Nyu45,,SYSTEMIC_SCLEROSIS,,[X]Other forms of systemic sclerosis,Long-term condition
+Q4711,,SYSTEMIC_SCLEROSIS,,Scleroderma in newborn,Long-term condition

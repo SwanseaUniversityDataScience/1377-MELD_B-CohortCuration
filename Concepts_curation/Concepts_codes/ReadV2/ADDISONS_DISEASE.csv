@@ -1,0 +1,14 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+A176.,,ADDISONS_DISEASE,,Tuberculosis of adrenal glands - Addison's disease,Long-term condition
+C153.,,ADDISONS_DISEASE,,Other corticoadrenal overactivity,Long-term condition
+C154.,,ADDISONS_DISEASE,,Corticoadrenal insufficiency,Long-term condition
+C1540,,ADDISONS_DISEASE,,Addisonian crisis,Long-term condition
+C1541,,ADDISONS_DISEASE,,Addison's disease,Long-term condition
+C1545,,ADDISONS_DISEASE,,Postprocedural adrenocortical(-medullary) hypofunction,Long-term condition
+C1546,,ADDISONS_DISEASE,,Addisonian crisis,Long-term condition
+C154z,,ADDISONS_DISEASE,,Corticoadrenal insufficiency NOS,Long-term condition
+C155.,,ADDISONS_DISEASE,,Other adrenal hypofunction,Long-term condition
+C1550,,ADDISONS_DISEASE,,Adrenal medullary insufficiency,Long-term condition
+C155z,,ADDISONS_DISEASE,,Other adrenal hypofunction NOS,Long-term condition
+F3950,,ADDISONS_DISEASE,,Myopathy due to Addison's disease,Long-term condition
+PK13.,,ADDISONS_DISEASE,,Hypoplasia of adrenal gland,Long-term condition

@@ -1,0 +1,61 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+H35..,,ILD,,Extrinsic allergic alveolitis,Long-term condition
+H350.,,ILD,,Farmers' lung,Long-term condition
+H351.,,ILD,,Bagassosis,Long-term condition
+H352.,,ILD,,Bird-fancier's lung,Long-term condition
+H3520,,ILD,,Budgerigar-fanciers' lung,Long-term condition
+H3521,,ILD,,Pigeon-fanciers' lung,Long-term condition
+H352z,,ILD,,Bird-fancier's lung NOS,Long-term condition
+H353.,,ILD,,Suberosis ( cork-handlers' lung ),Long-term condition
+H354.,,ILD,,Malt workers' lung,Long-term condition
+H355.,,ILD,,Mushroom workers' lung,Long-term condition
+H356.,,ILD,,Maple bark strippers' lung,Long-term condition
+H35y.,,ILD,,Other allergic alveolitis,Long-term condition
+H35y0,,ILD,,Cheese-washers' lung,Long-term condition
+H35y1,,ILD,,Coffee-workers' lung,Long-term condition
+H35y2,,ILD,,Fish-meal workers' lung,Long-term condition
+H35y5,,ILD,,Pituitary snuff-takers' disease,Long-term condition
+H35y8,,ILD,,Air-conditioner and humidifier lung,Long-term condition
+H35yz,,ILD,,Other allergic alveolitis NOS,Long-term condition
+H35z.,,ILD,,Allergic alveolitis and pneumonitis NOS,Long-term condition
+H35z0,,ILD,,Allergic extrinsic alveolitis NOS,Long-term condition
+H35zz,,ILD,,Allergic alveolitis and pneumonitis NOS,Long-term condition
+H4...,,ILD,,Pneumoconioses,Long-term condition
+H40..,,ILD,,Coal workers' pneumoconiosis,Long-term condition
+H42..,,ILD,,Silica and silicate pneumoconiosis,Long-term condition
+H420.,,ILD,,Talc pneumoconiosis,Long-term condition
+H421.,,ILD,,Simple silicosis,Long-term condition
+H422.,,ILD,,Complicated silicosis,Long-term condition
+H423.,,ILD,,Massive silicotic fibrosis,Long-term condition
+H42z.,,ILD,,Silica pneumoconiosis NOS,Long-term condition
+H43..,,ILD,,Pneumoconiosis due to other inorganic dust,Long-term condition
+H431.,,ILD,,Bauxite fibrosis of lung,Long-term condition
+H432.,,ILD,,Berylliosis,Long-term condition
+H433.,,ILD,,Graphite fibrosis of lung,Long-term condition
+H434.,,ILD,,Siderosis,Long-term condition
+H435.,,ILD,,Stannosis,Long-term condition
+H43z.,,ILD,,Pneumoconiosis due to inorganic dust NOS,Long-term condition
+H45..,,ILD,,Pneumoconiosis NOS,Long-term condition
+H450.,,ILD,,Pneumoconiosis associated with tuberculosis,Long-term condition
+H4642,,ILD,,Chronic pulmonary fibrosis due to chemical fumes,Long-term condition
+H4y10,,ILD,,Chronic pulmonary fibrosis following radiation,Long-term condition
+H4y2.,,ILD,,Drug-induced interstitial lung disorders,Long-term condition
+H4y20,,ILD,,Acute drug-induced interstitial lung disorders,Long-term condition
+H4y21,,ILD,,Chronic drug-induced interstitial lung disorders,Long-term condition
+H55..,,ILD,,Postinflammatory pulmonary fibrosis,Long-term condition
+H563.,,ILD,,Cryptogenic fibrosing alveolitis,Long-term condition
+H5631,,ILD,,Diffuse pulmonary fibrosis,Long-term condition
+H5632,,ILD,,Pulmonary fibrosis,Long-term condition
+H5633,,ILD,,Usual interstitial pneumonitis,Long-term condition
+H563z,,ILD,,Idiopathic fibrosing alveolitis NOS,Long-term condition
+H58y3,,ILD,,Interstitial lung disease NEC,Long-term condition
+H58y5,,ILD,,Respiratory bronchiolitis associated interstitial lung dis,Long-term condition
+H58y6,,ILD,,Interstitial lung disease due to collagen vascular disease,Long-term condition
+H58y7,,ILD,,Interstitial lung disease due to connective tissue disease,Long-term condition
+Hyu40,,ILD,,[X]Pneumoconiosis due to other dust containing silica,Long-term condition
+Hyu48,,ILD,,[X]Chronic+other pulmonary manifestations due to radiation,Long-term condition
+Hyu5.,,ILD,,[X]Other resp diseases principally affecting interstitium,Long-term condition
+Hyu50,,ILD,,[X]Other interstitial pulmonary diseases with fibrosis,Long-term condition
+Hyu51,,ILD,,[X]Other specified interstitial pulmonary diseases,Long-term condition
+N04y0,,ILD,,Fibrosing alveolitis associated with rheumatoid arthritis,Long-term condition
+Q3171,,ILD,,Prematurity with interstitial pulmonary fibrosis,Long-term condition

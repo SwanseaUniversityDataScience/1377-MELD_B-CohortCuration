@@ -1,0 +1,147 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14A..,,CORONARY_HEART_DISEASE,,H/O: cardiovascular disease,Long-term condition
+14A5.,,CORONARY_HEART_DISEASE,,H/O: angina pectoris,Long-term condition
+14AA.,,CORONARY_HEART_DISEASE,,H/O: heart disease NOS,Long-term condition
+14AJ.,,CORONARY_HEART_DISEASE,,H/O: Angina in last year,Long-term condition
+14AL.,,CORONARY_HEART_DISEASE,,,Long-term condition
+14AW.,,CORONARY_HEART_DISEASE,,H/O acute coronary syndrome,Long-term condition
+14Oh0,,CORONARY_HEART_DISEASE,,High risk of cardiovascular disease,Long-term condition
+187..,,CORONARY_HEART_DISEASE,,Frequency of angina,Long-term condition
+1J61.,,CORONARY_HEART_DISEASE,,Suspected ischaemic heart disease,Long-term condition
+33B95,,CORONARY_HEART_DISEASE,,Exercise tolerance test abnormal,Long-term condition
+3889.,,CORONARY_HEART_DISEASE,,Euroscore for angina,Long-term condition
+388E.,,CORONARY_HEART_DISEASE,,Canadian Cardiovascular Society classification of angina,Long-term condition
+44H3.,,CORONARY_HEART_DISEASE,,Cardiac enzymes abnormal,Long-term condition
+44H30,,CORONARY_HEART_DISEASE,,Cardiac enzymes abnormal - first set,Long-term condition
+5533.,,CORONARY_HEART_DISEASE,,Angiocardiography abnormal,Long-term condition
+5543.,,CORONARY_HEART_DISEASE,,Coronary arteriograph.abnormal,Long-term condition
+5C11.,,CORONARY_HEART_DISEASE,,Radionuclide heart study abnormal,Long-term condition
+661M0,,CORONARY_HEART_DISEASE,,Angina self-management plan agreed,Long-term condition
+661N0,,CORONARY_HEART_DISEASE,,Angina self-management plan review,Long-term condition
+662K.,,CORONARY_HEART_DISEASE,,Angina control,Long-term condition
+662K0,,CORONARY_HEART_DISEASE,,Angina control - good,Long-term condition
+662K1,,CORONARY_HEART_DISEASE,,Angina control - poor,Long-term condition
+662K2,,CORONARY_HEART_DISEASE,,Angina control - improving,Long-term condition
+662K3,,CORONARY_HEART_DISEASE,,Angina control - worsening,Long-term condition
+662K4,,CORONARY_HEART_DISEASE,,Angina self management plan commenced,Long-term condition
+662K5,,CORONARY_HEART_DISEASE,,Angina self management plan completed,Long-term condition
+662Kz,,CORONARY_HEART_DISEASE,,Angina control NOS,Long-term condition
+68B2.,,CORONARY_HEART_DISEASE,,Ischaemic heart disease screen,Long-term condition
+6A2..,,CORONARY_HEART_DISEASE,,Coronary heart disease annual review,Long-term condition
+6A4..,,CORONARY_HEART_DISEASE,,Coronary heart disease review,Long-term condition
+8B27.,,CORONARY_HEART_DISEASE,,Antianginal therapy,Long-term condition
+8B3k.,,CORONARY_HEART_DISEASE,,Coronary heart disease medication review,Long-term condition
+8B63.,,CORONARY_HEART_DISEASE,,Aspirin prophylaxis - IHD,Long-term condition
+8F9..,,CORONARY_HEART_DISEASE,,Cardiac rehabilitation,Long-term condition
+8F90.,,CORONARY_HEART_DISEASE,,Cardiac rehabilitation - phase 1,Long-term condition
+8F91.,,CORONARY_HEART_DISEASE,,Cardiac rehabilitation - phase 2,Long-term condition
+8F92.,,CORONARY_HEART_DISEASE,,Cardiac rehabilitation - phase 3,Long-term condition
+8F93.,,CORONARY_HEART_DISEASE,,Cardiac rehabilitation - phase 4,Long-term condition
+8F97.,,CORONARY_HEART_DISEASE,,Cardiac rehabilitation programme completed,Long-term condition
+8F98.,,CORONARY_HEART_DISEASE,,Cardiac rehabilitation programme offered,Long-term condition
+8F99.,,CORONARY_HEART_DISEASE,,Cardiac rehabilitation initial assessment offered,Long-term condition
+8H11.,,CORONARY_HEART_DISEASE,,Admit to cardiac ITU,Long-term condition
+8H2Q.,,CORONARY_HEART_DISEASE,,Admit cardiology emergency,Long-term condition
+8H2V.,,CORONARY_HEART_DISEASE,,Admit ischaemic heart disease emergency,Long-term condition
+8H440,,CORONARY_HEART_DISEASE,,Referral to cardiology multidisciplinary team,Long-term condition
+8H7v.,,CORONARY_HEART_DISEASE,,Referral to cardiac rehabilitation nurse,Long-term condition
+8Hkk.,,CORONARY_HEART_DISEASE,,Referral to cardiac rehabilitation programme,Long-term condition
+8Hkl.,,CORONARY_HEART_DISEASE,,Referral to cardiac rehabilitation service by secondary care,Long-term condition
+8Hkt.,,CORONARY_HEART_DISEASE,,Referral to community cardiology service,Long-term condition
+8I3a.,,CORONARY_HEART_DISEASE,,Cardiac rehabilitation declined,Long-term condition
+8IB9.,,CORONARY_HEART_DISEASE,,Referral to cardiac rehabilitation programme not indicated,Long-term condition
+8IE3.,,CORONARY_HEART_DISEASE,,Referral to cardiac rehabilitation programme declined,Long-term condition
+8IEY.,,CORONARY_HEART_DISEASE,,Referral to Angina Plan self-management programme declined,Long-term condition
+8T04.,,CORONARY_HEART_DISEASE,,Referral to Angina Plan self-management programme,Long-term condition
+G....,,CORONARY_HEART_DISEASE,,Cardiac diseases,Long-term condition
+G3...,,CORONARY_HEART_DISEASE,,,Long-term condition
+G30..,,CORONARY_HEART_DISEASE,,Coronary thrombosis,Long-term condition
+G30B.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G31..,,CORONARY_HEART_DISEASE,,,Long-term condition
+G310.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G311.,,CORONARY_HEART_DISEASE,,Unstable angina,Long-term condition
+G3110,,CORONARY_HEART_DISEASE,,,Long-term condition
+G3111,,CORONARY_HEART_DISEASE,,Unstable angina,Long-term condition
+G3112,,CORONARY_HEART_DISEASE,,Angina at rest,Long-term condition
+G3113,,CORONARY_HEART_DISEASE,,Refractory angina,Long-term condition
+G3114,,CORONARY_HEART_DISEASE,,Worsening angina,Long-term condition
+G3115,,CORONARY_HEART_DISEASE,,Acute coronary syndrome,Long-term condition
+G311z,,CORONARY_HEART_DISEASE,,Preinfarction syndrome NOS,Long-term condition
+G312.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G31y.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G31y0,,CORONARY_HEART_DISEASE,,,Long-term condition
+G31y1,,CORONARY_HEART_DISEASE,,,Long-term condition
+G31y2,,CORONARY_HEART_DISEASE,,,Long-term condition
+G31y3,,CORONARY_HEART_DISEASE,,,Long-term condition
+G31yz,,CORONARY_HEART_DISEASE,,,Long-term condition
+G32..,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33..,,CORONARY_HEART_DISEASE,,Angina pectoris,Long-term condition
+G330.,,CORONARY_HEART_DISEASE,,Angina decubitus,Long-term condition
+G3300,,CORONARY_HEART_DISEASE,,Nocturnal angina,Long-term condition
+G330z,,CORONARY_HEART_DISEASE,,Angina decubitus NOS,Long-term condition
+G331.,,CORONARY_HEART_DISEASE,,Variant angina pectoris,Long-term condition
+G332.,,CORONARY_HEART_DISEASE,,Coronary artery spasm,Long-term condition
+G33z.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33z0,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33z1,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33z2,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33z3,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33z4,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33z5,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33z6,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33z7,,CORONARY_HEART_DISEASE,,,Long-term condition
+G33zz,,CORONARY_HEART_DISEASE,,,Long-term condition
+G34..,,CORONARY_HEART_DISEASE,,,Long-term condition
+G340.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G3400,,CORONARY_HEART_DISEASE,,,Long-term condition
+G3401,,CORONARY_HEART_DISEASE,,,Long-term condition
+G341.,,CORONARY_HEART_DISEASE,,Cardiac aneurysm,Long-term condition
+G3410,,CORONARY_HEART_DISEASE,,Ventricular cardiac aneurysm,Long-term condition
+G3411,,CORONARY_HEART_DISEASE,,Other cardiac wall aneurysm,Long-term condition
+G3412,,CORONARY_HEART_DISEASE,,,Long-term condition
+G341z,,CORONARY_HEART_DISEASE,,Aneurysm of heart NOS,Long-term condition
+G342.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G343.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G344.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G34y.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G34y0,,CORONARY_HEART_DISEASE,,,Long-term condition
+G34y1,,CORONARY_HEART_DISEASE,,,Long-term condition
+G34yz,,CORONARY_HEART_DISEASE,,,Long-term condition
+G34z.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G34z0,,CORONARY_HEART_DISEASE,,,Long-term condition
+G35..,,CORONARY_HEART_DISEASE,,,Long-term condition
+G350.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G351.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G353.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G35X.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G36..,,CORONARY_HEART_DISEASE,,,Long-term condition
+G360.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G361.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G362.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G363.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G364.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G365.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G366.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G37..,,CORONARY_HEART_DISEASE,,Cardiac syndrome X,Long-term condition
+G38..,,CORONARY_HEART_DISEASE,,,Long-term condition
+G380.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G381.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G382.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G383.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G384.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G38z.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G39..,,CORONARY_HEART_DISEASE,,Coronary microvascular disease,Long-term condition
+G3y..,,CORONARY_HEART_DISEASE,,,Long-term condition
+G3z..,,CORONARY_HEART_DISEASE,,,Long-term condition
+G501.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G5y2.,,CORONARY_HEART_DISEASE,,,Long-term condition
+G72B1,,CORONARY_HEART_DISEASE,,Coronary artery dissection,Long-term condition
+Gyu3.,,CORONARY_HEART_DISEASE,,,Long-term condition
+Gyu30,,CORONARY_HEART_DISEASE,,[X]Other forms of angina pectoris,Long-term condition
+Gyu31,,CORONARY_HEART_DISEASE,,,Long-term condition
+Gyu32,,CORONARY_HEART_DISEASE,,,Long-term condition
+Gyu33,,CORONARY_HEART_DISEASE,,,Long-term condition
+Gyu35,,CORONARY_HEART_DISEASE,,,Long-term condition
+Gyu36,,CORONARY_HEART_DISEASE,,,Long-term condition
+J421.,,CORONARY_HEART_DISEASE,,Angina - abdominal,Long-term condition
+ZV579,,CORONARY_HEART_DISEASE,,[V]Cardiac rehabilitation,Long-term condition

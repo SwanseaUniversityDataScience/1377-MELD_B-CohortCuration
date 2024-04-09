@@ -1,0 +1,48 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+7B00.,,RENAL_TRANSPLANT,,Transplantation of kidney,Long-term condition
+7B000,,RENAL_TRANSPLANT,,Autotransplant of kidney,Long-term condition
+7B001,,RENAL_TRANSPLANT,,Transplantation of kidney from live donor,Long-term condition
+7B002,,RENAL_TRANSPLANT,,Transplantation of kidney from cadaver,Long-term condition
+7B003,,RENAL_TRANSPLANT,,"Allotransplantation of kidney from cadaver, heart-beating",Long-term condition
+7B004,,RENAL_TRANSPLANT,,"Allotransplantation kidney from cadaver, heart non-beating",Long-term condition
+7B005,,RENAL_TRANSPLANT,,Allotransplantation of kidney from cadaver NEC,Long-term condition
+7B006,,RENAL_TRANSPLANT,,Xenograft renal transplant,Long-term condition
+7B00y,,RENAL_TRANSPLANT,,Other specified transplantation of kidney,Long-term condition
+7B00z,,RENAL_TRANSPLANT,,Transplantation of kidney NOS,Long-term condition
+7B015,,RENAL_TRANSPLANT,,Transplant nephrectomy,Long-term condition
+7B019,,RENAL_TRANSPLANT,,Excision of rejected transplanted kidney,Long-term condition
+7B063,,RENAL_TRANSPLANT,,Exploration of renal transplant,Long-term condition
+7B0F.,,RENAL_TRANSPLANT,,Interventions associated with transplantation of kidney,Long-term condition
+7B0F3,,RENAL_TRANSPLANT,,"Post-transplantation of kidney examination, recipient",Long-term condition
+7B0F4,,RENAL_TRANSPLANT,,"Post-transplantation of kidney examination, live donor",Long-term condition
+7B0Fy,,RENAL_TRANSPLANT,,OS interventions associated with transplantation of kidney,Long-term condition
+7B0Fz,,RENAL_TRANSPLANT,,Interventions associated with transplantation of kidney NOS,Long-term condition
+7L020,,RENAL_TRANSPLANT,,Autotransplantation adrenal medulla to caudate nucleus brain,Long-term condition
+K0B5.,,RENAL_TRANSPLANT,,Renal tubulo-interstitial disordrs in transplant rejectn,Long-term condition
+Kyu1C,,RENAL_TRANSPLANT,,[X]Renal tubulo-interstitial disorders/transplant rejection,Long-term condition
+SP081,,RENAL_TRANSPLANT,,Renal transplant rejected,Long-term condition
+SP083,,RENAL_TRANSPLANT,,Kidney transplant failure and rejection,Long-term condition
+SP08C,,RENAL_TRANSPLANT,,Accelerated rejection of renal transplant,Long-term condition
+SP08D,,RENAL_TRANSPLANT,,Acute-on-chronic rejection of renal transplant,Long-term condition
+SP08E,,RENAL_TRANSPLANT,,Acute rejection of renal transplant - grade I,Long-term condition
+SP08F,,RENAL_TRANSPLANT,,Acute rejection of renal transplant - grade II,Long-term condition
+SP08G,,RENAL_TRANSPLANT,,Acute rejection of renal transplant - grade III,Long-term condition
+SP08H,,RENAL_TRANSPLANT,,Acute rejection of renal transplant,Long-term condition
+SP08J,,RENAL_TRANSPLANT,,Chronic rejection of renal transplant,Long-term condition
+SP08K,,RENAL_TRANSPLANT,,Chronic rejection of renal transplant - grade 1,Long-term condition
+SP08L,,RENAL_TRANSPLANT,,Chronic rejection of renal transplant - grade II,Long-term condition
+SP08M,,RENAL_TRANSPLANT,,Chronic rejection of renal transplant - grade III,Long-term condition
+SP08N,,RENAL_TRANSPLANT,,Unexplained episode of renal transplant dysfunction,Long-term condition
+SP08P,,RENAL_TRANSPLANT,,Stenosis of vein of transplanted kidney,Long-term condition
+SP08Q,,RENAL_TRANSPLANT,,Aneurysm of artery of transplanted kidney,Long-term condition
+SP08R,,RENAL_TRANSPLANT,,Renal transplant rejection,Long-term condition
+SP08S,,RENAL_TRANSPLANT,,Aneurysm of vein of transplanted kidney,Long-term condition
+SP08T,,RENAL_TRANSPLANT,,Urological complication of renal transplant,Long-term condition
+SP08V,,RENAL_TRANSPLANT,,Very mild acute rejection of renal transplant,Long-term condition
+SP08W,,RENAL_TRANSPLANT,,Vascular complication of renal transplant,Long-term condition
+SP08X,,RENAL_TRANSPLANT,,Rupture of artery of transplanted kidney,Long-term condition
+SP08Y,,RENAL_TRANSPLANT,,Rupture of vein of transplanted kidney,Long-term condition
+SP08Z,,RENAL_TRANSPLANT,,Thrombosis of artery of transplanted kidney,Long-term condition
+SP08a,,RENAL_TRANSPLANT,,Thrombosis of vein of transplanted kidney,Long-term condition
+TB001,,RENAL_TRANSPLANT,,"Renal transplant with complication, without blame",Long-term condition
+ZV420,,RENAL_TRANSPLANT,,[V]Kidney transplanted,Long-term condition

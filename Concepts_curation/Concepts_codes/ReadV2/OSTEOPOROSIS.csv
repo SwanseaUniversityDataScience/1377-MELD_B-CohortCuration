@@ -1,0 +1,56 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14G6.,,OSTEOPOROSIS,,H/O: fragility fracture,Long-term condition
+14GB.,,OSTEOPOROSIS,,History of osteoporosis,Long-term condition
+585O.,,OSTEOPOROSIS,,Quantitative ultrasound scan of heel - result osteoporotic,Long-term condition
+58E4.,,OSTEOPOROSIS,,Forearm DXA scan result osteoporotic,Long-term condition
+58EA.,,OSTEOPOROSIS,,Heel DXA scan result osteoporotic,Long-term condition
+58EG.,,OSTEOPOROSIS,,Hip DXA scan result osteoporotic,Long-term condition
+58EM.,,OSTEOPOROSIS,,Lumbar DXA scan result osteoporotic,Long-term condition
+58EV.,,OSTEOPOROSIS,,Femoral neck DEXA scan result osteoporotic,Long-term condition
+66a2.,,OSTEOPOROSIS,,Osteoporosis treatment started,Long-term condition
+66a3.,,OSTEOPOROSIS,,Osteoporosis treatment stopped,Long-term condition
+66a4.,,OSTEOPOROSIS,,Osteoporosis treatment changed,Long-term condition
+66a5.,,OSTEOPOROSIS,,Osteoporosis - no treatment,Long-term condition
+66aA.,,OSTEOPOROSIS,,Osteoporosis - treatment response,Long-term condition
+66aB.,,OSTEOPOROSIS,,Osteoporosis - no treatment response,Long-term condition
+8B31E,,OSTEOPOROSIS,,Osteoporosis medication compliance review,Long-term condition
+9kj..,,OSTEOPOROSIS,,Osteoporosis - enhanced services administration,Long-term condition
+9kj0.,,OSTEOPOROSIS,,Bone sparing drug treatment offered for osteoporosis - ESA,Long-term condition
+N330.,,OSTEOPOROSIS,,Osteoporosis,Long-term condition
+N3300,,OSTEOPOROSIS,,"Osteoporosis, unspecified",Long-term condition
+N3301,,OSTEOPOROSIS,,Senile osteoporosis,Long-term condition
+N3302,,OSTEOPOROSIS,,Postmenopausal osteoporosis,Long-term condition
+N3303,,OSTEOPOROSIS,,Idiopathic osteoporosis,Long-term condition
+N3304,,OSTEOPOROSIS,,Dissuse osteoporosis,Long-term condition
+N3305,,OSTEOPOROSIS,,Drug-induced osteoporosis,Long-term condition
+N3306,,OSTEOPOROSIS,,Postoophorectomy osteoporosis,Long-term condition
+N3307,,OSTEOPOROSIS,,Postsurgical malabsorption osteoporosis,Long-term condition
+N3308,,OSTEOPOROSIS,,Localized osteoporosis - Lequesne,Long-term condition
+N3309,,OSTEOPOROSIS,,Osteoporosis in multiple myelomatosis,Long-term condition
+N330A,,OSTEOPOROSIS,,Osteoporosis in endocrine disorders,Long-term condition
+N330B,,OSTEOPOROSIS,,Vertebral osteoporosis,Long-term condition
+N330C,,OSTEOPOROSIS,,Osteoporosis localized to spine,Long-term condition
+N330D,,OSTEOPOROSIS,,Osteoporosis due to corticosteroids,Long-term condition
+N330z,,OSTEOPOROSIS,,Osteoporosis NOS,Long-term condition
+N331.,,OSTEOPOROSIS,,Osteoporotic vertebral collapse,Long-term condition
+N3312,,OSTEOPOROSIS,,Postoophorectomy osteoporosis with pathological fracture,Long-term condition
+N3313,,OSTEOPOROSIS,,Osteoporosis of disuse with pathological fracture,Long-term condition
+N3314,,OSTEOPOROSIS,,Postsurgical malabsorption osteoporosis with path fracture,Long-term condition
+N3315,,OSTEOPOROSIS,,Drug-induced osteoporosis with pathological fracture,Long-term condition
+N3316,,OSTEOPOROSIS,,Idiopathic osteoporosis with pathological fracture,Long-term condition
+N3318,,OSTEOPOROSIS,,Osteoporosis + pathological fracture lumbar vertebrae,Long-term condition
+N3319,,OSTEOPOROSIS,,Osteoporosis + pathological fracture thoracic vertebrae,Long-term condition
+N331A,,OSTEOPOROSIS,,Osteoporosis + pathological fracture cervical vertebrae,Long-term condition
+N331B,,OSTEOPOROSIS,,Postmenopausal osteoporosis with pathological fracture,Long-term condition
+N331H,,OSTEOPOROSIS,,Collapse of cervical vertebra due to osteoporosis,Long-term condition
+N331J,,OSTEOPOROSIS,,Collapse of lumbar vertebra due to osteoporosis,Long-term condition
+N331K,,OSTEOPOROSIS,,Collapse of thoracic vertebra due to osteoporosis,Long-term condition
+N331L,,OSTEOPOROSIS,,Collapse of vertebra due to osteoporosis NOS,Long-term condition
+N331M,,OSTEOPOROSIS,,Fragility fracture due to unspecified osteoporosis,Long-term condition
+N331N,,OSTEOPOROSIS,,Fragility fracture,Long-term condition
+N3370,,OSTEOPOROSIS,,Disuse atrophy of bone,Long-term condition
+N3746,,OSTEOPOROSIS,,Osteoporotic kyphosis,Long-term condition
+NyuB0,,OSTEOPOROSIS,,[X]Other osteoporosis with pathological fracture,Long-term condition
+NyuB1,,OSTEOPOROSIS,,[X]Other osteoporosis,Long-term condition
+NyuB2,,OSTEOPOROSIS,,[X]Osteoporosis in other disorders classified elsewhere,Long-term condition
+NyuB8,,OSTEOPOROSIS,,[X]Unspecified osteoporosis with pathological fracture,Long-term condition

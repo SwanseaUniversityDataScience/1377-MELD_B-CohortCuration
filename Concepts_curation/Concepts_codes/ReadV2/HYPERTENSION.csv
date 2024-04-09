@@ -1,0 +1,105 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14A2.,,HYPERTENSION,,H/O: hypertension,Long-term condition
+21261,,HYPERTENSION,,Hypertension resolved,Long-term condition
+212K.,,HYPERTENSION,,Hypertension resolved,Long-term condition
+61462,,HYPERTENSION,,Hypertension induced by oral contraceptive pill,Long-term condition
+6624.,,HYPERTENSION,,Borderline hyperten:yearly obs,Long-term condition
+6627.,,HYPERTENSION,,Good hypertension control,Long-term condition
+6628.,,HYPERTENSION,,Poor hypertension control,Long-term condition
+6629.,,HYPERTENSION,,Hypertension:follow-up default,Long-term condition
+662F.,,HYPERTENSION,,Hypertension treatm. started,Long-term condition
+662G.,,HYPERTENSION,,,Long-term condition
+662H.,,HYPERTENSION,,Hypertension treatm.stopped,Long-term condition
+662O.,,HYPERTENSION,,,Long-term condition
+662P.,,HYPERTENSION,,,Long-term condition
+662P0,,HYPERTENSION,,Hypertension 9 month review,Long-term condition
+662b.,,HYPERTENSION,,Moderate hypertension control,Long-term condition
+662c.,,HYPERTENSION,,Hypertension six month review,Long-term condition
+662d.,,HYPERTENSION,,Hypertension annual review,Long-term condition
+662q.,,HYPERTENSION,,,Long-term condition
+662r.,,HYPERTENSION,,,Long-term condition
+7Q01.,,HYPERTENSION,,High cost hypertension drugs,Long-term condition
+7Q01y,,HYPERTENSION,,Other specified high cost hypertension drugs,Long-term condition
+7Q01z,,HYPERTENSION,,High cost hypertension drugs NOS,Long-term condition
+8B26.,,HYPERTENSION,,,Long-term condition
+8BL0.,,HYPERTENSION,,,Long-term condition
+8CR4.,,HYPERTENSION,,,Long-term condition
+8I3N.,,HYPERTENSION,,Hypertension treatment refused,Long-term condition
+8IA5.,,HYPERTENSION,,Trial withdrawal of antihypertensive therapy declined,Long-term condition
+8IA6.,,HYPERTENSION,,Trial reduction of antihypertensive therapy declined,Long-term condition
+9N03.,,HYPERTENSION,,Seen in hypertension clinic,Long-term condition
+9N1y2,,HYPERTENSION,,Seen in hypertension clinic,Long-term condition
+9OI9.,,HYPERTENSION,,Hypertens.monitor deleted,Long-term condition
+F4042,,HYPERTENSION,,,Long-term condition
+F4213,,HYPERTENSION,,,Long-term condition
+G2...,,HYPERTENSION,,,Long-term condition
+G20..,,HYPERTENSION,,,Long-term condition
+G200.,,HYPERTENSION,,,Long-term condition
+G201.,,HYPERTENSION,,,Long-term condition
+G202.,,HYPERTENSION,,,Long-term condition
+G203.,,HYPERTENSION,,,Long-term condition
+G20z.,,HYPERTENSION,,,Long-term condition
+G21..,,HYPERTENSION,,,Long-term condition
+G210.,,HYPERTENSION,,,Long-term condition
+G2100,,HYPERTENSION,,,Long-term condition
+G2101,,HYPERTENSION,,,Long-term condition
+G210z,,HYPERTENSION,,,Long-term condition
+G211.,,HYPERTENSION,,,Long-term condition
+G2110,,HYPERTENSION,,,Long-term condition
+G2111,,HYPERTENSION,,,Long-term condition
+G211z,,HYPERTENSION,,,Long-term condition
+G21z.,,HYPERTENSION,,,Long-term condition
+G21z0,,HYPERTENSION,,,Long-term condition
+G21z1,,HYPERTENSION,,,Long-term condition
+G21zz,,HYPERTENSION,,,Long-term condition
+G22..,,HYPERTENSION,,,Long-term condition
+G220.,,HYPERTENSION,,,Long-term condition
+G221.,,HYPERTENSION,,,Long-term condition
+G222.,,HYPERTENSION,,,Long-term condition
+G22z.,,HYPERTENSION,,,Long-term condition
+G23..,,HYPERTENSION,,,Long-term condition
+G230.,,HYPERTENSION,,,Long-term condition
+G231.,,HYPERTENSION,,,Long-term condition
+G232.,,HYPERTENSION,,,Long-term condition
+G233.,,HYPERTENSION,,,Long-term condition
+G234.,,HYPERTENSION,,,Long-term condition
+G23z.,,HYPERTENSION,,,Long-term condition
+G24..,,HYPERTENSION,,,Long-term condition
+G240.,,HYPERTENSION,,,Long-term condition
+G2400,,HYPERTENSION,,,Long-term condition
+G240z,,HYPERTENSION,,,Long-term condition
+G241.,,HYPERTENSION,,,Long-term condition
+G2410,,HYPERTENSION,,,Long-term condition
+G241z,,HYPERTENSION,,,Long-term condition
+G244.,,HYPERTENSION,,,Long-term condition
+G24z.,,HYPERTENSION,,,Long-term condition
+G24z0,,HYPERTENSION,,,Long-term condition
+G24z1,,HYPERTENSION,,,Long-term condition
+G24zz,,HYPERTENSION,,,Long-term condition
+G25..,,HYPERTENSION,,Stage 1 hypertension,Long-term condition
+G250.,,HYPERTENSION,,Stage 1 hyperten (NICE 2011) without evidnce end organ damge,Long-term condition
+G251.,,HYPERTENSION,,Stage 1 hyperten (NICE 2011) with evidnce end organ damge,Long-term condition
+G26..,,HYPERTENSION,,Severe hypertension,Long-term condition
+G27..,,HYPERTENSION,,Hypertension resistant to drug therapy,Long-term condition
+G28..,,HYPERTENSION,,Stage 2 hypertension (NICE - Nat Ins for Hth Clin Excl 2011),Long-term condition
+G2y..,,HYPERTENSION,,,Long-term condition
+G2z..,,HYPERTENSION,,,Long-term condition
+G672.,,HYPERTENSION,,,Long-term condition
+Gyu2.,,HYPERTENSION,,,Long-term condition
+Gyu20,,HYPERTENSION,,,Long-term condition
+Gyu21,,HYPERTENSION,,,Long-term condition
+L120.,,HYPERTENSION,,Preg.+ pre-existing hypertensn,Long-term condition
+L122.,,HYPERTENSION,,Other pre-existing hypertension in preg/childbirth/puerp,Long-term condition
+L1220,,HYPERTENSION,,Other pre-existing hypertension in preg/childb/puerp unspec,Long-term condition
+L1221,,HYPERTENSION,,Other pre-existing hypertension in preg/childb/puerp - deliv,Long-term condition
+L1223,,HYPERTENSION,,Other pre-exist hypertension in preg/childb/puerp-not deliv,Long-term condition
+L1224,,HYPERTENSION,,Other pre-exist hypertension in preg/childb/puerp + p/n comp,Long-term condition
+L122z,,HYPERTENSION,,Other pre-existing hypertension in preg/childb/puerp NOS,Long-term condition
+L127z,,HYPERTENSION,,Pre-eclampsia or eclampsia + pre-existing hypertension NOS,Long-term condition
+L128.,,HYPERTENSION,,Pre-exist hypertension compl preg childbirth and puerperium,Long-term condition
+L1280,,HYPERTENSION,,Pre-exist hyperten heart dis compl preg childbth+puerperium,Long-term condition
+Q000.,,HYPERTENSION,,Fetus or neonate affected by maternal hypertensive disease,Long-term condition
+SLC6.,,HYPERTENSION,,Other hypertensive agent poisoning,Long-term condition
+TJC7.,,HYPERTENSION,,Adverse reaction to other antihypertensives,Long-term condition
+TJC7z,,HYPERTENSION,,Adverse reaction to antihypertensives NOS,Long-term condition
+U60C5,,HYPERTENSION,,[X] Adverse reaction to other antihypertensives,Long-term condition

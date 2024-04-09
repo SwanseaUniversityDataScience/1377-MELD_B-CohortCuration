@@ -1,0 +1,151 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1429.,,LEUKAEMIA,,H/O: * leukaemia,Long-term condition
+B624.,,LEUKAEMIA,,Hairy cell leukaemia,Long-term condition
+B64..,,LEUKAEMIA,,Lymphatic leukaemia,Long-term condition
+B640.,,LEUKAEMIA,,Acute lymphoid leukaemia,Long-term condition
+B6400,,LEUKAEMIA,,B-cell acute lymphoblastic leukaemia,Long-term condition
+B641.,,LEUKAEMIA,,Chronic lymphoid leukaemia,Long-term condition
+B6410,,LEUKAEMIA,,B-cell chronic lymphocytic leukaemia,Long-term condition
+B6411,,LEUKAEMIA,,Clinical stage A chronic lymphocytic leukaemia,Long-term condition
+B6412,,LEUKAEMIA,,Clinical stage B chronic lymphocytic leukaemia,Long-term condition
+B6413,,LEUKAEMIA,,Clinical stage C chronic lymphocytic leukaemia,Long-term condition
+B642.,,LEUKAEMIA,,Subacute lymphoid leukaemia,Long-term condition
+B64y.,,LEUKAEMIA,,Other lymphoid leukaemia,Long-term condition
+B64y0,,LEUKAEMIA,,Aleukaemic lymphoid leukaemia,Long-term condition
+B64y1,,LEUKAEMIA,,Prolymphocytic leukaemia,Long-term condition
+B64y2,,LEUKAEMIA,,Adult T-cell leukaemia,Long-term condition
+B64y3,,LEUKAEMIA,,B-cell prolymphocytic leukaemia,Long-term condition
+B64y4,,LEUKAEMIA,,T-cell prolymphocytic leukaemia,Long-term condition
+B64y5,,LEUKAEMIA,,Adult T-cell lymphoma/leukaemia (HTLV-1-associated),Long-term condition
+B64yz,,LEUKAEMIA,,Other lymphoid leukaemia NOS,Long-term condition
+B64z.,,LEUKAEMIA,,Lymphoid leukaemia NOS,Long-term condition
+B65..,,LEUKAEMIA,,Myeloid leukaemia,Long-term condition
+B650.,,LEUKAEMIA,,Acute myeloid leukaemia,Long-term condition
+B6500,,LEUKAEMIA,,Acute myeloid leukaemia with 11q23 abnormality,Long-term condition
+B6501,,LEUKAEMIA,,Acute myeloid leukaemia with multilineage dysplasia,Long-term condition
+B651.,,LEUKAEMIA,,Chronic myeloid leukaemia,Long-term condition
+B6510,,LEUKAEMIA,,Chronic eosinophilic leukaemia,Long-term condition
+B6511,,LEUKAEMIA,,"Chronic myeloid leukaemia, BCR/ABL positive",Long-term condition
+B6512,,LEUKAEMIA,,Chronic neutrophilic leukaemia,Long-term condition
+B6513,,LEUKAEMIA,,"Atypical chronic myeloid leukaemia, BCR/ABL negative",Long-term condition
+B651z,,LEUKAEMIA,,Chronic myeloid leukaemia NOS,Long-term condition
+B652.,,LEUKAEMIA,,Subacute myeloid leukaemia,Long-term condition
+B653.,,LEUKAEMIA,,Myeloid sarcoma,Long-term condition
+B6530,,LEUKAEMIA,,Chloroma,Long-term condition
+B6531,,LEUKAEMIA,,Granulocytic sarcoma,Long-term condition
+B653z,,LEUKAEMIA,,Myeloid sarcoma NOS,Long-term condition
+B654.,,LEUKAEMIA,,Acute myeloblastic leukaemia,Long-term condition
+B65y.,,LEUKAEMIA,,Other myeloid leukaemia,Long-term condition
+B65y0,,LEUKAEMIA,,Aleukaemic myeloid leukaemia,Long-term condition
+B65y1,,LEUKAEMIA,,Acute promyelocytic leukaemia,Long-term condition
+B65yz,,LEUKAEMIA,,Other myeloid leukaemia NOS,Long-term condition
+B65z.,,LEUKAEMIA,,Myeloid leukaemia NOS,Long-term condition
+B66..,,LEUKAEMIA,,Monocytic leukaemia,Long-term condition
+B660.,,LEUKAEMIA,,Acute monocytic leukaemia,Long-term condition
+B661.,,LEUKAEMIA,,Chronic monocytic leukaemia,Long-term condition
+B662.,,LEUKAEMIA,,Subacute monocytic leukaemia,Long-term condition
+B663.,,LEUKAEMIA,,Acute monoblastic leukaemia,Long-term condition
+B66y.,,LEUKAEMIA,,Other monocytic leukaemia,Long-term condition
+B66y0,,LEUKAEMIA,,Aleukaemic monocytic leukaemia,Long-term condition
+B66yz,,LEUKAEMIA,,Other monocytic leukaemia NOS,Long-term condition
+B66z.,,LEUKAEMIA,,Monocytic leukaemia NOS,Long-term condition
+B67..,,LEUKAEMIA,,Other specified leukaemia,Long-term condition
+B670.,,LEUKAEMIA,,Di Guglielmo's disease,Long-term condition
+B671.,,LEUKAEMIA,,Chronic erythraemia,Long-term condition
+B672.,,LEUKAEMIA,,Megakaryocytic leukaemia,Long-term condition
+B673.,,LEUKAEMIA,,Mast cell leukaemia,Long-term condition
+B674.,,LEUKAEMIA,,Acute panmyelosis,Long-term condition
+B675.,,LEUKAEMIA,,Acute myelofibrosis,Long-term condition
+B676.,,LEUKAEMIA,,Acute erythroid leukaemia,Long-term condition
+B677.,,LEUKAEMIA,,Myelodysplastic and myeloproliferative disease,Long-term condition
+B67y.,,LEUKAEMIA,,Other and unspecified leukaemia,Long-term condition
+B67y0,,LEUKAEMIA,,Lymphosarcoma cell leukaemia,Long-term condition
+B67yz,,LEUKAEMIA,,Other and unspecified leukaemia NOS,Long-term condition
+B67z.,,LEUKAEMIA,,Other specified leukaemia NOS,Long-term condition
+B68..,,LEUKAEMIA,,Leukaemia of unspecified cell type,Long-term condition
+B680.,,LEUKAEMIA,,Acute leukaemia NOS,Long-term condition
+B681.,,LEUKAEMIA,,Chronic leukaemia NOS,Long-term condition
+B682.,,LEUKAEMIA,,Subacute leukaemia NOS,Long-term condition
+B68y.,,LEUKAEMIA,,Other leukaemia of unspecified cell type,Long-term condition
+B68z.,,LEUKAEMIA,,Leukaemia NOS,Long-term condition
+B69..,,LEUKAEMIA,,Myelomonocytic leukaemia,Long-term condition
+B690.,,LEUKAEMIA,,Acute myelomonocytic leukaemia,Long-term condition
+B691.,,LEUKAEMIA,,Chronic myelomonocytic leukaemia,Long-term condition
+B692.,,LEUKAEMIA,,Subacute myelomonocytic leukaemia,Long-term condition
+B693.,,LEUKAEMIA,,Juvenile myelomonocytic leukaemia,Long-term condition
+B6y..,,LEUKAEMIA,,Malignant neoplasm lymphatic or haematopoietic tissue OS,Long-term condition
+B6y1.,,LEUKAEMIA,,Myelosclerosis with myeloid metaplasia,Long-term condition
+B6z..,,LEUKAEMIA,,Malignant neoplasm lymphatic or haematopoietic tissue NOS,Long-term condition
+B937.,,LEUKAEMIA,,Megakaryocytic myelosclerosis,Long-term condition
+BBr..,,LEUKAEMIA,,[M]Leukaemias,Long-term condition
+BBr0.,,LEUKAEMIA,,[M]Leukaemias unspecified,Long-term condition
+BBr00,,LEUKAEMIA,,[M]Leukaemia NOS,Long-term condition
+BBr01,,LEUKAEMIA,,[M]Acute leukaemia NOS,Long-term condition
+BBr02,,LEUKAEMIA,,[M]Subacute leukaemia NOS,Long-term condition
+BBr03,,LEUKAEMIA,,[M]Chronic leukaemia NOS,Long-term condition
+BBr04,,LEUKAEMIA,,[M]Aleukaemic leukaemia NOS,Long-term condition
+BBr0z,,LEUKAEMIA,,"[M]Leukaemia unspecified, NOS",Long-term condition
+BBr1.,,LEUKAEMIA,,[M]Compound leukaemias,Long-term condition
+BBr10,,LEUKAEMIA,,[M]Mixed leukaemia,Long-term condition
+BBr1z,,LEUKAEMIA,,[M]Compound leukaemia NOS,Long-term condition
+BBr2.,,LEUKAEMIA,,[M]Lymphoid leukaemias,Long-term condition
+BBr20,,LEUKAEMIA,,[M]Lymphoid leukaemia NOS,Long-term condition
+BBr21,,LEUKAEMIA,,[M]Acute lymphoid leukaemia,Long-term condition
+BBr22,,LEUKAEMIA,,[M]Subacute lymphoid leukaemia,Long-term condition
+BBr23,,LEUKAEMIA,,[M]Chronic lymphoid leukaemia,Long-term condition
+BBr24,,LEUKAEMIA,,[M]Aleukaemic lymphoid leukaemia,Long-term condition
+BBr25,,LEUKAEMIA,,[M]Prolymphocytic leukaemia,Long-term condition
+BBr26,,LEUKAEMIA,,[M]Burkitt's cell leukaemia,Long-term condition
+BBr2z,,LEUKAEMIA,,[M]Other lymphoid leukaemia NOS,Long-term condition
+BBr4.,,LEUKAEMIA,,[M]Erythroleukaemias,Long-term condition
+BBr40,,LEUKAEMIA,,[M]Erythroleukaemia,Long-term condition
+BBr4z,,LEUKAEMIA,,[M]Erythroleukaemia NOS,Long-term condition
+BBr5.,,LEUKAEMIA,,[M]Lymphosarcoma cell leukaemias,Long-term condition
+BBr50,,LEUKAEMIA,,[M]Lymphosarcoma cell leukaemia,Long-term condition
+BBr5z,,LEUKAEMIA,,[M]Lymphosarcoma cell leukaemia NOS,Long-term condition
+BBr6.,,LEUKAEMIA,,[M]Myeloid leukaemias,Long-term condition
+BBr60,,LEUKAEMIA,,[M]Granulocytic leukaemia NOS,Long-term condition
+BBr61,,LEUKAEMIA,,[M]Acute myeloid leukaemia,Long-term condition
+BBr62,,LEUKAEMIA,,[M]Subacute myeloid leukaemia,Long-term condition
+BBr63,,LEUKAEMIA,,[M]Chronic myeloid leukaemia,Long-term condition
+BBr64,,LEUKAEMIA,,[M]Aleukaemic myeloid leukaemia,Long-term condition
+BBr65,,LEUKAEMIA,,[M]Neutrophilic leukaemia,Long-term condition
+BBr66,,LEUKAEMIA,,[M]Acute promyelocytic leukaemia,Long-term condition
+BBr67,,LEUKAEMIA,,[M]Acute myelomonocytic leukaemia,Long-term condition
+BBr68,,LEUKAEMIA,,[M]Chronic myelomonocytic leukaemia,Long-term condition
+BBr69,,LEUKAEMIA,,[M]Juvenile myelomonocytic leukaemia,Long-term condition
+BBr6z,,LEUKAEMIA,,[M]Other myeloid leukaemia NOS,Long-term condition
+BBr7.,,LEUKAEMIA,,[M]Basophilic leukaemias,Long-term condition
+BBr70,,LEUKAEMIA,,[M]Basophilic leukaemia,Long-term condition
+BBr7z,,LEUKAEMIA,,[M]Basophilic leukaemia NOS,Long-term condition
+BBr8.,,LEUKAEMIA,,[M]Eosinophilic leukaemias,Long-term condition
+BBr80,,LEUKAEMIA,,[M]Eosinophilic leukaemia,Long-term condition
+BBr8z,,LEUKAEMIA,,[M]Eosinophilic leukaemia NOS,Long-term condition
+BBr9.,,LEUKAEMIA,,[M]Monocytic leukaemias,Long-term condition
+BBr90,,LEUKAEMIA,,[M]Monocytic leukaemia NOS,Long-term condition
+BBr91,,LEUKAEMIA,,[M]Acute monocytic leukaemia,Long-term condition
+BBr92,,LEUKAEMIA,,[M]Subacute monocytic leukaemia,Long-term condition
+BBr93,,LEUKAEMIA,,[M]Chronic monocytic leukaemia,Long-term condition
+BBr94,,LEUKAEMIA,,[M]Aleukaemic monocytic leukaemia,Long-term condition
+BBr9z,,LEUKAEMIA,,[M]Other monocytic leukaemia NOS,Long-term condition
+BBrA.,,LEUKAEMIA,,[M]Miscellaneous leukaemias,Long-term condition
+BBrA0,,LEUKAEMIA,,[M]Mast cell leukaemia,Long-term condition
+BBrA1,,LEUKAEMIA,,[M]Thrombocytic leukaemia,Long-term condition
+BBrA3,,LEUKAEMIA,,[M]Chloroma,Long-term condition
+BBrA4,,LEUKAEMIA,,[M]Hairy cell leukaemia,Long-term condition
+BBrA5,,LEUKAEMIA,,[M]Acute megakaryoblastic leukaemia,Long-term condition
+BBrA6,,LEUKAEMIA,,[M]Acute panmyelosis,Long-term condition
+BBrA7,,LEUKAEMIA,,[M]Acute myelofibrosis,Long-term condition
+BBrAz,,LEUKAEMIA,,[M]Miscellaneous leukaemia NOS,Long-term condition
+BBrz.,,LEUKAEMIA,,[M]Leukaemia NOS,Long-term condition
+BBs1.,,LEUKAEMIA,,[M]Acute panmyelosis,Long-term condition
+BBs3.,,LEUKAEMIA,,[M]Myelosclerosis with myeloid metaplasia,Long-term condition
+ByuD.,,LEUKAEMIA,,"[X]Malignant neoplasms of lymphoid, haematopoietic and rela",Long-term condition
+ByuD5,,LEUKAEMIA,,[X]Other lymphoid leukaemia,Long-term condition
+ByuD6,,LEUKAEMIA,,[X]Other myeloid leukaemia,Long-term condition
+ByuD7,,LEUKAEMIA,,[X]Other monocytic leukaemia,Long-term condition
+ByuD8,,LEUKAEMIA,,[X]Other specified leukaemias,Long-term condition
+ByuD9,,LEUKAEMIA,,[X]Other leukaemia of unspecified cell type,Long-term condition
+D41y1,,LEUKAEMIA,,Myelofibrosis,Long-term condition
+ZV106,,LEUKAEMIA,,[V]Personal history of leukaemia,Long-term condition
+ZV678,,LEUKAEMIA,,[V]Follow-up examination after chemotherapy for leukaemia,Long-term condition

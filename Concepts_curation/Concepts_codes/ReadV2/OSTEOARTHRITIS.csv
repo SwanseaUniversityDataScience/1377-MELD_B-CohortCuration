@@ -1,0 +1,176 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14G2.,,OSTEOARTHRITIS,,H/O: osteoarthritis,Long-term condition
+7P204,,OSTEOARTHRITIS,,Delivery of rehabilitation for osteoarthritis,Long-term condition
+9hQ..,,OSTEOARTHRITIS,,Exception reporting: osteoarthritis quality indicators,Long-term condition
+9hQ0.,,OSTEOARTHRITIS,,Excepted fr osteoarthritis quality indicators: pt unsuitable,Long-term condition
+9hQ1.,,OSTEOARTHRITIS,,Excepted osteoarthritis quality indicators: informed dissent,Long-term condition
+F1632,,OSTEOARTHRITIS,,Myelopathy due to spondylosis,Long-term condition
+F3372,,OSTEOARTHRITIS,,Nerve root and plexus compressions in spondylosis,Long-term condition
+N0...,,OSTEOARTHRITIS,,Arthritis/arthrosis,Long-term condition
+N05..,,OSTEOARTHRITIS,,Osteoarthritis,Long-term condition
+N050.,,OSTEOARTHRITIS,,Generalised osteoarthritis - OA,Long-term condition
+N0500,,OSTEOARTHRITIS,,Generalised osteoarthritis of unspecified site,Long-term condition
+N0501,,OSTEOARTHRITIS,,Heberdens' nodes,Long-term condition
+N0502,,OSTEOARTHRITIS,,Generalised osteoarthritis of multiple sites,Long-term condition
+N0504,,OSTEOARTHRITIS,,Primary generalized osteoarthrosis,Long-term condition
+N0505,,OSTEOARTHRITIS,,Secondary multiple arthrosis,Long-term condition
+N0506,,OSTEOARTHRITIS,,Erosive osteoarthrosis,Long-term condition
+N0507,,OSTEOARTHRITIS,,Heberden's nodes with arthropathy,Long-term condition
+N050z,,OSTEOARTHRITIS,,Generalised osteoarthritis NOS,Long-term condition
+N051.,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis",Long-term condition
+N0510,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of unspecified site",Long-term condition
+N0511,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of the shoulder region",Long-term condition
+N0512,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of the upper arm",Long-term condition
+N0513,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of the forearm",Long-term condition
+N0514,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of the hand",Long-term condition
+N0515,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of the pelvic region/thigh",Long-term condition
+N0516,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of the lower leg",Long-term condition
+N0517,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of the ankle and foot",Long-term condition
+N0518,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of other specified site",Long-term condition
+N0519,,OSTEOARTHRITIS,,"Primary coxarthrosis, bilateral",Long-term condition
+N051B,,OSTEOARTHRITIS,,"Primary gonarthrosis, bilateral",Long-term condition
+N051C,,OSTEOARTHRITIS,,"Primary arthrosis of first carpometacarpal joints, bilateral",Long-term condition
+N051D,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of the wrist",Long-term condition
+N051E,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of toe",Long-term condition
+N051F,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis of elbow",Long-term condition
+N051G,,OSTEOARTHRITIS,,Osteoarthritis of spinal facet joint,Long-term condition
+N051z,,OSTEOARTHRITIS,,"Localised, primary osteoarthritis NOS",Long-term condition
+N052.,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis",Long-term condition
+N0520,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis of unspecified site",Long-term condition
+N0521,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis of the shoulder region",Long-term condition
+N0522,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis of the upper arm",Long-term condition
+N0523,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis of the forearm",Long-term condition
+N0524,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis of the hand",Long-term condition
+N0525,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis of pelvic region/thigh",Long-term condition
+N0526,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis of the lower leg",Long-term condition
+N0527,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis of the ankle and foot",Long-term condition
+N0528,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis of other specified site",Long-term condition
+N0529,,OSTEOARTHRITIS,,"Post-traumatic coxarthrosis, bilateral",Long-term condition
+N052A,,OSTEOARTHRITIS,,"Post-traumatic gonarthrosis, bilateral",Long-term condition
+N052B,,OSTEOARTHRITIS,,Post-traumatic arthrosis of first carpometacarpal jt bilat,Long-term condition
+N052C,,OSTEOARTHRITIS,,"Post-traumatic gonarthrosis, unilateral",Long-term condition
+N052z,,OSTEOARTHRITIS,,"Localised, secondary osteoarthritis NOS",Long-term condition
+N053.,,OSTEOARTHRITIS,,"Localised osteoarthritis, unspecified",Long-term condition
+N0530,,OSTEOARTHRITIS,,"Localised osteoarthritis, unspecified, of unspecified site",Long-term condition
+N0531,,OSTEOARTHRITIS,,"Localised osteoarthritis, unspecified, of shoulder region",Long-term condition
+N0532,,OSTEOARTHRITIS,,"Localised osteoarthritis, unspecified, of the upper arm",Long-term condition
+N0533,,OSTEOARTHRITIS,,"Localised osteoarthritis, unspecified, of the forearm",Long-term condition
+N0534,,OSTEOARTHRITIS,,"Localised osteoarthritis, unspecified, of the hand",Long-term condition
+N0535,,OSTEOARTHRITIS,,Hip osteoarthitis NOS,Long-term condition
+N0536,,OSTEOARTHRITIS,,Patellofemoral osteoarthritis,Long-term condition
+N0537,,OSTEOARTHRITIS,,"Localised osteoarthritis, unspecified, of the ankle and foot",Long-term condition
+N0538,,OSTEOARTHRITIS,,"Localised osteoarthritis, unspecified, of other spec site",Long-term condition
+N0539,,OSTEOARTHRITIS,,"Arthrosis of first carpometacarpal joint, unspecified",Long-term condition
+N053z,,OSTEOARTHRITIS,,"Localised osteoarthritis, unspecified, NOS",Long-term condition
+N054.,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified",Long-term condition
+N0540,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspec, of unspecified sites",Long-term condition
+N0541,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified, of shoulder",Long-term condition
+N0542,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified, of upper arm",Long-term condition
+N0543,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified, of forearm",Long-term condition
+N0544,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified, of hand",Long-term condition
+N0545,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh",Long-term condition
+N0546,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified, of lower leg",Long-term condition
+N0547,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified, of ankle/foot",Long-term condition
+N0548,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified, other spec sites",Long-term condition
+N0549,,OSTEOARTHRITIS,,"Oligoarticular osteoarthritis, unspecified, multiple sites",Long-term condition
+N054z,,OSTEOARTHRITIS,,"Osteoarthritis of more than one site, unspecified, NOS",Long-term condition
+N05z.,,OSTEOARTHRITIS,,Joint degeneration,Long-term condition
+N05z0,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of unspecified site",Long-term condition
+N05z1,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of shoulder region",Long-term condition
+N05z2,,OSTEOARTHRITIS,,Elbow osteoarthritis NOS,Long-term condition
+N05z3,,OSTEOARTHRITIS,,Wrist osteoarthritis NOS,Long-term condition
+N05z4,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of the hand",Long-term condition
+N05z5,,OSTEOARTHRITIS,,Hip osteoarthritis NOS,Long-term condition
+N05z6,,OSTEOARTHRITIS,,Knee osteoarthritis NOS,Long-term condition
+N05z7,,OSTEOARTHRITIS,,Foot osteoarthritis NOS,Long-term condition
+N05z8,,OSTEOARTHRITIS,,"Osteoarthritis NOS, other specified site",Long-term condition
+N05z9,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of shoulder",Long-term condition
+N05zA,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of sternoclavicular joint",Long-term condition
+N05zB,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of acromioclavicular joint",Long-term condition
+N05zC,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of elbow",Long-term condition
+N05zD,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of distal radio-ulnar joint",Long-term condition
+N05zE,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of wrist",Long-term condition
+N05zF,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of MCP joint",Long-term condition
+N05zG,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of PIP joint of finger",Long-term condition
+N05zH,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of DIP joint of finger",Long-term condition
+N05zJ,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of hip",Long-term condition
+N05zK,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of sacro-iliac joint",Long-term condition
+N05zL,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of knee",Long-term condition
+N05zM,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of tibio-fibular joint",Long-term condition
+N05zN,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of ankle",Long-term condition
+N05zP,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of subtalar joint",Long-term condition
+N05zQ,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of talonavicular joint",Long-term condition
+N05zR,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of other tarsal joint",Long-term condition
+N05zS,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of 1st MTP joint",Long-term condition
+N05zT,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of lesser MTP joint",Long-term condition
+N05zU,,OSTEOARTHRITIS,,"Osteoarthritis NOS, of IP joint of toe",Long-term condition
+N05zz,,OSTEOARTHRITIS,,Osteoarthritis NOS,Long-term condition
+N11..,,OSTEOARTHRITIS,,Spondylosis and allied disorders,Long-term condition
+N110.,,OSTEOARTHRITIS,,Cervical spondylosis,Long-term condition
+N1100,,OSTEOARTHRITIS,,Single-level cervical spondylosis without myelopathy,Long-term condition
+N1101,,OSTEOARTHRITIS,,Two-level cervical spondylosis without myelopathy,Long-term condition
+N1102,,OSTEOARTHRITIS,,Multiple-level cervical spondylosis without myelopathy,Long-term condition
+N111.,,OSTEOARTHRITIS,,Cervical spondylosis with myelopathy,Long-term condition
+N1110,,OSTEOARTHRITIS,,Single-level cervical spondylosis with myelopathy,Long-term condition
+N1111,,OSTEOARTHRITIS,,Two-level cervical spondylosis with myelopathy,Long-term condition
+N1112,,OSTEOARTHRITIS,,Multiple-level cervical spondylosis with myelopathy,Long-term condition
+N112.,,OSTEOARTHRITIS,,Thoracic spondylosis,Long-term condition
+N1120,,OSTEOARTHRITIS,,Single-level thoracic spondylosis without myelopathy,Long-term condition
+N1121,,OSTEOARTHRITIS,,Two-level thoracic spondylosis without myelopathy,Long-term condition
+N1122,,OSTEOARTHRITIS,,Multiple-level thoracic spondylosis without myelopathy,Long-term condition
+N1123,,OSTEOARTHRITIS,,Dorsal spondylosis without myelopathy,Long-term condition
+N113.,,OSTEOARTHRITIS,,Thoracic spondylosis with myelopathy,Long-term condition
+N1130,,OSTEOARTHRITIS,,Single-level thoracic spondylosis with myelopathy,Long-term condition
+N1131,,OSTEOARTHRITIS,,Two-level thoracic spondylosis with myelopathy,Long-term condition
+N1132,,OSTEOARTHRITIS,,Multiple-level thoracic spondylosis with myelopathy,Long-term condition
+N114.,,OSTEOARTHRITIS,,Lumbar spondylosis,Long-term condition
+N1140,,OSTEOARTHRITIS,,Single-level lumbosacral spondylosis without myelopathy,Long-term condition
+N1141,,OSTEOARTHRITIS,,Two-level lumbosacral spondylosis without myelopathy,Long-term condition
+N1142,,OSTEOARTHRITIS,,Multiple-level lumbosacral spondylosis without myelopathy,Long-term condition
+N115.,,OSTEOARTHRITIS,,Lumbosacral spondylosis with myelopathy,Long-term condition
+N1150,,OSTEOARTHRITIS,,Single-level lumbosacral spondylosis with myelopathy,Long-term condition
+N1151,,OSTEOARTHRITIS,,Two-level lumbosacral spondylosis with myelopathy,Long-term condition
+N1152,,OSTEOARTHRITIS,,Multiple-level lumbosacral spondylosis with myelopathy,Long-term condition
+N119.,,OSTEOARTHRITIS,,Cervical spondylosis with radiculopathy,Long-term condition
+N1190,,OSTEOARTHRITIS,,Single-level cervical spondylosis with radiculopathy,Long-term condition
+N1191,,OSTEOARTHRITIS,,Two-level cervical spondylosis with radiculopathy,Long-term condition
+N1192,,OSTEOARTHRITIS,,Multiple-level cervical spondylosis with radiculopathy,Long-term condition
+N11A.,,OSTEOARTHRITIS,,Cervical spondylosis with vascular compression,Long-term condition
+N11B.,,OSTEOARTHRITIS,,Thoracic spondylosis with radiculopathy,Long-term condition
+N11B0,,OSTEOARTHRITIS,,Single-level thoracic spondylosis with radiculopathy,Long-term condition
+N11B1,,OSTEOARTHRITIS,,Two-level thoracic spondylosis with radiculopathy,Long-term condition
+N11B2,,OSTEOARTHRITIS,,Multiple-level thoracic spondylosis with radiculopathy,Long-term condition
+N11C.,,OSTEOARTHRITIS,,Lumbosacral spondylosis with radiculopathy,Long-term condition
+N11C0,,OSTEOARTHRITIS,,Single-level lumbosacral spondylosis with radiculopathy,Long-term condition
+N11C1,,OSTEOARTHRITIS,,Two-level lumbosacral spondylosis with radiculopathy,Long-term condition
+N11C2,,OSTEOARTHRITIS,,Multiple-level lumbosacral spondylosis with radiculopathy,Long-term condition
+N11D.,,OSTEOARTHRITIS,,Osteoarthritis of spine,Long-term condition
+N11D0,,OSTEOARTHRITIS,,Osteoarthritis of cervical spine,Long-term condition
+N11D1,,OSTEOARTHRITIS,,Osteoarthritis of thoracic spine,Long-term condition
+N11D2,,OSTEOARTHRITIS,,Osteoarthritis of lumbar spine,Long-term condition
+N11D3,,OSTEOARTHRITIS,,Osteoarthritis of spine NOS,Long-term condition
+N11E.,,OSTEOARTHRITIS,,Cervical spondylosis,Long-term condition
+N11y.,,OSTEOARTHRITIS,,Other spondyloses and allied disorders,Long-term condition
+N11z.,,OSTEOARTHRITIS,,Osteoarthritis spine,Long-term condition
+N11z0,,OSTEOARTHRITIS,,"Spondylosis without myelopathy, NOS",Long-term condition
+N11z1,,OSTEOARTHRITIS,,"Spondylosis with myelopathy, NOS",Long-term condition
+N11zz,,OSTEOARTHRITIS,,Spondylosis NOS,Long-term condition
+Nyu2.,,OSTEOARTHRITIS,,[X]Arthrosis,Long-term condition
+Nyu20,,OSTEOARTHRITIS,,[X]Other polyarthrosis,Long-term condition
+Nyu21,,OSTEOARTHRITIS,,[X]Other primary coxarthrosis,Long-term condition
+Nyu23,,OSTEOARTHRITIS,,[X]Other post-traumatic coxarthrosis,Long-term condition
+Nyu24,,OSTEOARTHRITIS,,"[X]Other secondary coxarthrosis, bilateral",Long-term condition
+Nyu25,,OSTEOARTHRITIS,,[X] Unilateral primary gonarthrosis,Long-term condition
+Nyu26,,OSTEOARTHRITIS,,[X]Other post-traumatic gonarthrosis,Long-term condition
+Nyu27,,OSTEOARTHRITIS,,"[X]Other secondary gonarthrosis, bilateral",Long-term condition
+Nyu28,,OSTEOARTHRITIS,,[X] Unilateral secondary gonarthrosis,Long-term condition
+Nyu29,,OSTEOARTHRITIS,,[X]Other primary arthrosis of first carpometacarpal joint,Long-term condition
+Nyu2A,,OSTEOARTHRITIS,,[X]Other post-traumatic arthrosis/1st carpometacarpal joint,Long-term condition
+Nyu2B,,OSTEOARTHRITIS,,"[X]Other 2ndry arthrosis/1st carpometacarpal joints,bilaterl",Long-term condition
+Nyu2C,,OSTEOARTHRITIS,,[X]Other secondary arthrosis of first carpometacarpal joint,Long-term condition
+Nyu2D,,OSTEOARTHRITIS,,[X]Other specified arthrosis,Long-term condition
+Nyu2E,,OSTEOARTHRITIS,,[X] Unilateral secondary coxarthrosis,Long-term condition
+Nyu2F,,OSTEOARTHRITIS,,[X]Post-traumatic arthrosis of other joints,Long-term condition
+Nyu62,,OSTEOARTHRITIS,,[X]Other spondylosis with myelopathy,Long-term condition
+Nyu63,,OSTEOARTHRITIS,,[X]Other spondylosis with radiculopathy,Long-term condition
+Nyu64,,OSTEOARTHRITIS,,[X]Other spondylosis,Long-term condition

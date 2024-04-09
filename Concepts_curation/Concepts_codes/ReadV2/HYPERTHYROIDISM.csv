@@ -1,0 +1,34 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1431.,,HYPERTHYROIDISM,,H/O: hyperthyroidism,Long-term condition
+212P.,,HYPERTHYROIDISM,,Hyperthyroidism resolved,Long-term condition
+C02..,,HYPERTHYROIDISM,,Thyrotoxicosis,Long-term condition
+C020.,,HYPERTHYROIDISM,,Graves' disease,Long-term condition
+C0200,,HYPERTHYROIDISM,,Toxic diffuse goitre with no crisis,Long-term condition
+C0201,,HYPERTHYROIDISM,,Toxic diffuse goitre with crisis,Long-term condition
+C020z,,HYPERTHYROIDISM,,Toxic diffuse goitre NOS,Long-term condition
+C021.,,HYPERTHYROIDISM,,Toxic uninodular goitre,Long-term condition
+C0210,,HYPERTHYROIDISM,,Toxic uninodular goitre with no crisis,Long-term condition
+C0211,,HYPERTHYROIDISM,,Toxic uninodular goitre with crisis,Long-term condition
+C021z,,HYPERTHYROIDISM,,Toxic uninodular goitre NOS,Long-term condition
+C022.,,HYPERTHYROIDISM,,Toxic multinodular goitre,Long-term condition
+C0220,,HYPERTHYROIDISM,,Toxic multinodular goitre with no crisis,Long-term condition
+C0221,,HYPERTHYROIDISM,,Toxic multinodular goitre with crisis,Long-term condition
+C022z,,HYPERTHYROIDISM,,Toxic multinodular goitre NOS,Long-term condition
+C023.,,HYPERTHYROIDISM,,Toxic nodular goitre unspecified,Long-term condition
+C0230,,HYPERTHYROIDISM,,Toxic nodular goitre unspecified with no crisis,Long-term condition
+C0231,,HYPERTHYROIDISM,,Toxic nodular goitre unspecified with crisis,Long-term condition
+C023z,,HYPERTHYROIDISM,,Toxic nodular goitre NOS,Long-term condition
+C024.,,HYPERTHYROIDISM,,Thyrotoxicosis from ectopic thyroid nodule,Long-term condition
+C0240,,HYPERTHYROIDISM,,Thyrotoxicosis from ectopic thyroid nodule with no crisis,Long-term condition
+C0241,,HYPERTHYROIDISM,,Thyrotoxicosis from ectopic thyroid nodule with crisis,Long-term condition
+C024z,,HYPERTHYROIDISM,,Thyrotoxicosis from ectopic thyroid nodule NOS,Long-term condition
+C02y.,,HYPERTHYROIDISM,,Thyrotoxicosis of other specified origin,Long-term condition
+C02y0,,HYPERTHYROIDISM,,Thyrotoxicosis of other specified origin with no crisis,Long-term condition
+C02y1,,HYPERTHYROIDISM,,Thyrotoxicosis of other specified origin with crisis,Long-term condition
+C02yz,,HYPERTHYROIDISM,,Thyrotoxicosis of other specified origin NOS,Long-term condition
+C02z.,,HYPERTHYROIDISM,,Thyrotoxicosis without mention of goitre or other cause,Long-term condition
+C02z0,,HYPERTHYROIDISM,,Thyrotoxicosis without mention of goitre or cause no crisis,Long-term condition
+C02z1,,HYPERTHYROIDISM,,"Thyrotoxicosis without mention of goitre, cause with crisis",Long-term condition
+C02zz,,HYPERTHYROIDISM,,Thyrotoxicosis NOS,Long-term condition
+F4G20,,HYPERTHYROIDISM,,Thyrotoxic exophthalmos,Long-term condition
+G5575,,HYPERTHYROIDISM,,Thyrotoxic heart disease,Long-term condition

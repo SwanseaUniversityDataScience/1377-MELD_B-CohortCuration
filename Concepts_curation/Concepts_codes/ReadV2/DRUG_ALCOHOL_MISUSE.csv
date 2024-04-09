@@ -1,0 +1,510 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+136S.,,DRUG_ALCOHOL_MISUSE,,Hazardous alcohol use,Long-term condition
+136T.,,DRUG_ALCOHOL_MISUSE,,Harmful alcohol use,Long-term condition
+13Y8.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13ZY.,,DRUG_ALCOHOL_MISUSE,,Disqualified from driving due to excess alcohol,Long-term condition
+13c..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c0.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c1.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c2.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c3.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c4.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c5.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c6.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c7.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c8.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13c9.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cA.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cB.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cC.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cD.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cE.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cF.,,DRUG_ALCOHOL_MISUSE,,Preoccupied with substance misuse,Long-term condition
+13cH.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cJ.,,DRUG_ALCOHOL_MISUSE,,Previously injecting drug user,Long-term condition
+13cK.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cM.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cM0,,DRUG_ALCOHOL_MISUSE,,Novel psychoactive substance misuse,Long-term condition
+13cM1,,DRUG_ALCOHOL_MISUSE,,Opioid analgesic dependence,Long-term condition
+13cN.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cQ.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cR.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cS.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13cT.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+13r0.,,DRUG_ALCOHOL_MISUSE,,Abstinent from drug misuse,Long-term condition
+13r1.,,DRUG_ALCOHOL_MISUSE,,Abstinent from drug misuse in normal environment,Long-term condition
+13r2.,,DRUG_ALCOHOL_MISUSE,,Abstinent from drug misuse in protected environment,Long-term condition
+13r3.,,DRUG_ALCOHOL_MISUSE,,Abstinent from drug misuse on maintenance replacement,Long-term condition
+13r4.,,DRUG_ALCOHOL_MISUSE,,Abstinent from drug misuse when receiving blocking therapy,Long-term condition
+13r5.,,DRUG_ALCOHOL_MISUSE,,Abstinent from substance misuse,Long-term condition
+1462.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1463.,,DRUG_ALCOHOL_MISUSE,,H/O: drug dependency,Long-term condition
+146E.,,DRUG_ALCOHOL_MISUSE,,H/O: recreational drug use,Long-term condition
+146F.,,DRUG_ALCOHOL_MISUSE,,H/O: drug abuse,Long-term condition
+1B1c.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1P30.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1P31.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1P6..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1P60.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1P62.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1P63.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1P64.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1T...,,DRUG_ALCOHOL_MISUSE,,History of substance misuse,Long-term condition
+1T0..,,DRUG_ALCOHOL_MISUSE,,H/O heroin misuse,Long-term condition
+1T00.,,DRUG_ALCOHOL_MISUSE,,H/O daily heroin misuse,Long-term condition
+1T01.,,DRUG_ALCOHOL_MISUSE,,H/O weekly heroin misuse,Long-term condition
+1T02.,,DRUG_ALCOHOL_MISUSE,,Previous history of heroin misuse,Long-term condition
+1T03.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent heroin misuse,Long-term condition
+1T1..,,DRUG_ALCOHOL_MISUSE,,H/O methadone misuse,Long-term condition
+1T10.,,DRUG_ALCOHOL_MISUSE,,H/O daily methadone misuse,Long-term condition
+1T11.,,DRUG_ALCOHOL_MISUSE,,H/O weekly methadone misuse,Long-term condition
+1T12.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent methadone misuse,Long-term condition
+1T13.,,DRUG_ALCOHOL_MISUSE,,Previous history of methadone misuse,Long-term condition
+1T2..,,DRUG_ALCOHOL_MISUSE,,H/O ecstasy misuse,Long-term condition
+1T20.,,DRUG_ALCOHOL_MISUSE,,H/O daily ecstasy misuse,Long-term condition
+1T21.,,DRUG_ALCOHOL_MISUSE,,H/O weekly ecstasy misuse,Long-term condition
+1T22.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent ecstasy misuse,Long-term condition
+1T23.,,DRUG_ALCOHOL_MISUSE,,Previous history of ecstasy misuse,Long-term condition
+1T3..,,DRUG_ALCOHOL_MISUSE,,H/O benzodiazepine misuse,Long-term condition
+1T30.,,DRUG_ALCOHOL_MISUSE,,H/O daily benzodiazepine misuse,Long-term condition
+1T31.,,DRUG_ALCOHOL_MISUSE,,H/O weekly benzodiazepine misuse,Long-term condition
+1T32.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent benzodiazepine misuse,Long-term condition
+1T33.,,DRUG_ALCOHOL_MISUSE,,Previous history of benzodiazepine misuse,Long-term condition
+1T4..,,DRUG_ALCOHOL_MISUSE,,H/O amphetamine misuse,Long-term condition
+1T40.,,DRUG_ALCOHOL_MISUSE,,H/O daily amphetamine misuse,Long-term condition
+1T41.,,DRUG_ALCOHOL_MISUSE,,H/O weekly amphetamine misuse,Long-term condition
+1T42.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent amphetamine misuse,Long-term condition
+1T43.,,DRUG_ALCOHOL_MISUSE,,Previous history of amphetamine misuse,Long-term condition
+1T5..,,DRUG_ALCOHOL_MISUSE,,H/O cocaine misuse,Long-term condition
+1T50.,,DRUG_ALCOHOL_MISUSE,,H/O daily cocaine misuse,Long-term condition
+1T51.,,DRUG_ALCOHOL_MISUSE,,H/O weekly cocaine misuse,Long-term condition
+1T52.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent cocaine misuse,Long-term condition
+1T53.,,DRUG_ALCOHOL_MISUSE,,Previous history of cocaine misuse,Long-term condition
+1T6..,,DRUG_ALCOHOL_MISUSE,,H/O crack cocaine misuse,Long-term condition
+1T60.,,DRUG_ALCOHOL_MISUSE,,H/O daily crack cocaine misuse,Long-term condition
+1T61.,,DRUG_ALCOHOL_MISUSE,,H/O weekly crack cocaine misuse,Long-term condition
+1T62.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent crack cocaine misuse,Long-term condition
+1T63.,,DRUG_ALCOHOL_MISUSE,,Previous history of crack cocaine misuse,Long-term condition
+1T7..,,DRUG_ALCOHOL_MISUSE,,H/O hallucinogen misuse,Long-term condition
+1T70.,,DRUG_ALCOHOL_MISUSE,,H/O daily hallucinogen misuse,Long-term condition
+1T71.,,DRUG_ALCOHOL_MISUSE,,H/O weekly hallucinogen misuse,Long-term condition
+1T72.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent hallucinogen misuse,Long-term condition
+1T73.,,DRUG_ALCOHOL_MISUSE,,Previous history of hallucinogen misuse,Long-term condition
+1T8..,,DRUG_ALCOHOL_MISUSE,,H/O cannabis misuse,Long-term condition
+1T80.,,DRUG_ALCOHOL_MISUSE,,H/O daily cannabis misuse,Long-term condition
+1T81.,,DRUG_ALCOHOL_MISUSE,,H/O weekly cannabis misuse,Long-term condition
+1T82.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent cannabis misuse,Long-term condition
+1T83.,,DRUG_ALCOHOL_MISUSE,,Previous history of cannabis misuse,Long-term condition
+1T9..,,DRUG_ALCOHOL_MISUSE,,H/O solvent misuse,Long-term condition
+1T90.,,DRUG_ALCOHOL_MISUSE,,H/O daily solvent misuse,Long-term condition
+1T91.,,DRUG_ALCOHOL_MISUSE,,H/O weekly solvent misuse,Long-term condition
+1T92.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent solvent misuse,Long-term condition
+1T93.,,DRUG_ALCOHOL_MISUSE,,Previous history of solvent misuse,Long-term condition
+1TA..,,DRUG_ALCOHOL_MISUSE,,H/O barbiturate misuse,Long-term condition
+1TA0.,,DRUG_ALCOHOL_MISUSE,,H/O daily barbiturate misuse,Long-term condition
+1TA1.,,DRUG_ALCOHOL_MISUSE,,H/O weekly barbiturate misuse,Long-term condition
+1TA2.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent barbiturate misuse,Long-term condition
+1TA3.,,DRUG_ALCOHOL_MISUSE,,Previous history of barbiturate misuse,Long-term condition
+1TB..,,DRUG_ALCOHOL_MISUSE,,H/O major tranquilliser misuse,Long-term condition
+1TB0.,,DRUG_ALCOHOL_MISUSE,,H/O daily major tranquilliser misuse,Long-term condition
+1TB1.,,DRUG_ALCOHOL_MISUSE,,H/O weekly major tranquilliser misuse,Long-term condition
+1TB2.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent major tranquilliser misuse,Long-term condition
+1TB3.,,DRUG_ALCOHOL_MISUSE,,Previous history of major tranquilliser misuse,Long-term condition
+1TC..,,DRUG_ALCOHOL_MISUSE,,H/O anti-depressant misuse,Long-term condition
+1TC0.,,DRUG_ALCOHOL_MISUSE,,H/O daily anti-depressant misuse,Long-term condition
+1TC1.,,DRUG_ALCOHOL_MISUSE,,H/O weekly anti-depressant misuse,Long-term condition
+1TC2.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent anti-depressant misuse,Long-term condition
+1TC3.,,DRUG_ALCOHOL_MISUSE,,Previous history of anti-depressant misuse,Long-term condition
+1TD..,,DRUG_ALCOHOL_MISUSE,,H/O opiate misuse,Long-term condition
+1TD0.,,DRUG_ALCOHOL_MISUSE,,H/O daily opiate misuse,Long-term condition
+1TD1.,,DRUG_ALCOHOL_MISUSE,,H/O weekly opiate misuse,Long-term condition
+1TD2.,,DRUG_ALCOHOL_MISUSE,,H/O infrequent opiate misuse,Long-term condition
+1TD3.,,DRUG_ALCOHOL_MISUSE,,Previous history of opiate misuse,Long-term condition
+1TE..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1TF..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+1TG..,,DRUG_ALCOHOL_MISUSE,,H/O novel psychoactive substance misuse,Long-term condition
+1V...,,DRUG_ALCOHOL_MISUSE,,Drug misuse behaviour,Long-term condition
+1V0..,,DRUG_ALCOHOL_MISUSE,,Misuses drugs,Long-term condition
+1V00.,,DRUG_ALCOHOL_MISUSE,,Occasional drug user,Long-term condition
+1V01.,,DRUG_ALCOHOL_MISUSE,,Long-term drug misuser,Long-term condition
+1V02.,,DRUG_ALCOHOL_MISUSE,,Poly-drug misuser,Long-term condition
+1V03.,,DRUG_ALCOHOL_MISUSE,,Misuses drugs sublingually,Long-term condition
+1V04.,,DRUG_ALCOHOL_MISUSE,,Misuses drugs rectally,Long-term condition
+1V05.,,DRUG_ALCOHOL_MISUSE,,Misuses drugs vaginally,Long-term condition
+1V0E.,,DRUG_ALCOHOL_MISUSE,,Health problem secondary to drug misuse,Long-term condition
+1V2..,,DRUG_ALCOHOL_MISUSE,,Frequency of drug misuse,Long-term condition
+1V22.,,DRUG_ALCOHOL_MISUSE,,Age at starting drug misuse,Long-term condition
+1V23.,,DRUG_ALCOHOL_MISUSE,,Time since stopped drug misuse,Long-term condition
+1V24.,,DRUG_ALCOHOL_MISUSE,,Total time drugs misused,Long-term condition
+1V26.,,DRUG_ALCOHOL_MISUSE,,Misused drugs in past,Long-term condition
+1V64.,,DRUG_ALCOHOL_MISUSE,,Illicit drug use,Long-term condition
+1V65.,,DRUG_ALCOHOL_MISUSE,,Heroin misuse,Long-term condition
+1V66.,,DRUG_ALCOHOL_MISUSE,,Ecstasy misuse,Long-term condition
+2126C,,DRUG_ALCOHOL_MISUSE,,Alcohol dependence resolved,Long-term condition
+66e..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+66e0.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+67H3.,,DRUG_ALCOHOL_MISUSE,,Lifestyle advice regarding drug misuse,Long-term condition
+68U..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+68U0.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+7P221,,DRUG_ALCOHOL_MISUSE,,Delivery of rehabilitation for alcohol addiction,Long-term condition
+8AA..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8B23.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8B2N.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8B2P.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8B2Q.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8B2R.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8B2S.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8B2T.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8BA8.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8BA9.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8BAW.,,DRUG_ALCOHOL_MISUSE,,Drug dependence self detoxification,Long-term condition
+8BAX.,,DRUG_ALCOHOL_MISUSE,,Drug dependence home detoxification,Long-term condition
+8BAc.,,DRUG_ALCOHOL_MISUSE,,Substance misuse management stopped - self withdrawal,Long-term condition
+8BAd.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8BAo.,,DRUG_ALCOHOL_MISUSE,,Benzodiazepine dependence detoxification,Long-term condition
+8BE0.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8BE1.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8FB..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8FB0.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8G22.,,DRUG_ALCOHOL_MISUSE,,Famly intrvntn substnce misuse,Long-term condition
+8G32.,,DRUG_ALCOHOL_MISUSE,,Aversion therapy - alcoholism,Long-term condition
+8H35.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8H7p.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8HkG.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8HkJ.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+8Hq..,,DRUG_ALCOHOL_MISUSE,,Admission to substance misuse detoxification centre,Long-term condition
+8I2N.,,DRUG_ALCOHOL_MISUSE,,Drug dependence home detoxification contraindicated,Long-term condition
+8IAF.,,DRUG_ALCOHOL_MISUSE,,Brief intervention for excessive alcohol consumptn declined,Long-term condition
+8IAt.,,DRUG_ALCOHOL_MISUSE,,Extended interven for excessive alcohol consumption declined,Long-term condition
+8T24.,,DRUG_ALCOHOL_MISUSE,,Ref brf intvntn sbstnce misuse,Long-term condition
+8T25.,,DRUG_ALCOHOL_MISUSE,,Ref splst sbstce misuse intvtn,Long-term condition
+9HC..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+9HC0.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+9HC1.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+9HC2.,,DRUG_ALCOHOL_MISUSE,,Substance misuse clinical management plan agreed,Long-term condition
+9HC3.,,DRUG_ALCOHOL_MISUSE,,Substance misuse clinical management plan reviewed,Long-term condition
+9HC4.,,DRUG_ALCOHOL_MISUSE,,Substance misuse treatment withdrawn,Long-term condition
+9HC5.,,DRUG_ALCOHOL_MISUSE,,Substance misuse treatment programme completed,Long-term condition
+9HC6.,,DRUG_ALCOHOL_MISUSE,,Substance misuse treatment declined,Long-term condition
+9HC7.,,DRUG_ALCOHOL_MISUSE,,Substance misuse treatment not available,Long-term condition
+9HC8.,,DRUG_ALCOHOL_MISUSE,,Declined to give substance misuse history,Long-term condition
+9HCC.,,DRUG_ALCOHOL_MISUSE,,On substance misuse programme,Long-term condition
+9N1yJ,,DRUG_ALCOHOL_MISUSE,,Seen in drug misuse clinic,Long-term condition
+9NN2.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+9NX2.,,DRUG_ALCOHOL_MISUSE,,In-house substance misuse treatment,Long-term condition
+9NdN.,,DRUG_ALCOHOL_MISUSE,,Declined consent for notification of drug misuse,Long-term condition
+9No5.,,DRUG_ALCOHOL_MISUSE,,Seen in substance misuse clinic,Long-term condition
+9k1A.,,DRUG_ALCOHOL_MISUSE,,Brief intervention for excessive alcohol consumptn completed,Long-term condition
+9k1B.,,DRUG_ALCOHOL_MISUSE,,Extended intervention for excessive alcohol consumptn complt,Long-term condition
+9k50.,,DRUG_ALCOHOL_MISUSE,,Drug misuse - enhanced service completed,Long-term condition
+9k51.,,DRUG_ALCOHOL_MISUSE,,Shared care drug misuse treatment - enhanced services admin,Long-term condition
+9k52.,,DRUG_ALCOHOL_MISUSE,,Drug misuse treatment primary care - enhanced services admin,Long-term condition
+9k53.,,DRUG_ALCOHOL_MISUSE,,Pharmacy attended for drug misuse - enhanced services admin,Long-term condition
+C1505,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E01..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E010.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E011.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E0110,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E0111,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E0112,,DRUG_ALCOHOL_MISUSE,,Wernicke-Korsakov syndrome,Long-term condition
+E011z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E012.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E0120,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E013.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E014.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E015.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E01y.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E01y0,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E01yz,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E01z.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E02..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E020.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E021.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E0210,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E0211,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E021z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E022.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E02y.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E02y0,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E02y1,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E02y2,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E02y3,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E02y4,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E02yz,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E02z.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E23..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E230.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2300,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2301,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2302,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2303,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E230z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E231.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2310,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2311,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2312,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2313,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E231z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E23z.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E24..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E240.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2400,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2401,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2402,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2403,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E240z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E241.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2410,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2411,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2412,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2413,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E241z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E242.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2420,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2421,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2422,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2423,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E242z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E243.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2430,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2431,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2432,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2433,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E243z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E244.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2440,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2441,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2442,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2443,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E244z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E245.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2450,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2451,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2452,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2453,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E245z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E246.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2460,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2461,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2462,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2463,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E246z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E247.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2470,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2471,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2472,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2473,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E247z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E248.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2480,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2481,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2482,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2483,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E248z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E249.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2490,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2491,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2492,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2493,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E249z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E24A.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E24z.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E25..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E250.,,DRUG_ALCOHOL_MISUSE,,Nondependent alcohol abuse,Long-term condition
+E2500,,DRUG_ALCOHOL_MISUSE,,"Nondependent alcohol abuse, unspecified",Long-term condition
+E2501,,DRUG_ALCOHOL_MISUSE,,"Nondependent alcohol abuse, continuous",Long-term condition
+E2502,,DRUG_ALCOHOL_MISUSE,,"Nondependent alcohol abuse, episodic",Long-term condition
+E2503,,DRUG_ALCOHOL_MISUSE,,Nondependent alcohol abuse in remission,Long-term condition
+E250z,,DRUG_ALCOHOL_MISUSE,,Nondependent alcohol abuse NOS,Long-term condition
+E252.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2520,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2521,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2522,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2523,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E252z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E253.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2530,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2531,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2532,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2533,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E253z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E254.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2540,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2541,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2542,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2543,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E254z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E255.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2550,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2551,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2552,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2553,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E255z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E256.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2560,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2561,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2562,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2563,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E256z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E257.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2570,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2571,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2572,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2573,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E257z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E258.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2580,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2581,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2582,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2583,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E258z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E259.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2590,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2591,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2592,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2593,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E2594,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E259z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E25y.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E25y0,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E25y1,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E25y2,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E25y3,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E25yz,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+E25z.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu04.,,DRUG_ALCOHOL_MISUSE,,"[X]Delirium, not induced by alcohol+other psychoactive subs",Long-term condition
+Eu1..,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu10.,,DRUG_ALCOHOL_MISUSE,,[X]Mental and behavioural disorders due to use of alcohol,Long-term condition
+Eu100,,DRUG_ALCOHOL_MISUSE,,[X]Acute alcoholic drunkenness,Long-term condition
+Eu101,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu102,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu103,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu104,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu105,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu106,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu107,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu108,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu10y,,DRUG_ALCOHOL_MISUSE,,[X]Men & behav dis due to use alcohol: oth men & behav dis,Long-term condition
+Eu10z,,DRUG_ALCOHOL_MISUSE,,[X]Ment & behav dis due use alcohol: unsp ment & behav dis,Long-term condition
+Eu11.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu110,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu111,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu112,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu113,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu114,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu115,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu116,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu117,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu11y,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu11z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu12.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu120,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu121,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu122,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu123,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu124,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu125,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu126,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu127,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu12y,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu12z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu13.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu130,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu131,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu132,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu133,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu134,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu135,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu136,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu137,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu13y,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu13z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu14.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu140,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu141,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu142,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu143,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu144,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu145,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu146,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu147,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu14y,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu14z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu16.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu160,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu161,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu162,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu163,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu164,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu165,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu166,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu167,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu16y,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu16z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu18.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu180,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu181,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu182,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu183,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu184,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu185,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu186,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu187,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu18y,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu18z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu19.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu190,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu191,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu192,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu193,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu194,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu195,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu196,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu197,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu19y,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu19z,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1A.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1A0,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1A1,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1A2,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1A3,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1A4,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1A5,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1A6,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1A7,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1Ay,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu1Az,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+Eu55.,,DRUG_ALCOHOL_MISUSE,,[X]Abuse of steroids or hormones,Long-term condition
+F11x0,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+F1440,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+F25B.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+F375.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+F3941,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+G555.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+G801E,,DRUG_ALCOHOL_MISUSE,,Deep vein thrombosis of leg related to intravenous drug use,Long-term condition
+G8523,,DRUG_ALCOHOL_MISUSE,,Oesophageal varices in alcoholic cirrhosis of the liver,Long-term condition
+J153.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+J610.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+J611.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+J612.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+J6120,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+J613.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+J6130,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+J615.,,DRUG_ALCOHOL_MISUSE,,Cirrhosis - non alcoholic,Long-term condition
+J617.,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+J6170,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+J6708,,DRUG_ALCOHOL_MISUSE,,Alcohol-induced acute pancreatitis,Long-term condition
+J6710,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+L183.,,DRUG_ALCOHOL_MISUSE,,Pregnancy and drug dependence,Long-term condition
+L1830,,DRUG_ALCOHOL_MISUSE,,Drug dependence - unspec whether during pregnancy/puerperium,Long-term condition
+L1831,,DRUG_ALCOHOL_MISUSE,,Drug dependence during pregnancy - baby delivered,Long-term condition
+L1832,,DRUG_ALCOHOL_MISUSE,,Drug dependence in the puerperium - baby delivered,Long-term condition
+L1833,,DRUG_ALCOHOL_MISUSE,,Drug dependence during pregnancy - baby not yet delivered,Long-term condition
+L1834,,DRUG_ALCOHOL_MISUSE,,Drug dependence in puerperium - baby previously delivered,Long-term condition
+Q4850,,DRUG_ALCOHOL_MISUSE,,Neonat withdrawal symptom from mat use of drug of addiction,Long-term condition
+U6097,,DRUG_ALCOHOL_MISUSE,,[X]Psychostim with abuse potentl caus advers eff therap use,Long-term condition
+ZV113,,DRUG_ALCOHOL_MISUSE,,[V]Personal history of alcoholism,Long-term condition
+ZV114,,DRUG_ALCOHOL_MISUSE,,,Long-term condition
+ZV115,,DRUG_ALCOHOL_MISUSE,,[V]Personal history of drug abuse by injection,Long-term condition
+ZV4K1,,DRUG_ALCOHOL_MISUSE,,[V]Drug use,Long-term condition
+ZVu54,,DRUG_ALCOHOL_MISUSE,,[X]Other problems related to care provider dependency,Long-term condition

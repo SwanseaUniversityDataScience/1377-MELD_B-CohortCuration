@@ -1,0 +1,255 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14NB.,,PVD,,,Long-term condition
+1M110,,PVD,,Ischaemic foot pain at rest,Long-term condition
+1M111,,PVD,,Ischaemic foot pain when walking,Long-term condition
+2G63.,,PVD,,Ischaemic toe,Long-term condition
+5593.,,PVD,,Femoral arteriogram abnormal,Long-term condition
+55A2.,,PVD,,Lower limb arteriogram abnorm.,Long-term condition
+727A4,,PVD,,Scanning laser ophthalmoscopy evaluation of retina,Long-term condition
+7A10.,,PVD,,Extraanatomic bypass of aorta,Long-term condition
+7A100,,PVD,,Emerg aortic bypass by anastomosis axillary to femoral art,Long-term condition
+7A101,,PVD,,Bypass aorta by anastomosis axillary to femoral artery NEC,Long-term condition
+7A102,,PVD,,Axillo-bifemoral bypass graft,Long-term condition
+7A103,,PVD,,Axillo-unifemoral PTFE bypass graft,Long-term condition
+7A104,,PVD,,Bypass aorta anastomosis axillary artery bi femoral arteries,Long-term condition
+7A10y,,PVD,,Other specified extraanatomic bypass of aorta,Long-term condition
+7A10z,,PVD,,Extraanatomic bypass of aorta NOS,Long-term condition
+7A192,,PVD,,Open embolectomy of bifurcation of aorta,Long-term condition
+7A4..,,PVD,,Iliac and femoral artery operations,Long-term condition
+7A40.,,PVD,,Replacement of aneurysmal iliac artery,Long-term condition
+7A400,,PVD,,Emerg replace aneurysm iliac art by iliac/femoral art anast,Long-term condition
+7A401,,PVD,,Replace aneurysmal iliac art by iliac/femoral art anast NEC,Long-term condition
+7A402,,PVD,,Emerg replace aneurysmal iliac artery by fem/fem art anast,Long-term condition
+7A403,,PVD,,Replace aneurysmal iliac artery by fem/fem artery anast NEC,Long-term condition
+7A404,,PVD,,Emerg replace aneurys com iliac a by aorta/com iliac a anast,Long-term condition
+7A405,,PVD,,Emerg replace aneurys iliac art by aorta/ext iliac art anast,Long-term condition
+7A406,,PVD,,Emerg replace aneurysm leg artery by aorta/com fem art anast,Long-term condition
+7A407,,PVD,,Emerg replace aneurysm leg artery by aorta/sup fem art anast,Long-term condition
+7A408,,PVD,,Emerg replace aneurysm iliac artery by iliac/iliac art anast,Long-term condition
+7A409,,PVD,,Replace aneurysm com iliac a by aorta/com iliac a anast NEC,Long-term condition
+7A40A,,PVD,,Replace aneurysm iliac art by aorta/ext iliac art anast NEC,Long-term condition
+7A40B,,PVD,,Replace aneurysm leg artery by aorta/com fem art anast NEC,Long-term condition
+7A40C,,PVD,,Replace aneurysm leg artery by aorta/sup fem art anast NEC,Long-term condition
+7A40D,,PVD,,Replace aneurysm iliac artery by iliac/iliac art anast NEC,Long-term condition
+7A40y,,PVD,,Other specified replacement of aneurysmal iliac artery,Long-term condition
+7A40z,,PVD,,Replacement of aneurysmal iliac artery NOS,Long-term condition
+7A41.,,PVD,,Other bypass of iliac artery,Long-term condition
+7A410,,PVD,,Emerg bypass iliac art by iliac/femoral art anastomosis NEC,Long-term condition
+7A411,,PVD,,Bypass iliac artery by iliac/femoral artery anastomosis NEC,Long-term condition
+7A412,,PVD,,Emergency femoro-femoral prosthetic cross over graft,Long-term condition
+7A413,,PVD,,Femoro-femoral prosthetic cross over graft,Long-term condition
+7A414,,PVD,,Emerg bypass comm iliac art by aorta/com iliac art anast NEC,Long-term condition
+7A415,,PVD,,Emerg bypass iliac artery by aorta/ext iliac art anast NEC,Long-term condition
+7A416,,PVD,,Emerg bypass leg artery by aorta/com fem art anastomosis NEC,Long-term condition
+7A417,,PVD,,Emerg bypass leg artery by aorta/deep fem anastomosis NEC,Long-term condition
+7A418,,PVD,,Emerg bypass iliac artery by iliac/iliac art anastomosis NEC,Long-term condition
+7A419,,PVD,,Bypass common iliac artery by aorta/com iliac art anast NEC,Long-term condition
+7A41A,,PVD,,Bypass iliac artery by aorta/ext iliac art anastomosis NEC,Long-term condition
+7A41B,,PVD,,Bypass leg artery by aorta/com femoral art anastomosis NEC,Long-term condition
+7A41C,,PVD,,Bypass leg artery by aorta/deep femoral art anastomosis NEC,Long-term condition
+7A41D,,PVD,,Bypass iliac artery by iliac/iliac artery anastomosis NEC,Long-term condition
+7A41E,,PVD,,Emergency bypass of iliac artery by unspecified anastomosis,Long-term condition
+7A41F,,PVD,,Ilio-femoral prosthetic cross over graft,Long-term condition
+7A41y,,PVD,,Other specified other bypass of iliac artery,Long-term condition
+7A41z,,PVD,,Other bypass of iliac artery NOS,Long-term condition
+7A42.,,PVD,,Reconstruction of iliac artery,Long-term condition
+7A420,,PVD,,Endarterectomy and patch repair of common iliac artery,Long-term condition
+7A421,,PVD,,Endarterectomy of common iliac artery NEC,Long-term condition
+7A42y,,PVD,,Other specified reconstruction of iliac artery,Long-term condition
+7A42z,,PVD,,Reconstruction of iliac artery NOS,Long-term condition
+7A43.,,PVD,,Other open operations on iliac artery,Long-term condition
+7A430,,PVD,,Repair of iliac artery NEC,Long-term condition
+7A431,,PVD,,Open embolectomy of common iliac artery,Long-term condition
+7A432,,PVD,,Operation on aneurysm of iliac artery NEC,Long-term condition
+7A433,,PVD,,Open insertion of iliac artery stent,Long-term condition
+7A43y,,PVD,,Other specified other open operation on iliac artery,Long-term condition
+7A43z,,PVD,,Other open operation on iliac artery NOS,Long-term condition
+7A44.,,PVD,,Transluminal operations on iliac artery,Long-term condition
+7A440,,PVD,,Percutaneous transluminal angioplasty of iliac artery,Long-term condition
+7A441,,PVD,,Percutaneous transluminal embolectomy of iliac artery,Long-term condition
+7A442,,PVD,,Arteriography of common iliac artery,Long-term condition
+7A443,,PVD,,Insertion of iliac artery stent,Long-term condition
+7A444,,PVD,,Percutaneous transluminal insertion of iliac artery stent,Long-term condition
+7A44y,,PVD,,Other specified transluminal operation on iliac artery,Long-term condition
+7A44z,,PVD,,Transluminal operation on iliac artery NOS,Long-term condition
+7A45.,,PVD,,Emergency replacement of aneurysmal popliteal artery,Long-term condition
+7A450,,PVD,,Emerg replace aneurysm fem art by fem/pop art anast c prosth,Long-term condition
+7A451,,PVD,,Emerg replace aneurysm pop art by pop/pop art anast c prosth,Long-term condition
+7A452,,PVD,,Emerg replace aneurysm fem art by fem/pop anast c vein graft,Long-term condition
+7A453,,PVD,,Emerg replace aneurys pop art by pop/pop a anast c vein graf,Long-term condition
+7A454,,PVD,,Emerg replace aneurysm femoral art by fem/tib a anast c pros,Long-term condition
+7A455,,PVD,,Emerg replace aneurysm pop art by pop/tib art anast c prosth,Long-term condition
+7A456,,PVD,,Emerg replace aneurys fem art by fem/tib a anast c vein graf,Long-term condition
+7A457,,PVD,,Emerg replace aneurysm pop art by pop/tib anast c vein graft,Long-term condition
+7A458,,PVD,,Emerg replace aneurysm fem art by fem/peron a anast c prosth,Long-term condition
+7A459,,PVD,,Emerg replace aneurysm pop art by pop/peron a anast c prosth,Long-term condition
+7A45A,,PVD,,Emerg replace aneur fem art by fem/peron a anast c vein graf,Long-term condition
+7A45B,,PVD,,Emerg replace aneur pop art by pop/peron a anast c vein graf,Long-term condition
+7A45C,,PVD,,Emerg replace aneurysm fem artery by fem/fem art anastomosis,Long-term condition
+7A45D,,PVD,,Emerg replace aneurysm pop artery by pop/fem art anastomosis,Long-term condition
+7A45y,,PVD,,Emergency replacement aneurysmal femoral/popliteal artery OS,Long-term condition
+7A45z,,PVD,,Emergency replacement aneurysmal femoral/popliteal art NOS,Long-term condition
+7A46.,,PVD,,Other replacement of aneurysmal popliteal artery,Long-term condition
+7A460,,PVD,,Replace aneurysm fem art by fem/pop art anastom c prosth NEC,Long-term condition
+7A461,,PVD,,Replace aneurysm pop art by pop/pop art anastom c prosth NEC,Long-term condition
+7A462,,PVD,,Replace aneurysm fem art by fem/pop a anast c vein graft NEC,Long-term condition
+7A463,,PVD,,Replace aneurysm pop art by pop/pop a anast c vein graft NEC,Long-term condition
+7A464,,PVD,,Replace aneurysm fem art by fem/tib art anast c prosth NEC,Long-term condition
+7A465,,PVD,,Replace aneurysm pop art by pop/tib art anast c prosth NEC,Long-term condition
+7A466,,PVD,,Replace aneurysm fem art by fem/tib a anast c vein graft NEC,Long-term condition
+7A467,,PVD,,Replace aneurysm pop art by pop/tib a anast c vein graft NEC,Long-term condition
+7A468,,PVD,,Replace aneurysm fem art by fem/peron art anast c prosth NEC,Long-term condition
+7A469,,PVD,,Replace aneurysm pop art by pop/peron art anast c prosth NEC,Long-term condition
+7A46A,,PVD,,Replace aneurys fem art by fem/peron a anast c vein graf NEC,Long-term condition
+7A46B,,PVD,,Replace aneurys pop art by pop/peron a anast c vein graf NEC,Long-term condition
+7A46C,,PVD,,Replace aneurysm fem artery by fem/fem art anastomosis NEC,Long-term condition
+7A46D,,PVD,,Replace aneurysm popliteal artery by pop/fem anastomosis NEC,Long-term condition
+7A46y,,PVD,,Other replacement of aneurysmal femoral/popliteal artery OS,Long-term condition
+7A46z,,PVD,,Other replacement of aneurysmal femoral/popliteal artery NOS,Long-term condition
+7A47.,,PVD,,Other emergency bypass of femoral artery or popliteal artery,Long-term condition
+7A470,,PVD,,Emerg bypass femoral art by fem/pop art anast c prosth NEC,Long-term condition
+7A471,,PVD,,Emerg bypass popliteal art by pop/pop art anast c prosth NEC,Long-term condition
+7A472,,PVD,,Emerg bypass femoral art by fem/pop a anast c vein graft NEC,Long-term condition
+7A473,,PVD,,Emerg bypass pop art by pop/pop art anast c vein graft NEC,Long-term condition
+7A474,,PVD,,Emerg bypass femoral art by fem/tib art anast c prosth NEC,Long-term condition
+7A475,,PVD,,Emerg bypass popliteal art by pop/tib art anast c prosth NEC,Long-term condition
+7A476,,PVD,,Emerg bypass femoral art by fem/tib a anast c vein graft NEC,Long-term condition
+7A477,,PVD,,Emerg bypass pop art by pop/tib art anast c vein graft NEC,Long-term condition
+7A478,,PVD,,Emerg bypass femoral art by fem/peron art anast c prosth NEC,Long-term condition
+7A479,,PVD,,Emerg bypass popliteal art by pop/peron a anast c prosth NEC,Long-term condition
+7A47A,,PVD,,Emerg bypass fem art by fem/peron a anast c vein graft NEC,Long-term condition
+7A47B,,PVD,,Emerg bypass pop art by pop/peron art anast c vein graft NEC,Long-term condition
+7A47C,,PVD,,Emerg bypass femoral artery by fem/fem art anastomosis NEC,Long-term condition
+7A47D,,PVD,,Emerg bypass popliteal artery by pop/fem art anastomosis NEC,Long-term condition
+7A47y,,PVD,,Other emergency bypass of femoral or popliteal artery OS,Long-term condition
+7A47z,,PVD,,Other emergency bypass of femoral or popliteal artery NOS,Long-term condition
+7A48.,,PVD,,Other bypass of popliteal artery,Long-term condition
+7A480,,PVD,,Bypass femoral artery by fem/pop art anast c prosthesis NEC,Long-term condition
+7A481,,PVD,,Bypass popliteal artery by pop/pop a anast c prosthesis NEC,Long-term condition
+7A482,,PVD,,Bypass femoral artery by fem/pop art anast c vein graft NEC,Long-term condition
+7A483,,PVD,,Bypass popliteal artery by pop/pop a anast c vein graft NEC,Long-term condition
+7A484,,PVD,,Bypass femoral artery by fem/tib art anast c prosthesis NEC,Long-term condition
+7A485,,PVD,,Bypass popliteal artery by pop/tib a anast c prosthesis NEC,Long-term condition
+7A486,,PVD,,Bypass femoral artery by fem/tib art anast c vein graft NEC,Long-term condition
+7A487,,PVD,,Bypass popliteal artery by pop/tib a anast c vein graft NEC,Long-term condition
+7A488,,PVD,,Bypass femoral artery by fem/peron a anast c prosthesis NEC,Long-term condition
+7A489,,PVD,,Bypass popliteal artery by pop/peron art anast c prosth NEC,Long-term condition
+7A48A,,PVD,,Bypass femoral artery by fem/peron a anast c vein graft NEC,Long-term condition
+7A48B,,PVD,,Bypass popliteal art by pop/peron art anast c vein graft NEC,Long-term condition
+7A48C,,PVD,,Bypass femoral artery by femoral/femoral art anastomosis NEC,Long-term condition
+7A48D,,PVD,,Bypass popliteal artery by pop/fem artery anastomosis NEC,Long-term condition
+7A48E,,PVD,,Femoro-femoral prosthetic cross over graft,Long-term condition
+7A48y,,PVD,,Other bypass of femoral artery or popliteal artery OS,Long-term condition
+7A48z,,PVD,,Other bypass of femoral artery or popliteal artery NOS,Long-term condition
+7A49.,,PVD,,Reconstruction of popliteal artery,Long-term condition
+7A490,,PVD,,Endarterectomy and patch repair of femoral artery,Long-term condition
+7A491,,PVD,,Endarterectomy and patch repair of popliteal artery,Long-term condition
+7A492,,PVD,,Endarterectomy of femoral artery NEC,Long-term condition
+7A493,,PVD,,Endarterectomy of popliteal artery NEC,Long-term condition
+7A494,,PVD,,Profundoplasty femoral artery & patch repair deep fem artery,Long-term condition
+7A495,,PVD,,Profundoplasty and patch repair of popliteal artery,Long-term condition
+7A496,,PVD,,Profundoplasty of femoral artery NEC,Long-term condition
+7A497,,PVD,,Profundoplasty of popliteal artery NEC,Long-term condition
+7A498,,PVD,,Reconstruction of femoral artery with vein graft,Long-term condition
+7A499,,PVD,,Reconstruction of popliteal artery with vein graft,Long-term condition
+7A49y,,PVD,,Reconstruction of femoral or popliteal artery OS,Long-term condition
+7A49z,,PVD,,Reconstruction of femoral or popliteal artery NOS,Long-term condition
+7A4A.,,PVD,,Other open operations on popliteal artery,Long-term condition
+7A4A0,,PVD,,Repair of femoral artery NEC,Long-term condition
+7A4A1,,PVD,,Repair of popliteal artery NEC,Long-term condition
+7A4A2,,PVD,,Open embolectomy of femoral artery,Long-term condition
+7A4A3,,PVD,,Open embolectomy popliteal artery,Long-term condition
+7A4A4,,PVD,,Ligation of aneurysm of popliteal artery,Long-term condition
+7A4A5,,PVD,,Operation on aneurysm of femoral artery NEC,Long-term condition
+7A4A6,,PVD,,Operation on popliteal artery NEC,Long-term condition
+7A4A7,,PVD,,Repair of femoral artery with temporary silastic shunt,Long-term condition
+7A4A8,,PVD,,Repair of popliteal artery with temporary silastic shunt,Long-term condition
+7A4Ay,,PVD,,Other open operation on femoral or popliteal artery OS,Long-term condition
+7A4Az,,PVD,,Other open operation on femoral or popliteal artery NOS,Long-term condition
+7A4B.,,PVD,,Transluminal operations on femoral or popliteal artery,Long-term condition
+7A4B0,,PVD,,Percutaneous transluminal angioplasty of femoral artery,Long-term condition
+7A4B1,,PVD,,Percutaneous transluminal angioplasty of popliteal artery,Long-term condition
+7A4B2,,PVD,,Percutaneous transluminal embolectomy of femoral artery,Long-term condition
+7A4B3,,PVD,,Percutaneous transluminal embolectomy of popliteal artery,Long-term condition
+7A4B4,,PVD,,Percutaneous transluminal embolisation of femoral artery,Long-term condition
+7A4B5,,PVD,,Percutaneous transluminal embolisation of popliteal artery,Long-term condition
+7A4B6,,PVD,,Arteriography of femoral artery,Long-term condition
+7A4B7,,PVD,,Arteriography of popliteal artery,Long-term condition
+7A4B8,,PVD,,Percut translum thrombolysis femoral graft streptokinase,Long-term condition
+7A4B9,,PVD,,Percutaneous transluminal insertion of stent femoral artery,Long-term condition
+7A4By,,PVD,,Transluminal operation on femoral or popliteal artery OS,Long-term condition
+7A4Bz,,PVD,,Transluminal operation on femoral or popliteal artery NOS,Long-term condition
+7A4y.,,PVD,,Other specified operations on iliac and femoral artery,Long-term condition
+7A4z.,,PVD,,Iliac and femoral artery operations NOS,Long-term condition
+7A50.,,PVD,,Revision of reconstruction of artery,Long-term condition
+7A500,,PVD,,Revision of reconstruction involving aorta,Long-term condition
+7A501,,PVD,,Revision of reconstruction involving iliac artery,Long-term condition
+7A502,,PVD,,Revision of reconstruction involving femoral artery,Long-term condition
+7A503,,PVD,,Revision of reconstruction of popliteal artery,Long-term condition
+7A50y,,PVD,,Other specified revision of reconstruction of artery,Long-term condition
+7A50z,,PVD,,Revision of reconstruction of artery NOS,Long-term condition
+C107.,,PVD,,Diabetes mellitus with gangrene,Long-term condition
+C1070,,PVD,,"Diabetes mellitus, juvenile +peripheral circulatory disorder",Long-term condition
+C1071,,PVD,,"Diabetes mellitus, adult, + peripheral circulatory disorder",Long-term condition
+C1072,,PVD,,"Diabetes mellitus, adult with gangrene",Long-term condition
+C1073,,PVD,,IDDM with peripheral circulatory disorder,Long-term condition
+C1074,,PVD,,NIDDM with peripheral circulatory disorder,Long-term condition
+C107z,,PVD,,Diabetes mellitus NOS with peripheral circulatory disorder,Long-term condition
+C1086,,PVD,,Insulin dependent diabetes mellitus with gangrene,Long-term condition
+C108G,,PVD,,Insulin dependent diab mell with peripheral angiopathy,Long-term condition
+C1095,,PVD,,Non-insulin dependent diabetes mellitus with gangrene,Long-term condition
+C109F,,PVD,,Non-insulin-dependent d m with peripheral angiopath,Long-term condition
+C10E6,,PVD,,Type 1 diabetes mellitus with gangrene,Long-term condition
+C10EG,,PVD,,Type 1 diabetes mellitus with peripheral angiopathy,Long-term condition
+C10F5,,PVD,,Type 2 diabetes mellitus with gangrene,Long-term condition
+C10FF,,PVD,,Type 2 diabetes mellitus with peripheral angiopathy,Long-term condition
+G702.,,PVD,,,Long-term condition
+G702z,,PVD,,,Long-term condition
+G73..,,PVD,,,Long-term condition
+G730.,,PVD,,,Long-term condition
+G7300,,PVD,,,Long-term condition
+G7301,,PVD,,,Long-term condition
+G730z,,PVD,,,Long-term condition
+G731.,,PVD,,,Long-term condition
+G7310,,PVD,,,Long-term condition
+G7311,,PVD,,,Long-term condition
+G731z,,PVD,,,Long-term condition
+G732.,,PVD,,,Long-term condition
+G7320,,PVD,,,Long-term condition
+G7321,,PVD,,,Long-term condition
+G7322,,PVD,,,Long-term condition
+G7323,,PVD,,,Long-term condition
+G7324,,PVD,,,Long-term condition
+G733.,,PVD,,,Long-term condition
+G734.,,PVD,,Peripheral arterial disease,Long-term condition
+G73y.,,PVD,,,Long-term condition
+G73y0,,PVD,,,Long-term condition
+G73y1,,PVD,,,Long-term condition
+G73y2,,PVD,,,Long-term condition
+G73y4,,PVD,,,Long-term condition
+G73y5,,PVD,,,Long-term condition
+G73y6,,PVD,,,Long-term condition
+G73y7,,PVD,,,Long-term condition
+G73y8,,PVD,,,Long-term condition
+G73yz,,PVD,,,Long-term condition
+G73z.,,PVD,,,Long-term condition
+G73z0,,PVD,,,Long-term condition
+G73zz,,PVD,,,Long-term condition
+G742z,,PVD,,Peripheral arterial embolism and thrombosis NOS,Long-term condition
+G830.,,PVD,,,Long-term condition
+G831.,,PVD,,,Long-term condition
+G832.,,PVD,,,Long-term condition
+G833.,,PVD,,,Long-term condition
+G835.,,PVD,,,Long-term condition
+G836.,,PVD,,,Long-term condition
+G837.,,PVD,,,Long-term condition
+G8y1.,,PVD,,,Long-term condition
+G8y3.,,PVD,,,Long-term condition
+G8yy0,,PVD,,,Long-term condition
+Gyu74,,PVD,,,Long-term condition
+Gyu7A,,PVD,,[X]Peripheral angiopathy in diseases classified elsewhere,Long-term condition
+M271.,,PVD,,Ischaemic leg ulcer,Long-term condition
+M2710,,PVD,,Ischaemic ulcer diabetic foot,Long-term condition
+P76..,,PVD,,,Long-term condition
+R0542,,PVD,,[D]Gangrene of toe in diabetic,Long-term condition
+R0543,,PVD,,[D]Widespread diabetic foot gangrene,Long-term condition

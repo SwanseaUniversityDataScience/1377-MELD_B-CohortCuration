@@ -1,0 +1,58 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14G1.,,RHEUMATOID_ARTHRITIS,,H/O: rheumatoid arthritis,Long-term condition
+38DZ.,,RHEUMATOID_ARTHRITIS,,Disease activity score in rheumatoid arthritis,Long-term condition
+38DZ0,,RHEUMATOID_ARTHRITIS,,Disease activity score 28 joint in rheumatoid arthritis,Long-term condition
+66HB0,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis annual review,Long-term condition
+7P203,,RHEUMATOID_ARTHRITIS,,Delivery of rehabilitation for rheumatoid arthritis,Long-term condition
+9hR..,,RHEUMATOID_ARTHRITIS,,Exception reporting: rheumatoid arthritis quality indicators,Long-term condition
+9hR0.,,RHEUMATOID_ARTHRITIS,,Except rheumatoid arthritis quality indicator: pt unsuitable,Long-term condition
+9hR1.,,RHEUMATOID_ARTHRITIS,,Except rheumatoid arthritis qual indicator: informed dissent,Long-term condition
+9mM..,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis monitoring invitation,Long-term condition
+9mM0.,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis monitoring invitation first letter,Long-term condition
+9mM1.,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis monitoring invitation second letter,Long-term condition
+9mM2.,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis monitoring invitation third letter,Long-term condition
+9mM3.,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis monitoring verbal invitation,Long-term condition
+9mM4.,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis monitoring telephone invitation,Long-term condition
+F3712,,RHEUMATOID_ARTHRITIS,,Polyneuropathy in rheumatoid arthritis,Long-term condition
+F3964,,RHEUMATOID_ARTHRITIS,,Myopathy due to rheumatoid arthritis,Long-term condition
+H570.,,RHEUMATOID_ARTHRITIS,,Rheumatoid lung,Long-term condition
+N04..,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis and other inflammatory polyarthropathy,Long-term condition
+N040.,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis,Long-term condition
+N0400,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of cervical spine,Long-term condition
+N0401,,RHEUMATOID_ARTHRITIS,,Other rheumatoid arthritis of spine,Long-term condition
+N0402,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of shoulder,Long-term condition
+N0403,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of sternoclavicular joint,Long-term condition
+N0404,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of acromioclavicular joint,Long-term condition
+N0405,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of elbow,Long-term condition
+N0406,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of distal radio-ulnar joint,Long-term condition
+N0407,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of wrist,Long-term condition
+N0408,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of MCP joint,Long-term condition
+N0409,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of PIP joint of finger,Long-term condition
+N040A,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of DIP joint of finger,Long-term condition
+N040B,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of hip,Long-term condition
+N040C,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of sacro-iliac joint,Long-term condition
+N040D,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of knee,Long-term condition
+N040E,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of tibio-fibular joint,Long-term condition
+N040F,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of ankle,Long-term condition
+N040G,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of subtalar joint,Long-term condition
+N040H,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of talonavicular joint,Long-term condition
+N040J,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of other tarsal joint,Long-term condition
+N040K,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of 1st MTP joint,Long-term condition
+N040L,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of lesser MTP joint,Long-term condition
+N040M,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis of IP joint of toe,Long-term condition
+N040N,,RHEUMATOID_ARTHRITIS,,Rheumatoid vasculitis,Long-term condition
+N040P,,RHEUMATOID_ARTHRITIS,,Seronegative rheumatoid arthritis,Long-term condition
+N040Q,,RHEUMATOID_ARTHRITIS,,Rheumatoid bursitis,Long-term condition
+N040R,,RHEUMATOID_ARTHRITIS,,Rheumatoid nodule,Long-term condition
+N040S,,RHEUMATOID_ARTHRITIS,,Rheumatoid arthritis - multiple joint,Long-term condition
+N040T,,RHEUMATOID_ARTHRITIS,,Flare of rheumatoid arthritis,Long-term condition
+N041.,,RHEUMATOID_ARTHRITIS,,Felty's syndrome,Long-term condition
+N0421,,RHEUMATOID_ARTHRITIS,,Rheumatoid lung disease,Long-term condition
+N0422,,RHEUMATOID_ARTHRITIS,,Rheumatoid nodule,Long-term condition
+N047.,,RHEUMATOID_ARTHRITIS,,Seropositive errosive rheumatoid arthritis,Long-term condition
+N04X.,,RHEUMATOID_ARTHRITIS,,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+N04y0,,RHEUMATOID_ARTHRITIS,,Fibrosing alveolitis associated with rheumatoid arthritis,Long-term condition
+Nyu10,,RHEUMATOID_ARTHRITIS,,[X]Rheumatoid arthritis+involvement/other organs or systems,Long-term condition
+Nyu11,,RHEUMATOID_ARTHRITIS,,[X]Other seropositive rheumatoid arthritis,Long-term condition
+Nyu12,,RHEUMATOID_ARTHRITIS,,[X]Other specified rheumatoid arthritis,Long-term condition
+Nyu1G,,RHEUMATOID_ARTHRITIS,,"[X]Seropositive rheumatoid arthritis, unspecified",Long-term condition

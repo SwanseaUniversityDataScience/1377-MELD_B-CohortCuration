@@ -1,0 +1,316 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14AD.,,ARRHYTHMIA,,H/O ventricular fibrillation,Long-term condition
+14AN.,,ARRHYTHMIA,,,Long-term condition
+14AP.,,ARRHYTHMIA,,History of ventricular tachycardia,Long-term condition
+14AQ.,,ARRHYTHMIA,,History of supraventricular tachycardia,Long-term condition
+14AR.,,ARRHYTHMIA,,History of atrial flutter,Long-term condition
+14O71,,ARRHYTHMIA,,At risk of atrial fibrillation,Long-term condition
+14V1.,,ARRHYTHMIA,,H/O: cardiac pacemaker,Long-term condition
+1R00.,,ARRHYTHMIA,,For attempted cardiopulmonary resuscitation,Long-term condition
+1R10.,,ARRHYTHMIA,,Not for attempted CPR (cardiopulmonary resuscitation),Long-term condition
+212R.,,ARRHYTHMIA,,Atrial fibrillation resolved,Long-term condition
+2241.,,ARRHYTHMIA,,O/E - collapse -cardiac arrest,Long-term condition
+2JS..,,ARRHYTHMIA,,Patient with internal cardiac defibrillator pacemaker,Long-term condition
+32130,,ARRHYTHMIA,,Negative exercise ECG test,Long-term condition
+32131,,ARRHYTHMIA,,Exercise ECG abnormal,Long-term condition
+32141,,ARRHYTHMIA,,Ambulatory ECG abnormal,Long-term condition
+3217.,,ARRHYTHMIA,,ECG abnormal,Long-term condition
+3218.,,ARRHYTHMIA,,ECG - improved,Long-term condition
+3219.,,ARRHYTHMIA,,ECG equivocal,Long-term condition
+321C.,,ARRHYTHMIA,,ECG sinus rhythm,Long-term condition
+321C0,,ARRHYTHMIA,,,Long-term condition
+321C1,,ARRHYTHMIA,,,Long-term condition
+322..,,ARRHYTHMIA,,ECG: myocardial ischaemia,Long-term condition
+3222.,,ARRHYTHMIA,,ECG:shows myocardial ischaemia,Long-term condition
+322Z.,,ARRHYTHMIA,,ECG: myocardial ischaemia NOS,Long-term condition
+323..,,ARRHYTHMIA,,ECG: myocardial infarction,Long-term condition
+3232.,,ARRHYTHMIA,,ECG: old myocardial infarction,Long-term condition
+3233.,,ARRHYTHMIA,,ECG: antero-septal infarct.,Long-term condition
+3234.,,ARRHYTHMIA,,ECG:posterior/inferior infarct,Long-term condition
+3235.,,ARRHYTHMIA,,ECG: subendocardial infarct,Long-term condition
+3236.,,ARRHYTHMIA,,ECG: lateral infarction,Long-term condition
+323Z.,,ARRHYTHMIA,,ECG: myocardial infarct NOS,Long-term condition
+324..,,ARRHYTHMIA,,ECG:left ventricle hypertrophy,Long-term condition
+3242.,,ARRHYTHMIA,,ECG: shows LVH,Long-term condition
+324Z.,,ARRHYTHMIA,,ECG: LVH NOS,Long-term condition
+325..,,ARRHYTHMIA,,ECG:right ventricle hypertrop.,Long-term condition
+3252.,,ARRHYTHMIA,,ECG: shows RVH,Long-term condition
+325Z.,,ARRHYTHMIA,,ECG: RVH NOS,Long-term condition
+326..,,ARRHYTHMIA,,ECG: ectopic beats,Long-term condition
+3262.,,ARRHYTHMIA,,ECG: extrasystole,Long-term condition
+3263.,,ARRHYTHMIA,,ECG: ventricular ectopics,Long-term condition
+3264.,,ARRHYTHMIA,,ECG: atrial ectopics,Long-term condition
+326Z.,,ARRHYTHMIA,,ECG: ectopic beats NOS,Long-term condition
+327..,,ARRHYTHMIA,,ECG: supraventricular arrhythmia,Long-term condition
+3272.,,ARRHYTHMIA,,,Long-term condition
+3273.,,ARRHYTHMIA,,ECG: atrial flutter,Long-term condition
+3274.,,ARRHYTHMIA,,ECG: paroxysmal atrial tachy.,Long-term condition
+327Z.,,ARRHYTHMIA,,ECG: supraventric. arryth. NOS,Long-term condition
+328..,,ARRHYTHMIA,,ECG: ventricular arrhythmia,Long-term condition
+3282.,,ARRHYTHMIA,,ECG: ventricular tachycardia,Long-term condition
+3283.,,ARRHYTHMIA,,ECG: ventricular fibrillation,Long-term condition
+328Z.,,ARRHYTHMIA,,ECG: ventricular arrhythmia NOS,Long-term condition
+329..,,ARRHYTHMIA,,ECG: heart block,Long-term condition
+3292.,,ARRHYTHMIA,,ECG: partial sinu-atrial block,Long-term condition
+3293.,,ARRHYTHMIA,,ECG:complete sinu-atrial block,Long-term condition
+3294.,,ARRHYTHMIA,,ECG:partial A-V block-long P-R,Long-term condition
+3295.,,ARRHYTHMIA,,ECG: partial A-V block - 2:1,Long-term condition
+3296.,,ARRHYTHMIA,,ECG: partial A-V block - 3:1,Long-term condition
+3297.,,ARRHYTHMIA,,ECG: Wenckebach phenomenon,Long-term condition
+3298.,,ARRHYTHMIA,,ECG: complete A-V block,Long-term condition
+3299.,,ARRHYTHMIA,,ECG: right bundle branch block,Long-term condition
+329A.,,ARRHYTHMIA,,ECG: left bundle branch block,Long-term condition
+329B.,,ARRHYTHMIA,,ECG: trifascicular block,Long-term condition
+329C.,,ARRHYTHMIA,,ECG: bifascicular block,Long-term condition
+329D.,,ARRHYTHMIA,,ECG: left anterior fascicular block,Long-term condition
+329E.,,ARRHYTHMIA,,ECG: left posterior fascicular block,Long-term condition
+329F.,,ARRHYTHMIA,,ECG: right bundle branch and left anterior fascicular block,Long-term condition
+329G.,,ARRHYTHMIA,,ECG: right bundle branch and left posterior fascicular block,Long-term condition
+329H.,,ARRHYTHMIA,,Electrocardiogram: Mobitz type 2 second degree AV block,Long-term condition
+329Z.,,ARRHYTHMIA,,ECG: heart block NOS,Long-term condition
+32A2.,,ARRHYTHMIA,,ECG: P wave abnormal,Long-term condition
+32A3.,,ARRHYTHMIA,,ECG: P mitrale,Long-term condition
+32A4.,,ARRHYTHMIA,,ECG: P pulmonale,Long-term condition
+32B..,,ARRHYTHMIA,,ECG: Q wave,Long-term condition
+32B2.,,ARRHYTHMIA,,ECG: Q wave abnormal,Long-term condition
+32B3.,,ARRHYTHMIA,,ECG: Q wave pathological,Long-term condition
+32BZ.,,ARRHYTHMIA,,ECG: Q wave NOS,Long-term condition
+32C..,,ARRHYTHMIA,,ECG: R wave,Long-term condition
+32C2.,,ARRHYTHMIA,,ECG: R wave abnormal,Long-term condition
+32C3.,,ARRHYTHMIA,,ECG: R wave tall,Long-term condition
+32CZ.,,ARRHYTHMIA,,ECG: R wave NOS,Long-term condition
+32D2.,,ARRHYTHMIA,,ECG: S wave abnormal,Long-term condition
+32D3.,,ARRHYTHMIA,,ECG: S wave deep,Long-term condition
+32E2.,,ARRHYTHMIA,,ECG: S-T interval abnormal,Long-term condition
+32E3.,,ARRHYTHMIA,,ECG: S-T elevation,Long-term condition
+32E4.,,ARRHYTHMIA,,ECG: S-T depression,Long-term condition
+32F2.,,ARRHYTHMIA,,ECG: T wave abnormal,Long-term condition
+32F3.,,ARRHYTHMIA,,ECG: T wave flattened,Long-term condition
+32F4.,,ARRHYTHMIA,,ECG: T wave inverted,Long-term condition
+32FZ.,,ARRHYTHMIA,,ECG: T wave NOS,Long-term condition
+32G2.,,ARRHYTHMIA,,ECG: U wave abnormal,Long-term condition
+32G3.,,ARRHYTHMIA,,ECG: U wave exaggerated,Long-term condition
+32GZ.,,ARRHYTHMIA,,ECG: U wave NOS,Long-term condition
+32H..,,ARRHYTHMIA,,ECG: F wave,Long-term condition
+32H1.,,ARRHYTHMIA,,ECG: F wave absent,Long-term condition
+32H2.,,ARRHYTHMIA,,ECG: F wave present,Long-term condition
+32HZ.,,ARRHYTHMIA,,ECG: F wave NOS,Long-term condition
+32I2.,,ARRHYTHMIA,,ECG: P-R interval abnormal,Long-term condition
+32I3.,,ARRHYTHMIA,,ECG: P-R interval prolonged,Long-term condition
+32I4.,,ARRHYTHMIA,,ECG: P-R interval shortened,Long-term condition
+32J2.,,ARRHYTHMIA,,ECG: QRS complex abnormal,Long-term condition
+32J3.,,ARRHYTHMIA,,ECG: QRS complex prolonged,Long-term condition
+32J4.,,ARRHYTHMIA,,ECG: QRS complex shortened,Long-term condition
+32J5.,,ARRHYTHMIA,,Left axis deviation,Long-term condition
+32J6.,,ARRHYTHMIA,,Right axis deviation,Long-term condition
+32K2.,,ARRHYTHMIA,,ECG: Q-T interval abnormal,Long-term condition
+32K3.,,ARRHYTHMIA,,ECG: Q-T interval prolonged,Long-term condition
+32K4.,,ARRHYTHMIA,,ECG: Q-T interval shortened,Long-term condition
+32L..,,ARRHYTHMIA,,ECG: left ventricular strain,Long-term condition
+662S.,,ARRHYTHMIA,,,Long-term condition
+6A9..,,ARRHYTHMIA,,,Long-term condition
+79321,,ARRHYTHMIA,,Cardiac massage - open,Long-term condition
+7936.,,ARRHYTHMIA,,Introduction of cardiac pacemaker system via vein,Long-term condition
+79360,,ARRHYTHMIA,,Implantation of intravenous cardiac pacemaker system,Long-term condition
+79361,,ARRHYTHMIA,,Resiting of lead of intravenous pacemaker system,Long-term condition
+79362,,ARRHYTHMIA,,Maintenance of battery of intravenous cardiac pacemaker syst,Long-term condition
+79363,,ARRHYTHMIA,,Maintenance of intravenous cardiac pacemaker system NEC,Long-term condition
+79364,,ARRHYTHMIA,,Removal of intravenous cardiac pacemaker system,Long-term condition
+79365,,ARRHYTHMIA,,Implantation of emergency intravenous cardiac pacemaker,Long-term condition
+79366,,ARRHYTHMIA,,Implantation of permanent intravenous cardiac pacemaker,Long-term condition
+79367,,ARRHYTHMIA,,Implantation of intravenous fixed-rate cardiac pacemaker,Long-term condition
+79368,,ARRHYTHMIA,,Implantation of intravenous triggered cardiac pacemaker,Long-term condition
+79369,,ARRHYTHMIA,,Implantation of intravenous atrial overdrive pacemaker,Long-term condition
+7936A,,ARRHYTHMIA,,Implant intravenous pacemaker for atrial fibrillation,Long-term condition
+7936B,,ARRHYTHMIA,,Implantation simple one wire intravenous cardiac pacemaker,Long-term condition
+7936C,,ARRHYTHMIA,,Implantation of complex 1 wire intravenous cardiac pacemaker,Long-term condition
+7936D,,ARRHYTHMIA,,Implantation complex two wire intravenous cardiac pacemaker,Long-term condition
+7936E,,ARRHYTHMIA,,Implantation of intravenous dual chamber permanent pacemaker,Long-term condition
+7936F,,ARRHYTHMIA,,Renewal of intravenous cardiac pacemaker system,Long-term condition
+7936G,,ARRHYTHMIA,,Implantat intraven single chamber cardiac pacemaker system,Long-term condition
+7936H,,ARRHYTHMIA,,Implantat intravenous dual chamber cardiac pacemaker system,Long-term condition
+7936J,,ARRHYTHMIA,,Implantat intravenous biventricular cardiac pacemaker system,Long-term condition
+7936K,,ARRHYTHMIA,,Implantation of intravenous cardiac pacemaker system NEC,Long-term condition
+7936y,,ARRHYTHMIA,,Other specified cardiac pacemaker system introduced via vein,Long-term condition
+7936z,,ARRHYTHMIA,,Cardiac pacemaker system introduced via vein NOS,Long-term condition
+7937.,,ARRHYTHMIA,,Other cardiac pacemaker system,Long-term condition
+79370,,ARRHYTHMIA,,Implantation of cardiac pacemaker system NEC,Long-term condition
+79371,,ARRHYTHMIA,,Resiting of lead of cardiac pacemaker system NEC,Long-term condition
+79372,,ARRHYTHMIA,,Maintenance of battery of cardiac pacemaker system NEC,Long-term condition
+79373,,ARRHYTHMIA,,Maintenance of cardiac pacemaker system NEC,Long-term condition
+79374,,ARRHYTHMIA,,Removal of cardiac pacemaker system NEC,Long-term condition
+79375,,ARRHYTHMIA,,Implantation of internal cardiac defibrillator,Long-term condition
+79376,,ARRHYTHMIA,,Removal of internal cardiac defibrillator,Long-term condition
+79377,,ARRHYTHMIA,,Implantation of single chamber cardiac pacemaker system,Long-term condition
+79378,,ARRHYTHMIA,,Implantation of dual chamber cardiac pacemaker system,Long-term condition
+79379,,ARRHYTHMIA,,Implantation of biventricular cardiac pacemaker system,Long-term condition
+7937y,,ARRHYTHMIA,,Other specified other cardiac pacemaker system,Long-term condition
+7937z,,ARRHYTHMIA,,Other cardiac pacemaker system NOS,Long-term condition
+793F.,,ARRHYTHMIA,,Cardioverter defibrillator introduced through the vein,Long-term condition
+793F0,,ARRHYTHMIA,,Implantat cardioverter defibrillator us one electrode lead,Long-term condition
+793F1,,ARRHYTHMIA,,Implant cardioverter defibrillator using two electrode leads,Long-term condition
+793F2,,ARRHYTHMIA,,Resiting of lead of cardioverter defibrillator,Long-term condition
+793F3,,ARRHYTHMIA,,Renewal of cardioverter defibrillator,Long-term condition
+793F4,,ARRHYTHMIA,,Removal of cardioverter defibrillator,Long-term condition
+793F5,,ARRHYTHMIA,,Implantat cardiovert defibrillator us three electrode leads,Long-term condition
+793Fy,,ARRHYTHMIA,,Other specified cardioverter defibrillator intro thr vein,Long-term condition
+793Fz,,ARRHYTHMIA,,Cardioverter defibrillator introduced through the vein NOS,Long-term condition
+793M1,,ARRHYTHMIA,,Perc transluminal ablation of atrial wall for atrial flutter,Long-term condition
+793M2,,ARRHYTHMIA,,Percutaneous transluminal internal cardioversion NEC,Long-term condition
+793M3,,ARRHYTHMIA,,Perc translum ablat conduct sys heart for atrial flutter NEC,Long-term condition
+793P.,,ARRHYTHMIA,,Other cardioverter defibrillator,Long-term condition
+793P0,,ARRHYTHMIA,,Implantation of subcutaneous cardioverter defibrillator,Long-term condition
+793P1,,ARRHYTHMIA,,Resiting of lead of subcutaneous cardioverter defibrillator,Long-term condition
+793P2,,ARRHYTHMIA,,Renewal of subcutaneous cardioverter defibrillator,Long-term condition
+793P3,,ARRHYTHMIA,,Removal of subcutaneous cardioverter defibrillator,Long-term condition
+793Py,,ARRHYTHMIA,,Other specified other cardioverter defibrillator,Long-term condition
+793Pz,,ARRHYTHMIA,,Unspecified other cardioverter defibrillator,Long-term condition
+7L1H.,,ARRHYTHMIA,,Cardioversion and stimulation,Long-term condition
+7L1H0,,ARRHYTHMIA,,Direct current cardioversion,Long-term condition
+7L1H1,,ARRHYTHMIA,,External cardioversion NEC,Long-term condition
+7L1H2,,ARRHYTHMIA,,Internal electrode cardioversion,Long-term condition
+7L1H6,,ARRHYTHMIA,,Advanced cardiopulmonary resuscitation,Long-term condition
+7L1H7,,ARRHYTHMIA,,External ventricular defibrillation,Long-term condition
+7L1H8,,ARRHYTHMIA,,Chemical cardioversion,Long-term condition
+7P19.,,ARRHYTHMIA,,Pacemaker testing,Long-term condition
+7P190,,ARRHYTHMIA,,Distant pacemaker test,Long-term condition
+7P19y,,ARRHYTHMIA,,Other specified pacemaker testing,Long-term condition
+7P19z,,ARRHYTHMIA,,Pacemaker testing NOS,Long-term condition
+7P1D.,,ARRHYTHMIA,,Evaluation of cardioverter defibrillator,Long-term condition
+840..,,ARRHYTHMIA,,Direct current cardioversion planned,Long-term condition
+853..,,ARRHYTHMIA,,Cardiac massage - external,Long-term condition
+8531.,,ARRHYTHMIA,,Closed cardiac massage alone,Long-term condition
+8532.,,ARRHYTHMIA,,Cardiopulmonary resuscitation,Long-term condition
+853Z.,,ARRHYTHMIA,,External cardiac massage NOS,Long-term condition
+88A9.,,ARRHYTHMIA,,Deactivation of auto implantable cardioverter defibrillator,Long-term condition
+88AA.,,ARRHYTHMIA,,Automatic implantable cardioverter defibrillator check,Long-term condition
+8HRF.,,ARRHYTHMIA,,Referral for cardiac pacemaker check,Long-term condition
+8HTy.,,ARRHYTHMIA,,Referral to atrial fibrillation clinic,Long-term condition
+8OAD.,,ARRHYTHMIA,,Provision of written information about atrial fibrillation,Long-term condition
+9N2b.,,ARRHYTHMIA,,Seen by cardiac pacemaker technician,Long-term condition
+F2560,,ARRHYTHMIA,,Hypsarrhythmia,Long-term condition
+G559.,,ARRHYTHMIA,,Arrhythmogenic right ventricular cardiomyopathy,Long-term condition
+G56..,,ARRHYTHMIA,,Heart block,Long-term condition
+G560.,,ARRHYTHMIA,,Complete atrioventricular block,Long-term condition
+G561.,,ARRHYTHMIA,,Partial atrioventricular block,Long-term condition
+G5610,,ARRHYTHMIA,,Atrioventricular block unspecified,Long-term condition
+G5611,,ARRHYTHMIA,,First degree atrioventricular block,Long-term condition
+G5612,,ARRHYTHMIA,,Mobitz type II atrioventricular block,Long-term condition
+G5613,,ARRHYTHMIA,,Mobitz type I (Wenckebach) atrioventricular block,Long-term condition
+G5614,,ARRHYTHMIA,,Second degree atrioventricular block,Long-term condition
+G561z,,ARRHYTHMIA,,Atrioventricular block NOS,Long-term condition
+G562.,,ARRHYTHMIA,,Left bundle branch hemiblock,Long-term condition
+G5620,,ARRHYTHMIA,,Left anterior fascicular block,Long-term condition
+G5621,,ARRHYTHMIA,,Left posterior fascicular block,Long-term condition
+G562z,,ARRHYTHMIA,,Left bundle branch hemiblock NOS,Long-term condition
+G563.,,ARRHYTHMIA,,Left main stem bundle branch block,Long-term condition
+G564.,,ARRHYTHMIA,,Right bundle branch block,Long-term condition
+G565.,,ARRHYTHMIA,,Other bundle branch block,Long-term condition
+G5650,,ARRHYTHMIA,,Bundle branch block unspecified,Long-term condition
+G5651,,ARRHYTHMIA,,Right BBB with left posterior fascicular block,Long-term condition
+G5652,,ARRHYTHMIA,,Right BBB with left anterior fascicular block,Long-term condition
+G5653,,ARRHYTHMIA,,Other bilateral bundle branch block,Long-term condition
+G5654,,ARRHYTHMIA,,Trifascicular block,Long-term condition
+G5655,,ARRHYTHMIA,,Bifascicular block,Long-term condition
+G565z,,ARRHYTHMIA,,Other bundle branch block NOS,Long-term condition
+G566.,,ARRHYTHMIA,,Other heart block,Long-term condition
+G5660,,ARRHYTHMIA,,Sinoatrial block,Long-term condition
+G5661,,ARRHYTHMIA,,Interventricular block NOS,Long-term condition
+G5662,,ARRHYTHMIA,,Right fascicular block,Long-term condition
+G566z,,ARRHYTHMIA,,Other heart block NOS,Long-term condition
+G567.,,ARRHYTHMIA,,Anomalous atrioventricular excitation,Long-term condition
+G5670,,ARRHYTHMIA,,Accelerated atrioventricular conduction,Long-term condition
+G5671,,ARRHYTHMIA,,Accessory atrioventricular conduction,Long-term condition
+G5672,,ARRHYTHMIA,,Pre-excitation atrioventricular conduction,Long-term condition
+G5673,,ARRHYTHMIA,,Ventricular pre-excitation,Long-term condition
+G5674,,ARRHYTHMIA,,Wolff-Parkinson-White syndrome,Long-term condition
+G567z,,ARRHYTHMIA,,Anomalous atrioventricular excitation NOS,Long-term condition
+G56y.,,ARRHYTHMIA,,Other conduction disorders,Long-term condition
+G56y0,,ARRHYTHMIA,,Lown-Ganong-Levine syndrome,Long-term condition
+G56y1,,ARRHYTHMIA,,Atrioventricular dissociation,Long-term condition
+G56y2,,ARRHYTHMIA,,Romano - Ward syndrome,Long-term condition
+G56y3,,ARRHYTHMIA,,Jervell and Lange-Nielsen syndrome,Long-term condition
+G56y4,,ARRHYTHMIA,,Right fascicular block,Long-term condition
+G56y5,,ARRHYTHMIA,,Long Q-T syndrome,Long-term condition
+G56y6,,ARRHYTHMIA,,Pacemaker twiddler's syndrome,Long-term condition
+G56yz,,ARRHYTHMIA,,Other conduction disorders NOS,Long-term condition
+G56z.,,ARRHYTHMIA,,Conduction disorders unspecified,Long-term condition
+G56z0,,ARRHYTHMIA,,Stokes-Adams syndrome,Long-term condition
+G56zz,,ARRHYTHMIA,,Conduction disorders NOS,Long-term condition
+G57..,,ARRHYTHMIA,,Cardiac dysrhythmias,Long-term condition
+G570.,,ARRHYTHMIA,,Paroxysmal supraventricular tachycardia,Long-term condition
+G5700,,ARRHYTHMIA,,Paroxysmal atrial tachycardia,Long-term condition
+G5701,,ARRHYTHMIA,,Paroxysmal atrioventricular tachycardia,Long-term condition
+G5702,,ARRHYTHMIA,,Paroxysmal junctional tachycardia,Long-term condition
+G5703,,ARRHYTHMIA,,Paroxysmal nodal tachycardia,Long-term condition
+G570z,,ARRHYTHMIA,,Paroxysmal supraventricular tachycardia NOS,Long-term condition
+G571.,,ARRHYTHMIA,,Paroxysmal ventricular tachycardia,Long-term condition
+G572.,,ARRHYTHMIA,,Paroxysmal tachycardia unspecified,Long-term condition
+G5720,,ARRHYTHMIA,,Essential paroxysmal tachycardia,Long-term condition
+G5721,,ARRHYTHMIA,,Bouveret-Hoffmann syndrome,Long-term condition
+G572z,,ARRHYTHMIA,,Paroxysmal tachycardia NOS,Long-term condition
+G573.,,ARRHYTHMIA,,,Long-term condition
+G5730,,ARRHYTHMIA,,,Long-term condition
+G5731,,ARRHYTHMIA,,Atrial flutter,Long-term condition
+G5732,,ARRHYTHMIA,,,Long-term condition
+G5733,,ARRHYTHMIA,,,Long-term condition
+G5734,,ARRHYTHMIA,,,Long-term condition
+G5735,,ARRHYTHMIA,,,Long-term condition
+G5736,,ARRHYTHMIA,,Paroxysmal atrial flutter,Long-term condition
+G5737,,ARRHYTHMIA,,,Long-term condition
+G5738,,ARRHYTHMIA,,,Long-term condition
+G5739,,ARRHYTHMIA,,,Long-term condition
+G573z,,ARRHYTHMIA,,,Long-term condition
+G574.,,ARRHYTHMIA,,Ventricular fibrillation and flutter,Long-term condition
+G5740,,ARRHYTHMIA,,Ventricular fibrillation,Long-term condition
+G5741,,ARRHYTHMIA,,Ventricular flutter,Long-term condition
+G574z,,ARRHYTHMIA,,Ventricular fibrillation and flutter NOS,Long-term condition
+G575.,,ARRHYTHMIA,,Cardiac arrest,Long-term condition
+G5750,,ARRHYTHMIA,,Cardiac arrest with successful resuscitation,Long-term condition
+G5751,,ARRHYTHMIA,,"Sudden cardiac death, so described",Long-term condition
+G5752,,ARRHYTHMIA,,Electromechanical dissociation with successful resuscitation,Long-term condition
+G5753,,ARRHYTHMIA,,Electromechanical dissociation,Long-term condition
+G575z,,ARRHYTHMIA,,"Cardiac arrest, unspecified",Long-term condition
+G576.,,ARRHYTHMIA,,Premature beats,Long-term condition
+G5760,,ARRHYTHMIA,,Ectopic beats unspecified,Long-term condition
+G5761,,ARRHYTHMIA,,Supraventricular ectopic beats,Long-term condition
+G5762,,ARRHYTHMIA,,Ventricular ectopic beats,Long-term condition
+G5763,,ARRHYTHMIA,,Atrial premature depolarization,Long-term condition
+G5764,,ARRHYTHMIA,,Junctional premature depolarization,Long-term condition
+G5765,,ARRHYTHMIA,,Ventricular premature depolarization,Long-term condition
+G576z,,ARRHYTHMIA,,Ectopic beats NOS,Long-term condition
+G577.,,ARRHYTHMIA,,Sinus arrhythmia,Long-term condition
+G578.,,ARRHYTHMIA,,Atrial standstill,Long-term condition
+G57y.,,ARRHYTHMIA,,Heart beats irregular,Long-term condition
+G57y0,,ARRHYTHMIA,,Persistent sinus bradycardia,Long-term condition
+G57y1,,ARRHYTHMIA,,Severe sinus bradycardia,Long-term condition
+G57y2,,ARRHYTHMIA,,Brugada syndrome,Long-term condition
+G57y3,,ARRHYTHMIA,,Sick sinus syndrome,Long-term condition
+G57y4,,ARRHYTHMIA,,Sinoatrial node dysfunction NOS,Long-term condition
+G57y5,,ARRHYTHMIA,,Wandering atrial pacemaker,Long-term condition
+G57y6,,ARRHYTHMIA,,Nodal rhythm disorder,Long-term condition
+G57y7,,ARRHYTHMIA,,Sinus tachycardia,Long-term condition
+G57y8,,ARRHYTHMIA,,Bigeminal pulse,Long-term condition
+G57y9,,ARRHYTHMIA,,Supraventricular tachycardia NOS,Long-term condition
+G57yA,,ARRHYTHMIA,,Re-entry ventricular arrhythmia,Long-term condition
+G57yz,,ARRHYTHMIA,,Other cardiac dysrhythmia NOS,Long-term condition
+G57z.,,ARRHYTHMIA,,Cardiac dysrhythmia NOS,Long-term condition
+Gyu5U,,ARRHYTHMIA,,[X]Other and unspecified atrioventricular block,Long-term condition
+Gyu5W,,ARRHYTHMIA,,[X]Other and unspecified right bundle-branch block,Long-term condition
+Gyu5X,,ARRHYTHMIA,,[X]Other specified heart block,Long-term condition
+Gyu5Z,,ARRHYTHMIA,,[X]Other and unspecified premature depolarization,Long-term condition
+Gyu5a,,ARRHYTHMIA,,[X]Other specified cardiac arrhythmias,Long-term condition
+L0911,,ARRHYTHMIA,,Defibrination syndrome following abortive pregnancy,Long-term condition
+L09y1,,ARRHYTHMIA,,Cardiac arrest following abortive pregnancy,Long-term condition
+P6y5z,,ARRHYTHMIA,,Congenital heart block NOS,Long-term condition
+PG57.,,ARRHYTHMIA,,Caffey's syndrome,Long-term condition
+Q491.,,ARRHYTHMIA,,Neonatal cardiac dysrhythmia,Long-term condition
+R0026,,ARRHYTHMIA,,[D]Asystolic vasovagal syncope,Long-term condition
+R1431,,ARRHYTHMIA,,[D]Electrocardiogram (ECG) abnormal,Long-term condition
+SP001,,ARRHYTHMIA,,Mechanical complication of cardiac pacemaker,Long-term condition
+SP110,,ARRHYTHMIA,,Cardiac arrest as a complication of care,Long-term condition
+TB010,,ARRHYTHMIA,,"Implant of cardiac pacemaker with complication, no blame",Long-term condition
+ZV450,,ARRHYTHMIA,,[V]Cardiac pacemaker in situ,Long-term condition
+ZV45M,,ARRHYTHMIA,,[V]Biventricular pacemaker in situ,Long-term condition
+ZV530,,ARRHYTHMIA,,[V]Fitting or adjustment of neuropacemaker device,Long-term condition
+ZV533,,ARRHYTHMIA,,[V]Fitting or adjustment of cardiac pacemaker,Long-term condition

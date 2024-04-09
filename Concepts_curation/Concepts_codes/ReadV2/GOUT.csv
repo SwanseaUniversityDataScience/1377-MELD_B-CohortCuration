@@ -1,0 +1,50 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1443.,,GOUT,,H/O: gout,Long-term condition
+2D52.,,GOUT,,O/E - auricle of ear - tophi,Long-term condition
+669..,,GOUT,,Gout monitoring,Long-term condition
+6691.,,GOUT,,Initial gout assessment,Long-term condition
+6692.,,GOUT,,Follow-up gout assessment,Long-term condition
+6693.,,GOUT,,Joints gout affected,Long-term condition
+6695.,,GOUT,,Date gout treatment started,Long-term condition
+6696.,,GOUT,,Date of last gout attack,Long-term condition
+6697.,,GOUT,,Gout associated problems,Long-term condition
+6698.,,GOUT,,Gout drug side effects,Long-term condition
+6699.,,GOUT,,Gout treatment changed,Long-term condition
+669A.,,GOUT,,Date gout treatment stopped,Long-term condition
+669Z.,,GOUT,,Gout monitoring NOS,Long-term condition
+C34..,,GOUT,,Gout,Long-term condition
+C340.,,GOUT,,Gouty arthropathy,Long-term condition
+C341.,,GOUT,,Gouty nephropathy,Long-term condition
+C3410,,GOUT,,Gouty nephropathy unspecified,Long-term condition
+C341z,,GOUT,,Gouty nephropathy NOS,Long-term condition
+C342.,,GOUT,,Idiopathic gout,Long-term condition
+C343.,,GOUT,,Lead-induced gout,Long-term condition
+C344.,,GOUT,,Drug-induced gout,Long-term condition
+C345.,,GOUT,,Gout due to impairment of renal function,Long-term condition
+C346.,,GOUT,,Acute exacerbation of gout,Long-term condition
+C34y.,,GOUT,,Other specified gouty manifestation,Long-term condition
+C34y0,,GOUT,,Gouty tophi of ear,Long-term condition
+C34y1,,GOUT,,Gouty tophi of heart,Long-term condition
+C34y2,,GOUT,,Gouty tophi of other sites,Long-term condition
+C34y3,,GOUT,,Gouty iritis,Long-term condition
+C34y4,,GOUT,,Gouty neuritis,Long-term condition
+C34y5,,GOUT,,Gouty tophi of hand,Long-term condition
+C34y6,,GOUT,,Gouty tophi of toe,Long-term condition
+C34yz,,GOUT,,Other specified gouty manifestation NOS,Long-term condition
+C34z.,,GOUT,,Gout NOS,Long-term condition
+G5573,,GOUT,,Gouty tophi of heart,Long-term condition
+N023.,,GOUT,,Gouty arthritis,Long-term condition
+N0230,,GOUT,,Gouty arthritis of unspecified site,Long-term condition
+N0231,,GOUT,,Gouty arthritis of the shoulder region,Long-term condition
+N0232,,GOUT,,Gouty arthritis of the upper arm,Long-term condition
+N0233,,GOUT,,Gouty arthritis of the forearm,Long-term condition
+N0234,,GOUT,,Gouty arthritis of the hand,Long-term condition
+N0235,,GOUT,,Gouty arthritis of the pelvic region and thigh,Long-term condition
+N0236,,GOUT,,Gouty arthritis of the lower leg,Long-term condition
+N0237,,GOUT,,Gouty arthritis of the ankle and foot,Long-term condition
+N0238,,GOUT,,Gouty arthritis of toe,Long-term condition
+N023x,,GOUT,,Gouty arthritis of multiple sites,Long-term condition
+N023y,,GOUT,,Gouty arthritis of other specified site,Long-term condition
+N023z,,GOUT,,Gouty arthritis NOS,Long-term condition
+Nyu17,,GOUT,,[X]Other secondary gout,Long-term condition
+Nyu1C,,GOUT,,[X]Gouty arthrpathy due/enzym defects+oth inherit disordr CE,Long-term condition

@@ -1,0 +1,16 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+16C9.,,CHRONIC_PAIN,,Chronic low back pain,Long-term condition
+1M52.,,CHRONIC_PAIN,,Chronic pain,Long-term condition
+8HTH.,,CHRONIC_PAIN,,Referral to back pain clinic,Long-term condition
+F347.,,CHRONIC_PAIN,,Complex regional pain syndrome type II,Long-term condition
+F369.,,CHRONIC_PAIN,,Chronic regional pain syndrome,Long-term condition
+N337.,,CHRONIC_PAIN,,Reflex sympathetic dystrophy,Long-term condition
+N3370,,CHRONIC_PAIN,,Disuse atrophy of bone,Long-term condition
+N3371,,CHRONIC_PAIN,,Sudek's atrophy,Long-term condition
+N3372,,CHRONIC_PAIN,,Algodystrophy of hand,Long-term condition
+N3373,,CHRONIC_PAIN,,Algodystrophy of knee,Long-term condition
+N3374,,CHRONIC_PAIN,,Algodystrophy of foot,Long-term condition
+N337z,,CHRONIC_PAIN,,Algoneurodystrophy NOS,Long-term condition
+N33C.,,CHRONIC_PAIN,,Complex regional pain syndrome type I,Long-term condition
+R00zC,,CHRONIC_PAIN,,[D]Chronic intractable pain,Long-term condition
+Ryu70,,CHRONIC_PAIN,,[X]Other chronic pain,Long-term condition

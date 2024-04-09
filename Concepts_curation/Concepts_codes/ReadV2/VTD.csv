@@ -1,0 +1,56 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14A81,,VTD,,H/O: Deep Vein Thrombosis,Long-term condition
+F050.,,VTD,,Embolism of central nervous system venous sinus,Long-term condition
+F0500,,VTD,,Embolism cavernous sinus,Long-term condition
+F0501,,VTD,,Embolism superior longitudinal sinus,Long-term condition
+F0502,,VTD,,Embolism lateral sinus,Long-term condition
+F0503,,VTD,,Embolism transverse sinus,Long-term condition
+F050z,,VTD,,Embolism central nervous system venous sinus NOS,Long-term condition
+F051.,,VTD,,Thrombosis of central nervous system venous sinuses,Long-term condition
+F0510,,VTD,,Thrombosis cavernous sinus,Long-term condition
+F0511,,VTD,,Thrombosis of superior longitudinal sinus,Long-term condition
+F0512,,VTD,,Thrombosis lateral sinus,Long-term condition
+F0513,,VTD,,Thrombosis transverse sinus,Long-term condition
+F051z,,VTD,,Thrombosis of central nervous system venous sinus NOS,Long-term condition
+G676.,,VTD,,Nonpyogenic venous sinus thrombosis,Long-term condition
+G6760,,VTD,,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",Long-term condition
+G67A.,,VTD,,Cerebral vein thrombosis,Long-term condition
+G800.,,VTD,,Superfic.venous thrombosis leg,Long-term condition
+G801.,,VTD,,Deep vein thrombosis,Long-term condition
+G801C,,VTD,,Deep vein thrombosis of leg related to air travel,Long-term condition
+G801D,,VTD,,Deep vein thrombosis of lower limb,Long-term condition
+G801E,,VTD,,Deep vein thrombosis of leg related to intravenous drug use,Long-term condition
+G801F,,VTD,,Deep vein thrombosis of peroneal vein,Long-term condition
+G801G,,VTD,,Recurrent deep vein thrombosis,Long-term condition
+G801H,,VTD,,Unprovoked deep vein thrombosis,Long-term condition
+G801J,,VTD,,Provoked deep vein thrombosis,Long-term condition
+G8020,,VTD,,Thrombosis of vein of leg,Long-term condition
+G81..,,VTD,,Portal vein thrombosis,Long-term condition
+G82..,,VTD,,Other venous embolism and thrombosis,Long-term condition
+G820.,,VTD,,Budd - Chiari syndrome (hepatic vein thrombosis),Long-term condition
+G822.,,VTD,,Embolism and thrombosis of the vena cava,Long-term condition
+G8220,,VTD,,Thrombosis of inferior vena cava,Long-term condition
+G823.,,VTD,,Embolism and thrombosis of the renal vein,Long-term condition
+G824.,,VTD,,Axillary vein thrombosis,Long-term condition
+G825.,,VTD,,Thrombosis of subclavian vein,Long-term condition
+G826.,,VTD,,Thrombosis of internal jugular vein,Long-term condition
+G827.,,VTD,,Thrombosis of external jugular vein,Long-term condition
+G82z0,,VTD,,Embolism of vein NOS,Long-term condition
+G82z1,,VTD,,Thrombosis of vein NOS,Long-term condition
+Gyu82,,VTD,,[X]Embolism and thrombosis of other specified veins,Long-term condition
+L413.,,VTD,,Antenatal deep vein thrombosis,Long-term condition
+L4130,,VTD,,Antenatal deep vein thrombosis unspecified,Long-term condition
+L4131,,VTD,,Antenatal deep vein thrombosis - delivered,Long-term condition
+L4132,,VTD,,Antenatal deep vein thrombosis with antenatal complication,Long-term condition
+L413z,,VTD,,Antenatal deep vein thrombosis NOS,Long-term condition
+L414.,,VTD,,Postnatal deep vein thrombosis,Long-term condition
+L4140,,VTD,,Postnatal deep vein thrombosis unspecified,Long-term condition
+L4141,,VTD,,Postnatal deep vein thrombosis - delivered with p/n comp,Long-term condition
+L4142,,VTD,,Postnatal deep vein thrombosis with postnatal complication,Long-term condition
+L414z,,VTD,,Postnatal deep vein thrombosis NOS,Long-term condition
+L417.,,VTD,,Obstetric cerebral venous thrombosis,Long-term condition
+L4170,,VTD,,Cerebral venous thrombosis in pregnancy,Long-term condition
+L4171,,VTD,,Cerebral venous thrombosis in the puerperium,Long-term condition
+SP08a,,VTD,,Thrombosis of vein of transplanted kidney,Long-term condition
+SP122,,VTD,,Post operative deep vein thrombosis,Long-term condition
+ZV128,,VTD,,[V] Personal history DVT- deep vein thrombosis,Long-term condition

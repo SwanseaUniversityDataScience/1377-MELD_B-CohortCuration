@@ -1,0 +1,40 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+B34..,,BREAST_CANCER,,Ca female breast,Long-term condition
+B340.,,BREAST_CANCER,,Malignant neoplasm of nipple and areola of female breast,Long-term condition
+B3400,,BREAST_CANCER,,Malignant neoplasm of nipple of female breast,Long-term condition
+B3401,,BREAST_CANCER,,Malignant neoplasm of areola of female breast,Long-term condition
+B340z,,BREAST_CANCER,,Malignant neoplasm of nipple or areola of female breast NOS,Long-term condition
+B341.,,BREAST_CANCER,,Malignant neoplasm of central part of female breast,Long-term condition
+B342.,,BREAST_CANCER,,Malignant neoplasm of upper-inner quadrant of female breast,Long-term condition
+B343.,,BREAST_CANCER,,Malignant neoplasm of lower-inner quadrant of female breast,Long-term condition
+B344.,,BREAST_CANCER,,Malignant neoplasm of upper-outer quadrant of female breast,Long-term condition
+B345.,,BREAST_CANCER,,Malignant neoplasm of lower-outer quadrant of female breast,Long-term condition
+B346.,,BREAST_CANCER,,Malignant neoplasm of axillary tail of female breast,Long-term condition
+B347.,,BREAST_CANCER,,"Malignant neoplasm, overlapping lesion of breast",Long-term condition
+B34y.,,BREAST_CANCER,,Malignant neoplasm of other site of female breast,Long-term condition
+B34yz,,BREAST_CANCER,,Malignant neoplasm of other site of female breast NOS,Long-term condition
+B34z.,,BREAST_CANCER,,Malignant neoplasm of female breast NOS,Long-term condition
+B35..,,BREAST_CANCER,,Malignant neoplasm of male breast,Long-term condition
+B350.,,BREAST_CANCER,,Malignant neoplasm of nipple and areola of male breast,Long-term condition
+B3500,,BREAST_CANCER,,Malignant neoplasm of nipple of male breast,Long-term condition
+B3501,,BREAST_CANCER,,Malignant neoplasm of areola of male breast,Long-term condition
+B350z,,BREAST_CANCER,,Malignant neoplasm of nipple or areola of male breast NOS,Long-term condition
+B35z.,,BREAST_CANCER,,Malignant neoplasm of other site of male breast,Long-term condition
+B35zz,,BREAST_CANCER,,Malignant neoplasm of male breast NOS,Long-term condition
+B36..,,BREAST_CANCER,,Local recurrence of malignant tumour of breast,Long-term condition
+B77..,,BREAST_CANCER,,Benign neoplasm of breast,Long-term condition
+B770.,,BREAST_CANCER,,Benign neoplasm of female breast,Long-term condition
+B771.,,BREAST_CANCER,,Benign neoplasm of male breast,Long-term condition
+B77z.,,BREAST_CANCER,,Benign neoplasm of breast NOS,Long-term condition
+B83..,,BREAST_CANCER,,Carcinoma in situ of breast and genitourinary system,Long-term condition
+B830.,,BREAST_CANCER,,Carcinoma in situ of breast,Long-term condition
+B8300,,BREAST_CANCER,,Lobular carcinoma in situ of breast,Long-term condition
+B8301,,BREAST_CANCER,,Intraductal carcinoma in situ of breast,Long-term condition
+BB94.,,BREAST_CANCER,,[M]Juvenile breast carcinoma,Long-term condition
+BB9J.,,BREAST_CANCER,,"[M]Paget's disease, mammary",Long-term condition
+BB9K.,,BREAST_CANCER,,[M]Paget's disease and infiltrating breast duct carcinoma,Long-term condition
+BB9K0,,BREAST_CANCER,,[M]Paget's disease and intraductal carcinoma of breast,Long-term condition
+Byu6.,,BREAST_CANCER,,[X]Malignant neoplasm of breast,Long-term condition
+ByuFG,,BREAST_CANCER,,[X]Other carcinoma in situ of breast,Long-term condition
+ZV103,,BREAST_CANCER,,[V]Personal history of malignant neoplasm of breast,Long-term condition
+ZV13A,,BREAST_CANCER,,[V]Personal history of non-neoplastic breast disease,Long-term condition

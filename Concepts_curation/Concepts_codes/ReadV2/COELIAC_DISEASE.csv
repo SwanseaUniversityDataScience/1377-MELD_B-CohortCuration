@@ -1,0 +1,14 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+6648.,,COELIAC_DISEASE,,Coeliac disease monitoring,Long-term condition
+66480,,COELIAC_DISEASE,,Coeliac disease annual review,Long-term condition
+68W4.,,COELIAC_DISEASE,,Coeliac disease autoantibody profile positive,Long-term condition
+8IAp.,,COELIAC_DISEASE,,Coeliac disease annual review declined,Long-term condition
+9mB..,,COELIAC_DISEASE,,Coeliac disease monitoring invitation,Long-term condition
+9mB0.,,COELIAC_DISEASE,,Coeliac disease monitoring telephone invitation,Long-term condition
+9mB1.,,COELIAC_DISEASE,,Coeliac disease monitoring invitation first letter,Long-term condition
+9mB2.,,COELIAC_DISEASE,,Coeliac disease monitoring invitation second letter,Long-term condition
+9mB3.,,COELIAC_DISEASE,,Coeliac disease monitoring invitation third letter,Long-term condition
+J690.,,COELIAC_DISEASE,,Coeliac disease,Long-term condition
+J6900,,COELIAC_DISEASE,,Congenital coeliac disease,Long-term condition
+J6901,,COELIAC_DISEASE,,Acquired coeliac disease,Long-term condition
+J690z,,COELIAC_DISEASE,,Coeliac disease NOS,Long-term condition

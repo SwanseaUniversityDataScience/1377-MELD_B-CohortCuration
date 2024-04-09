@@ -1,0 +1,14 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+4M01.,,PROSTATE_CANCER,,Gleason prostate grade 5-7 (medium),Long-term condition
+4M02.,,PROSTATE_CANCER,,Gleason prostate grade 8-10 (high),Long-term condition
+5B51.,,PROSTATE_CANCER,,Microwave therapy to prostate,Long-term condition
+7B3B0,,PROSTATE_CANCER,,Endoscopic cryotherapy to lesion of prostate,Long-term condition
+7B3B1,,PROSTATE_CANCER,,Endoscopic destruction of lesion of prostate NEC,Long-term condition
+7B3B6,,PROSTATE_CANCER,,Ultrasound ablation of prostate,Long-term condition
+7B3BC,,PROSTATE_CANCER,,Endoscopic radiofrequency ablation of lesion of prostate,Long-term condition
+7B3C6,,PROSTATE_CANCER,,Cryotherapy to prostate via perineal probe,Long-term condition
+7B3E0,,PROSTATE_CANCER,,High intensity focused ultrasound of prostate,Long-term condition
+8AD0.,,PROSTATE_CANCER,,Active surveillance of prostate cancer,Long-term condition
+8BAV0,,PROSTATE_CANCER,,Prostate cancer care review,Long-term condition
+B46..,,PROSTATE_CANCER,,Malignant neoplasm of prostate,Long-term condition
+B58y5,,PROSTATE_CANCER,,Secondary malignant neoplasm of prostate,Long-term condition

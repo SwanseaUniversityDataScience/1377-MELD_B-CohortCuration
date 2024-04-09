@@ -1,0 +1,17 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+66k..,,CYSTIC_FIBROSIS,,Cystic fibrosis monitoring,Long-term condition
+66k0.,,CYSTIC_FIBROSIS,,Cystic fibrosis annual review,Long-term condition
+C10N1,,CYSTIC_FIBROSIS,,Cystic fibrosis related diabetes mellitus,Long-term condition
+C370.,,CYSTIC_FIBROSIS,,Cystic fibrosis,Long-term condition
+C3700,,CYSTIC_FIBROSIS,,Cystic fibrosis with no meconium ileus,Long-term condition
+C3701,,CYSTIC_FIBROSIS,,Meconium ileus in cystic fibrosis,Long-term condition
+C3702,,CYSTIC_FIBROSIS,,Cystic fibrosis with pulmonary manifestations,Long-term condition
+C3703,,CYSTIC_FIBROSIS,,Cystic fibrosis with intestinal manifestations,Long-term condition
+C3704,,CYSTIC_FIBROSIS,,Arthropathy in cystic fibrosis,Long-term condition
+C3705,,CYSTIC_FIBROSIS,,Cystic fibrosis with distal intestinal obstruction syndrome,Long-term condition
+C3707,,CYSTIC_FIBROSIS,,Liver disease due to cystic fibrosis,Long-term condition
+C3708,,CYSTIC_FIBROSIS,,Cystic fibrosis related cirrhosis,Long-term condition
+C3709,,CYSTIC_FIBROSIS,,Exacerbation of cystic fibrosis,Long-term condition
+C370y,,CYSTIC_FIBROSIS,,Cystic fibrosis with other manifestations,Long-term condition
+C370z,,CYSTIC_FIBROSIS,,Cystic fibrosis NOS,Long-term condition
+Q4352,,CYSTIC_FIBROSIS,,Perinatal jaundice due to mucoviscidosis,Long-term condition

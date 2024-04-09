@@ -1,0 +1,26 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+2833.,,PARALYSIS,,O/E - hemiplegia,Long-term condition
+2835.,,PARALYSIS,,O/E - paraplegia,Long-term condition
+2836.,,PARALYSIS,,O/E - quadriplegia,Long-term condition
+F038.,,PARALYSIS,,Tropical spastic paraplegia,Long-term condition
+F141.,,PARALYSIS,,Hereditary spastic paraplegia,Long-term condition
+F22..,,PARALYSIS,,Hemiplegia,Long-term condition
+F220.,,PARALYSIS,,Flaccid hemiplegia,Long-term condition
+F221.,,PARALYSIS,,Spastic hemiplegia,Long-term condition
+F222.,,PARALYSIS,,Left hemiplegia,Long-term condition
+F223.,,PARALYSIS,,Right hemiplegia,Long-term condition
+F22z.,,PARALYSIS,,Hemiplegia NOS,Long-term condition
+F230.,,PARALYSIS,,Paraplegia - congenital,Long-term condition
+F2300,,PARALYSIS,,Congenital paraplegia,Long-term condition
+F231.,,PARALYSIS,,Congenital hemiplegia,Long-term condition
+F232.,,PARALYSIS,,Congenital quadriplegia,Long-term condition
+F234.,,PARALYSIS,,Infantile hemiplegia NOS,Long-term condition
+F240.,,PARALYSIS,,Quadriplegia,Long-term condition
+F2400,,PARALYSIS,,Flaccid tetraplegia,Long-term condition
+F2401,,PARALYSIS,,Spastic tetraplegia,Long-term condition
+F241.,,PARALYSIS,,Paraplegia,Long-term condition
+F2410,,PARALYSIS,,Flaccid paraplegia,Long-term condition
+F2411,,PARALYSIS,,Spastic paraplegia,Long-term condition
+F2B0.,,PARALYSIS,,Spastic quadriplegic cerebral palsy,Long-term condition
+F2B1.,,PARALYSIS,,Spastic hemiplegic cerebral palsy,Long-term condition
+N2310,,PARALYSIS,,Massive muscular calcification associated with paraplegia,Long-term condition

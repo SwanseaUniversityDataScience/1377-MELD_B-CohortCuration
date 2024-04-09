@@ -1,0 +1,137 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+141E.,,CHRONIC_LIVER_DISEASE,,History of hepatitis B,Long-term condition
+14i..,,CHRONIC_LIVER_DISEASE,,H/O hepatitis C antiviral drug therapy,Long-term condition
+21267,,CHRONIC_LIVER_DISEASE,,Hepatitis C resolved,Long-term condition
+2J12.,,CHRONIC_LIVER_DISEASE,,Hepatitis C non immune,Long-term condition
+43B4.,,CHRONIC_LIVER_DISEASE,,Hepatitis B surface antig +ve,Long-term condition
+43B6.,,CHRONIC_LIVER_DISEASE,,Hepatitis B non immune,Long-term condition
+43B7.,,CHRONIC_LIVER_DISEASE,,Hepatitis C non-immune,Long-term condition
+43X3.,,CHRONIC_LIVER_DISEASE,,Hepatitis C antibody test positive,Long-term condition
+4JQ3.,,CHRONIC_LIVER_DISEASE,,Hepatitis C virus genotype,Long-term condition
+4JQD.,,CHRONIC_LIVER_DISEASE,,Hepatitis C PCR positive,Long-term condition
+4JQF.,,CHRONIC_LIVER_DISEASE,,Hepatitis C antigen positive,Long-term condition
+7609.,,CHRONIC_LIVER_DISEASE,,Open operations on oesophageal varices,Long-term condition
+76093,,CHRONIC_LIVER_DISEASE,,Local ligation of oesophageal varices,Long-term condition
+76094,,CHRONIC_LIVER_DISEASE,,Open injection sclerotherapy to oesophageal varices,Long-term condition
+7609y,,CHRONIC_LIVER_DISEASE,,Other specified open operation on oesophageal varices,Long-term condition
+7609z,,CHRONIC_LIVER_DISEASE,,Open operation on oesophageal varices NOS,Long-term condition
+760C5,,CHRONIC_LIVER_DISEASE,,Fibreoptic endoscopic banding of oesophageal varices,Long-term condition
+760F3,,CHRONIC_LIVER_DISEASE,,Rigid oesophagoscopic injection sclerotherapy oesoph varices,Long-term condition
+760F4,,CHRONIC_LIVER_DISEASE,,Rigid oesophagoscopic banding of oesophageal varices,Long-term condition
+7L1f.,,CHRONIC_LIVER_DISEASE,,Compensation for liver failure,Long-term condition
+7L1fz,,CHRONIC_LIVER_DISEASE,,Compensation for liver failure NOS,Long-term condition
+7Q052,,CHRONIC_LIVER_DISEASE,,Hepatitis B treatment drugs Band 1,Long-term condition
+7Q053,,CHRONIC_LIVER_DISEASE,,RSV treatment and Hepatitis C treatment drugs Band 1,Long-term condition
+8BB5.,,CHRONIC_LIVER_DISEASE,,12 week virologic response to hepatitis C treatment,Long-term condition
+9NgR.,,CHRONIC_LIVER_DISEASE,,On hepatitis C treatment plan,Long-term condition
+9kR..,,CHRONIC_LIVER_DISEASE,,Chronic hepatitis annual review - enhanced services admin,Long-term condition
+9kV..,,CHRONIC_LIVER_DISEASE,,Hepatitis C screening positive - enhanced services admin,Long-term condition
+9kZ..,,CHRONIC_LIVER_DISEASE,,Hepatitis B screening positive,Long-term condition
+A702.,,CHRONIC_LIVER_DISEASE,,Viral hepatitis B with coma,Long-term condition
+A703.,,CHRONIC_LIVER_DISEASE,,Viral (serum) hepatitis B,Long-term condition
+A7040,,CHRONIC_LIVER_DISEASE,,Viral hepatitis C with coma,Long-term condition
+A7050,,CHRONIC_LIVER_DISEASE,,Viral hepatitis C without mention of hepatic coma,Long-term condition
+A7051,,CHRONIC_LIVER_DISEASE,,Acute delta-(super)infection of hepatitis B carrier,Long-term condition
+A707.,,CHRONIC_LIVER_DISEASE,,Chronic viral hepatitis,Long-term condition
+A7070,,CHRONIC_LIVER_DISEASE,,Chronic viral hepatitis B with delta-agent,Long-term condition
+A7071,,CHRONIC_LIVER_DISEASE,,Chronic viral hepatitis B without delta-agent,Long-term condition
+A7072,,CHRONIC_LIVER_DISEASE,,Chronic viral hepatitis C,Long-term condition
+A7073,,CHRONIC_LIVER_DISEASE,,Chronic viral hepatitis B,Long-term condition
+A707X,,CHRONIC_LIVER_DISEASE,,"Chronic viral hepatitis, unspecified",Long-term condition
+A70A.,,CHRONIC_LIVER_DISEASE,,Hepatitis C genotype 1,Long-term condition
+A70B.,,CHRONIC_LIVER_DISEASE,,Hepatitis C genotype 2,Long-term condition
+A70C.,,CHRONIC_LIVER_DISEASE,,Hepatitis C genotype 3,Long-term condition
+A70D.,,CHRONIC_LIVER_DISEASE,,Hepatitis C genotype 4,Long-term condition
+A70E.,,CHRONIC_LIVER_DISEASE,,Hepatitis C genotype 5,Long-term condition
+A70F.,,CHRONIC_LIVER_DISEASE,,Hepatitis C genotype 6,Long-term condition
+A70G.,,CHRONIC_LIVER_DISEASE,,Acute hepatitis C,Long-term condition
+A70z0,,CHRONIC_LIVER_DISEASE,,Hepatitis C,Long-term condition
+AyuB1,,CHRONIC_LIVER_DISEASE,,[X]Other chronic viral hepatitis,Long-term condition
+AyuB2,,CHRONIC_LIVER_DISEASE,,"[X]Chronic viral hepatitis, unspecified",Long-term condition
+C3104,,CHRONIC_LIVER_DISEASE,,Glycogenosis with hepatic cirrhosis,Long-term condition
+C3500,,CHRONIC_LIVER_DISEASE,,Pigmentary cirrhosis of liver,Long-term condition
+C3707,,CHRONIC_LIVER_DISEASE,,Liver disease due to cystic fibrosis,Long-term condition
+G85..,,CHRONIC_LIVER_DISEASE,,Oesophageal varices,Long-term condition
+G850.,,CHRONIC_LIVER_DISEASE,,Oesophageal varices with bleeding,Long-term condition
+G851.,,CHRONIC_LIVER_DISEASE,,Oesophageal varices without bleeding,Long-term condition
+G852.,,CHRONIC_LIVER_DISEASE,,Oesophageal varices in diseases EC,Long-term condition
+G8520,,CHRONIC_LIVER_DISEASE,,Oesophageal varices with bleeding in diseases EC,Long-term condition
+G8521,,CHRONIC_LIVER_DISEASE,,Oesophageal varices without bleeding in diseases EC,Long-term condition
+G8522,,CHRONIC_LIVER_DISEASE,,Oesophageal varices in cirrhosis of the liver,Long-term condition
+G8523,,CHRONIC_LIVER_DISEASE,,Oesophageal varices in alcoholic cirrhosis of the liver,Long-term condition
+G852z,,CHRONIC_LIVER_DISEASE,,Oesophageal varices in diseases EC NOS,Long-term condition
+G858.,,CHRONIC_LIVER_DISEASE,,Oesophageal varices NOS,Long-term condition
+Gyu94,,CHRONIC_LIVER_DISEASE,,[X]Oesophageal varices in diseases classified elsewhere,Long-term condition
+J61..,,CHRONIC_LIVER_DISEASE,,Cirrhosis and chronic liver disease,Long-term condition
+J610.,,CHRONIC_LIVER_DISEASE,,Alcoholic fatty liver,Long-term condition
+J611.,,CHRONIC_LIVER_DISEASE,,Acute alcoholic hepatitis,Long-term condition
+J612.,,CHRONIC_LIVER_DISEASE,,Alcoholic cirrhosis of liver,Long-term condition
+J6120,,CHRONIC_LIVER_DISEASE,,Alcoholic fibrosis and sclerosis of liver,Long-term condition
+J613.,,CHRONIC_LIVER_DISEASE,,Alcoholic liver damage unspecified,Long-term condition
+J6130,,CHRONIC_LIVER_DISEASE,,Alcoholic hepatic failure,Long-term condition
+J614.,,CHRONIC_LIVER_DISEASE,,Chronic hepatitis,Long-term condition
+J6140,,CHRONIC_LIVER_DISEASE,,Chronic persistent hepatitis,Long-term condition
+J6141,,CHRONIC_LIVER_DISEASE,,Autoimmune chronic active hepatitis,Long-term condition
+J6142,,CHRONIC_LIVER_DISEASE,,Chronic aggressive hepatitis,Long-term condition
+J6143,,CHRONIC_LIVER_DISEASE,,Recurrent hepatitis,Long-term condition
+J6144,,CHRONIC_LIVER_DISEASE,,Chronic lobular hepatitis,Long-term condition
+J614y,,CHRONIC_LIVER_DISEASE,,Chronic hepatitis unspecified,Long-term condition
+J614z,,CHRONIC_LIVER_DISEASE,,Chronic hepatitis NOS,Long-term condition
+J615.,,CHRONIC_LIVER_DISEASE,,Cirrhosis - non alcoholic,Long-term condition
+J6150,,CHRONIC_LIVER_DISEASE,,Unilobular portal cirrhosis,Long-term condition
+J6151,,CHRONIC_LIVER_DISEASE,,Multilobular portal cirrhosis,Long-term condition
+J6152,,CHRONIC_LIVER_DISEASE,,Mixed portal cirrhosis,Long-term condition
+J6153,,CHRONIC_LIVER_DISEASE,,Diffuse nodular cirrhosis,Long-term condition
+J6154,,CHRONIC_LIVER_DISEASE,,Fatty portal cirrhosis,Long-term condition
+J6155,,CHRONIC_LIVER_DISEASE,,Hypertrophic portal cirrhosis,Long-term condition
+J6156,,CHRONIC_LIVER_DISEASE,,Capsular portal cirrhosis,Long-term condition
+J6157,,CHRONIC_LIVER_DISEASE,,Cardiac portal cirrhosis,Long-term condition
+J6158,,CHRONIC_LIVER_DISEASE,,Indian childhood cirrhosis,Long-term condition
+J6159,,CHRONIC_LIVER_DISEASE,,Pigmentary portal cirrhosis,Long-term condition
+J615A,,CHRONIC_LIVER_DISEASE,,Pipe-stem portal cirrhosis,Long-term condition
+J615B,,CHRONIC_LIVER_DISEASE,,Toxic portal cirrhosis,Long-term condition
+J615C,,CHRONIC_LIVER_DISEASE,,Xanthomatous portal cirrhosis,Long-term condition
+J615D,,CHRONIC_LIVER_DISEASE,,Bacterial portal cirrhosis,Long-term condition
+J615E,,CHRONIC_LIVER_DISEASE,,Cardituberculous cirrhosis,Long-term condition
+J615F,,CHRONIC_LIVER_DISEASE,,Syphilitic portal cirrhosis,Long-term condition
+J615G,,CHRONIC_LIVER_DISEASE,,Zooparasitic portal cirrhosis,Long-term condition
+J615H,,CHRONIC_LIVER_DISEASE,,Infectious cirrhosis NOS,Long-term condition
+J615y,,CHRONIC_LIVER_DISEASE,,Portal cirrhosis unspecified,Long-term condition
+J615z,,CHRONIC_LIVER_DISEASE,,Cirrhosis of liver NOS,Long-term condition
+J616.,,CHRONIC_LIVER_DISEASE,,Biliary cirrhosis,Long-term condition
+J6160,,CHRONIC_LIVER_DISEASE,,Primary biliary cirrhosis,Long-term condition
+J6161,,CHRONIC_LIVER_DISEASE,,Secondary biliary cirrhosis,Long-term condition
+J6162,,CHRONIC_LIVER_DISEASE,,Biliary cirrhosis of children,Long-term condition
+J616z,,CHRONIC_LIVER_DISEASE,,Biliary cirrhosis NOS,Long-term condition
+J617.,,CHRONIC_LIVER_DISEASE,,Alcoholic hepatitis,Long-term condition
+J6170,,CHRONIC_LIVER_DISEASE,,Chronic alcoholic hepatitis,Long-term condition
+J61y.,,CHRONIC_LIVER_DISEASE,,Other non-alcoholic chronic liver disease,Long-term condition
+J61y0,,CHRONIC_LIVER_DISEASE,,Chronic yellow liver atrophy,Long-term condition
+J61y1,,CHRONIC_LIVER_DISEASE,,Non-alcoholic fatty liver,Long-term condition
+J61y3,,CHRONIC_LIVER_DISEASE,,Portal fibrosis without cirrhosis,Long-term condition
+J61y4,,CHRONIC_LIVER_DISEASE,,Hepatic fibrosis,Long-term condition
+J61y5,,CHRONIC_LIVER_DISEASE,,Hepatic sclerosis,Long-term condition
+J61y6,,CHRONIC_LIVER_DISEASE,,Hepatic fibrosis with hepatic sclerosis,Long-term condition
+J61y8,,CHRONIC_LIVER_DISEASE,,Nonalcoholic steatohepatitis,Long-term condition
+J61yz,,CHRONIC_LIVER_DISEASE,,Other non-alcoholic chronic liver disease NOS,Long-term condition
+J61z.,,CHRONIC_LIVER_DISEASE,,Chronic liver disease NOS,Long-term condition
+J62..,,CHRONIC_LIVER_DISEASE,,Liver abscess and sequelae of chronic liver disease,Long-term condition
+J623.,,CHRONIC_LIVER_DISEASE,,Portal hypertension,Long-term condition
+J624.,,CHRONIC_LIVER_DISEASE,,Hepatorenal syndrome,Long-term condition
+J625.,,CHRONIC_LIVER_DISEASE,,[X] Liver failure,Long-term condition
+J62y.,,CHRONIC_LIVER_DISEASE,,Hepatic failure,Long-term condition
+J62z.,,CHRONIC_LIVER_DISEASE,,Liver abscess and chronic liver disease causing sequelae NOS,Long-term condition
+J6353,,CHRONIC_LIVER_DISEASE,,Toxic liver disease with chronic persistent hepatitis,Long-term condition
+J6354,,CHRONIC_LIVER_DISEASE,,Toxic liver disease with chronic lobular hepatitis,Long-term condition
+J6355,,CHRONIC_LIVER_DISEASE,,Toxic liver disease with chronic active hepatitis,Long-term condition
+J6356,,CHRONIC_LIVER_DISEASE,,Toxic liver disease with fibrosis and cirrhosis of liver,Long-term condition
+J63B.,,CHRONIC_LIVER_DISEASE,,Autoimmune hepatitis,Long-term condition
+J6617,,CHRONIC_LIVER_DISEASE,,Primary sclerosing cholangitis,Long-term condition
+Jyu71,,CHRONIC_LIVER_DISEASE,,[X]Other and unspecified cirrhosis of liver,Long-term condition
+PB621,,CHRONIC_LIVER_DISEASE,,Fibrocystic liver disease,Long-term condition
+Q4091,,CHRONIC_LIVER_DISEASE,,Congenital hepatitis B infection,Long-term condition
+Q48yz,,CHRONIC_LIVER_DISEASE,,Congenital hepatic fibrosis,Long-term condition
+SP142,,CHRONIC_LIVER_DISEASE,,Liver failure as a complication of care,Long-term condition
+SP143,,CHRONIC_LIVER_DISEASE,,Hepatorenal syndrome as a complication of care,Long-term condition
+ZV02B,,CHRONIC_LIVER_DISEASE,,[V]Hepatitis B carrier,Long-term condition
+ZV02C,,CHRONIC_LIVER_DISEASE,,[V]Hepatitis C carrier,Long-term condition

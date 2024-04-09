@@ -1,0 +1,25 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+F3710,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Polyneuropathy in disseminated lupus erythematosus,Long-term condition
+F3961,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Myopathy due to disseminated lupus erythematosus,Long-term condition
+H57y4,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lung disease with systemic lupus erythematosus,Long-term condition
+K01x4,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lupus nephritis,Long-term condition
+K0B40,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Renal tubulo-interstitial disorder in SLE,Long-term condition
+M154.,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lupus erythematosus,Long-term condition
+M1540,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lupus erythematosus chronicus,Long-term condition
+M1542,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lupus erythematosus migrans,Long-term condition
+M1543,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lupus erythematosus nodularis,Long-term condition
+M1544,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lupus erythematosus profundus,Long-term condition
+M1545,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lupus erythematosus tumidus,Long-term condition
+M1546,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lupus erythematosus unguium mutilans,Long-term condition
+M1547,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Subacute cutaneous lupus erythematosus,Long-term condition
+M154z,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Lupus erythematosus NOS,Long-term condition
+Myu78,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,[X]Other local lupus erythematosus,Long-term condition
+N000.,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Systemic lupus erythematosus,Long-term condition
+N0000,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Disseminated lupus erythematosus,Long-term condition
+N0001,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Libman-Sacks disease,Long-term condition
+N0002,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Drug-induced systemic lupus erythematosus,Long-term condition
+N0003,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Systemic lupus erythematosus with organ or sys involv,Long-term condition
+N0004,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Systemic lupus erythematosus with pericarditis,Long-term condition
+N0006,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Cerebral lupus,Long-term condition
+N000z,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,Systemic lupus erythematosus NOS,Long-term condition
+Nyu43,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,,[X]Other forms of systemic lupus erythematosus,Long-term condition

@@ -1,0 +1,205 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14250,,SKIN_CANCER,,H/O Malignant melanoma,Long-term condition
+4M70.,,SKIN_CANCER,,Clark melanoma level 1,Long-term condition
+4M71.,,SKIN_CANCER,,Clark melanoma level 2,Long-term condition
+4M72.,,SKIN_CANCER,,Clark melanoma level 3,Long-term condition
+4M73.,,SKIN_CANCER,,Clark melanoma level 4,Long-term condition
+4M74.,,SKIN_CANCER,,Clark melanoma level 5,Long-term condition
+7G03J,,SKIN_CANCER,,Excision of melanoma,Long-term condition
+7G03K,,SKIN_CANCER,,Excision malignant skin tumour,Long-term condition
+7G056,,SKIN_CANCER,,Excision biopsy of rodent ulcer,Long-term condition
+B3...,,SKIN_CANCER,,"Carcinoma of bone, connective tissue, skin and breast",Long-term condition
+B3104,,SKIN_CANCER,,Malignant neoplasm of tarsus of eyelid,Long-term condition
+B32..,,SKIN_CANCER,,Malignant melanoma of skin,Long-term condition
+B320.,,SKIN_CANCER,,Malignant melanoma of lip,Long-term condition
+B321.,,SKIN_CANCER,,Malignant melanoma of eyelid including canthus,Long-term condition
+B322.,,SKIN_CANCER,,Malignant melanoma of ear and external auricular canal,Long-term condition
+B3220,,SKIN_CANCER,,Malignant melanoma of auricle (ear),Long-term condition
+B3221,,SKIN_CANCER,,Malignant melanoma of external auditory meatus,Long-term condition
+B322z,,SKIN_CANCER,,Malignant melanoma of ear and external auricular canal NOS,Long-term condition
+B323.,,SKIN_CANCER,,Malignant melanoma of other and unspecified parts of face,Long-term condition
+B3230,,SKIN_CANCER,,Malignant melanoma of external surface of cheek,Long-term condition
+B3231,,SKIN_CANCER,,Malignant melanoma of chin,Long-term condition
+B3232,,SKIN_CANCER,,Malignant melanoma of eyebrow,Long-term condition
+B3233,,SKIN_CANCER,,Malignant melanoma of forehead,Long-term condition
+B3234,,SKIN_CANCER,,Malignant melanoma of external surface of nose,Long-term condition
+B3235,,SKIN_CANCER,,Malignant melanoma of temple,Long-term condition
+B323z,,SKIN_CANCER,,Malignant melanoma of face NOS,Long-term condition
+B324.,,SKIN_CANCER,,Malignant melanoma of scalp and neck,Long-term condition
+B3240,,SKIN_CANCER,,Malignant melanoma of scalp,Long-term condition
+B3241,,SKIN_CANCER,,Malignant melanoma of neck,Long-term condition
+B324z,,SKIN_CANCER,,Malignant melanoma of scalp and neck NOS,Long-term condition
+B325.,,SKIN_CANCER,,Malignant melanoma of trunk (excluding scrotum),Long-term condition
+B3250,,SKIN_CANCER,,Malignant melanoma of axilla,Long-term condition
+B3251,,SKIN_CANCER,,Malignant melanoma of breast,Long-term condition
+B3252,,SKIN_CANCER,,Malignant melanoma of buttock,Long-term condition
+B3253,,SKIN_CANCER,,Malignant melanoma of groin,Long-term condition
+B3254,,SKIN_CANCER,,Malignant melanoma of perianal skin,Long-term condition
+B3255,,SKIN_CANCER,,Malignant melanoma of perineum,Long-term condition
+B3256,,SKIN_CANCER,,Malignant melanoma of umbilicus,Long-term condition
+B3257,,SKIN_CANCER,,Malignant melanoma of back,Long-term condition
+B3258,,SKIN_CANCER,,Malignant melanoma of chest wall,Long-term condition
+B325z,,SKIN_CANCER,,"Malignant melanoma of trunk, excluding scrotum, NOS",Long-term condition
+B326.,,SKIN_CANCER,,Malignant melanoma of upper limb and shoulder,Long-term condition
+B3260,,SKIN_CANCER,,Malignant melanoma of shoulder,Long-term condition
+B3261,,SKIN_CANCER,,Malignant melanoma of upper arm,Long-term condition
+B3262,,SKIN_CANCER,,Malignant melanoma of fore-arm,Long-term condition
+B3263,,SKIN_CANCER,,Malignant melanoma of hand,Long-term condition
+B3264,,SKIN_CANCER,,Malignant melanoma of finger,Long-term condition
+B3265,,SKIN_CANCER,,Malignant melanoma of thumb,Long-term condition
+B326z,,SKIN_CANCER,,Malignant melanoma of upper limb or shoulder NOS,Long-term condition
+B327.,,SKIN_CANCER,,Malignant melanoma of lower limb and hip,Long-term condition
+B3270,,SKIN_CANCER,,Malignant melanoma of hip,Long-term condition
+B3271,,SKIN_CANCER,,Malignant melanoma of thigh,Long-term condition
+B3272,,SKIN_CANCER,,Malignant melanoma of knee,Long-term condition
+B3273,,SKIN_CANCER,,Malignant melanoma of popliteal fossa area,Long-term condition
+B3274,,SKIN_CANCER,,Malignant melanoma of lower leg,Long-term condition
+B3275,,SKIN_CANCER,,Malignant melanoma of ankle,Long-term condition
+B3276,,SKIN_CANCER,,Malignant melanoma of heel,Long-term condition
+B3277,,SKIN_CANCER,,Malignant melanoma of foot,Long-term condition
+B3278,,SKIN_CANCER,,Malignant melanoma of toe,Long-term condition
+B3279,,SKIN_CANCER,,Malignant melanoma of great toe,Long-term condition
+B327z,,SKIN_CANCER,,Malignant melanoma of lower limb or hip NOS,Long-term condition
+B328.,,SKIN_CANCER,,Malignant melanoma stage IA,Long-term condition
+B329.,,SKIN_CANCER,,Malignant melanoma stage IB,Long-term condition
+B32A.,,SKIN_CANCER,,Malignant melanoma stage IIA,Long-term condition
+B32B.,,SKIN_CANCER,,Malignant melanoma stage IIB,Long-term condition
+B32C.,,SKIN_CANCER,,Malignant melanoma stage IIC,Long-term condition
+B32D.,,SKIN_CANCER,,Malignant melanoma stage IIIA,Long-term condition
+B32E.,,SKIN_CANCER,,Malignant melanoma stage IIIB,Long-term condition
+B32F.,,SKIN_CANCER,,Malignant melanoma stage IIIC,Long-term condition
+B32G.,,SKIN_CANCER,,Malignant melanoma stage IV M1a,Long-term condition
+B32H.,,SKIN_CANCER,,Malignant melanoma stage IV M1b,Long-term condition
+B32J.,,SKIN_CANCER,,Malignant melanoma stage IV M1c,Long-term condition
+B32y.,,SKIN_CANCER,,Malignant melanoma of other specified skin site,Long-term condition
+B32y0,,SKIN_CANCER,,Overlapping malignant melanoma of skin,Long-term condition
+B32z.,,SKIN_CANCER,,Malignant melanoma of skin NOS,Long-term condition
+B33..,,SKIN_CANCER,,Rodent ulcer,Long-term condition
+B330.,,SKIN_CANCER,,Malignant neoplasm of skin of lip,Long-term condition
+B331.,,SKIN_CANCER,,Malignant neoplasm of eyelid including canthus,Long-term condition
+B3311,,SKIN_CANCER,,Malignant neoplasm of upper eyelid,Long-term condition
+B3312,,SKIN_CANCER,,Malignant neoplasm of lower eyelid,Long-term condition
+B332.,,SKIN_CANCER,,Malignant neoplasm skin of ear and external auricular canal,Long-term condition
+B3320,,SKIN_CANCER,,Malignant neoplasm of skin of auricle (ear),Long-term condition
+B3321,,SKIN_CANCER,,Malignant neoplasm of skin of external auditory meatus,Long-term condition
+B3322,,SKIN_CANCER,,Malignant neoplasm of pinna NEC,Long-term condition
+B332z,,SKIN_CANCER,,Malig neop skin of ear and external auricular canal NOS,Long-term condition
+B333.,,SKIN_CANCER,,Malignant neoplasm skin of other and unspecified parts face,Long-term condition
+B3330,,SKIN_CANCER,,"Malignant neoplasm of skin of cheek, external",Long-term condition
+B3331,,SKIN_CANCER,,Malignant neoplasm of skin of chin,Long-term condition
+B3332,,SKIN_CANCER,,Malignant neoplasm of skin of eyebrow,Long-term condition
+B3333,,SKIN_CANCER,,Malignant neoplasm of skin of forehead,Long-term condition
+B3334,,SKIN_CANCER,,Malignant neoplasm of skin of nose (external),Long-term condition
+B3335,,SKIN_CANCER,,Malignant neoplasm of skin of temple,Long-term condition
+B333z,,SKIN_CANCER,,Malignant neoplasm skin other and unspec part of face NOS,Long-term condition
+B334.,,SKIN_CANCER,,Malignant neoplasm of scalp and skin of neck,Long-term condition
+B3340,,SKIN_CANCER,,Malignant neoplasm of scalp,Long-term condition
+B3341,,SKIN_CANCER,,Malignant neoplasm of skin of neck,Long-term condition
+B334z,,SKIN_CANCER,,Malignant neoplasm of scalp or skin of neck NOS,Long-term condition
+B335.,,SKIN_CANCER,,"Malignant neoplasm of skin of trunk, excluding scrotum",Long-term condition
+B3350,,SKIN_CANCER,,Malignant neoplasm of skin of axillary fold,Long-term condition
+B3351,,SKIN_CANCER,,"Malignant neoplasm of skin of chest, excluding breast",Long-term condition
+B3352,,SKIN_CANCER,,Malignant neoplasm of skin of breast,Long-term condition
+B3353,,SKIN_CANCER,,Malignant neoplasm of skin of abdominal wall,Long-term condition
+B3354,,SKIN_CANCER,,Malignant neoplasm of skin of umbilicus,Long-term condition
+B3355,,SKIN_CANCER,,Malignant neoplasm of skin of groin,Long-term condition
+B3356,,SKIN_CANCER,,Malignant neoplasm of skin of perineum,Long-term condition
+B3357,,SKIN_CANCER,,Malignant neoplasm of skin of back,Long-term condition
+B3358,,SKIN_CANCER,,Malignant neoplasm of skin of buttock,Long-term condition
+B3359,,SKIN_CANCER,,Malignant neoplasm of perianal skin,Long-term condition
+B335A,,SKIN_CANCER,,Malignant neoplasm of skin of scapular region,Long-term condition
+B335z,,SKIN_CANCER,,"Malignant neoplasm of skin of trunk, excluding scrotum, NOS",Long-term condition
+B336.,,SKIN_CANCER,,Malignant neoplasm of skin of upper limb and shoulder,Long-term condition
+B3360,,SKIN_CANCER,,Malignant neoplasm of skin of shoulder,Long-term condition
+B3361,,SKIN_CANCER,,Malignant neoplasm of skin of upper arm,Long-term condition
+B3362,,SKIN_CANCER,,Malignant neoplasm of skin of fore-arm,Long-term condition
+B3363,,SKIN_CANCER,,Malignant neoplasm of skin of hand,Long-term condition
+B3364,,SKIN_CANCER,,Malignant neoplasm of skin of finger,Long-term condition
+B3365,,SKIN_CANCER,,Malignant neoplasm of skin of thumb,Long-term condition
+B336z,,SKIN_CANCER,,Malignant neoplasm of skin of upper limb or shoulder NOS,Long-term condition
+B337.,,SKIN_CANCER,,Malignant neoplasm of skin of lower limb and hip,Long-term condition
+B3370,,SKIN_CANCER,,Malignant neoplasm of skin of hip,Long-term condition
+B3371,,SKIN_CANCER,,Malignant neoplasm of skin of thigh,Long-term condition
+B3372,,SKIN_CANCER,,Malignant neoplasm of skin of knee,Long-term condition
+B3373,,SKIN_CANCER,,Malignant neoplasm of skin of popliteal fossa area,Long-term condition
+B3374,,SKIN_CANCER,,Malignant neoplasm of skin of lower leg,Long-term condition
+B3375,,SKIN_CANCER,,Malignant neoplasm of skin of ankle,Long-term condition
+B3376,,SKIN_CANCER,,Malignant neoplasm of skin of heel,Long-term condition
+B3377,,SKIN_CANCER,,Malignant neoplasm of skin of foot,Long-term condition
+B3378,,SKIN_CANCER,,Malignant neoplasm of skin of toe,Long-term condition
+B3379,,SKIN_CANCER,,Malignant neoplasm of skin of great toe,Long-term condition
+B337z,,SKIN_CANCER,,Malignant neoplasm of skin of lower limb or hip NOS,Long-term condition
+B338.,,SKIN_CANCER,,Squamous cell carcinoma of skin,Long-term condition
+B339.,,SKIN_CANCER,,Dermatofibrosarcoma protuberans,Long-term condition
+B33X.,,SKIN_CANCER,,Malignant neoplasm overlapping lesion of skin,Long-term condition
+B33y.,,SKIN_CANCER,,Malignant neoplasm of other specified skin sites,Long-term condition
+B33z.,,SKIN_CANCER,,Malignant neoplasm of skin NOS,Long-term condition
+B33z0,,SKIN_CANCER,,Kaposi's sarcoma of skin,Long-term condition
+B3y..,,SKIN_CANCER,,"Malig neop of bone, connective tissue, skin and breast OS",Long-term condition
+B3z..,,SKIN_CANCER,,"Malig neop of bone, connective tissue, skin and breast NOS",Long-term condition
+B480.,,SKIN_CANCER,,Malignant neoplasm of prepuce (foreskin),Long-term condition
+B509.,,SKIN_CANCER,,Malignant melanoma of eye,Long-term condition
+B582.,,SKIN_CANCER,,Secondary malignant neoplasm of skin,Long-term condition
+B5820,,SKIN_CANCER,,Secondary malignant neoplasm of skin of head,Long-term condition
+B5821,,SKIN_CANCER,,Secondary malignant neoplasm of skin of face,Long-term condition
+B5822,,SKIN_CANCER,,Secondary malignant neoplasm of skin of neck,Long-term condition
+B5823,,SKIN_CANCER,,Secondary malignant neoplasm of skin of trunk,Long-term condition
+B5824,,SKIN_CANCER,,Secondary malignant neoplasm of skin of shoulder and arm,Long-term condition
+B5825,,SKIN_CANCER,,Secondary malignant neoplasm of skin of hip and leg,Long-term condition
+B5826,,SKIN_CANCER,,Secondary malignant neoplasm of skin of breast,Long-term condition
+B582z,,SKIN_CANCER,,Secondary malignant neoplasm of skin NOS,Long-term condition
+B6286,,SKIN_CANCER,,Cutaneous follicle centre lymphoma,Long-term condition
+B62E3,,SKIN_CANCER,,Cutaneous T-cell lymphoma,Long-term condition
+B62xX,,SKIN_CANCER,,Oth and unspecif peripheral & cutaneous T-cell lymphomas,Long-term condition
+B932.,,SKIN_CANCER,,Neoplasm of uncertain behaviour of skin,Long-term condition
+BA02.,,SKIN_CANCER,,"Neoplasm of unspecified nature of bone, skin and soft tissue",Long-term condition
+BA022,,SKIN_CANCER,,Neoplasm of unspecified nature of skin,Long-term condition
+BA02z,,SKIN_CANCER,,"Neoplasm of unspec nature of bone, skin or soft tissue NOS",Long-term condition
+BB2..,,SKIN_CANCER,,[M]Squamous cell neoplasms,Long-term condition
+BB2A.,,SKIN_CANCER,,[M]Squamous cell carcinoma of skin NOS,Long-term condition
+BB36.,,SKIN_CANCER,,[M]Metatypical carcinoma,Long-term condition
+BB5RA,,SKIN_CANCER,,[M]Merkel cell carcinoma,Long-term condition
+BB6..,,SKIN_CANCER,,[M]Adnexal and skin appendage neoplasms,Long-term condition
+BB60.,,SKIN_CANCER,,[M]Skin appendage adenoma and carcinoma,Long-term condition
+BB601,,SKIN_CANCER,,[M]Skin appendage carcinoma,Long-term condition
+BB60z,,SKIN_CANCER,,[M]Skin appendage adenoma or carcinoma NOS,Long-term condition
+BB611,,SKIN_CANCER,,[M]Sweat gland tumour NOS,Long-term condition
+BB62.,,SKIN_CANCER,,[M]Apocrine adenoma and adenocarcinomas,Long-term condition
+BB621,,SKIN_CANCER,,[M]Apocrine adenocarcinoma,Long-term condition
+BB62z,,SKIN_CANCER,,[M]Apocrine adenoma or adenocarcinoma NOS,Long-term condition
+BB69.,,SKIN_CANCER,,[M]Sebaceous adenoma and adenocarcinoma,Long-term condition
+BB691,,SKIN_CANCER,,[M]Sebaceous adenocarcinoma,Long-term condition
+BB69z,,SKIN_CANCER,,[M]Sebaceous adenoma or adenocarcinoma NOS,Long-term condition
+BB6z.,,SKIN_CANCER,,[M]Adnexal and skin appendage neoplasm NOS,Long-term condition
+BBB5.,,SKIN_CANCER,,[M]Adenocarcinoma with apocrine metaplasia,Long-term condition
+BBE..,,SKIN_CANCER,,[M]Naevi and melanomas,Long-term condition
+BBE1.,,SKIN_CANCER,,[M]Malignant melanoma NOS,Long-term condition
+BBE10,,SKIN_CANCER,,"[M]Malignant melanoma, regressing",Long-term condition
+BBE11,,SKIN_CANCER,,"[M]Desmoplastic melanoma, malignant",Long-term condition
+BBE2.,,SKIN_CANCER,,[M]Nodular melanoma,Long-term condition
+BBE4.,,SKIN_CANCER,,[M]Balloon cell melanoma,Long-term condition
+BBEA.,,SKIN_CANCER,,[M]Amelanotic melanoma,Long-term condition
+BBEC.,,SKIN_CANCER,,[M]Malignant melanoma in junctional naevus,Long-term condition
+BBEE.,,SKIN_CANCER,,[M]Malignant melanoma in precancerous melanosis,Long-term condition
+BBEG.,,SKIN_CANCER,,[M]Lentigo maligna melanoma,Long-term condition
+BBEG0,,SKIN_CANCER,,"[M]Acral lentiginous melanoma, malignant",Long-term condition
+BBEH.,,SKIN_CANCER,,[M]Superficial spreading melanoma,Long-term condition
+BBEM.,,SKIN_CANCER,,[M]Malignant melanoma in giant pigmented naevus,Long-term condition
+BBEN.,,SKIN_CANCER,,[M]Juvenila melanoma,Long-term condition
+BBEP.,,SKIN_CANCER,,[M]Epithelioid cell melanoma,Long-term condition
+BBEQ.,,SKIN_CANCER,,[M]Spindle cell melanoma NOS,Long-term condition
+BBER.,,SKIN_CANCER,,"[M]Spindle cell melanoma, type A",Long-term condition
+BBES.,,SKIN_CANCER,,"[M]Spindle cell melanoma, type B",Long-term condition
+BBET.,,SKIN_CANCER,,[M]Mixed epithelioid and spindle melanoma,Long-term condition
+BBEz.,,SKIN_CANCER,,[M]Naevi or melanoma NOS,Long-term condition
+BBGM.,,SKIN_CANCER,,[M]Dermatofibrosarcoma NOS,Long-term condition
+BBGP.,,SKIN_CANCER,,[M]Pigmented dermatofibrosarcoma protuberans,Long-term condition
+BBmD.,,SKIN_CANCER,,[M] Cutaneous lymphoma,Long-term condition
+Byu4.,,SKIN_CANCER,,[X]Melanoma and other malignant neoplasms of skin,Long-term condition
+Byu40,,SKIN_CANCER,,[X]Malignant melanoma of other+unspecified parts of face,Long-term condition
+Byu41,,SKIN_CANCER,,"[X]Malignant melanoma of skin, unspecified",Long-term condition
+Byu42,,SKIN_CANCER,,[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face,Long-term condition
+Byu43,,SKIN_CANCER,,"[X]Malignant neoplasm of skin, unspecified",Long-term condition
+Byu5A,,SKIN_CANCER,,[X]Malignant neoplasm overlapping lesion of skin,Long-term condition
+ByuDD,,SKIN_CANCER,,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas,Long-term condition
+ZV10y,,SKIN_CANCER,,[V]Personal history of malignant neoplasm of skin,Long-term condition

@@ -1,0 +1,255 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+12J3.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,FH: Congenital heart disease,Long-term condition
+14AV.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,History of ventricular septal defect,Long-term condition
+21268,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ostium secundum atrial septal defect resolved,Long-term condition
+66g..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital heart condition monitoring,Long-term condition
+7903y,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atrial inversion op for transposition of great vessels OS,Long-term condition
+79063,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Closure of persistent ostium primum,Long-term condition
+790A1,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Make heart septal defect,Long-term condition
+790N4,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Relief of left ventricular outflow tract obstruction,Long-term condition
+9RD0.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Transfer of care from paediatric congenital heart service,Long-term condition
+G5y9.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Cardiac septal defect, acquired",Long-term condition
+L185.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital heart disease in pregnancy,Long-term condition
+L1850,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital cardiovasc dis - unsp whether in preg/puerperium,Long-term condition
+L1851,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital cardiovasc dis in pregnancy - baby delivered,Long-term condition
+L1852,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital cardiovasc dis in puerp - baby delivered,Long-term condition
+L1853,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital cardiovasc dis in pregnancy - baby not delivered,Long-term condition
+L1854,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital cardiovasc dis in puerp - baby previously deliv,Long-term condition
+L185z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital cardiovascular disorder in preg/childb/puerp NOS,Long-term condition
+P5...,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Heart septal defects,Long-term condition
+P50..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Common aorto-pulmonary trunk,Long-term condition
+P500.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Truncus arteriosus,Long-term condition
+P501.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Aortic septal defect,Long-term condition
+P502.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Truncus arteriosus,Long-term condition
+P50z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Common aorto-pulmonary trunk NOS,Long-term condition
+P51..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Transposition of great vessels,Long-term condition
+P510.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Total great vessel transposition,Long-term condition
+P511.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Double outlet right ventricle,Long-term condition
+P5110,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Double outlet right ventricle, unspecified",Long-term condition
+P5111,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Dextratransposition of aorta,Long-term condition
+P5112,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Incomplete great vessel transposition,Long-term condition
+P5113,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Taussig-Bing syndrome,Long-term condition
+P511z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Double outlet right ventricle NOS,Long-term condition
+P512.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Corrected great vessel transposition,Long-term condition
+P51y.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Transposition of aorta,Long-term condition
+P51z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Great vessel transposition NOS,Long-term condition
+P52..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Tetralogy of Fallot,Long-term condition
+P520.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ventricular septal defect in Fallot's tetralogy,Long-term condition
+P521.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Pentalogy of Fallot,Long-term condition
+P52z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Tetralogy of Fallot NOS,Long-term condition
+P53..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Common ventricle,Long-term condition
+P54..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ventricular septal defect,Long-term condition
+P540.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Ventricular septal defect, unspecified",Long-term condition
+P541.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Interventricular septal defect,Long-term condition
+P542.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Left ventricle to right atrial communication,Long-term condition
+P543.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Eisenmenger's complex,Long-term condition
+P544.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Gerbode's defect,Long-term condition
+P545.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Roger's disease,Long-term condition
+P54y.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other specified ventricular septal defect,Long-term condition
+P54z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ventricular septal defect NOS,Long-term condition
+P55..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ostium secundum atrial septal defect,Long-term condition
+P550.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atrial septal defect NOS,Long-term condition
+P551.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Patent foramen ovale,Long-term condition
+P552.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Persistent ostium secundum,Long-term condition
+P553.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Lutembacher's syndrome,Long-term condition
+P55y.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other specified atrial septal defect,Long-term condition
+P55z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ostium secundum atrial septal defect NOS,Long-term condition
+P56..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Endocardial cushion defects,Long-term condition
+P560.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Endocardial cushion defects, unspecified",Long-term condition
+P561.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ostium primum defect,Long-term condition
+P56y.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other specified endocardial cushion defects,Long-term condition
+P56z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Endocardial cushion defects NOS,Long-term condition
+P56z0,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Common atrium,Long-term condition
+P56z1,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Common atrioventricular canal,Long-term condition
+P56z2,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Common atrioventricular-type ventricular septal defect,Long-term condition
+P56zz,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Endocardial cushion defects NOS,Long-term condition
+P57..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Cor biloculare,Long-term condition
+P58..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Double outlet left ventricle,Long-term condition
+P59..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Isomerism of atrial appendages,Long-term condition
+P5X..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital malforms of cardiac chambers+connections unsp,Long-term condition
+P5y..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other heart bulb and septal closure defect,Long-term condition
+P5z..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Heart bulb or septal closure defects NOS,Long-term condition
+P6...,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other congenital heart anomalies,Long-term condition
+P60..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Pulmonary valve anomalies,Long-term condition
+P600.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Pulmonary valve anomaly, unspecified",Long-term condition
+P601.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital atresia of the pulmonary valve,Long-term condition
+P6010,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Hypoplasia of pulmonary valve,Long-term condition
+P601z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital atresia of pulmonary valve NOS,Long-term condition
+P602.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital pulmonary stenosis,Long-term condition
+P6020,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital fusion of pulmonic cusps,Long-term condition
+P6021,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital fusion of pulmonary valve segment,Long-term condition
+P602z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital pulmonary stenosis NOS,Long-term condition
+P603.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Right hypoplastic heart syndrome,Long-term condition
+P60z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other pulmonary valve anomalies,Long-term condition
+P60z0,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital insufficiency of the pulmonary valve,Long-term condition
+P60z1,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Fallot's trilogy,Long-term condition
+P60z2,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Supernumerary pulmonary valve cusps,Long-term condition
+P60zz,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other pulmonary valve anomaly NOS,Long-term condition
+P61..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital tricuspid atresia and stenosis,Long-term condition
+P610.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital tricuspid atresia,Long-term condition
+P611.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital tricuspid stenosis,Long-term condition
+P61z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital tricuspid atresia or stenosis NOS,Long-term condition
+P62..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ebstein's anomaly,Long-term condition
+P63..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital aortic valve stenosis,Long-term condition
+P64..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital aortic valve insufficiency,Long-term condition
+P640.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Congenital aortic valve insufficiency, unspecified",Long-term condition
+P641.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Bicuspid aortic valve,Long-term condition
+P64z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital aortic valve insufficiency NOS,Long-term condition
+P65..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital mitral stenosis,Long-term condition
+P650.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Congenital mitral stenosis, unspecified",Long-term condition
+P651.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Fused commissure of the mitral valve,Long-term condition
+P652.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Parachute deformity of the mitral valve,Long-term condition
+P653.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Supernumerary cusps of the mitral valve,Long-term condition
+P65z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital mitral stenosis NOS,Long-term condition
+P66..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital mitral insufficiency,Long-term condition
+P67..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Hypoplastic left heart syndrome,Long-term condition
+P68..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital heart disease,Long-term condition
+P69..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Left ventricular outflow tract obstruction,Long-term condition
+P6W..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital malformation of aortic and mitral valves unsp,Long-term condition
+P6X..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Congenital malformation of tricuspid valve, unspecified",Long-term condition
+P6y..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other specified heart anomalies,Long-term condition
+P6y0.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Subaortic stenosis,Long-term condition
+P6y1.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Cor triatriatum,Long-term condition
+P6y2.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Pulmonary infundibular stenosis,Long-term condition
+P6y3.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Obstructive heart anomaly NEC,Long-term condition
+P6y30,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Uhl's disease,Long-term condition
+P6y31,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Right ventricular outflow tract obstruction,Long-term condition
+P6y3z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Obstructive heart anomaly NEC NOS,Long-term condition
+P6y4.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Coronary artery anomaly,Long-term condition
+P6y40,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital absence of coronary artery,Long-term condition
+P6y41,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Single coronary artery,Long-term condition
+P6y42,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Coronary artery from aorta,Long-term condition
+P6y43,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Coronary artery from pulmonary trunk,Long-term condition
+P6y44,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital coronary arterio-venous fistula,Long-term condition
+P6y45,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital coronary aneurysm,Long-term condition
+P6y46,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital stricture of coronary artery,Long-term condition
+P6y4z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Coronary artery anomaly NOS,Long-term condition
+P6y5.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital heart block,Long-term condition
+P6y50,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Congenital heart block, unspecified",Long-term condition
+P6y51,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital complete atrio-ventricular heart block,Long-term condition
+P6y52,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital incomplete atrio-ventricular heart block,Long-term condition
+P6y5z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital heart block NOS,Long-term condition
+P6y6.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ectopic heart,Long-term condition
+P6y60,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Dextrocardia,Long-term condition
+P6y61,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Laevocardia,Long-term condition
+P6y62,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Mesocardia,Long-term condition
+P6y63,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Ectopia cordis,Long-term condition
+P6y64,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Abdominal heart,Long-term condition
+P6y6z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Heart or cardiac apex malposition NOS,Long-term condition
+P6y7.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Myocardial bridge of coronary artery,Long-term condition
+P6y8.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital dextroposition of heart,Long-term condition
+P6yy.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Hypoplasia of heart NOS,Long-term condition
+P6yy0,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atresia of cardiac vein,Long-term condition
+P6yy1,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Hypoplasia of cardiac vein,Long-term condition
+P6yy2,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital cardiomegaly,Long-term condition
+P6yy3,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital left ventricular diverticulum,Long-term condition
+P6yy4,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital pericardial defect,Long-term condition
+P6yy5,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital anomaly of myocardium,Long-term condition
+P6yy6,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital aneurysm of heart,Long-term condition
+P6yy7,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atresia of heart valve NEC,Long-term condition
+P6yy8,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Cor triloculare,Long-term condition
+P6yy9,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital epicardial cyst,Long-term condition
+P6yyA,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Hemicardia,Long-term condition
+P6yyB,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Supernumerary heart valve cusps NEC,Long-term condition
+P6yyC,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Fusion of mitral valve cusps,Long-term condition
+P6yyD,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Fusion of heart valve cusps NEC,Long-term condition
+P6yyz,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other specified heart anomalies NOS,Long-term condition
+P6z..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital heart anomaly NOS,Long-term condition
+P6z0.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Unspecified anomaly of heart valve,Long-term condition
+P6z1.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Anomalous bands of heart,Long-term condition
+P6z10,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Anomalous atrial bands,Long-term condition
+P6z11,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Anomalous ventricular bands,Long-term condition
+P6z1z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Anomalous bands of heart NOS,Long-term condition
+P6z2.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Acyanotic congenital heart disease NOS,Long-term condition
+P6z3.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Cyanotic congenital heart disease NOS,Long-term condition
+P6zz.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital heart anomaly NOS,Long-term condition
+P7...,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other congenital circulatory system anomalies,Long-term condition
+P70..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Patent ductus arteriosus,Long-term condition
+P71..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Coarctation of aorta,Long-term condition
+P710.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Hypoplasia of aortic arch, unspecified",Long-term condition
+P711.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Preductal coarctation of aorta,Long-term condition
+P712.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Postductal aortic stenosis,Long-term condition
+P713.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Stenosis of aortic arch,Long-term condition
+P71z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Coarctation of aorta NOS,Long-term condition
+P72..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Anomalies of the aorta excluding coarction,Long-term condition
+P720.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Anomaly of aorta, unspecified",Long-term condition
+P721.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Aortic arch anomalies,Long-term condition
+P7210,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Anomalous origin of the aortic arch,Long-term condition
+P7211,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Dextraposition of aorta,Long-term condition
+P7212,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Vascular ring,Long-term condition
+P7213,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Kommerell's diverticulum,Long-term condition
+P7214,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Persistent aortic arch convolutions,Long-term condition
+P7215,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Persistent right aortic arch,Long-term condition
+P7216,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Vascular ring, aorta",Long-term condition
+P7217,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Overriding aorta,Long-term condition
+P721z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Aortic arch anomalies NOS,Long-term condition
+P722.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atresia and stenosis of aorta,Long-term condition
+P7220,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital absence of aorta,Long-term condition
+P7221,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Aplasia of aorta,Long-term condition
+P7222,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Hypoplasia of aorta,Long-term condition
+P7223,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Stricture of aorta,Long-term condition
+P7224,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Supra-valvular aortic stenosis,Long-term condition
+P7225,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atresia of aorta,Long-term condition
+P722z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atresia or stenosis of aorta NOS,Long-term condition
+P72z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other anomalies of aorta NOS,Long-term condition
+P72z0,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Aneurysm of sinus of Valsalva,Long-term condition
+P72z1,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital dilatation of aorta,Long-term condition
+P72zz,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other anomaly of aorta NOS,Long-term condition
+P73..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Pulmonary artery anomalies,Long-term condition
+P730.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Pulmonary artery anomaly, unspecified",Long-term condition
+P731.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Pulmonary artery agenesis,Long-term condition
+P732.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Pulmonary artery atresia,Long-term condition
+P733.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Coarctation of the pulmonary artery,Long-term condition
+P734.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Hypoplasia of the pulmonary artery,Long-term condition
+P735.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Stenosis of pulmonary artery,Long-term condition
+P736.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Pulmonary arterio-venous malformation,Long-term condition
+P737.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Dilatation of pulmonary artery,Long-term condition
+P738.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atresia of pulmonary artery with septal defect,Long-term condition
+P73y.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other specified anomaly of pulmonary artery,Long-term condition
+P73z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Pulmonary artery anomaly NOS,Long-term condition
+P74..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Anomalies of great veins,Long-term condition
+P740.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Anomaly of great veins, unspecified",Long-term condition
+P7400,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Anomaly of the pulmonary veins, unspecified",Long-term condition
+P7401,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Anomaly of the vena cava, unspecified",Long-term condition
+P740z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Unspecified anomaly of the great veins, NOS",Long-term condition
+P741.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Total anomalous pulmonary venous return - TAPVR,Long-term condition
+P7410,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Subdiaphragmatic total anomalous pulmonary venous return,Long-term condition
+P7411,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Supradiaphragmatic total anomalous pulmonary venous return,Long-term condition
+P741z,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Total anomalous pulmonary venous return NOS,Long-term condition
+P742.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Partial anomalous pulmonary venous return,Long-term condition
+P743.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Anomalous portal vein termination,Long-term condition
+P744.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Portal vein - hepatic artery fistula,Long-term condition
+P74z.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other great vein anomalies,Long-term condition
+P74z0,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Absence of inferior vena cava,Long-term condition
+P74z1,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Absence of superior vena cava,Long-term condition
+P74z2,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Stenosis of inferior vena cava,Long-term condition
+P74z3,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Stenosis of superior vena cava,Long-term condition
+P74z4,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Persistent left posterior cardinal vein,Long-term condition
+P74z5,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Persistent left superior vena cava,Long-term condition
+P74z6,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Scimitar syndrome,Long-term condition
+P74z7,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Transposition of pulmonary veins,Long-term condition
+P74z8,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atresia of pulmonary vein,Long-term condition
+P74zz,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other great vein anomaly NOS,Long-term condition
+P76..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Other congenital anomalies of peripheral veins,Long-term condition
+P760.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Absence of artery NEC,Long-term condition
+P761.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Anomaly of artery NEC,Long-term condition
+P762.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Atresia of artery NEC,Long-term condition
+P763.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Absence of vein NEC,Long-term condition
+P7X..,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"Congenital malformation of great arteries, unspecified",Long-term condition
+PK33.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Complete situs inversus with dextrocardia,Long-term condition
+PK34.,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Situs inversus with levocardia,Long-term condition
+Pyu20,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other cong malformatn of cardiac chambers & connections,Long-term condition
+Pyu21,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other congenital malformations of cardiac septa,Long-term condition
+Pyu22,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other congenital malformations of pulmonary valve,Long-term condition
+Pyu23,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other congenital malformations of tricuspid valve,Long-term condition
+Pyu24,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other congenital malformations of aortic & mitral valves,Long-term condition
+Pyu25,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other specified congenital malformations of the heart,Long-term condition
+Pyu26,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other congenital malformations of aorta,Long-term condition
+Pyu27,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other congenital malformations of pulmonary artery,Long-term condition
+Pyu28,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other congenital malformations of great arteries,Long-term condition
+Pyu29,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Other congenital malformations of great veins,Long-term condition
+Pyu2F,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Congenital malforms of cardiac chambers+connections unsp,Long-term condition
+Pyu2G,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"[X]Congenital malformation of tricuspid valve, unspecified",Long-term condition
+Pyu2H,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,[X]Congenital malformation of aortic and mitral valves unsp,Long-term condition
+Pyu2J,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,"[X]Congenital malformation of great arteries, unspecified",Long-term condition
+Q48y1,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,,Congenital cardiac failure,Long-term condition

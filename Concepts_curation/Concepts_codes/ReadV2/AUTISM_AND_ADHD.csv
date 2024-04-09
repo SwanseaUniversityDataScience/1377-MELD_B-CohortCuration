@@ -1,0 +1,27 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+6A61.,,AUTISM_AND_ADHD,,Attention deficit hyperactivity disorder annual review,Long-term condition
+8BPT.,,AUTISM_AND_ADHD,,Drug therapy ADHD (attention deficit hyperactivity disorder),Long-term condition
+8BPT0,,AUTISM_AND_ADHD,,Stimulant drug therapy for ADHD,Long-term condition
+8BPT1,,AUTISM_AND_ADHD,,Non-stimulant drug therapy for ADHD,Long-term condition
+9Ngp.,,AUTISM_AND_ADHD,,On drug ther ADHD (attention deficit hyperactivity disorder),Long-term condition
+9Ngp0,,AUTISM_AND_ADHD,,On stim drug ther ADHD (attention def hyperactivity disordr),Long-term condition
+9Ngp1,,AUTISM_AND_ADHD,,On non-stimulant drug therapy for ADHD,Long-term condition
+9Ol8.,,AUTISM_AND_ADHD,,ADHD monitoring invitation first letter,Long-term condition
+9Ol9.,,AUTISM_AND_ADHD,,ADHD monitoring invitation second letter,Long-term condition
+9OlA.,,AUTISM_AND_ADHD,,ADHD monitoring invitation third letter,Long-term condition
+E140.,,AUTISM_AND_ADHD,,Autism,Long-term condition
+E1400,,AUTISM_AND_ADHD,,Active infantile autism,Long-term condition
+E1401,,AUTISM_AND_ADHD,,Residual infantile autism,Long-term condition
+E140z,,AUTISM_AND_ADHD,,Infantile autism NOS,Long-term condition
+E2E..,,AUTISM_AND_ADHD,,Overactive child syndrome,Long-term condition
+E2E0.,,AUTISM_AND_ADHD,,Child attention deficit disorder,Long-term condition
+E2E01,,AUTISM_AND_ADHD,,Attention deficit with hyperactivity,Long-term condition
+E2E0z,,AUTISM_AND_ADHD,,Child attention deficit disorder NOS,Long-term condition
+E2E1.,,AUTISM_AND_ADHD,,Hyperkinesis with developmental delay,Long-term condition
+Eu840,,AUTISM_AND_ADHD,,[X]Childhood autism,Long-term condition
+Eu841,,AUTISM_AND_ADHD,,[X]Atypical autism,Long-term condition
+Eu845,,AUTISM_AND_ADHD,,[X]Asperger's syndrome,Long-term condition
+Eu84z,,AUTISM_AND_ADHD,,[X]Autistic spectrum disorder,Long-term condition
+Eu900,,AUTISM_AND_ADHD,,[X]Disturbance of activity and attention,Long-term condition
+Eu902,,AUTISM_AND_ADHD,,"[X]Deficits in attention, motor control and perception",Long-term condition
+Eu9y7,,AUTISM_AND_ADHD,,[X]Attention deficit disorder,Long-term condition

@@ -1,0 +1,421 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+4M20.,,LYMPHOMA,,Lymphoma stage I,Long-term condition
+4M21.,,LYMPHOMA,,Lymphoma stage II,Long-term condition
+4M22.,,LYMPHOMA,,Lymphoma stage III,Long-term condition
+4M23.,,LYMPHOMA,,Lymphoma stage IV,Long-term condition
+A7896,,LYMPHOMA,,HIV disease resulting in Burkitt's lymphoma,Long-term condition
+A7897,,LYMPHOMA,,HIV dis resulting oth types of non-Hodgkin's lymphoma,Long-term condition
+AyuC6,,LYMPHOMA,,[X]HIV disease resulting in other non-Hodgkin's lymphoma,Long-term condition
+B5601,,LYMPHOMA,,Secondary and unspec malignant neoplasm mastoid lymph nodes,Long-term condition
+B6...,,LYMPHOMA,,Malignant neoplasm of lymphatic and haemopoietic tissue,Long-term condition
+B60..,,LYMPHOMA,,Lymphosarcoma and reticulosarcoma,Long-term condition
+B600.,,LYMPHOMA,,Reticulosarcoma,Long-term condition
+B6000,,LYMPHOMA,,Reticulosarcoma of unspecified site,Long-term condition
+B6001,,LYMPHOMA,,"Reticulosarcoma of lymph nodes of head, face and neck",Long-term condition
+B6002,,LYMPHOMA,,Reticulosarcoma of intrathoracic lymph nodes,Long-term condition
+B6003,,LYMPHOMA,,Reticulosarcoma of intra-abdominal lymph nodes,Long-term condition
+B6004,,LYMPHOMA,,Reticulosarcoma of lymph nodes of axilla and upper limb,Long-term condition
+B6005,,LYMPHOMA,,Reticulosarcoma of lymph nodes of inguinal region and leg,Long-term condition
+B6006,,LYMPHOMA,,Reticulosarcoma of intrapelvic lymph nodes,Long-term condition
+B6007,,LYMPHOMA,,Reticulosarcoma of spleen,Long-term condition
+B6008,,LYMPHOMA,,Reticulosarcoma of lymph nodes of multiple sites,Long-term condition
+B600z,,LYMPHOMA,,Reticulosarcoma NOS,Long-term condition
+B601.,,LYMPHOMA,,Lymphosarcoma,Long-term condition
+B6010,,LYMPHOMA,,Lymphosarcoma of unspecified site,Long-term condition
+B6011,,LYMPHOMA,,"Lymphosarcoma of lymph nodes of head, face and neck",Long-term condition
+B6012,,LYMPHOMA,,Lymphosarcoma of intrathoracic lymph nodes,Long-term condition
+B6013,,LYMPHOMA,,Lymphosarcoma of intra-abdominal lymph nodes,Long-term condition
+B6014,,LYMPHOMA,,Lymphosarcoma of lymph nodes of axilla and upper limb,Long-term condition
+B6015,,LYMPHOMA,,Lymphosarcoma of lymph nodes of inguinal region and leg,Long-term condition
+B6016,,LYMPHOMA,,Lymphosarcoma of intrapelvic lymph nodes,Long-term condition
+B6017,,LYMPHOMA,,Lymphosarcoma of spleen,Long-term condition
+B6018,,LYMPHOMA,,Lymphosarcoma of lymph nodes of multiple sites,Long-term condition
+B601z,,LYMPHOMA,,Lymphosarcoma NOS,Long-term condition
+B602.,,LYMPHOMA,,Burkitt's lymphoma,Long-term condition
+B6020,,LYMPHOMA,,Burkitt's lymphoma of unspecified site,Long-term condition
+B6021,,LYMPHOMA,,"Burkitt's lymphoma of lymph nodes of head, face and neck",Long-term condition
+B6022,,LYMPHOMA,,Burkitt's lymphoma of intrathoracic lymph nodes,Long-term condition
+B6023,,LYMPHOMA,,Burkitt's lymphoma of intra-abdominal lymph nodes,Long-term condition
+B6024,,LYMPHOMA,,Burkitt's lymphoma of lymph nodes of axilla and upper limb,Long-term condition
+B6025,,LYMPHOMA,,Burkitt's lymphoma of lymph nodes of inguinal region and leg,Long-term condition
+B6026,,LYMPHOMA,,Burkitt's lymphoma of intrapelvic lymph nodes,Long-term condition
+B6027,,LYMPHOMA,,Burkitt's lymphoma of spleen,Long-term condition
+B6028,,LYMPHOMA,,Burkitt's lymphoma of lymph nodes of multiple sites,Long-term condition
+B602z,,LYMPHOMA,,Burkitt's lymphoma NOS,Long-term condition
+B60y.,,LYMPHOMA,,Other specified reticulosarcoma or lymphosarcoma,Long-term condition
+B60z.,,LYMPHOMA,,Reticulosarcoma or lymphosarcoma NOS,Long-term condition
+B61..,,LYMPHOMA,,Hodgkin's disease,Long-term condition
+B610.,,LYMPHOMA,,Hodgkin's paragranuloma,Long-term condition
+B6100,,LYMPHOMA,,Hodgkin's paragranuloma of unspecified site,Long-term condition
+B6101,,LYMPHOMA,,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",Long-term condition
+B6102,,LYMPHOMA,,Hodgkin's paragranuloma of intrathoracic lymph nodes,Long-term condition
+B6103,,LYMPHOMA,,Hodgkin's paragranuloma of intra-abdominal lymph nodes,Long-term condition
+B6104,,LYMPHOMA,,Hodgkin's paragranuloma of lymph nodes of axilla and arm,Long-term condition
+B6105,,LYMPHOMA,,Hodgkin's paragranuloma lymph nodes inguinal region and leg,Long-term condition
+B6106,,LYMPHOMA,,Hodgkin's paragranuloma of intrapelvic lymph nodes,Long-term condition
+B6107,,LYMPHOMA,,Hodgkin's paragranuloma of spleen,Long-term condition
+B6108,,LYMPHOMA,,Hodgkin's paragranuloma of lymph nodes of multiple sites,Long-term condition
+B610z,,LYMPHOMA,,Hodgkin's paragranuloma NOS,Long-term condition
+B611.,,LYMPHOMA,,Hodgkin's granuloma,Long-term condition
+B6110,,LYMPHOMA,,Hodgkin's granuloma of unspecified site,Long-term condition
+B6111,,LYMPHOMA,,"Hodgkin's granuloma of lymph nodes of head, face and neck",Long-term condition
+B6112,,LYMPHOMA,,Hodgkin's granuloma of intrathoracic lymph nodes,Long-term condition
+B6113,,LYMPHOMA,,Hodgkin's granuloma of intra-abdominal lymph nodes,Long-term condition
+B6114,,LYMPHOMA,,Hodgkin's granuloma of lymph nodes of axilla and upper limb,Long-term condition
+B6115,,LYMPHOMA,,Hodgkin's granuloma lymph nodes of inguinal region and leg,Long-term condition
+B6116,,LYMPHOMA,,Hodgkin's granuloma of intrapelvic lymph nodes,Long-term condition
+B6117,,LYMPHOMA,,Hodgkin's granuloma of spleen,Long-term condition
+B6118,,LYMPHOMA,,Hodgkin's granuloma of lymph nodes of multiple sites,Long-term condition
+B611z,,LYMPHOMA,,Hodgkin's granuloma NOS,Long-term condition
+B612.,,LYMPHOMA,,Hodgkin's sarcoma,Long-term condition
+B6120,,LYMPHOMA,,Hodgkin's sarcoma of unspecified site,Long-term condition
+B6121,,LYMPHOMA,,"Hodgkin's sarcoma of lymph nodes of head, face and neck",Long-term condition
+B6122,,LYMPHOMA,,Hodgkin's sarcoma of intrathoracic lymph nodes,Long-term condition
+B6123,,LYMPHOMA,,Hodgkin's sarcoma of intra-abdominal lymph nodes,Long-term condition
+B6124,,LYMPHOMA,,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,Long-term condition
+B6125,,LYMPHOMA,,Hodgkin's sarcoma of lymph nodes of inguinal region and leg,Long-term condition
+B6126,,LYMPHOMA,,Hodgkin's sarcoma of intrapelvic lymph nodes,Long-term condition
+B6127,,LYMPHOMA,,Hodgkin's sarcoma of spleen,Long-term condition
+B6128,,LYMPHOMA,,Hodgkin's sarcoma of lymph nodes of multiple sites,Long-term condition
+B612z,,LYMPHOMA,,Hodgkin's sarcoma NOS,Long-term condition
+B613.,,LYMPHOMA,,"Hodgkin's disease, lymphocytic-histiocytic predominance",Long-term condition
+B6130,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",Long-term condition
+B6131,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",Long-term condition
+B6132,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",Long-term condition
+B6133,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",Long-term condition
+B6134,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic pred axilla and arm",Long-term condition
+B6135,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",Long-term condition
+B6136,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",Long-term condition
+B6137,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic predominance of spleen",Long-term condition
+B6138,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites",Long-term condition
+B613z,,LYMPHOMA,,"Hodgkin's, lymphocytic-histiocytic predominance NOS",Long-term condition
+B614.,,LYMPHOMA,,"Hodgkin's disease, nodular sclerosis",Long-term condition
+B6140,,LYMPHOMA,,"Hodgkin's disease, nodular sclerosis of unspecified site",Long-term condition
+B6141,,LYMPHOMA,,"Hodgkin's nodular sclerosis of head, face and neck",Long-term condition
+B6142,,LYMPHOMA,,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,Long-term condition
+B6143,,LYMPHOMA,,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,Long-term condition
+B6144,,LYMPHOMA,,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,Long-term condition
+B6145,,LYMPHOMA,,Hodgkin's nodular sclerosis of inguinal region and leg,Long-term condition
+B6146,,LYMPHOMA,,Hodgkin's nodular sclerosis of intrapelvic lymph nodes,Long-term condition
+B6147,,LYMPHOMA,,"Hodgkin's disease, nodular sclerosis of spleen",Long-term condition
+B6148,,LYMPHOMA,,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,Long-term condition
+B614z,,LYMPHOMA,,"Hodgkin's disease, nodular sclerosis NOS",Long-term condition
+B615.,,LYMPHOMA,,"Hodgkin's disease, mixed cellularity",Long-term condition
+B6150,,LYMPHOMA,,"Hodgkin's disease, mixed cellularity of unspecified site",Long-term condition
+B6151,,LYMPHOMA,,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",Long-term condition
+B6152,,LYMPHOMA,,Hodgkin's mixed cellularity of intrathoracic lymph nodes,Long-term condition
+B6153,,LYMPHOMA,,Hodgkin's mixed cellularity of intra-abdominal lymph nodes,Long-term condition
+B6154,,LYMPHOMA,,Hodgkin's mixed cellularity of lymph nodes of axilla and arm,Long-term condition
+B6155,,LYMPHOMA,,Hodgkin's mixed cellularity of lymph nodes inguinal and leg,Long-term condition
+B6156,,LYMPHOMA,,Hodgkin's mixed cellularity of intrapelvic lymph nodes,Long-term condition
+B6157,,LYMPHOMA,,Hodgkin's disease mixed cellularity of spleen,Long-term condition
+B6158,,LYMPHOMA,,Hodgkin's mixed cellularity of lymph nodes of multiple sites,Long-term condition
+B615z,,LYMPHOMA,,"Hodgkin's disease, mixed cellularity NOS",Long-term condition
+B616.,,LYMPHOMA,,"Hodgkin's disease, lymphocytic depletion",Long-term condition
+B6160,,LYMPHOMA,,Hodgkin's lymphocytic depletion of unspecified site,Long-term condition
+B6161,,LYMPHOMA,,"Hodgkin's lymphocytic depletion of head, face and neck",Long-term condition
+B6162,,LYMPHOMA,,Hodgkin's lymphocytic depletion of intrathoracic lymph nodes,Long-term condition
+B6163,,LYMPHOMA,,Hodgkin's lymphocytic depletion intra-abdominal lymph nodes,Long-term condition
+B6164,,LYMPHOMA,,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,Long-term condition
+B6165,,LYMPHOMA,,Hodgkin's lymphocytic depletion lymph nodes inguinal and leg,Long-term condition
+B6166,,LYMPHOMA,,Hodgkin's lymphocytic depletion of intrapelvic lymph nodes,Long-term condition
+B6167,,LYMPHOMA,,"Hodgkin's disease, lymphocytic depletion of spleen",Long-term condition
+B6168,,LYMPHOMA,,Hodgkin's lymphocytic depletion lymph nodes multiple sites,Long-term condition
+B616z,,LYMPHOMA,,"Hodgkin's disease, lymphocytic depletion NOS",Long-term condition
+B617.,,LYMPHOMA,,Nodular lymphocyte predominant Hodgkin lymphoma,Long-term condition
+B618.,,LYMPHOMA,,Nodular sclerosis classical Hodgkin lymphoma,Long-term condition
+B619.,,LYMPHOMA,,Mixed cellularity classical Hodgkin lymphoma,Long-term condition
+B61A.,,LYMPHOMA,,Lymphocyte depleted classical Hodgkin lymphoma,Long-term condition
+B61B.,,LYMPHOMA,,Lymphocyte-rich classical Hodgkin lymphoma,Long-term condition
+B61C.,,LYMPHOMA,,Other classical Hodgkin lymphoma,Long-term condition
+B61z.,,LYMPHOMA,,Hodgkin's disease NOS,Long-term condition
+B61z0,,LYMPHOMA,,"Hodgkin's disease NOS, unspecified site",Long-term condition
+B61z1,,LYMPHOMA,,"Hodgkin's disease NOS of lymph nodes of head, face and neck",Long-term condition
+B61z2,,LYMPHOMA,,Hodgkin's disease NOS of intrathoracic lymph nodes,Long-term condition
+B61z3,,LYMPHOMA,,Hodgkin's disease NOS of intra-abdominal lymph nodes,Long-term condition
+B61z4,,LYMPHOMA,,Hodgkin's disease NOS of lymph nodes of axilla and arm,Long-term condition
+B61z5,,LYMPHOMA,,Hodgkin's disease NOS of lymph nodes inguinal region and leg,Long-term condition
+B61z6,,LYMPHOMA,,Hodgkin's disease NOS of intrapelvic lymph nodes,Long-term condition
+B61z7,,LYMPHOMA,,Hodgkin's disease NOS of spleen,Long-term condition
+B61z8,,LYMPHOMA,,Hodgkin's disease NOS of lymph nodes of multiple sites,Long-term condition
+B61zz,,LYMPHOMA,,Hodgkin's disease NOS,Long-term condition
+B62..,,LYMPHOMA,,Other malignant neoplasm of lymphoid and histiocytic tissue,Long-term condition
+B620.,,LYMPHOMA,,Nodular lymphoma (Brill - Symmers disease),Long-term condition
+B6200,,LYMPHOMA,,Nodular lymphoma of unspecified site,Long-term condition
+B6201,,LYMPHOMA,,"Nodular lymphoma of lymph nodes of head, face and neck",Long-term condition
+B6202,,LYMPHOMA,,Nodular lymphoma of intrathoracic lymph nodes,Long-term condition
+B6203,,LYMPHOMA,,Nodular lymphoma of intra-abdominal lymph nodes,Long-term condition
+B6204,,LYMPHOMA,,Nodular lymphoma of lymph nodes of axilla and upper limb,Long-term condition
+B6205,,LYMPHOMA,,Nodular lymphoma of lymph nodes of inguinal region and leg,Long-term condition
+B6206,,LYMPHOMA,,Nodular lymphoma of intrapelvic lymph nodes,Long-term condition
+B6207,,LYMPHOMA,,Nodular lymphoma of spleen,Long-term condition
+B6208,,LYMPHOMA,,Nodular lymphoma of lymph nodes of multiple sites,Long-term condition
+B620z,,LYMPHOMA,,Nodular lymphoma NOS,Long-term condition
+B621.,,LYMPHOMA,,Mycosis fungoides,Long-term condition
+B6210,,LYMPHOMA,,Mycosis fungoides of unspecified site,Long-term condition
+B6211,,LYMPHOMA,,"Mycosis fungoides of the lymph nodes of head, face and neck",Long-term condition
+B6212,,LYMPHOMA,,Mycosis fungoides of intrathoracic lymph nodes,Long-term condition
+B6213,,LYMPHOMA,,Mycosis fungoides of intra-abdominal lymph nodes,Long-term condition
+B6214,,LYMPHOMA,,Mycosis fungoides of lymph nodes of axilla and upper limb,Long-term condition
+B6215,,LYMPHOMA,,Mycosis fungoides of lymph nodes of inguinal region and leg,Long-term condition
+B6216,,LYMPHOMA,,Mycosis fungoides of intrapelvic lymph nodes,Long-term condition
+B6217,,LYMPHOMA,,Mycosis fungoides of spleen,Long-term condition
+B6218,,LYMPHOMA,,Mycosis fungoides of lymph nodes of multiple sites,Long-term condition
+B621z,,LYMPHOMA,,Mycosis fungoides NOS,Long-term condition
+B622.,,LYMPHOMA,,Sezary's disease,Long-term condition
+B6220,,LYMPHOMA,,Sezary's disease of unspecified site,Long-term condition
+B6221,,LYMPHOMA,,"Sezary's disease of lymph nodes of head, face and neck",Long-term condition
+B6222,,LYMPHOMA,,Sezary's disease of intrathoracic lymph nodes,Long-term condition
+B6223,,LYMPHOMA,,Sezary's disease of intra-abdominal lymph nodes,Long-term condition
+B6224,,LYMPHOMA,,Sezary's disease of lymph nodes of axilla and upper limb,Long-term condition
+B6225,,LYMPHOMA,,Sezary's disease of lymph nodes of inguinal region and leg,Long-term condition
+B6226,,LYMPHOMA,,Sezary's disease of intrapelvic lymph nodes,Long-term condition
+B6227,,LYMPHOMA,,Sezary's disease of spleen,Long-term condition
+B6228,,LYMPHOMA,,Sezary's disease of lymph nodes of multiple sites,Long-term condition
+B622z,,LYMPHOMA,,Sezary's disease NOS,Long-term condition
+B623.,,LYMPHOMA,,Malignant histiocytosis,Long-term condition
+B6230,,LYMPHOMA,,Malignant histiocytosis of unspecified site,Long-term condition
+B6231,,LYMPHOMA,,"Malignant histiocytosis of lymph nodes head, face and neck",Long-term condition
+B6232,,LYMPHOMA,,Malignant histiocytosis of intrathoracic lymph nodes,Long-term condition
+B6233,,LYMPHOMA,,Malignant histiocytosis of intra-abdominal lymph nodes,Long-term condition
+B6234,,LYMPHOMA,,Malignant histiocytosis of lymph nodes of axilla and arm,Long-term condition
+B6235,,LYMPHOMA,,Malignant histiocytosis of lymph nodes inguinal and leg,Long-term condition
+B6236,,LYMPHOMA,,Malignant histiocytosis of intrapelvic lymph nodes,Long-term condition
+B6237,,LYMPHOMA,,Malignant histiocytosis of spleen,Long-term condition
+B6238,,LYMPHOMA,,Malignant histiocytosis of lymph nodes of multiple sites,Long-term condition
+B623z,,LYMPHOMA,,Malignant histiocytosis NOS,Long-term condition
+B624.,,LYMPHOMA,,Leukaemic reticuloendotheliosis,Long-term condition
+B6240,,LYMPHOMA,,Leukaemic reticuloendotheliosis of unspecified sites,Long-term condition
+B6241,,LYMPHOMA,,"Leukaemic reticuloend of lymph nodes of head, face and neck",Long-term condition
+B6242,,LYMPHOMA,,Leukaemic reticuloendotheliosis of intrathoracic lymph nodes,Long-term condition
+B6243,,LYMPHOMA,,Leukaemic reticuloend of intra-abdominal lymph nodes,Long-term condition
+B6244,,LYMPHOMA,,Leukaemic reticuloend of lymph nodes of axilla and arm,Long-term condition
+B6245,,LYMPHOMA,,Leukaemic reticuloend of lymph nodes inguinal region and leg,Long-term condition
+B6246,,LYMPHOMA,,Leukaemic reticuloendotheliosis of intrapelvic lymph nodes,Long-term condition
+B6247,,LYMPHOMA,,Leukaemic reticuloendotheliosis of spleen,Long-term condition
+B6248,,LYMPHOMA,,Leukaemic reticuloend of lymph nodes of multiple sites,Long-term condition
+B624z,,LYMPHOMA,,Leukaemic reticuloendotheliosis NOS,Long-term condition
+B625.,,LYMPHOMA,,"Histiocytosis X (acute, progressive)",Long-term condition
+B6250,,LYMPHOMA,,Letterer-Siwe disease of unspecified sites,Long-term condition
+B6251,,LYMPHOMA,,"Letterer-Siwe disease of lymph nodes of head, face and neck",Long-term condition
+B6252,,LYMPHOMA,,Letterer-Siwe disease of intrathoracic lymph nodes,Long-term condition
+B6253,,LYMPHOMA,,Letterer-Siwe disease of intra-abdominal lymph nodes,Long-term condition
+B6254,,LYMPHOMA,,Letterer-Siwe disease of lymph nodes of axilla and arm,Long-term condition
+B6255,,LYMPHOMA,,Letterer-Siwe disease of lymph nodes inguinal region and leg,Long-term condition
+B6256,,LYMPHOMA,,Letterer-Siwe disease of intrapelvic lymph nodes,Long-term condition
+B6257,,LYMPHOMA,,Letterer-Siwe disease of spleen,Long-term condition
+B6258,,LYMPHOMA,,Letterer-Siwe disease of lymph nodes of multiple sites,Long-term condition
+B625z,,LYMPHOMA,,Letterer-Siwe disease NOS,Long-term condition
+B626.,,LYMPHOMA,,Malignant mast cell tumours,Long-term condition
+B6260,,LYMPHOMA,,Mast cell malignancy of unspecified site,Long-term condition
+B6261,,LYMPHOMA,,"Mast cell malignancy of lymph nodes of head, face and neck",Long-term condition
+B6262,,LYMPHOMA,,Mast cell malignancy of intrathoracic lymph nodes,Long-term condition
+B6263,,LYMPHOMA,,Mast cell malignancy of intra-abdominal lymph nodes,Long-term condition
+B6264,,LYMPHOMA,,Mast cell malignancy of lymph nodes of axilla and upper limb,Long-term condition
+B6265,,LYMPHOMA,,Mast cell malignancy of lymph nodes inguinal region and leg,Long-term condition
+B6266,,LYMPHOMA,,Mast cell malignancy of intrapelvic lymph nodes,Long-term condition
+B6267,,LYMPHOMA,,Mast cell malignancy of spleen,Long-term condition
+B6268,,LYMPHOMA,,Mast cell malignancy of lymph nodes of multiple sites,Long-term condition
+B626z,,LYMPHOMA,,Malignant mast cell tumour NOS,Long-term condition
+B627.,,LYMPHOMA,,Non - Hodgkin's lymphoma,Long-term condition
+B6270,,LYMPHOMA,,Follicular non-Hodgkin's small cleaved cell lymphoma,Long-term condition
+B6271,,LYMPHOMA,,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma,Long-term condition
+B6272,,LYMPHOMA,,Follicular non-Hodgkin's large cell lymphoma,Long-term condition
+B6273,,LYMPHOMA,,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,Long-term condition
+B6274,,LYMPHOMA,,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma,Long-term condition
+B6275,,LYMPHOMA,,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,Long-term condition
+B6276,,LYMPHOMA,,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,Long-term condition
+B6277,,LYMPHOMA,,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,Long-term condition
+B6278,,LYMPHOMA,,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),Long-term condition
+B6279,,LYMPHOMA,,Maltoma,Long-term condition
+B627A,,LYMPHOMA,,Diffuse non-Hodgkin's large cell lymphoma,Long-term condition
+B627B,,LYMPHOMA,,Other types of follicular non-Hodgkin's lymphoma,Long-term condition
+B627C,,LYMPHOMA,,Follicular lymphoma NOS,Long-term condition
+B627D,,LYMPHOMA,,Diffuse non-Hodgkin's centroblastic lymphoma,Long-term condition
+B627E,,LYMPHOMA,,Diffuse large B-cell lymphoma,Long-term condition
+B627F,,LYMPHOMA,,Extranod marg zone B-cell lymphom mucosa-assoc lymphoid tiss,Long-term condition
+B627G,,LYMPHOMA,,Mediastinal (thymic) large B-cell lymphoma,Long-term condition
+B627W,,LYMPHOMA,,Unspecified B-cell non-Hodgkin's lymphoma,Long-term condition
+B627X,,LYMPHOMA,,"Diffuse non-Hodgkin's lymphoma, unspecified",Long-term condition
+B628.,,LYMPHOMA,,Follicular lymphoma,Long-term condition
+B6280,,LYMPHOMA,,Follicular lymphoma grade 1,Long-term condition
+B6281,,LYMPHOMA,,Follicular lymphoma grade 2,Long-term condition
+B6282,,LYMPHOMA,,Follicular lymphoma grade 3,Long-term condition
+B6283,,LYMPHOMA,,Follicular lymphoma grade 3a,Long-term condition
+B6284,,LYMPHOMA,,Follicular lymphoma grade 3b,Long-term condition
+B6285,,LYMPHOMA,,Diffuse follicle centre lymphoma,Long-term condition
+B6286,,LYMPHOMA,,Cutaneous follicle centre lymphoma,Long-term condition
+B6287,,LYMPHOMA,,Other types of follicular lymphoma,Long-term condition
+B629.,,LYMPHOMA,,Multifocal multisystemic dissem Langerhans-cell histiocytosi,Long-term condition
+B62A.,,LYMPHOMA,,Sarcoma of dendritic cells,Long-term condition
+B62B.,,LYMPHOMA,,Multifocal and unisystemic Langerhans-cell histiocytosis,Long-term condition
+B62C.,,LYMPHOMA,,Unifocal Langerhans-cell histiocytosis,Long-term condition
+B62D.,,LYMPHOMA,,Histiocytic sarcoma,Long-term condition
+B62E.,,LYMPHOMA,,T/NK-cell lymphoma,Long-term condition
+B62E0,,LYMPHOMA,,Mature T/NK-cell lymphoma,Long-term condition
+B62E1,,LYMPHOMA,,"Anaplastic large cell lymphoma, ALK-positive",Long-term condition
+B62E2,,LYMPHOMA,,"Anaplastic large cell lymphoma, ALK-negative",Long-term condition
+B62E3,,LYMPHOMA,,Cutaneous T-cell lymphoma,Long-term condition
+B62E4,,LYMPHOMA,,"Extranodal NK/T-cell lymphoma, nasal type",Long-term condition
+B62E5,,LYMPHOMA,,Hepatosplenic T-cell lymphoma,Long-term condition
+B62E6,,LYMPHOMA,,Enteropathy-associated T-cell lymphoma,Long-term condition
+B62E7,,LYMPHOMA,,Subcutaneous panniculitic T-cell lymphoma,Long-term condition
+B62E8,,LYMPHOMA,,Blastic NK-cell lymphoma,Long-term condition
+B62E9,,LYMPHOMA,,Angioimmunoblastic T-cell lymphoma,Long-term condition
+B62EA,,LYMPHOMA,,Primary cutaneous CD30-positive T-cell proliferations,Long-term condition
+B62Ew,,LYMPHOMA,,Other mature T/NK-cell lymphoma,Long-term condition
+B62F.,,LYMPHOMA,,Non-follicular lymphoma,Long-term condition
+B62F0,,LYMPHOMA,,Small cell B-cell lymphoma,Long-term condition
+B62F1,,LYMPHOMA,,Mantle cell lymphoma,Long-term condition
+B62F2,,LYMPHOMA,,Lymphoblastic (diffuse) lymphoma,Long-term condition
+B62Fy,,LYMPHOMA,,Other non-follicular lymphoma,Long-term condition
+B62x.,,LYMPHOMA,,Malignant lymphoma otherwise specified,Long-term condition
+B62x0,,LYMPHOMA,,T-zone lymphoma,Long-term condition
+B62x1,,LYMPHOMA,,Lymphoepithelioid lymphoma,Long-term condition
+B62x2,,LYMPHOMA,,Peripheral T-cell lymphoma,Long-term condition
+B62x3,,LYMPHOMA,,Malignant reticuloendotheliosis,Long-term condition
+B62x4,,LYMPHOMA,,Malignant reticulosis,Long-term condition
+B62x5,,LYMPHOMA,,Malignant immunoproliferative small intestinal disease,Long-term condition
+B62x6,,LYMPHOMA,,True histiocytic lymphoma,Long-term condition
+B62xX,,LYMPHOMA,,Oth and unspecif peripheral & cutaneous T-cell lymphomas,Long-term condition
+B62y.,,LYMPHOMA,,Malignant lymphoma NOS,Long-term condition
+B62y0,,LYMPHOMA,,Malignant lymphoma NOS of unspecified site,Long-term condition
+B62y1,,LYMPHOMA,,"Malignant lymphoma NOS of lymph nodes of head, face and neck",Long-term condition
+B62y2,,LYMPHOMA,,Malignant lymphoma NOS of intrathoracic lymph nodes,Long-term condition
+B62y3,,LYMPHOMA,,Malignant lymphoma NOS of intra-abdominal lymph nodes,Long-term condition
+B62y4,,LYMPHOMA,,Malignant lymphoma NOS of lymph nodes of axilla and arm,Long-term condition
+B62y5,,LYMPHOMA,,Malignant lymphoma NOS of lymph node inguinal region and leg,Long-term condition
+B62y6,,LYMPHOMA,,Malignant lymphoma NOS of intrapelvic lymph nodes,Long-term condition
+B62y7,,LYMPHOMA,,Malignant lymphoma NOS of spleen,Long-term condition
+B62y8,,LYMPHOMA,,Malignant lymphoma NOS of lymph nodes of multiple sites,Long-term condition
+B62yz,,LYMPHOMA,,Malignant lymphoma NOS,Long-term condition
+B62z.,,LYMPHOMA,,Malignant neoplasms of lymphoid and histiocytic tissue NOS,Long-term condition
+B62z0,,LYMPHOMA,,Unspec malig neop lymphoid/histiocytic of unspecified site,Long-term condition
+B62z1,,LYMPHOMA,,Unspec malig neop lymphoid/histiocytic lymph node head/neck,Long-term condition
+B62z2,,LYMPHOMA,,Unspec malig neop lymphoid/histiocytic of intrathoracic node,Long-term condition
+B62z3,,LYMPHOMA,,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes,Long-term condition
+B62z4,,LYMPHOMA,,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm,Long-term condition
+B62z5,,LYMPHOMA,,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg,Long-term condition
+B62z6,,LYMPHOMA,,Unspec malig neop lymphoid/histiocytic of intrapelvic nodes,Long-term condition
+B62z7,,LYMPHOMA,,Unspec malig neop lymphoid/histiocytic of spleen,Long-term condition
+B62z8,,LYMPHOMA,,Unspec malig neop lymphoid/histiocytic of multiple sites,Long-term condition
+B62zz,,LYMPHOMA,,Immunoproliferative neoplasm,Long-term condition
+B63y.,,LYMPHOMA,,Other immunoproliferative neoplasms,Long-term condition
+B64y5,,LYMPHOMA,,Adult T-cell lymphoma/leukaemia (HTLV-1-associated),Long-term condition
+B67y0,,LYMPHOMA,,Lymphosarcoma cell leukaemia,Long-term condition
+B6y..,,LYMPHOMA,,Malignant neoplasm lymphatic or haematopoietic tissue OS,Long-term condition
+B6z..,,LYMPHOMA,,Malignant neoplasm lymphatic or haematopoietic tissue NOS,Long-term condition
+BBGF.,,LYMPHOMA,,"[M]Fibrous histiocytoma, malignant",Long-term condition
+BBg..,,LYMPHOMA,,"[M]Lymphomas, NOS or diffuse",Long-term condition
+BBg1.,,LYMPHOMA,,[M]Lymphoma NOS,Long-term condition
+BBg10,,LYMPHOMA,,"[M]Malignant lymphoma, diffuse NOS",Long-term condition
+BBg2.,,LYMPHOMA,,[M]Non Hodgkins lymphoma,Long-term condition
+BBg3.,,LYMPHOMA,,"[M]Malignant lymphoma, undifferentiated cell type NOS",Long-term condition
+BBg4.,,LYMPHOMA,,"[M]Malignant lymphoma, stem cell type",Long-term condition
+BBg5.,,LYMPHOMA,,"[M]Malignant lymphoma, convoluted cell type NOS",Long-term condition
+BBg6.,,LYMPHOMA,,[M]Lymphosarcoma NOS,Long-term condition
+BBg7.,,LYMPHOMA,,"[M]Malignant lymphoma, lymphoplasmacytoid type",Long-term condition
+BBg8.,,LYMPHOMA,,"[M]Malignant lymphoma, immunoblastic type",Long-term condition
+BBg9.,,LYMPHOMA,,"[M]Malignant lymphoma, mixed lymphocytic-histiocytic NOS",Long-term condition
+BBgA.,,LYMPHOMA,,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse",Long-term condition
+BBgB.,,LYMPHOMA,,"[M]Malignant lymphoma, follicular centre cell NOS",Long-term condition
+BBgC.,,LYMPHOMA,,[M]Lymphocytic lymphoma NOS,Long-term condition
+BBgD.,,LYMPHOMA,,"[M]Malig lymphoma, lymphocytic, intermediate different NOS",Long-term condition
+BBgE.,,LYMPHOMA,,"[M]Malignant lymphoma, centrocytic",Long-term condition
+BBgF.,,LYMPHOMA,,"[M]Malignant lymphoma, follicular centre cell, cleaved NOS",Long-term condition
+BBgG.,,LYMPHOMA,,[M]Lymphoblastic lymphoma NOS,Long-term condition
+BBgH.,,LYMPHOMA,,[M]Prolymphocytic lymphosarcoma,Long-term condition
+BBgJ.,,LYMPHOMA,,"[M]Malignant lymphoma, centroblastic type NOS",Long-term condition
+BBgK.,,LYMPHOMA,,"[M]Malig lymphoma, follicular centre cell, non-cleaved NOS",Long-term condition
+BBgL.,,LYMPHOMA,,"[M]Malignant lymphoma, small lymphocytic NOS",Long-term condition
+BBgM.,,LYMPHOMA,,"[M]Malignant lymphoma, small cleaved cell, diffuse",Long-term condition
+BBgN.,,LYMPHOMA,,"[M]Malign lymphoma,lymphocytic,intermediate differn, diffuse",Long-term condition
+BBgP.,,LYMPHOMA,,"[M]Malignant lymphoma, mixed small and large cell, diffuse",Long-term condition
+BBgQ.,,LYMPHOMA,,[M]Malignant lymphomatous polyposis,Long-term condition
+BBgR.,,LYMPHOMA,,"[M]Malignant lymphoma, large cell, diffuse NOS",Long-term condition
+BBgS.,,LYMPHOMA,,"[M]Malignant lymphoma, large cell, cleaved, diffuse",Long-term condition
+BBgT.,,LYMPHOMA,,"[M]Malignant lymphoma, large cell, noncleaved, diffuse",Long-term condition
+BBgV.,,LYMPHOMA,,"[M]Malignant lymphoma, small cell, noncleaved, diffuse",Long-term condition
+BBgz.,,LYMPHOMA,,"[M]Lymphoma, diffuse or NOS",Long-term condition
+BBh..,,LYMPHOMA,,[M]Reticulosarcomas,Long-term condition
+BBh0.,,LYMPHOMA,,[M]Reticulum cell sarcoma NOS,Long-term condition
+BBh1.,,LYMPHOMA,,"[M]Reticulosarcoma, pleomorphic cell type",Long-term condition
+BBh2.,,LYMPHOMA,,"[M]Reticulosarcoma, nodular",Long-term condition
+BBhz.,,LYMPHOMA,,[M]Reticulosarcoma NOS,Long-term condition
+BBj..,,LYMPHOMA,,[M]Hodgkin's disease,Long-term condition
+BBj0.,,LYMPHOMA,,[M]Hodgkin's disease NOS,Long-term condition
+BBj1.,,LYMPHOMA,,"[M]Hodgkin's disease, lymphocytic predominance",Long-term condition
+BBj10,,LYMPHOMA,,"[M]Hodgkin,s disease, lymphocytic predominance, diffuse",Long-term condition
+BBj11,,LYMPHOMA,,"[M]Hodgkin,s disease, lymphocytic predominance, nodular",Long-term condition
+BBj2.,,LYMPHOMA,,"[M]Hodgkin's disease, mixed cellularity",Long-term condition
+BBj3.,,LYMPHOMA,,"[M]Hodgkin's disease, lymphocytic depletion NOS",Long-term condition
+BBj4.,,LYMPHOMA,,"[M]Hodgkin's disease,lymphocytic depletion,diffuse fibrosis",Long-term condition
+BBj5.,,LYMPHOMA,,"[M]Hodgkin's disease, lymphocytic depletion, reticular type",Long-term condition
+BBj6.,,LYMPHOMA,,"[M]Hodgkin's disease, nodular sclerosis NOS",Long-term condition
+BBj60,,LYMPHOMA,,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predom",Long-term condition
+BBj61,,LYMPHOMA,,"[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity",Long-term condition
+BBj62,,LYMPHOMA,,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic deplet",Long-term condition
+BBj7.,,LYMPHOMA,,"[M]Hodgkin's disease, nodular sclerosis, cellular phase",Long-term condition
+BBj8.,,LYMPHOMA,,[M]Hodgkin's paragranuloma,Long-term condition
+BBj9.,,LYMPHOMA,,[M]Hodgkin's granuloma,Long-term condition
+BBjA.,,LYMPHOMA,,[M]Hodgkin's sarcoma,Long-term condition
+BBjz.,,LYMPHOMA,,[M]Hodgkin's disease NOS,Long-term condition
+BBk..,,LYMPHOMA,,"[M]Lymphomas, nodular or follicular",Long-term condition
+BBk0.,,LYMPHOMA,,[M]Follicular lymphosarcoma NOS,Long-term condition
+BBk1.,,LYMPHOMA,,"[M]Reticulolymphosarcoma, follicular",Long-term condition
+BBk2.,,LYMPHOMA,,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular",Long-term condition
+BBk3.,,LYMPHOMA,,"[M]Malig lymphoma, lymphocytic, well differentiated,nodular",Long-term condition
+BBk4.,,LYMPHOMA,,"[M]Malig lymp, lymphocytic, intermediate different, nodular",Long-term condition
+BBk5.,,LYMPHOMA,,"[M]Malig lymp, follicular centre cell, cleaved, follicular",Long-term condition
+BBk6.,,LYMPHOMA,,"[M]Malig lymp, lymphocytic, poorly differentiated, nodular",Long-term condition
+BBk7.,,LYMPHOMA,,"[M]Malignant lymphoma, centroblastic type, follicular",Long-term condition
+BBkz.,,LYMPHOMA,,"[M]Lymphoma, nodular or follicular NOS",Long-term condition
+BBl..,,LYMPHOMA,,[M]Mycosis fungoides,Long-term condition
+BBl0.,,LYMPHOMA,,[M]Mycosis fungoides,Long-term condition
+BBl1.,,LYMPHOMA,,[M]Sezary's disease,Long-term condition
+BBlz.,,LYMPHOMA,,[M]Mycosis fungoides NOS,Long-term condition
+BBm1.,,LYMPHOMA,,[M]Malignant histiocytosis,Long-term condition
+BBm3.,,LYMPHOMA,,[M]Acute progressive histiocytosis X,Long-term condition
+BBm4.,,LYMPHOMA,,[M]True histiocytic lymphoma,Long-term condition
+BBm5.,,LYMPHOMA,,[M] Peripheral T-cell lymphoma NOS,Long-term condition
+BBm9.,,LYMPHOMA,,[M] Monocytoid B-cell lymphoma,Long-term condition
+BBmD.,,LYMPHOMA,,[M] Cutaneous lymphoma,Long-term condition
+BBmG.,,LYMPHOMA,,[M] Immunoproliferative small intestinal disease,Long-term condition
+BBmH.,,LYMPHOMA,,[M] Large cell lymphoma,Long-term condition
+BBmK.,,LYMPHOMA,,[M]Waldenstrom's macroglobulinaemia,Long-term condition
+BBp1.,,LYMPHOMA,,[M]Mast cell sarcoma,Long-term condition
+BBp2.,,LYMPHOMA,,[M]Malignant mastocytosis,Long-term condition
+BBq..,,LYMPHOMA,,[M]Burkitt's tumours,Long-term condition
+BBq0.,,LYMPHOMA,,[M]Burkitt's tumour,Long-term condition
+BBqz.,,LYMPHOMA,,[M]Burkitt's tumour NOS,Long-term condition
+BBr27,,LYMPHOMA,,[M]Adult T-cell leukaemia/lymphoma,Long-term condition
+BBr5.,,LYMPHOMA,,[M]Lymphosarcoma cell leukaemias,Long-term condition
+BBr50,,LYMPHOMA,,[M]Lymphosarcoma cell leukaemia,Long-term condition
+BBr5z,,LYMPHOMA,,[M]Lymphosarcoma cell leukaemia NOS,Long-term condition
+BBv0.,,LYMPHOMA,,[M]Monocytoid B-cell lymphoma,Long-term condition
+BBv2.,,LYMPHOMA,,[M]AngiocentricT-cell lymphoma,Long-term condition
+ByuD.,,LYMPHOMA,,"[X]Malignant neoplasms of lymphoid, haematopoietic and rela",Long-term condition
+ByuD0,,LYMPHOMA,,[X]Other Hodgkin's disease,Long-term condition
+ByuD1,,LYMPHOMA,,[X]Other types of follicular non-Hodgkin's lymphoma,Long-term condition
+ByuD2,,LYMPHOMA,,[X]Other types of diffuse non-Hodgkin's lymphoma,Long-term condition
+ByuD3,,LYMPHOMA,,[X]Other specified types of non-Hodgkin's lymphoma,Long-term condition
+ByuD4,,LYMPHOMA,,[X]Other malignant immunoproliferative diseases,Long-term condition
+ByuDA,,LYMPHOMA,,"[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue",Long-term condition
+ByuDB,,LYMPHOMA,,"[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf",Long-term condition
+ByuDC,,LYMPHOMA,,"[X]Diffuse non-Hodgkin's lymphoma, unspecified",Long-term condition
+ByuDD,,LYMPHOMA,,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas,Long-term condition
+ByuDE,,LYMPHOMA,,[X]Unspecified B-cell non-Hodgkin's lymphoma,Long-term condition
+ByuDF,,LYMPHOMA,,[X]Non-Hodgkin's lymphoma NOS,Long-term condition
+C333.,,LYMPHOMA,,Macroglobulinaemia,Long-term condition
+C3330,,LYMPHOMA,,Waldenstrom's macroglobulinaemia,Long-term condition
+C333z,,LYMPHOMA,,Macroglobulinaemia NOS,Long-term condition
+C37y0,,LYMPHOMA,,Hand - Schuller - Christian disease,Long-term condition
+C37y5,,LYMPHOMA,,"Histiocytosis X , chronic",Long-term condition
+C37y6,,LYMPHOMA,,"Histiocytosis X , unspecified",Long-term condition
+C37yB,,LYMPHOMA,,Langerhans' cell histiocytosis,Long-term condition
+C37yz,,LYMPHOMA,,Histiocytosis X (chronic),Long-term condition
+Dyu44,,LYMPHOMA,,[X]Other histiocytosis syndromes,Long-term condition
+G753.,,LYMPHOMA,,Lethal midline granuloma,Long-term condition
+M1628,,LYMPHOMA,,Lymphomatoid papulosis,Long-term condition
+ZV107,,LYMPHOMA,,[V]Personal history of Hodgkin's disease,Long-term condition
+ZVu6G,,LYMPHOMA,,"[X]Personl hist/oth mal neop/lymphd,h'matopoietc+relat tissu",Long-term condition

@@ -1,0 +1,8 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+M160.,,PSORIASIS_ARTHRITIS,,Psoriatic arthropathy,Long-term condition
+M1600,,PSORIASIS_ARTHRITIS,,Psoriasis spondylitica,Long-term condition
+M1601,,PSORIASIS_ARTHRITIS,,Distal interphalangeal psoriatic arthropathy,Long-term condition
+M1602,,PSORIASIS_ARTHRITIS,,Arthritis mutilans,Long-term condition
+M160z,,PSORIASIS_ARTHRITIS,,Psoriatic arthropathy NOS,Long-term condition
+N0452,,PSORIASIS_ARTHRITIS,,Juvenile arthritis in psoriasis,Long-term condition
+Nyu13,,PSORIASIS_ARTHRITIS,,[X]Other psoriatic arthropathies,Long-term condition

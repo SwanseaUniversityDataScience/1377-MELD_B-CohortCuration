@@ -1,0 +1,32 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1422.,,PRIMARY_LUNG_CANCER,,H/O: * bronchus,Long-term condition
+1423.,,PRIMARY_LUNG_CANCER,,H/O: * lung,Long-term condition
+B22..,,PRIMARY_LUNG_CANCER,,"Malignant neoplasm of trachea, bronchus and lung",Long-term condition
+B220.,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of trachea,Long-term condition
+B2200,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of cartilage of trachea,Long-term condition
+B2201,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of mucosa of trachea,Long-term condition
+B220z,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of trachea NOS,Long-term condition
+B221.,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of main bronchus,Long-term condition
+B2210,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of carina of bronchus,Long-term condition
+B2211,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of hilus of lung,Long-term condition
+B221z,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of main bronchus NOS,Long-term condition
+B222.,,PRIMARY_LUNG_CANCER,,"Malignant neoplasm of upper lobe, bronchus or lung",Long-term condition
+B2220,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of upper lobe bronchus,Long-term condition
+B2221,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of upper lobe of lung,Long-term condition
+B222z,,PRIMARY_LUNG_CANCER,,"Malignant neoplasm of upper lobe, bronchus or lung NOS",Long-term condition
+B223.,,PRIMARY_LUNG_CANCER,,"Malignant neoplasm of middle lobe, bronchus or lung",Long-term condition
+B2230,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of middle lobe bronchus,Long-term condition
+B2231,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of middle lobe of lung,Long-term condition
+B223z,,PRIMARY_LUNG_CANCER,,"Malignant neoplasm of middle lobe, bronchus or lung NOS",Long-term condition
+B224.,,PRIMARY_LUNG_CANCER,,"Malignant neoplasm of lower lobe, bronchus or lung",Long-term condition
+B2240,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of lower lobe bronchus,Long-term condition
+B2241,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of lower lobe of lung,Long-term condition
+B224z,,PRIMARY_LUNG_CANCER,,"Malignant neoplasm of lower lobe, bronchus or lung NOS",Long-term condition
+B225.,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of overlapping lesion of bronchus & lung,Long-term condition
+B22y.,,PRIMARY_LUNG_CANCER,,Malignant neoplasm of other sites of bronchus or lung,Long-term condition
+B22z.,,PRIMARY_LUNG_CANCER,,Lung cancer,Long-term condition
+BB5S2,,PRIMARY_LUNG_CANCER,,[M]Bronchiolar carcinoma,Long-term condition
+BB5S4,,PRIMARY_LUNG_CANCER,,[M]Alveolar adenocarcinoma,Long-term condition
+Byu2.,,PRIMARY_LUNG_CANCER,,[X]Malignant neoplasm of respiratory and intrathoracic orga,Long-term condition
+Byu20,,PRIMARY_LUNG_CANCER,,"[X]Malignant neoplasm of bronchus or lung, unspecified",Long-term condition
+ZV101,,PRIMARY_LUNG_CANCER,,[V]Personal history of malignant neoplasm of lung,Long-term condition

@@ -1,0 +1,11 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+D104.,,THALASSAEMIA,,Thalassaemia,Long-term condition
+D1040,,THALASSAEMIA,,Thalassaemia major NEC,Long-term condition
+D1042,,THALASSAEMIA,,Sickle-cell thalassaemia,Long-term condition
+D1043,,THALASSAEMIA,,Alpha thalassaemia,Long-term condition
+D1046,,THALASSAEMIA,,Beta intermedia thalassaemia,Long-term condition
+D1047,,THALASSAEMIA,,Beta major thalassaemia,Long-term condition
+D1048,,THALASSAEMIA,,Beta thalassaemia,Long-term condition
+D1049,,THALASSAEMIA,,Delta-beta thalassaemia,Long-term condition
+D104z,,THALASSAEMIA,,Thalassaemia NOS,Long-term condition
+Dyu11,,THALASSAEMIA,,[X]Other thalassaemias,Long-term condition

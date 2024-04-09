@@ -1,0 +1,8 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14CH.,,PANCREATIC_DISEASE,,History of chronic pancreatitis,Long-term condition
+J671.,,PANCREATIC_DISEASE,,Chronic pancreatitis,Long-term condition
+J6710,,PANCREATIC_DISEASE,,Alcohol-induced chronic pancreatitis,Long-term condition
+J6711,,PANCREATIC_DISEASE,,Gallstone chronic pancreatitis,Long-term condition
+J67y0,,PANCREATIC_DISEASE,,Atrophy of pancreas,Long-term condition
+J67y2,,PANCREATIC_DISEASE,,Fibrosis of pancreas,Long-term condition
+Jyu84,,PANCREATIC_DISEASE,,[X]Other chronic pancreatitis,Long-term condition

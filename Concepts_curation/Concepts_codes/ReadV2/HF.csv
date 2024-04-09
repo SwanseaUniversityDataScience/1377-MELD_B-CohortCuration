@@ -1,0 +1,108 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14A6.,,HF,,,Long-term condition
+14AM.,,HF,,,Long-term condition
+14S3.,,HF,,H/O: heart recipient,Long-term condition
+14T7.,,HF,,H/O: artificial heart,Long-term condition
+1O1..,,HF,,,Long-term condition
+23E1.,,HF,,O/E - pulmonary oedema,Long-term condition
+2JZ..,,HF,,On optimal heart failure therapy,Long-term condition
+33BA.,,HF,,Impaired left ventricular function,Long-term condition
+388D.,,HF,,New York Heart Assoc classification heart failure symptoms,Long-term condition
+585f.,,HF,,Echocardiogram shows left ventricular systolic dysfunction,Long-term condition
+585g.,,HF,,Echocardiogram shows left ventricular diastolic dysfunction,Long-term condition
+662T.,,HF,,,Long-term condition
+662W.,,HF,,,Long-term condition
+662f.,,HF,,New York Heart Association classification - class I,Long-term condition
+662g.,,HF,,New York Heart Association classification - class II,Long-term condition
+662h.,,HF,,New York Heart Association classification - class III,Long-term condition
+662i.,,HF,,New York Heart Association classification - class IV,Long-term condition
+662p.,,HF,,,Long-term condition
+7900.,,HF,,Transplantation of heart and lung,Long-term condition
+79000,,HF,,Allotransplantation of heart and lung,Long-term condition
+79001,,HF,,Revision of transplantation of heart and lung,Long-term condition
+7900y,,HF,,Other specified transplantation of heart and lung,Long-term condition
+7900z,,HF,,Transplantation of heart and lung NOS,Long-term condition
+7901.,,HF,,Other transplantation of heart,Long-term condition
+79010,,HF,,Allotransplantation of heart NEC,Long-term condition
+79011,,HF,,Xenotransplantation of heart,Long-term condition
+79012,,HF,,Artificial heart implant,Long-term condition
+79013,,HF,,Piggyback transplantation of heart,Long-term condition
+79015,,HF,,Revision of transplantation of heart NEC,Long-term condition
+7901y,,HF,,Other specified other transplantation of heart,Long-term condition
+7901z,,HF,,Other transplantation of heart NOS,Long-term condition
+8B29.,,HF,,,Long-term condition
+8CeC.,,HF,,Preferred place of care for next exacerbation heart failure,Long-term condition
+8H2S.,,HF,,,Long-term condition
+8HBE.,,HF,,Heart failure follow-up,Long-term condition
+8HHb.,,HF,,Referral to heart failure nurse,Long-term condition
+8HHz.,,HF,,Referral to heart failure exercise programme,Long-term condition
+8HTL.,,HF,,Referral to heart failure clinic,Long-term condition
+8HTL0,,HF,,Referral to rapid access heart failure clinic,Long-term condition
+8HgD.,,HF,,Discharge from heart failure nurse service,Long-term condition
+8Hk0.,,HF,,Referred to heart failure education group,Long-term condition
+8IE1.,,HF,,Referral to heart failure exercise programme declined,Long-term condition
+9N0k.,,HF,,,Long-term condition
+9N2p.,,HF,,Seen by community heart failure nurse,Long-term condition
+9N6T.,,HF,,Referred by heart failure nurse specialist,Long-term condition
+9Or0.,,HF,,Heart failure review completed,Long-term condition
+G1yz1,,HF,,,Long-term condition
+G21..,,HF,,Hypertensive heart disease,Long-term condition
+G210.,,HF,,Malignant hypertensive heart disease,Long-term condition
+G2100,,HF,,Malignant hypertensive heart disease without CCF,Long-term condition
+G2101,,HF,,Malignant hypertensive heart disease with CCF,Long-term condition
+G210z,,HF,,Malignant hypertensive heart disease NOS,Long-term condition
+G211.,,HF,,Benign hypertensive heart disease,Long-term condition
+G2110,,HF,,Benign hypertensive heart disease without CCF,Long-term condition
+G2111,,HF,,Benign hypertensive heart disease with CCF,Long-term condition
+G211z,,HF,,Benign hypertensive heart disease NOS,Long-term condition
+G21z.,,HF,,Hypertensive heart disease NOS,Long-term condition
+G21z1,,HF,,Hypertensive heart disease NOS with CCF,Long-term condition
+G21zz,,HF,,Hypertensive heart disease NOS,Long-term condition
+G23..,,HF,,Hypertensive heart and renal disease,Long-term condition
+G230.,,HF,,Malignant hypertensive heart and renal disease,Long-term condition
+G231.,,HF,,Benign hypertensive heart and renal disease,Long-term condition
+G232.,,HF,,Hypertensive heart&renal dis wth (congestive) heart failure,Long-term condition
+G233.,,HF,,Hypertensive heart and renal disease with renal failure,Long-term condition
+G234.,,HF,,Hyperten heart&renal dis+both(congestv)heart and renal fail,Long-term condition
+G23z.,,HF,,Hypertensive heart and renal disease NOS,Long-term condition
+G400.,,HF,,Acute cor pulmonale,Long-term condition
+G41z.,,HF,,Chronic cor pulmonale,Long-term condition
+G5540,,HF,,Congestive cardiomyopathy,Long-term condition
+G5571,,HF,,Beriberi heart disease,Long-term condition
+G58..,,HF,,,Long-term condition
+G580.,,HF,,,Long-term condition
+G5800,,HF,,,Long-term condition
+G5801,,HF,,,Long-term condition
+G5802,,HF,,,Long-term condition
+G5803,,HF,,,Long-term condition
+G5804,,HF,,,Long-term condition
+G581.,,HF,,,Long-term condition
+G5810,,HF,,,Long-term condition
+G582.,,HF,,,Long-term condition
+G583.,,HF,,,Long-term condition
+G584.,,HF,,Right ventricular failure,Long-term condition
+G58z.,,HF,,,Long-term condition
+G5y34,,HF,,Left ventricular hypertrophy,Long-term condition
+G5y4z,,HF,,,Long-term condition
+G5yy9,,HF,,Left ventricular systolic dysfunction,Long-term condition
+G5yyA,,HF,,Left ventricular diastolic dysfunction,Long-term condition
+G5yyD,,HF,,Left ventricular cardiac dysfunction,Long-term condition
+Gyu5M,,HF,,[X]Other hypertrophic cardiomyopathy,Long-term condition
+H54..,,HF,,Pulmonary congestion and hypostasis,Long-term condition
+H541.,,HF,,Pulmonary congestion,Long-term condition
+H5410,,HF,,Chronic pulmonary oedema,Long-term condition
+H541z,,HF,,Pulmonary oedema NOS,Long-term condition
+H54z.,,HF,,Pulmonary congestion and hypostasis NOS,Long-term condition
+H584.,,HF,,Acute pulmonary oedema unspecified,Long-term condition
+H584z,,HF,,Acute pulmonary oedema NOS,Long-term condition
+L09y2,,HF,,,Long-term condition
+L1280,,HF,,Pre-exist hyperten heart dis compl preg childbth+puerperium,Long-term condition
+L1281,,HF,,Pre-exist hyperten heart renal dis comp preg chldbirth/puerp,Long-term condition
+P69..,,HF,,Left ventricular outflow tract obstruction,Long-term condition
+Q48y1,,HF,,,Long-term condition
+Q490.,,HF,,Neonatal cardiac failure,Long-term condition
+R2y10,,HF,,[D]Cardiorespiratory failure,Long-term condition
+SP111,,HF,,Heart failure as a complication of care,Long-term condition
+TB000,,HF,,"Heart transplant with complication, without blame",Long-term condition
+ZV421,,HF,,[V]Heart transplanted,Long-term condition
+ZV432,,HF,,[V]Has artificial heart,Long-term condition

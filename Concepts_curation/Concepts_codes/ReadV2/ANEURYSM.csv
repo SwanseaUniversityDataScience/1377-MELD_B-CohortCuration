@@ -1,0 +1,79 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14AE.,,ANEURYSM,,H/O: aortic aneurysm,Long-term condition
+585I0,,ANEURYSM,,Abdominal aortic aneurysm screen ultrasound scan abnormal,Long-term condition
+68B51,,ANEURYSM,,Aortic aneurysm screening abnormal,Long-term condition
+7A11.,,ANEURYSM,,Replacement of aneurysmal bifurcation of aorta,Long-term condition
+7A110,,ANEURYSM,,Emerg repl aneurysm bifurc aorta by anast aorta to fem art,Long-term condition
+7A111,,ANEURYSM,,Replace aneurysm bifurc aorta by anast aorta to femoral art,Long-term condition
+7A112,,ANEURYSM,,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a,Long-term condition
+7A113,,ANEURYSM,,Y graft abdominal Aortic aneurysm,Long-term condition
+7A11y,,ANEURYSM,,Replacement of aneurysmal bifurcation of aorta OS,Long-term condition
+7A11z,,ANEURYSM,,Replacement of aneurysmal bifurcation of aorta NOS,Long-term condition
+7A13.,,ANEURYSM,,Emergency repair of aortic aneurysm,Long-term condition
+7A130,,ANEURYSM,,Emerg replace aneurysm asc aorta by anastom aorta to aorta,Long-term condition
+7A131,,ANEURYSM,,Emerg replace aneurysm thor aorta by anastom aorta to aorta,Long-term condition
+7A132,,ANEURYSM,,Emerg replace aneurysm suprarenal aorta by anast aorta/aorta,Long-term condition
+7A133,,ANEURYSM,,Emerg replace aneurysm infrarenal aorta by anast aorta/aorta,Long-term condition
+7A134,,ANEURYSM,,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC,Long-term condition
+7A13y,,ANEURYSM,,Emergency replacement of aneurysmal segment of aorta OS,Long-term condition
+7A13z,,ANEURYSM,,Emergency replacement of aneurysmal segment of aorta NOS,Long-term condition
+7A14.,,ANEURYSM,,Aortic aneurysm repair,Long-term condition
+7A140,,ANEURYSM,,Replace aneurysm ascend aorta by anast of aorta/aorta NEC,Long-term condition
+7A141,,ANEURYSM,,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC,Long-term condition
+7A142,,ANEURYSM,,Replace aneurys suprarenal aorta by anast aorta to aorta NEC,Long-term condition
+7A143,,ANEURYSM,,Replace aneurys infrarenal aorta by anast aorta to aorta NEC,Long-term condition
+7A144,,ANEURYSM,,Replace aneurysm abdominal aorta by anast aorta to aorta NEC,Long-term condition
+7A14y,,ANEURYSM,,Other replacement of aneurysmal segment of aorta OS,Long-term condition
+7A14z,,ANEURYSM,,Other replacement of aneurysmal segment of aorta NOS,Long-term condition
+7A15.,,ANEURYSM,,Other emergency bypass of segment of aorta,Long-term condition
+7A150,,ANEURYSM,,Emerg bypass ascending aorta by anastom aorta to aorta NEC,Long-term condition
+7A151,,ANEURYSM,,Emerg bypass thoracic aorta by anatomosis aorta to aorta NEC,Long-term condition
+7A152,,ANEURYSM,,Emerg bypass suprarenal aorta by anastom aorta to aorta NEC,Long-term condition
+7A153,,ANEURYSM,,Emerg bypass infrarenal aorta by anastom aorta to aorta NEC,Long-term condition
+7A154,,ANEURYSM,,Emerg bypass abdominal aorta by anastom aorta to aorta NEC,Long-term condition
+7A15y,,ANEURYSM,,Other specified other emergency bypass of segment of aorta,Long-term condition
+7A15z,,ANEURYSM,,Other emergency bypass of segment of aorta NOS,Long-term condition
+7A180,,ANEURYSM,,Plastic repair of aorta and end to end anastomosis of aorta,Long-term condition
+7A194,,ANEURYSM,,Operation on aneurysm of aorta NEC,Long-term condition
+7A1B.,,ANEURYSM,,Transluminal operations on aneurysmal segment of aorta,Long-term condition
+7A1B0,,ANEURYSM,,Endovascular stenting infrarenal abdominal aortic aneurysm,Long-term condition
+7A1B1,,ANEURYSM,,Endovascular stenting of suprarenal aortic aneurysm,Long-term condition
+7A1B2,,ANEURYSM,,Endovascular stenting of thoracic aortic aneurysm,Long-term condition
+7A1B5,,ANEURYSM,,Endovascular stenting of aorto-uniiliac aneurysm,Long-term condition
+7A1B6,,ANEURYSM,,Endovascular stenting for aortic aneurysm of bifurcation NEC,Long-term condition
+7A1B7,,ANEURYSM,,Endovascular stenting for aorto-uniiliac aneurysm,Long-term condition
+7A1B8,,ANEURYSM,,Endovascul insert stent infrarenal abdominal aortic aneurysm,Long-term condition
+7A1B9,,ANEURYSM,,Endovascular insertion stent for suprarenal aortic aneurysm,Long-term condition
+7A1BA,,ANEURYSM,,Endovascular insertion of stent for thoracic aortic aneurysm,Long-term condition
+7A1BC,,ANEURYSM,,Endovas insert stent for aortic aneurysm of bifurcation NEC,Long-term condition
+7A1BD,,ANEURYSM,,Endovascular insertion of stent for aorto-uniiliac aneurysm,Long-term condition
+7A1By,,ANEURYSM,,OS transluminal operations on aneurysmal segment of aorta,Long-term condition
+7A1Bz,,ANEURYSM,,Transluminal operations on aneurysmal segment of aorta NOS,Long-term condition
+7A1C.,,ANEURYSM,,Translum insert stent graft for aneurysmal segment of aorta,Long-term condition
+7A1C0,,ANEURYSM,,Endovas ins stent graft for infrarenal abdom aortic aneurysm,Long-term condition
+7A1C1,,ANEURYSM,,Endovas insert of stent graft for suprarenal aortic aneurysm,Long-term condition
+7A1C2,,ANEURYSM,,Endov insertion of stent graft for thoracic aortic aneurysm,Long-term condition
+7A1C5,,ANEURYSM,,Endovas insertion of stent graft for aorto-uniiliac aneurysm,Long-term condition
+7A1Cy,,ANEURYSM,,OS translum ins stent graft for aneurysmal segment of aorta,Long-term condition
+7A1Cz,,ANEURYSM,,Translum ins stent graft for aneurysmal segment of aorta NOS,Long-term condition
+A930.,,ANEURYSM,,Syphilitic aortic aneurysm,Long-term condition
+G71..,,ANEURYSM,,Aortic aneurysm,Long-term condition
+G710.,,ANEURYSM,,Dissecting aortic aneurysm,Long-term condition
+G711.,,ANEURYSM,,Ruptured thoracic aortic aneurysm,Long-term condition
+G712.,,ANEURYSM,,Thoracic aortic aneurysm without mention of rupture,Long-term condition
+G713.,,ANEURYSM,,Ruptured abdominal aortic aneurysm,Long-term condition
+G7130,,ANEURYSM,,Ruptured suprarenal aortic aneurysm,Long-term condition
+G714.,,ANEURYSM,,Abdominal aortic aneurysm without mention of rupture,Long-term condition
+G7140,,ANEURYSM,,Juxtarenal aortic aneurysm,Long-term condition
+G7141,,ANEURYSM,,Inflammatory abdominal aortic aneurysm,Long-term condition
+G7142,,ANEURYSM,,Infrarenal abdominal aortic aneurysm,Long-term condition
+G7143,,ANEURYSM,,Aneurysm of suprarenal aorta,Long-term condition
+G715.,,ANEURYSM,,Ruptured aortic aneurysm NOS,Long-term condition
+G7150,,ANEURYSM,,"Thoracoabdominal aortic aneurysm, ruptured",Long-term condition
+G716.,,ANEURYSM,,Aortic aneurysm without mention of rupture NOS,Long-term condition
+G7160,,ANEURYSM,,"Thoracoabdominal aortic aneurysm, without mention of rupture",Long-term condition
+G717.,,ANEURYSM,,Aortic aneurysm - syphilitic,Long-term condition
+G718.,,ANEURYSM,,Leaking abdominal aortic aneurysm,Long-term condition
+G71z.,,ANEURYSM,,Aortic aneurysm NOS,Long-term condition
+Gyu71,,ANEURYSM,,"[X]Aortic aneurysm of unspecified site, ruptured",Long-term condition
+Gyu72,,ANEURYSM,,"[X]Aortic aneurysm of unspecified site, nonruptured",Long-term condition

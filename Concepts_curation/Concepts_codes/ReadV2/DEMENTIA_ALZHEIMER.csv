@@ -1,0 +1,84 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1461.,,DEMENTIA_ALZHEIMER,,H/O: dementia,Long-term condition
+66h..,,DEMENTIA_ALZHEIMER,,,Long-term condition
+6AB..,,DEMENTIA_ALZHEIMER,,,Long-term condition
+8BM02,,DEMENTIA_ALZHEIMER,,Dementia medication review,Long-term condition
+8BPa.,,DEMENTIA_ALZHEIMER,,Antipsychotic drug therapy for dementia,Long-term condition
+8CMG2,,DEMENTIA_ALZHEIMER,,Review of dementia advance care plan,Long-term condition
+8CMZ.,,DEMENTIA_ALZHEIMER,,Dementia care plan,Long-term condition
+8CMZ0,,DEMENTIA_ALZHEIMER,,Dementia care plan agreed,Long-term condition
+8CMZ1,,DEMENTIA_ALZHEIMER,,Dementia care plan reviewed,Long-term condition
+8CMZ2,,DEMENTIA_ALZHEIMER,,Dementia care plan declined,Long-term condition
+8CMZ3,,DEMENTIA_ALZHEIMER,,Dementia care plan review declined,Long-term condition
+8CMe0,,DEMENTIA_ALZHEIMER,,Dementia advance care plan,Long-term condition
+8CSA.,,DEMENTIA_ALZHEIMER,,Dementia advance care plan agreed,Long-term condition
+8IAe0,,DEMENTIA_ALZHEIMER,,Dementia advance care plan declined,Long-term condition
+8IAe2,,DEMENTIA_ALZHEIMER,,Dementia advance care plan review declined,Long-term condition
+9Ou..,,DEMENTIA_ALZHEIMER,,Dementia monitoring administration,Long-term condition
+9Ou1.,,DEMENTIA_ALZHEIMER,,Dementia monitoring first letter,Long-term condition
+9Ou2.,,DEMENTIA_ALZHEIMER,,Dementia monitoring second letter,Long-term condition
+9Ou3.,,DEMENTIA_ALZHEIMER,,Dementia monitoring third letter,Long-term condition
+9Ou4.,,DEMENTIA_ALZHEIMER,,Dementia monitoring verbal invite,Long-term condition
+9Ou5.,,DEMENTIA_ALZHEIMER,,Dementia monitoring telephone invite,Long-term condition
+9hD..,,DEMENTIA_ALZHEIMER,,Exception reporting: dementia quality indicators,Long-term condition
+9hD0.,,DEMENTIA_ALZHEIMER,,Excepted from dementia quality indicators: Patient unsuitabl,Long-term condition
+9hD1.,,DEMENTIA_ALZHEIMER,,Excepted from dementia quality indicators: Informed dissent,Long-term condition
+A411.,,DEMENTIA_ALZHEIMER,,Jakob-Creutzfeldt disease,Long-term condition
+A4110,,DEMENTIA_ALZHEIMER,,Sporadic Creutzfeldt-Jakob disease,Long-term condition
+E00..,,DEMENTIA_ALZHEIMER,,Senile/presenile dementia,Long-term condition
+E000.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E001.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0010,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0011,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0012,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0013,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E001z,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E002.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0020,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0021,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E002z,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E003.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E004.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0040,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0041,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0042,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E0043,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E004z,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E00z.,,DEMENTIA_ALZHEIMER,,Senile or presenile psychoses NOS,Long-term condition
+E012.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E02y1,,DEMENTIA_ALZHEIMER,,,Long-term condition
+E040.,,DEMENTIA_ALZHEIMER,,Korsakoff's non-alcoholic psychosis,Long-term condition
+E041.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu00.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu000,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu001,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu002,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu00z,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu01.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu010,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu011,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu012,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu013,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu01y,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu01z,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu02.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu020,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu021,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu022,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu023,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu024,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu025,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu02y,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu02z,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu041,,DEMENTIA_ALZHEIMER,,,Long-term condition
+Eu107,,DEMENTIA_ALZHEIMER,,[X]Alcoholic dementia NOS,Long-term condition
+F110.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+F1100,,DEMENTIA_ALZHEIMER,,,Long-term condition
+F1101,,DEMENTIA_ALZHEIMER,,,Long-term condition
+F111.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+F112.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+F1130,,DEMENTIA_ALZHEIMER,,Normal pressure hydrocephalus,Long-term condition
+F116.,,DEMENTIA_ALZHEIMER,,,Long-term condition
+F118.,,DEMENTIA_ALZHEIMER,,Frontotemporal degeneration,Long-term condition
+F11x7,,DEMENTIA_ALZHEIMER,,Cerebral degeneration due to Jakob - Creutzfeldt disease,Long-term condition
+Fyu30,,DEMENTIA_ALZHEIMER,,,Long-term condition

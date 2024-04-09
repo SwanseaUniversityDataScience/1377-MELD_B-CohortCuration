@@ -1,0 +1,27 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+4C53.,,PLASMACELL,,Bone marrow: myeloma cells,Long-term condition
+B63..,,PLASMACELL,,Multiple myeloma and immunoproliferative neoplasms,Long-term condition
+B630.,,PLASMACELL,,Multiple myeloma,Long-term condition
+B6300,,PLASMACELL,,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",Long-term condition
+B6301,,PLASMACELL,,Solitary myeloma,Long-term condition
+B6302,,PLASMACELL,,Plasmacytoma NOS,Long-term condition
+B6303,,PLASMACELL,,Lambda light chain myeloma,Long-term condition
+B6304,,PLASMACELL,,Solitary plasmacytoma,Long-term condition
+B631.,,PLASMACELL,,Plasma cell leukaemia,Long-term condition
+B63y.,,PLASMACELL,,Other immunoproliferative neoplasms,Long-term condition
+B63z.,,PLASMACELL,,Immunoproliferative neoplasm or myeloma NOS,Long-term condition
+B936.,,PLASMACELL,,Plasmacytoma NOS,Long-term condition
+BBm6.,,PLASMACELL,,[M] Alpha heavy chain disease,Long-term condition
+BBmE.,,PLASMACELL,,[M] Gamma heavy chain disease,Long-term condition
+BBn..,,PLASMACELL,,[M]Plasma cell tumours,Long-term condition
+BBn0.,,PLASMACELL,,[M]Myeloma NOS,Long-term condition
+BBn2.,,PLASMACELL,,[M]Plasmacytoma NOS,Long-term condition
+BBn3.,,PLASMACELL,,"[M]Plasma cell tumour, malignant",Long-term condition
+BBnz.,,PLASMACELL,,[M]Plasma cell tumour NOS,Long-term condition
+BBr3.,,PLASMACELL,,[M]Plasma cell leukaemias,Long-term condition
+BBr30,,PLASMACELL,,[M]Plasma cell leukaemia,Long-term condition
+BBr3z,,PLASMACELL,,[M]Plasma cell leukaemia NOS,Long-term condition
+C3331,,PLASMACELL,,Alpha heavy chain disease,Long-term condition
+C3332,,PLASMACELL,,Gamma heavy chain disease,Long-term condition
+C3333,,PLASMACELL,,Heavy chain disease,Long-term condition
+N3309,,PLASMACELL,,Osteoporosis in multiple myelomatosis,Long-term condition

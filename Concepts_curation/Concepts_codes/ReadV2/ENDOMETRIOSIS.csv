@@ -1,0 +1,35 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+7E0D8,,ENDOMETRIOSIS,,Laparoscopic laser destruction of endometriosis,Long-term condition
+BBL1.,,ENDOMETRIOSIS,,[M]Stromal endometriosis,Long-term condition
+K50..,,ENDOMETRIOSIS,,Endometriosis,Long-term condition
+K500.,,ENDOMETRIOSIS,,Endometriosis of uterus,Long-term condition
+K5000,,ENDOMETRIOSIS,,Internal endometriosis,Long-term condition
+K5001,,ENDOMETRIOSIS,,Adenomyosis of endometrium,Long-term condition
+K5002,,ENDOMETRIOSIS,,Endometriosis of cervix,Long-term condition
+K500z,,ENDOMETRIOSIS,,Endometriosis of uterus NOS,Long-term condition
+K501.,,ENDOMETRIOSIS,,Chocolate cyst of ovary,Long-term condition
+K502.,,ENDOMETRIOSIS,,Endometriosis of the fallopian tube,Long-term condition
+K503.,,ENDOMETRIOSIS,,Endometriosis of the pelvic peritoneum,Long-term condition
+K5030,,ENDOMETRIOSIS,,Endometriosis of the broad ligament,Long-term condition
+K5031,,ENDOMETRIOSIS,,Endometriosis of the pouch of Douglas,Long-term condition
+K5032,,ENDOMETRIOSIS,,Endometriosis of the parametrium,Long-term condition
+K5033,,ENDOMETRIOSIS,,Endometriosis of the round ligament,Long-term condition
+K503z,,ENDOMETRIOSIS,,Endometriosis of the pelvic peritoneum NOS,Long-term condition
+K504.,,ENDOMETRIOSIS,,Endometriosis of the rectovaginal septum and vagina,Long-term condition
+K5040,,ENDOMETRIOSIS,,Endometriosis of the rectovaginal septum,Long-term condition
+K5041,,ENDOMETRIOSIS,,Endometriosis of the vagina,Long-term condition
+K504z,,ENDOMETRIOSIS,,Endometriosis of the rectovaginal septum and vagina NOS,Long-term condition
+K505.,,ENDOMETRIOSIS,,Endometriosis of the intestine,Long-term condition
+K5050,,ENDOMETRIOSIS,,Endometriosis of the appendix,Long-term condition
+K5051,,ENDOMETRIOSIS,,Endometriosis of the colon,Long-term condition
+K5052,,ENDOMETRIOSIS,,Endometriosis of the rectum,Long-term condition
+K505z,,ENDOMETRIOSIS,,Endometriosis of the intestine NOS,Long-term condition
+K506.,,ENDOMETRIOSIS,,Endometriosis in scar of skin,Long-term condition
+K50y.,,ENDOMETRIOSIS,,Other endometriosis,Long-term condition
+K50y0,,ENDOMETRIOSIS,,Endometriosis of the bladder,Long-term condition
+K50y1,,ENDOMETRIOSIS,,Endometriosis of the lung,Long-term condition
+K50y2,,ENDOMETRIOSIS,,Endometriosis of the umbilicus,Long-term condition
+K50y3,,ENDOMETRIOSIS,,Endometriosis of the vulva,Long-term condition
+K50yz,,ENDOMETRIOSIS,,Other endometriosis NOS,Long-term condition
+K50z.,,ENDOMETRIOSIS,,Endometriosis NOS,Long-term condition
+Kyu90,,ENDOMETRIOSIS,,[X]Other endometriosis,Long-term condition

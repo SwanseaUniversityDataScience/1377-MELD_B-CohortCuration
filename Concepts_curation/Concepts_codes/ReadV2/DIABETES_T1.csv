@@ -1,0 +1,50 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+66At0,,DIABETES_T1,,Type 1 diabetic dietary review,Long-term condition
+C1000,,DIABETES_T1,,Insulin dependent diabetes mellitus,Long-term condition
+C108.,,DIABETES_T1,,Insulin dependent diabetes mellitus,Long-term condition
+C1080,,DIABETES_T1,,Type 1 diabetes mellitus with renal complications,Long-term condition
+C1081,,DIABETES_T1,,Type 1 diabetes mellitus with ophthalmic complications,Long-term condition
+C1082,,DIABETES_T1,,Type I diabetes mellitus with neurological complications,Long-term condition
+C1083,,DIABETES_T1,,Insulin dependent diabetes mellitus with multiple complicatn,Long-term condition
+C1084,,DIABETES_T1,,Unstable insulin dependent diabetes mellitus,Long-term condition
+C1085,,DIABETES_T1,,Insulin dependent diabetes mellitus with ulcer,Long-term condition
+C1086,,DIABETES_T1,,Insulin dependent diabetes mellitus with gangrene,Long-term condition
+C1087,,DIABETES_T1,,Insulin dependent diabetes mellitus with retinopathy,Long-term condition
+C1088,,DIABETES_T1,,Insulin dependent diabetes mellitus - poor control,Long-term condition
+C1089,,DIABETES_T1,,Insulin dependent diabetes maturity onset,Long-term condition
+C108A,,DIABETES_T1,,Type I diabetes mellitus without complication,Long-term condition
+C108B,,DIABETES_T1,,Insulin dependent diabetes mellitus with mononeuropathy,Long-term condition
+C108C,,DIABETES_T1,,Insulin dependent diabetes mellitus with polyneuropathy,Long-term condition
+C108D,,DIABETES_T1,,Insulin dependent diabetes mellitus with nephropathy,Long-term condition
+C108E,,DIABETES_T1,,Type I diabetes mellitus with hypoglycaemic coma,Long-term condition
+C108F,,DIABETES_T1,,Type I diabetes mellitus with diabetic cataract,Long-term condition
+C108G,,DIABETES_T1,,Insulin dependent diab mell with peripheral angiopathy,Long-term condition
+C108H,,DIABETES_T1,,Type I diabetes mellitus with arthropathy,Long-term condition
+C108J,,DIABETES_T1,,Type 1 diabetes mellitus with neuropathic arthropathy,Long-term condition
+C10E.,,DIABETES_T1,,Type 1 diabetes mellitus,Long-term condition
+C10E0,,DIABETES_T1,,Type 1 diabetes mellitus with renal complications,Long-term condition
+C10E1,,DIABETES_T1,,Type 1 diabetes mellitus with ophthalmic complications,Long-term condition
+C10E2,,DIABETES_T1,,Type 1 diabetes mellitus with neurological complications,Long-term condition
+C10E3,,DIABETES_T1,,Insulin dependent diabetes mellitus with multiple complicat,Long-term condition
+C10E4,,DIABETES_T1,,Unstable type 1 diabetes mellitus,Long-term condition
+C10E5,,DIABETES_T1,,Type 1 diabetes mellitus with ulcer,Long-term condition
+C10E6,,DIABETES_T1,,Type 1 diabetes mellitus with gangrene,Long-term condition
+C10E7,,DIABETES_T1,,Type 1 diabetes mellitus with retinopathy,Long-term condition
+C10E8,,DIABETES_T1,,Type 1 diabetes mellitus - poor control,Long-term condition
+C10E9,,DIABETES_T1,,Type 1 diabetes mellitus maturity onset,Long-term condition
+C10EA,,DIABETES_T1,,Type I diabetes mellitus without complication,Long-term condition
+C10EB,,DIABETES_T1,,Type 1 diabetes mellitus with mononeuropathy,Long-term condition
+C10EC,,DIABETES_T1,,Type 1 diabetes mellitus with polyneuropathy,Long-term condition
+C10ED,,DIABETES_T1,,Type 1 diabetes mellitus with nephropathy,Long-term condition
+C10EE,,DIABETES_T1,,Type 1 diabetes mellitus with hypoglycaemic coma,Long-term condition
+C10EF,,DIABETES_T1,,Type 1 diabetes mellitus with diabetic cataract,Long-term condition
+C10EG,,DIABETES_T1,,Type 1 diabetes mellitus with peripheral angiopathy,Long-term condition
+C10EH,,DIABETES_T1,,Type 1 diabetes mellitus with arthropathy,Long-term condition
+C10EJ,,DIABETES_T1,,Type 1 diabetes mellitus with neuropathic arthropathy,Long-term condition
+C10EK,,DIABETES_T1,,Type 1 diabetes mellitus with persistent proteinuria,Long-term condition
+C10EL,,DIABETES_T1,,Type 1 diabetes mellitus with persistent microalbuminuria,Long-term condition
+C10EM,,DIABETES_T1,,Type 1 diabetes mellitus with ketoacidosis,Long-term condition
+C10EN,,DIABETES_T1,,Type 1 diabetes mellitus with ketoacidotic coma,Long-term condition
+C10EP,,DIABETES_T1,,Type 1 diabetes mellitus with exudative maculopathy,Long-term condition
+C10EQ,,DIABETES_T1,,Type 1 diabetes mellitus with gastroparesis,Long-term condition
+C10P0,,DIABETES_T1,,Type I diabetes mellitus in remission,Long-term condition

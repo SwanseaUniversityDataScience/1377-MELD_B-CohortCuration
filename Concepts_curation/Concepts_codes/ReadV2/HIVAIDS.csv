@@ -1,0 +1,52 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+43C3.,,HIVAIDS,,HIV positive,Long-term condition
+43j7.,,HIVAIDS,,HIV 1 nucleic acid detection,Long-term condition
+4J3P.,,HIVAIDS,,Human immunodeficiency virus type 1 subtype identification,Long-term condition
+65QA.,,HIVAIDS,,AIDS carrier,Long-term condition
+A78..,,HIVAIDS,,Aids +viral/chlamydial dis.NOS,Long-term condition
+A788.,,HIVAIDS,,Human immunodeficiency virus infection,Long-term condition
+A7880,,HIVAIDS,,Acute human immunodeficiency virus infection,Long-term condition
+A7881,,HIVAIDS,,Asymptomatic human immunodeficiency virus infection,Long-term condition
+A7882,,HIVAIDS,,HIV infection with persistent generalised lymphadenopathy,Long-term condition
+A7883,,HIVAIDS,,Human immunodeficiency virus with constitutional disease,Long-term condition
+A7884,,HIVAIDS,,Human immunodeficiency virus with neurological disease,Long-term condition
+A7885,,HIVAIDS,,Human immunodeficiency virus with secondary infection,Long-term condition
+A7886,,HIVAIDS,,Human immunodeficiency virus with secondary cancers,Long-term condition
+A788U,,HIVAIDS,,"HIV disease result/haematological+immunologic abnorms,NEC",Long-term condition
+A788V,,HIVAIDS,,HIV disease resulting in multiple diseases CE,Long-term condition
+A788W,,HIVAIDS,,HIV disease resulting in unspecified malignant neoplasm,Long-term condition
+A788X,,HIVAIDS,,HIV disease resulting/unspcf infectious+parasitic disease,Long-term condition
+A788y,,HIVAIDS,,Human immunodeficiency virus with other clinical findings,Long-term condition
+A788z,,HIVAIDS,,Acquired human immunodeficiency virus infection syndrome NOS,Long-term condition
+A789.,,HIVAIDS,,Human immunodef virus resulting in other disease,Long-term condition
+A7890,,HIVAIDS,,HIV disease resulting in mycobacterial infection,Long-term condition
+A7891,,HIVAIDS,,HIV disease resulting in cytomegaloviral disease,Long-term condition
+A7892,,HIVAIDS,,HIV disease resulting in candidiasis,Long-term condition
+A7893,,HIVAIDS,,HIV disease resulting in Pneumocystis carinii pneumonia,Long-term condition
+A7894,,HIVAIDS,,HIV disease resulting in multiple infections,Long-term condition
+A7895,,HIVAIDS,,HIV disease resulting in Kaposi's sarcoma,Long-term condition
+A7896,,HIVAIDS,,HIV disease resulting in Burkitt's lymphoma,Long-term condition
+A7897,,HIVAIDS,,HIV dis resulting oth types of non-Hodgkin's lymphoma,Long-term condition
+A7898,,HIVAIDS,,HIV disease resulting in multiple malignant neoplasms,Long-term condition
+A7899,,HIVAIDS,,HIV disease resulting in lymphoid interstitial pneumonitis,Long-term condition
+A789A,,HIVAIDS,,HIV disease resulting in wasting syndrome,Long-term condition
+A789X,,HIVAIDS,,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",Long-term condition
+AyuC.,,HIVAIDS,,[X]Human immunodeficiency virus disease,Long-term condition
+AyuC0,,HIVAIDS,,[X]HIV disease resulting in other bacterial infections,Long-term condition
+AyuC1,,HIVAIDS,,[X]HIV disease resulting in other viral infections,Long-term condition
+AyuC2,,HIVAIDS,,[X]HIV disease resulting in other mycoses,Long-term condition
+AyuC3,,HIVAIDS,,[X]HIV disease resulting in multiple infections,Long-term condition
+AyuC4,,HIVAIDS,,[X]HIV disease resulting/other infectious+parasitic diseases,Long-term condition
+AyuC5,,HIVAIDS,,[X]HIV disease resulting/unspcf infectious+parasitic disease,Long-term condition
+AyuC6,,HIVAIDS,,[X]HIV disease resulting in other non-Hodgkin's lymphoma,Long-term condition
+AyuC7,,HIVAIDS,,"[X]HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",Long-term condition
+AyuC8,,HIVAIDS,,[X]HIV disease resulting in other malignant neoplasms,Long-term condition
+AyuC9,,HIVAIDS,,[X]HIV disease resulting in unspecified malignant neoplasm,Long-term condition
+AyuCA,,HIVAIDS,,[X]HIV disease resulting in multiple diseases CE,Long-term condition
+AyuCB,,HIVAIDS,,"[X]HIV disease result/haematological+immunologic abnorms,NEC",Long-term condition
+AyuCC,,HIVAIDS,,[X]HIV disease resulting in other specified conditions,Long-term condition
+AyuCD,,HIVAIDS,,[X]Unspecified human immunodeficiency virus [HIV] disease,Long-term condition
+Eu024,,HIVAIDS,,[X]Dementia in human immunodef virus [HIV] disease,Long-term condition
+L179.,,HIVAIDS,,HIV disease complicating pregnancy childbirth puerperium,Long-term condition
+R109.,,HIVAIDS,,[D]Laboratory evidence of human immunodeficiency virus [HIV],Long-term condition
+ZV01A,,HIVAIDS,,[V]Asymptomatic human immunodeficency virus infection status,Long-term condition

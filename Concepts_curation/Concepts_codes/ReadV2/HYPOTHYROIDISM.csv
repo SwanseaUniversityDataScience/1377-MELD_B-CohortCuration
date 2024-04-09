@@ -1,0 +1,45 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1432.,,HYPOTHYROIDISM,,H/O: hypothyroidism,Long-term condition
+66BB.,,HYPOTHYROIDISM,,Hypothyroidism annual review,Long-term condition
+71100,,HYPOTHYROIDISM,,Total thyroidectomy,Long-term condition
+71110,,HYPOTHYROIDISM,,Total substernal thyroidectomy,Long-term condition
+8CR5.,,HYPOTHYROIDISM,,Hypothyroidism clinical management plan,Long-term condition
+9Oj..,,HYPOTHYROIDISM,,Hypothyroidism monitoring administration,Long-term condition
+9Oj0.,,HYPOTHYROIDISM,,Hypothyroidism monitoring first letter,Long-term condition
+9Oj1.,,HYPOTHYROIDISM,,Hypothyroidism monitoring second letter,Long-term condition
+9Oj2.,,HYPOTHYROIDISM,,Hypothyroidism monitoring third letter,Long-term condition
+9Oj3.,,HYPOTHYROIDISM,,Hypothyroidism monitoring verbal invite,Long-term condition
+9Oj4.,,HYPOTHYROIDISM,,Hypothyroidism monitoring telephone invitation,Long-term condition
+C03..,,HYPOTHYROIDISM,,Congenital hypothyroidism,Long-term condition
+C031.,,HYPOTHYROIDISM,,Goitrous cretin,Long-term condition
+C03y.,,HYPOTHYROIDISM,,Other specified congenital hypothyroidism,Long-term condition
+C03y0,,HYPOTHYROIDISM,,Congenital hypothyroidism with diffuse goitre,Long-term condition
+C03y1,,HYPOTHYROIDISM,,Congenital hypothyroidism without goitre,Long-term condition
+C03z.,,HYPOTHYROIDISM,,Cretinism,Long-term condition
+C04..,,HYPOTHYROIDISM,,Hypothyroidism,Long-term condition
+C040.,,HYPOTHYROIDISM,,Postsurgical hypothyroidism,Long-term condition
+C041.,,HYPOTHYROIDISM,,Other postablative hypothyroidism,Long-term condition
+C0410,,HYPOTHYROIDISM,,Irradiation hypothyroidism,Long-term condition
+C041z,,HYPOTHYROIDISM,,Postablative hypothyroidism NOS,Long-term condition
+C042.,,HYPOTHYROIDISM,,Iodine hypothyroidism,Long-term condition
+C043.,,HYPOTHYROIDISM,,Other iatrogenic hypothyroidism,Long-term condition
+C0430,,HYPOTHYROIDISM,,Hypothyroidism resulting from para-aminosalicylic acid,Long-term condition
+C0431,,HYPOTHYROIDISM,,Hypothyroidism resulting from phenylbutazone,Long-term condition
+C0432,,HYPOTHYROIDISM,,Hypothyroidism resulting from resorcinol,Long-term condition
+C043z,,HYPOTHYROIDISM,,Iatrogenic hypothyroidism NOS,Long-term condition
+C044.,,HYPOTHYROIDISM,,Postinfectious hypothyroidism,Long-term condition
+C045.,,HYPOTHYROIDISM,,Acquired atrophy of thyroid,Long-term condition
+C046.,,HYPOTHYROIDISM,,Autoimmune myxoedema,Long-term condition
+C04y.,,HYPOTHYROIDISM,,Other acquired hypothyroidism,Long-term condition
+C04z.,,HYPOTHYROIDISM,,Hypothyroidism NOS,Long-term condition
+C04z0,,HYPOTHYROIDISM,,Premature puberty due to hypothyroidism,Long-term condition
+C04z1,,HYPOTHYROIDISM,,Myxoedema coma,Long-term condition
+C06y1,,HYPOTHYROIDISM,,Thyroid atrophy,Long-term condition
+C0A1.,,HYPOTHYROIDISM,,"Congenital iodine-deficiency syndrome, myxoedematous type",Long-term condition
+Cyu11,,HYPOTHYROIDISM,,[X]Other sp cified hypothyroidism,Long-term condition
+F11x5,,HYPOTHYROIDISM,,Cerebral degeneration due to myxoedema,Long-term condition
+F1441,,HYPOTHYROIDISM,,Cerebellar ataxia due to myxoedema,Long-term condition
+F3814,,HYPOTHYROIDISM,,Myasthenic syndrome due to hypothyroidism,Long-term condition
+F3953,,HYPOTHYROIDISM,,Myopathy due to myxoedema,Long-term condition
+Fyu15,,HYPOTHYROIDISM,,[X]Systemic atrophy affecting the CNS in myxoedema,Long-term condition
+Q4337,,HYPOTHYROIDISM,,Neonatal jaundice with congenital hypothyroidism,Long-term condition

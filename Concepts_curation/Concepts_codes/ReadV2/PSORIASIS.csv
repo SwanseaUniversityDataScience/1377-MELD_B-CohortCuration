@@ -1,0 +1,29 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14F2.,,PSORIASIS,,H/O: psoriasis,Long-term condition
+38Gg.,,PSORIASIS,,Psoriasis area and severity index,Long-term condition
+M16..,,PSORIASIS,,Psoriasis and similar disorders,Long-term condition
+M161.,,PSORIASIS,,Other psoriasis,Long-term condition
+M1610,,PSORIASIS,,Psoriasis unspecified,Long-term condition
+M1611,,PSORIASIS,,Psoriasis annularis,Long-term condition
+M1612,,PSORIASIS,,Psoriasis circinata,Long-term condition
+M1613,,PSORIASIS,,Psoriasis diffusa,Long-term condition
+M1614,,PSORIASIS,,Psoriasis discoidea,Long-term condition
+M1615,,PSORIASIS,,Psoriasis geographica,Long-term condition
+M1616,,PSORIASIS,,Guttate psoriasis,Long-term condition
+M1617,,PSORIASIS,,Psoriasis gyrata,Long-term condition
+M1618,,PSORIASIS,,Psoriasis inveterata,Long-term condition
+M1619,,PSORIASIS,,Psoriasis ostracea,Long-term condition
+M161A,,PSORIASIS,,Psoriasis palmaris,Long-term condition
+M161B,,PSORIASIS,,Psoriasis plantaris,Long-term condition
+M161C,,PSORIASIS,,Psoriasis punctata,Long-term condition
+M161D,,PSORIASIS,,Pustular psoriasis,Long-term condition
+M161E,,PSORIASIS,,Psoriasis universalis,Long-term condition
+M161F,,PSORIASIS,,Psoriasis vulgaris,Long-term condition
+M161H,,PSORIASIS,,Erythrodermic psoriasis,Long-term condition
+M161J,,PSORIASIS,,Flexural psoriasis,Long-term condition
+M161z,,PSORIASIS,,Psoriasis NOS,Long-term condition
+M166.,,PSORIASIS,,Palmoplantar pustular psoriasis,Long-term condition
+M16y.,,PSORIASIS,,Other psoriasis and similar disorders,Long-term condition
+M16y0,,PSORIASIS,,Scalp psoriasis,Long-term condition
+M16z.,,PSORIASIS,,Psoriasis and similar disorders NOS,Long-term condition
+Myu30,,PSORIASIS,,[X]Other psoriasis,Long-term condition

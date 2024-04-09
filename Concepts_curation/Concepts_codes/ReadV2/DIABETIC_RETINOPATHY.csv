@@ -1,0 +1,35 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+2BBF.,,DIABETIC_RETINOPATHY,,Retinal abnormality - diabetes related,Long-term condition
+2BBL.,,DIABETIC_RETINOPATHY,,O/E - diabetic maculopathy present both eyes,Long-term condition
+2BBP.,,DIABETIC_RETINOPATHY,,O/E - right eye background diabetic retinopathy,Long-term condition
+2BBQ.,,DIABETIC_RETINOPATHY,,O/E - left eye background diabetic retinopathy,Long-term condition
+2BBR.,,DIABETIC_RETINOPATHY,,O/E - right eye preproliferative diabetic retinopathy,Long-term condition
+2BBS.,,DIABETIC_RETINOPATHY,,O/E - left eye preproliferative diabetic retinopathy,Long-term condition
+2BBT.,,DIABETIC_RETINOPATHY,,O/E - right eye proliferative diabetic retinopathy,Long-term condition
+2BBV.,,DIABETIC_RETINOPATHY,,O/E - left eye proliferative diabetic retinopathy,Long-term condition
+2BBW.,,DIABETIC_RETINOPATHY,,O/E - right eye diabetic maculopathy,Long-term condition
+2BBX.,,DIABETIC_RETINOPATHY,,O/E - left eye diabetic maculopathy,Long-term condition
+2BBk.,,DIABETIC_RETINOPATHY,,O/E - right eye stable treated prolif diabetic retinopathy,Long-term condition
+2BBl.,,DIABETIC_RETINOPATHY,,O/E - left eye stable treated prolif diabetic retinopathy,Long-term condition
+2BBo.,,DIABETIC_RETINOPATHY,,O/E - sight threatening diabetic retinopathy,Long-term condition
+2BBr.,,DIABETIC_RETINOPATHY,,Impaired vision due to diabetic retinopathy,Long-term condition
+7276.,,DIABETIC_RETINOPATHY,,Pan retinal photocoagulation for diabetes,Long-term condition
+8HBG.,,DIABETIC_RETINOPATHY,,Diabetic retinopathy 12 month review,Long-term condition
+8HBH.,,DIABETIC_RETINOPATHY,,Diabetic retinopathy 6 month review,Long-term condition
+C1087,,DIABETIC_RETINOPATHY,,Insulin dependent diabetes mellitus with retinopathy,Long-term condition
+C1096,,DIABETIC_RETINOPATHY,,Non-insulin-dependent diabetes mellitus with retinopathy,Long-term condition
+C10E7,,DIABETIC_RETINOPATHY,,Type 1 diabetes mellitus with retinopathy,Long-term condition
+C10EP,,DIABETIC_RETINOPATHY,,Type 1 diabetes mellitus with exudative maculopathy,Long-term condition
+C10F6,,DIABETIC_RETINOPATHY,,Type 2 diabetes mellitus with retinopathy,Long-term condition
+C10FQ,,DIABETIC_RETINOPATHY,,Type 2 diabetes mellitus with exudative maculopathy,Long-term condition
+F420.,,DIABETIC_RETINOPATHY,,Diabetic retinopathy,Long-term condition
+F4200,,DIABETIC_RETINOPATHY,,Background diabetic retinopathy,Long-term condition
+F4201,,DIABETIC_RETINOPATHY,,Proliferative diabetic retinopathy,Long-term condition
+F4202,,DIABETIC_RETINOPATHY,,Preproliferative diabetic retinopathy,Long-term condition
+F4203,,DIABETIC_RETINOPATHY,,Advanced diabetic maculopathy,Long-term condition
+F4204,,DIABETIC_RETINOPATHY,,Diabetic maculopathy,Long-term condition
+F4205,,DIABETIC_RETINOPATHY,,Advanced diabetic retinal disease,Long-term condition
+F4206,,DIABETIC_RETINOPATHY,,Non proliferative diabetic retinopathy,Long-term condition
+F4207,,DIABETIC_RETINOPATHY,,High risk proliferative diabetic retinopathy,Long-term condition
+F4208,,DIABETIC_RETINOPATHY,,High risk non proliferative diabetic retinopathy,Long-term condition
+F420z,,DIABETIC_RETINOPATHY,,Diabetic retinopathy NOS,Long-term condition

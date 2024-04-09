@@ -1,0 +1,16 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14F1.,,ATOPIC_ECZEMA,,H/O: eczema,Long-term condition
+M07y.,,ATOPIC_ECZEMA,,Pustular eczema,Long-term condition
+M102.,,ATOPIC_ECZEMA,,Pustular eczema,Long-term condition
+M11..,,ATOPIC_ECZEMA,,Atopic dermatitis and related conditions,Long-term condition
+M111.,,ATOPIC_ECZEMA,,Atopic dermatitis/eczema,Long-term condition
+M113.,,ATOPIC_ECZEMA,,Flexural eczema,Long-term condition
+M114.,,ATOPIC_ECZEMA,,Allergic (intrinsic) eczema,Long-term condition
+M115.,,ATOPIC_ECZEMA,,Besnier's prurigo,Long-term condition
+M117.,,ATOPIC_ECZEMA,,Neurodermatitis - atopic,Long-term condition
+M11z.,,ATOPIC_ECZEMA,,Atopic dermatitis NOS,Long-term condition
+M12z1,,ATOPIC_ECZEMA,,Eczema NOS,Long-term condition
+M12z2,,ATOPIC_ECZEMA,,Infected eczema,Long-term condition
+M12z4,,ATOPIC_ECZEMA,,Erythrodermic eczema,Long-term condition
+Myu2.,,ATOPIC_ECZEMA,,[X]Dermatitis and eczema,Long-term condition
+Myu22,,ATOPIC_ECZEMA,,[X]Exacerbation of eczema,Long-term condition

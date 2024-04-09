@@ -1,0 +1,26 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+666A.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+666B.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+8CS1.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+8Cc0.,,MULTIPLE_SCLEROSIS,,Management of multiple sclerosis in onset phase,Long-term condition
+8Cc1.,,MULTIPLE_SCLEROSIS,,Management of multiple sclerosis in early disease phase,Long-term condition
+8Cc2.,,MULTIPLE_SCLEROSIS,,Management of multiple sclerosis in stable disability phase,Long-term condition
+8Cc4.,,MULTIPLE_SCLEROSIS,,Management of multiple sclerosis in palliative phase,Long-term condition
+8IAb.,,MULTIPLE_SCLEROSIS,,Multiple sclerosis review declined,Long-term condition
+9kG..,,MULTIPLE_SCLEROSIS,,Spec serv for pat with multiple sclerosis - enh serv admin,Long-term condition
+9mD..,,MULTIPLE_SCLEROSIS,,Multiple sclerosis monitoring administration,Long-term condition
+9mD0.,,MULTIPLE_SCLEROSIS,,Multiple sclerosis monitoring first letter,Long-term condition
+9mD1.,,MULTIPLE_SCLEROSIS,,Multiple sclerosis monitoring second letter,Long-term condition
+9mD2.,,MULTIPLE_SCLEROSIS,,Multiple sclerosis monitoring telephone invitation,Long-term condition
+9mD3.,,MULTIPLE_SCLEROSIS,,Multiple sclerosis monitoring third letter,Long-term condition
+F20..,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F200.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F201.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F202.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F203.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F204.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F205.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F206.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F207.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F208.,,MULTIPLE_SCLEROSIS,,,Long-term condition
+F20z.,,MULTIPLE_SCLEROSIS,,,Long-term condition

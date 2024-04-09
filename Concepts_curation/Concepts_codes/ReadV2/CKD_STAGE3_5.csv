@@ -1,0 +1,33 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+1Z12.,,CKD_STAGE3_5,,Chronic kidney disease stage 3,Long-term condition
+1Z13.,,CKD_STAGE3_5,,Chronic kidney disease stage 4,Long-term condition
+1Z14.,,CKD_STAGE3_5,,Chronic kidney disease stage 5,Long-term condition
+1Z15.,,CKD_STAGE3_5,,Chronic kidney disease stage 3A,Long-term condition
+1Z16.,,CKD_STAGE3_5,,Chronic kidney disease stage 3B,Long-term condition
+1Z1B.,,CKD_STAGE3_5,,Chronic kidney disease stage 3 with proteinuria,Long-term condition
+1Z1C.,,CKD_STAGE3_5,,Chronic kidney disease stage 3 without proteinuria,Long-term condition
+1Z1D.,,CKD_STAGE3_5,,Chronic kidney disease stage 3A with proteinuria,Long-term condition
+1Z1E.,,CKD_STAGE3_5,,Chronic kidney disease stage 3A without proteinuria,Long-term condition
+1Z1F.,,CKD_STAGE3_5,,Chronic kidney disease stage 3B with proteinuria,Long-term condition
+1Z1G.,,CKD_STAGE3_5,,Chronic kidney disease stage 3B without proteinuria,Long-term condition
+1Z1H.,,CKD_STAGE3_5,,Chronic kidney disease stage 4 with proteinuria,Long-term condition
+1Z1J.,,CKD_STAGE3_5,,Chronic kidney disease stage 4 without proteinuria,Long-term condition
+1Z1K.,,CKD_STAGE3_5,,Chronic kidney disease stage 5 with proteinuria,Long-term condition
+1Z1L.,,CKD_STAGE3_5,,Chronic kidney disease stage 5 without proteinuria,Long-term condition
+1Z1T.,,CKD_STAGE3_5,,CKD with GFR category G3a & albuminuria category A1,Long-term condition
+1Z1V.,,CKD_STAGE3_5,,CKD with GFR category G3a & albuminuria category A2,Long-term condition
+1Z1W.,,CKD_STAGE3_5,,CKD with GFR category G3a & albuminuria category A3,Long-term condition
+1Z1X.,,CKD_STAGE3_5,,CKD with GFR category G3b & albuminuria category A1,Long-term condition
+1Z1Y.,,CKD_STAGE3_5,,CKD with GFR category G3b & albuminuria category A2,Long-term condition
+1Z1Z.,,CKD_STAGE3_5,,CKD with GFR category G3b & albuminuria category A3,Long-term condition
+1Z1a.,,CKD_STAGE3_5,,CKD with GFR category G4 & albuminuria category A1,Long-term condition
+1Z1b.,,CKD_STAGE3_5,,CKD with GFR category G4 & albuminuria category A2,Long-term condition
+1Z1c.,,CKD_STAGE3_5,,CKD with GFR category G4 & albuminuria category A3,Long-term condition
+1Z1d.,,CKD_STAGE3_5,,CKD with GFR category G5 & albuminuria category A1,Long-term condition
+1Z1e.,,CKD_STAGE3_5,,CKD with GFR category G5 & albuminuria category A2,Long-term condition
+1Z1f.,,CKD_STAGE3_5,,CKD with GFR category G5 & albuminuria category A3,Long-term condition
+K05..,,CKD_STAGE3_5,,End stage renal failure,Long-term condition
+K050.,,CKD_STAGE3_5,,End stage renal failure,Long-term condition
+K053.,,CKD_STAGE3_5,,Chronic kidney disease stage 3,Long-term condition
+K054.,,CKD_STAGE3_5,,Chronic kidney disease stage 4,Long-term condition
+K055.,,CKD_STAGE3_5,,Chronic kidney disease stage 5,Long-term condition

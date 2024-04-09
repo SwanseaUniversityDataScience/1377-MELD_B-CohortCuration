@@ -1,0 +1,98 @@
+code,DESCRIPTION_EXTERNAL ,MELDB_concept,description,DESCRIPTION,CONCEPT TYPE
+14A7.,,STROKE,,,Long-term condition
+14AB.,,STROKE,,,Long-term condition
+14AK.,,STROKE,,,Long-term condition
+1M4..,,STROKE,,,Long-term condition
+662M.,,STROKE,,,Long-term condition
+662M1,,STROKE,,Stroke 6 month review,Long-term condition
+662e.,,STROKE,,,Long-term condition
+662o.,,STROKE,,,Long-term condition
+70041,,STROKE,,Evacuation of haematoma from temporal lobe of brain,Long-term condition
+70042,,STROKE,,Evacuation of haematoma from cerebellum,Long-term condition
+70043,,STROKE,,Evacuation of intracerebral haematoma NEC,Long-term condition
+70082,,STROKE,,Aspiration of haematoma of brain tissue,Long-term condition
+7P242,,STROKE,,,Long-term condition
+8HBJ.,,STROKE,,,Long-term condition
+8Hd6.,,STROKE,,Admission to stroke unit,Long-term condition
+9N0p.,,STROKE,,Seen in stroke clinic,Long-term condition
+Fyu55,,STROKE,,,Long-term condition
+G6...,,STROKE,,Cerebral haemorrhage,Long-term condition
+G60..,,STROKE,,Subarachnoid haemorrhage,Long-term condition
+G600.,,STROKE,,Ruptured berry aneurysm,Long-term condition
+G601.,,STROKE,,Subarachnoid haemorrhage from carotid siphon and bifurcation,Long-term condition
+G602.,,STROKE,,Subarachnoid haemorrhage from middle cerebral artery,Long-term condition
+G603.,,STROKE,,Subarachnoid haemorrhage from anterior communicating artery,Long-term condition
+G604.,,STROKE,,Subarachnoid haemorrhage from posterior communicating artery,Long-term condition
+G605.,,STROKE,,Subarachnoid haemorrhage from basilar artery,Long-term condition
+G606.,,STROKE,,Subarachnoid haemorrhage from vertebral artery,Long-term condition
+G60X.,,STROKE,,"Subarachnoid haemorrh from intracranial artery, unspecif",Long-term condition
+G60z.,,STROKE,,Subarachnoid haemorrhage NOS,Long-term condition
+G61..,,STROKE,,,Long-term condition
+G610.,,STROKE,,,Long-term condition
+G611.,,STROKE,,,Long-term condition
+G612.,,STROKE,,,Long-term condition
+G613.,,STROKE,,,Long-term condition
+G614.,,STROKE,,,Long-term condition
+G615.,,STROKE,,,Long-term condition
+G616.,,STROKE,,,Long-term condition
+G617.,,STROKE,,,Long-term condition
+G618.,,STROKE,,,Long-term condition
+G619.,,STROKE,,Lobar cerebral haemorrhage,Long-term condition
+G61X.,,STROKE,,,Long-term condition
+G61X0,,STROKE,,,Long-term condition
+G61X1,,STROKE,,,Long-term condition
+G61z.,,STROKE,,,Long-term condition
+G62..,,STROKE,,,Long-term condition
+G620.,,STROKE,,,Long-term condition
+G621.,,STROKE,,,Long-term condition
+G622.,,STROKE,,,Long-term condition
+G623.,,STROKE,,,Long-term condition
+G62z.,,STROKE,,,Long-term condition
+G63y0,,STROKE,,,Long-term condition
+G63y1,,STROKE,,,Long-term condition
+G64..,,STROKE,,,Long-term condition
+G6400,,STROKE,,,Long-term condition
+G6410,,STROKE,,,Long-term condition
+G64z.,,STROKE,,,Long-term condition
+G64z0,,STROKE,,,Long-term condition
+G64z2,,STROKE,,,Long-term condition
+G64z3,,STROKE,,,Long-term condition
+G64z4,,STROKE,,,Long-term condition
+G65..,,STROKE,,,Long-term condition
+G650.,,STROKE,,,Long-term condition
+G651.,,STROKE,,,Long-term condition
+G6510,,STROKE,,,Long-term condition
+G652.,,STROKE,,,Long-term condition
+G653.,,STROKE,,,Long-term condition
+G654.,,STROKE,,,Long-term condition
+G656.,,STROKE,,,Long-term condition
+G65y.,,STROKE,,,Long-term condition
+G65z.,,STROKE,,,Long-term condition
+G65z0,,STROKE,,,Long-term condition
+G65z1,,STROKE,,,Long-term condition
+G65zz,,STROKE,,,Long-term condition
+G66..,,STROKE,,,Long-term condition
+G663.,,STROKE,,,Long-term condition
+G664.,,STROKE,,,Long-term condition
+G667.,,STROKE,,,Long-term condition
+G668.,,STROKE,,,Long-term condition
+G669.,,STROKE,,,Long-term condition
+G6760,,STROKE,,,Long-term condition
+G680.,,STROKE,,Sequelae of subarachnoid haemorrhage,Long-term condition
+G681.,,STROKE,,Sequelae of intracerebral haemorrhage,Long-term condition
+G6W..,,STROKE,,,Long-term condition
+G6X..,,STROKE,,,Long-term condition
+Gyu60,,STROKE,,[X]Subarachnoid haemorrhage from other intracranial arteries,Long-term condition
+Gyu61,,STROKE,,[X]Other subarachnoid haemorrhage,Long-term condition
+Gyu62,,STROKE,,,Long-term condition
+Gyu63,,STROKE,,,Long-term condition
+Gyu64,,STROKE,,,Long-term condition
+Gyu65,,STROKE,,,Long-term condition
+Gyu66,,STROKE,,,Long-term condition
+Gyu6E,,STROKE,,"[X]Subarachnoid haemorrh from intracranial artery, unspecif",Long-term condition
+Gyu6F,,STROKE,,,Long-term condition
+Gyu6G,,STROKE,,,Long-term condition
+Q200.,,STROKE,,Cerebral haemorrhage - birth,Long-term condition
+Q2000,,STROKE,,Intracerebral haemorrhage in fetus or newborn,Long-term condition
+ZV125,,STROKE,,[V]Personal history of cerebrovascular accident (CVA),Long-term condition
+ZV12D,,STROKE,,,Long-term condition
