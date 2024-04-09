@@ -1,0 +1,28 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+G463,,STROKE,Brain stem stroke syndrome,Long-term condition
+G464,,STROKE,Cerebellar stroke syndrome,Long-term condition
+I60,,STROKE,Subarachnoid haemorrhage,Long-term condition
+I600,,STROKE,Subarachnoid haemorrhage from carotid siphon and bifurcation,Long-term condition
+I601,,STROKE,Subarachnoid haemorrhage from middle cerebral artery,Long-term condition
+I602,,STROKE,Subarachnoid haemorrhage from anterior communicating artery,Long-term condition
+I603,,STROKE,Subarachnoid haemorrhage from posterior communicating artery,Long-term condition
+I604,,STROKE,Subarachnoid haemorrhage from basilar artery,Long-term condition
+I605,,STROKE,Subarachnoid haemorrhage from vertebral artery,Long-term condition
+I606,,STROKE,Subarachnoid haemorrhage from other intracranial arteries,Long-term condition
+I607,,STROKE,"Subarachnoid haemorrhage from intracranial artery, unspecified",Long-term condition
+I608,,STROKE,Other subarachnoid haemorrhage,Long-term condition
+I609,,STROKE,"Subarachnoid haemorrhage, unspecified",Long-term condition
+I61,,STROKE,Intracerebral haemorrhage,Long-term condition
+I610,,STROKE,"Intracerebral haemorrhage in hemisphere, subcortical",Long-term condition
+I611,,STROKE,"Intracerebral haemorrhage in hemisphere, cortical",Long-term condition
+I612,,STROKE,"Intracerebral haemorrhage in hemisphere, unspecified",Long-term condition
+I613,,STROKE,Intracerebral haemorrhage in brain stem,Long-term condition
+I614,,STROKE,Intracerebral haemorrhage in cerebellum,Long-term condition
+I615,,STROKE,"Intracerebral haemorrhage, intraventricular",Long-term condition
+I616,,STROKE,"Intracerebral haemorrhage, multiple localized",Long-term condition
+I618,,STROKE,Other intracerebral haemorrhage,Long-term condition
+I619,,STROKE,"Intracerebral haemorrhage, unspecified",Long-term condition
+I64,,STROKE,"Stroke, not specified as haemorrhage or infarction",Long-term condition
+I672,,STROKE,Cerebral atherosclerosis,Long-term condition
+I679,,STROKE,"Cerebrovascular disease, unspecified",Long-term condition
+I691,,STROKE,Sequelae of intracerebral haemorrhage,Long-term condition

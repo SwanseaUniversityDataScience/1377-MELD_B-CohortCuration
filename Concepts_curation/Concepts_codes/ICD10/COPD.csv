@@ -1,0 +1,18 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+J41,,COPD,Simple and mucopurulent chronic bronchitis,Long-term condition
+J410,,COPD,Simple chronic bronchitis,Long-term condition
+J411,,COPD,Mucopurulent chronic bronchitis,Long-term condition
+J418,,COPD,Mixed simple and mucopurulent chronic bronchitis,Long-term condition
+J42,,COPD,Unspecified chronic bronchitis,Long-term condition
+J43,,COPD,Emphysema,Long-term condition
+J430,,COPD,MacLeod syndrome,Long-term condition
+J431,,COPD,Panlobular emphysema,Long-term condition
+J432,,COPD,Centrilobular emphysema,Long-term condition
+J438,,COPD,Other emphysema,Long-term condition
+J439,,COPD,"Emphysema, unspecified",Long-term condition
+J44,,COPD,Other chronic obstructive pulmonary disease,Long-term condition
+J440,,COPD,Chronic obstructive pulmonary disease with acute lower respiratory infection,Long-term condition
+J441,,COPD,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",Long-term condition
+J448,,COPD,Other specified chronic obstructive pulmonary disease,Long-term condition
+J449,,COPD,"Chronic obstructive pulmonary disease, unspecified",Long-term condition
+J982,,COPD,Interstitial emphysema,Long-term condition

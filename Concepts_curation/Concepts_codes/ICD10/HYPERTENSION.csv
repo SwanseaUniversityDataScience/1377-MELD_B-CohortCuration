@@ -1,0 +1,27 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+I10,,HYPERTENSION,Essential (primary) hypertension,Long-term condition
+I11,,HYPERTENSION,Hypertensive heart disease,Long-term condition
+I110,,HYPERTENSION,Hypertensive heart disease with (congestive) heart failure,Long-term condition
+I119,,HYPERTENSION,Hypertensive heart disease without (congestive) heart failure,Long-term condition
+I12,,HYPERTENSION,Hypertensive renal disease,Long-term condition
+I120,,HYPERTENSION,Hypertensive renal disease with renal failure,Long-term condition
+I129,,HYPERTENSION,Hypertensive renal disease without renal failure,Long-term condition
+I13,,HYPERTENSION,Hypertensive heart and renal disease,Long-term condition
+I130,,HYPERTENSION,Hypertensive heart and renal disease with (congestive) heart failure,Long-term condition
+I131,,HYPERTENSION,Hypertensive heart and renal disease with renal failure,Long-term condition
+I132,,HYPERTENSION,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Long-term condition
+I139,,HYPERTENSION,"Hypertensive heart and renal disease, unspecified",Long-term condition
+I15,,HYPERTENSION,Secondary hypertension,Long-term condition
+I150,,HYPERTENSION,Renovascular hypertension,Long-term condition
+I151,,HYPERTENSION,Hypertension secondary to other renal disorders,Long-term condition
+I152,,HYPERTENSION,Hypertension secondary to endocrine disorders,Long-term condition
+I158,,HYPERTENSION,Other secondary hypertension,Long-term condition
+I159,,HYPERTENSION,"Secondary hypertension, unspecified",Long-term condition
+I674,,HYPERTENSION,Hypertensive encephalopathy,Long-term condition
+O10,,HYPERTENSION,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",Long-term condition
+O100,,HYPERTENSION,"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium",Long-term condition
+O101,,HYPERTENSION,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",Long-term condition
+O102,,HYPERTENSION,"Pre-existing hypertensive renal disease complicating pregnancy, childbirth and the puerperium",Long-term condition
+O103,,HYPERTENSION,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",Long-term condition
+O104,,HYPERTENSION,"Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium",Long-term condition
+Y525,,HYPERTENSION,"Other antihypertensive drugs, not elsewhere classified",Long-term condition

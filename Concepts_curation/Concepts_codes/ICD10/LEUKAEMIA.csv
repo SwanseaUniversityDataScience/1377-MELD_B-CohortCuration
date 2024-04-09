@@ -1,0 +1,48 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+B213,,LEUKAEMIA,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue",Long-term condition
+C91,,LEUKAEMIA,Lymphoid leukaemia,Long-term condition
+C910,,LEUKAEMIA,Acute lymphoblastic leukaemia [ALL],Long-term condition
+C911,,LEUKAEMIA,Chronic lymphocytic leukaemia of B-cell type,Long-term condition
+C913,,LEUKAEMIA,Prolymphocytic leukaemia of B-cell type,Long-term condition
+C914,,LEUKAEMIA,Hairy-cell leukaemia,Long-term condition
+C915,,LEUKAEMIA,Adult T-cell lymphoma/leukaemia [HTLV-1-associated],Long-term condition
+C916,,LEUKAEMIA,Prolymphocytic leukaemia of T-cell type,Long-term condition
+C917,,LEUKAEMIA,Other lymphoid leukaemia,Long-term condition
+C918,,LEUKAEMIA,Mature B-cell leukaemia Burkitt-type,Long-term condition
+C919,,LEUKAEMIA,"Lymphoid leukaemia, unspecified",Long-term condition
+C92,,LEUKAEMIA,Myeloid leukaemia,Long-term condition
+C920,,LEUKAEMIA,Acute myeloblastic leukaemia [AML],Long-term condition
+C921,,LEUKAEMIA,"Chronic myeloid leukaemia [CML], BCR/ABL-positive",Long-term condition
+C922,,LEUKAEMIA,"Atypical chronic myeloid leukaemia, BCR/ABL-negative",Long-term condition
+C923,,LEUKAEMIA,Myeloid sarcoma,Long-term condition
+C924,,LEUKAEMIA,Acute promyelocytic leukaemia [PML],Long-term condition
+C925,,LEUKAEMIA,Acute myelomonocytic leukaemia,Long-term condition
+C926,,LEUKAEMIA,Acute myeloid leukaemia with 11q23-abnormality,Long-term condition
+C927,,LEUKAEMIA,Other myeloid leukaemia,Long-term condition
+C928,,LEUKAEMIA,Acute myeloid leukaemia with multilineage dysplasia,Long-term condition
+C929,,LEUKAEMIA,"Myeloid leukaemia, unspecified",Long-term condition
+C93,,LEUKAEMIA,Monocytic leukaemia,Long-term condition
+C930,,LEUKAEMIA,Acute monoblastic/monocytic leukaemia,Long-term condition
+C931,,LEUKAEMIA,Chronic myelomonocytic leukaemia,Long-term condition
+C933,,LEUKAEMIA,Juvenile myelomonocytic leukaemia,Long-term condition
+C937,,LEUKAEMIA,Other monocytic leukaemia,Long-term condition
+C939,,LEUKAEMIA,"Monocytic leukaemia, unspecified",Long-term condition
+C94,,LEUKAEMIA,Other leukaemias of specified cell type,Long-term condition
+C940,,LEUKAEMIA,Acute erythroid leukaemia,Long-term condition
+C942,,LEUKAEMIA,Acute megakaryoblastic leukaemia,Long-term condition
+C943,,LEUKAEMIA,Mast cell leukaemia,Long-term condition
+C944,,LEUKAEMIA,Acute panmyelosis with myelofibrosis,Long-term condition
+C946,,LEUKAEMIA,"Myelodysplastic and myeloproliferative disease, not elsewhere classified",Long-term condition
+C947,,LEUKAEMIA,Other specified leukaemias,Long-term condition
+C95,,LEUKAEMIA,Leukaemia of unspecified cell type,Long-term condition
+C950,,LEUKAEMIA,Acute leukaemia of unspecified cell type,Long-term condition
+C951,,LEUKAEMIA,Chronic leukaemia of unspecified cell type,Long-term condition
+C957,,LEUKAEMIA,Other leukaemia of unspecified cell type,Long-term condition
+C959,,LEUKAEMIA,"Leukaemia, unspecified",Long-term condition
+C96,,LEUKAEMIA,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",Long-term condition
+C967,,LEUKAEMIA,"Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue",Long-term condition
+C969,,LEUKAEMIA,"Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified",Long-term condition
+D474,,LEUKAEMIA,Osteomyelofibrosis,Long-term condition
+D475,,LEUKAEMIA,Chronic eosinophilic leukaemia [hypereosinophilic syndrome],Long-term condition
+Z856,,LEUKAEMIA,Personal history of leukaemia,Long-term condition
+Z857,,LEUKAEMIA,"Personal history of other malignant neoplasms of lymphoid, haematopoietic and related tissues",Long-term condition

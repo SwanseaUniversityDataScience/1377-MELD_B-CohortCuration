@@ -1,0 +1,17 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+F803,,EPILEPSY,Acquired aphasia with epilepsy [Landau-Kleffner],Long-term condition
+G40,,EPILEPSY,Epilepsy,Long-term condition
+G400,,EPILEPSY,Localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset,Long-term condition
+G401,,EPILEPSY,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,Long-term condition
+G402,,EPILEPSY,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures,Long-term condition
+G403,,EPILEPSY,Generalized idiopathic epilepsy and epileptic syndromes,Long-term condition
+G404,,EPILEPSY,Other generalized epilepsy and epileptic syndromes,Long-term condition
+G405,,EPILEPSY,Special epileptic syndromes,Long-term condition
+G408,,EPILEPSY,Other epilepsy,Long-term condition
+G409,,EPILEPSY,"Epilepsy, unspecified",Long-term condition
+G41,,EPILEPSY,Status epilepticus,Long-term condition
+G410,,EPILEPSY,Grand mal status epilepticus,Long-term condition
+G411,,EPILEPSY,Petit mal status epilepticus,Long-term condition
+G412,,EPILEPSY,Complex partial status epilepticus,Long-term condition
+G418,,EPILEPSY,Other status epilepticus,Long-term condition
+G419,,EPILEPSY,"Status epilepticus, unspecified",Long-term condition

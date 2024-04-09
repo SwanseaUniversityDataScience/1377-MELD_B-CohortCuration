@@ -1,0 +1,82 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+I070,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Tricuspid stenosis,Long-term condition
+I072,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Tricuspid stenosis with insufficiency,Long-term condition
+P70,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Transitory disorders of carbohydrate metabolism specific to fetus and newborn,Long-term condition
+P700,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Syndrome of infant of mother with gestational diabetes,Long-term condition
+P701,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Syndrome of infant of a diabetic mother,Long-term condition
+P702,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Neonatal diabetes mellitus,Long-term condition
+P703,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Iatrogenic neonatal hypoglycaemia,Long-term condition
+P704,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other neonatal hypoglycaemia,Long-term condition
+P708,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other transitory disorders of carbohydrate metabolism of fetus and newborn,Long-term condition
+P709,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Transitory disorder of carbohydrate metabolism of fetus and newborn, unspecified",Long-term condition
+P71,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Transitory neonatal disorders of calcium and magnesium metabolism,Long-term condition
+P72,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other transitory neonatal endocrine disorders,Long-term condition
+P720,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Neonatal goitre, not elsewhere classified",Long-term condition
+P721,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Transitory neonatal hyperthyroidism,Long-term condition
+P722,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Other transitory neonatal disorders of thyroid function, not elsewhere classified",Long-term condition
+P728,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other specified transitory neonatal endocrine disorders,Long-term condition
+P729,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Transitory neonatal endocrine disorder, unspecified",Long-term condition
+Q20,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital malformations of cardiac chambers and connections,Long-term condition
+Q200,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Common arterial trunk,Long-term condition
+Q201,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Double outlet right ventricle,Long-term condition
+Q202,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Double outlet left ventricle,Long-term condition
+Q203,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Discordant ventriculoarterial connection,Long-term condition
+Q204,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Double inlet ventricle,Long-term condition
+Q205,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Discordant atrioventricular connection,Long-term condition
+Q206,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Isomerism of atrial appendages,Long-term condition
+Q208,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of cardiac chambers and connections,Long-term condition
+Q209,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Congenital malformation of cardiac chambers and connections, unspecified",Long-term condition
+Q21,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital malformations of cardiac septa,Long-term condition
+Q210,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Ventricular septal defect,Long-term condition
+Q211,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Atrial septal defect,Long-term condition
+Q212,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Atrioventricular septal defect,Long-term condition
+Q213,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Tetralogy of Fallot,Long-term condition
+Q214,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Aortopulmonary septal defect,Long-term condition
+Q218,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of cardiac septa,Long-term condition
+Q219,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Congenital malformation of cardiac septum, unspecified",Long-term condition
+Q22,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital malformations of pulmonary and tricuspid valves,Long-term condition
+Q220,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Pulmonary valve atresia,Long-term condition
+Q221,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital pulmonary valve stenosis,Long-term condition
+Q222,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital pulmonary valve insufficiency,Long-term condition
+Q223,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of pulmonary valve,Long-term condition
+Q224,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital tricuspid stenosis,Long-term condition
+Q225,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Ebstein anomaly,Long-term condition
+Q226,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Hypoplastic right heart syndrome,Long-term condition
+Q228,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of tricuspid valve,Long-term condition
+Q229,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Congenital malformation of tricuspid valve, unspecified",Long-term condition
+Q23,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital malformations of aortic and mitral valves,Long-term condition
+Q230,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital stenosis of aortic valve,Long-term condition
+Q231,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital insufficiency of aortic valve,Long-term condition
+Q232,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital mitral stenosis,Long-term condition
+Q233,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital mitral insufficiency,Long-term condition
+Q234,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Hypoplastic left heart syndrome,Long-term condition
+Q238,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of aortic and mitral valves,Long-term condition
+Q239,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Congenital malformation of aortic and mitral valves, unspecified",Long-term condition
+Q24,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of heart,Long-term condition
+Q240,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Dextrocardia,Long-term condition
+Q241,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Laevocardia,Long-term condition
+Q242,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Cor triatriatum,Long-term condition
+Q243,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Pulmonary infundibular stenosis,Long-term condition
+Q244,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital subaortic stenosis,Long-term condition
+Q245,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Malformation of coronary vessels,Long-term condition
+Q246,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital heart block,Long-term condition
+Q248,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other specified congenital malformations of heart,Long-term condition
+Q249,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Congenital malformation of heart, unspecified",Long-term condition
+Q25,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital malformations of great arteries,Long-term condition
+Q250,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Patent ductus arteriosus,Long-term condition
+Q251,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Coarctation of aorta,Long-term condition
+Q252,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Atresia of aorta,Long-term condition
+Q253,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Stenosis of aorta,Long-term condition
+Q254,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of aorta,Long-term condition
+Q255,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Atresia of pulmonary artery,Long-term condition
+Q256,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Stenosis of pulmonary artery,Long-term condition
+Q257,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of pulmonary artery,Long-term condition
+Q258,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of great arteries,Long-term condition
+Q259,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Congenital malformation of great arteries, unspecified",Long-term condition
+Q26,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital malformations of great veins,Long-term condition
+Q260,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Congenital stenosis of vena cava,Long-term condition
+Q261,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Persistent left superior vena cava,Long-term condition
+Q262,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Total anomalous pulmonary venous connection,Long-term condition
+Q263,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Partial anomalous pulmonary venous connection,Long-term condition
+Q264,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,"Anomalous pulmonary venous connection, unspecified",Long-term condition
+Q268,,CONGENITAL_DIS_CHROMOSOMAL_ABNORMALITIES,Other congenital malformations of great veins,Long-term condition

@@ -1,0 +1,7 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+A187,,ADDISONS_DISEASE,Tuberculosis of adrenal glands,Long-term condition
+E271,,ADDISONS_DISEASE,Primary adrenocortical insufficiency,Long-term condition
+E272,,ADDISONS_DISEASE,Addisonian crisis,Long-term condition
+E351,,ADDISONS_DISEASE,Disorders of adrenal glands in diseases classified elsewhere,Long-term condition
+E896,,ADDISONS_DISEASE,Postprocedural adrenocortical(-medullary) hypofunction,Long-term condition
+G735,,ADDISONS_DISEASE,Myopathy in endocrine diseases,Long-term condition

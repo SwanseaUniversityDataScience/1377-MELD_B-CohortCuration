@@ -1,0 +1,8 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+L40,,PSORIASIS,Psoriasis,Long-term condition
+L400,,PSORIASIS,Psoriasis vulgaris,Long-term condition
+L401,,PSORIASIS,Generalized pustular psoriasis,Long-term condition
+L404,,PSORIASIS,Guttate psoriasis,Long-term condition
+L405,,PSORIASIS,Arthropathic psoriasis,Long-term condition
+L408,,PSORIASIS,Other psoriasis,Long-term condition
+L409,,PSORIASIS,"Psoriasis, unspecified",Long-term condition

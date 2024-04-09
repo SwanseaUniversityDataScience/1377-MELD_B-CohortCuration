@@ -1,0 +1,8 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+L940,,SYSTEMIC_SCLEROSIS,Localized scleroderma [morphea],Long-term condition
+L941,,SYSTEMIC_SCLEROSIS,Linear scleroderma,Long-term condition
+M34,,SYSTEMIC_SCLEROSIS,Systemic sclerosis,Long-term condition
+M340,,SYSTEMIC_SCLEROSIS,Progressive systemic sclerosis,Long-term condition
+M342,,SYSTEMIC_SCLEROSIS,Systemic sclerosis induced by drugs and chemicals,Long-term condition
+M348,,SYSTEMIC_SCLEROSIS,Other forms of systemic sclerosis,Long-term condition
+M349,,SYSTEMIC_SCLEROSIS,"Systemic sclerosis, unspecified",Long-term condition

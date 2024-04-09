@@ -1,0 +1,56 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+K50,,IBD,Crohn disease [regional enteritis],Long-term condition
+K500,,IBD,Crohn disease of small intestine,Long-term condition
+K501,,IBD,Crohn disease of large intestine,Long-term condition
+K508,,IBD,Other Crohn disease,Long-term condition
+K509,,IBD,"Crohn disease, unspecified",Long-term condition
+K51,,IBD,Ulcerative colitis,Long-term condition
+K510,,IBD,Ulcerative (chronic) pancolitis,Long-term condition
+K512,,IBD,Ulcerative (chronic) proctitis,Long-term condition
+K513,,IBD,Ulcerative (chronic) rectosigmoiditis,Long-term condition
+K518,,IBD,Other ulcerative colitis,Long-term condition
+K519,,IBD,"Ulcerative colitis, unspecified",Long-term condition
+M074,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0740,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0741,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0742,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0743,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0744,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0745,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0746,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0747,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0748,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M0749,,IBD,Arthropathy in Crohn disease [regional enteritis],Long-term condition
+M075,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0750,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0751,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0752,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0753,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0754,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0755,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0756,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0757,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0758,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M0759,,IBD,Arthropathy in ulcerative colitis,Long-term condition
+M091,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0910,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0911,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0912,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0913,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0914,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0915,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0916,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0917,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0918,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M0919,,IBD,Juvenile arthritis in Crohn disease [regional enteritis],Long-term condition
+M092,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0920,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0921,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0922,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0923,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0924,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0925,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0926,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0927,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0928,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition
+M0929,,IBD,Juvenile arthritis in ulcerative colitis,Long-term condition

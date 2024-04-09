@@ -1,0 +1,4 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+C33,,PRIMARY_LUNG_CANCER,Malignant neoplasm of trachea,Long-term condition
+C34,,PRIMARY_LUNG_CANCER,Malignant neoplasm of bronchus and lung,Long-term condition
+C39,,PRIMARY_LUNG_CANCER,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,Long-term condition

@@ -1,0 +1,69 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+M10,,GOUT,Gout,Long-term condition
+M100,,GOUT,Idiopathic gout,Long-term condition
+M1000,,GOUT,Idiopathic gout,Long-term condition
+M1001,,GOUT,Idiopathic gout,Long-term condition
+M1002,,GOUT,Idiopathic gout,Long-term condition
+M1003,,GOUT,Idiopathic gout,Long-term condition
+M1004,,GOUT,Idiopathic gout,Long-term condition
+M1005,,GOUT,Idiopathic gout,Long-term condition
+M1006,,GOUT,Idiopathic gout,Long-term condition
+M1007,,GOUT,Idiopathic gout,Long-term condition
+M1008,,GOUT,Idiopathic gout,Long-term condition
+M1009,,GOUT,Idiopathic gout,Long-term condition
+M101,,GOUT,Lead-induced gout,Long-term condition
+M1010,,GOUT,Lead-induced gout,Long-term condition
+M1011,,GOUT,Lead-induced gout,Long-term condition
+M1012,,GOUT,Lead-induced gout,Long-term condition
+M1013,,GOUT,Lead-induced gout,Long-term condition
+M1014,,GOUT,Lead-induced gout,Long-term condition
+M1015,,GOUT,Lead-induced gout,Long-term condition
+M1016,,GOUT,Lead-induced gout,Long-term condition
+M1017,,GOUT,Lead-induced gout,Long-term condition
+M1018,,GOUT,Lead-induced gout,Long-term condition
+M1019,,GOUT,Lead-induced gout,Long-term condition
+M102,,GOUT,Drug-induced gout,Long-term condition
+M1020,,GOUT,Drug-induced gout,Long-term condition
+M1021,,GOUT,Drug-induced gout,Long-term condition
+M1022,,GOUT,Drug-induced gout,Long-term condition
+M1023,,GOUT,Drug-induced gout,Long-term condition
+M1024,,GOUT,Drug-induced gout,Long-term condition
+M1025,,GOUT,Drug-induced gout,Long-term condition
+M1026,,GOUT,Drug-induced gout,Long-term condition
+M1027,,GOUT,Drug-induced gout,Long-term condition
+M1028,,GOUT,Drug-induced gout,Long-term condition
+M1029,,GOUT,Drug-induced gout,Long-term condition
+M103,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1030,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1031,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1032,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1033,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1034,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1035,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1036,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1037,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1038,,GOUT,Gout due to impairment of renal function,Long-term condition
+M1039,,GOUT,Gout due to impairment of renal function,Long-term condition
+M104,,GOUT,Other secondary gout,Long-term condition
+M1040,,GOUT,Other secondary gout,Long-term condition
+M1041,,GOUT,Other secondary gout,Long-term condition
+M1042,,GOUT,Other secondary gout,Long-term condition
+M1043,,GOUT,Other secondary gout,Long-term condition
+M1044,,GOUT,Other secondary gout,Long-term condition
+M1045,,GOUT,Other secondary gout,Long-term condition
+M1046,,GOUT,Other secondary gout,Long-term condition
+M1047,,GOUT,Other secondary gout,Long-term condition
+M1048,,GOUT,Other secondary gout,Long-term condition
+M1049,,GOUT,Other secondary gout,Long-term condition
+M109,,GOUT,"Gout, unspecified",Long-term condition
+M1090,,GOUT,"Gout, unspecified",Long-term condition
+M1091,,GOUT,"Gout, unspecified",Long-term condition
+M1092,,GOUT,"Gout, unspecified",Long-term condition
+M1093,,GOUT,"Gout, unspecified",Long-term condition
+M1094,,GOUT,"Gout, unspecified",Long-term condition
+M1095,,GOUT,"Gout, unspecified",Long-term condition
+M1096,,GOUT,"Gout, unspecified",Long-term condition
+M1097,,GOUT,"Gout, unspecified",Long-term condition
+M1098,,GOUT,"Gout, unspecified",Long-term condition
+M1099,,GOUT,"Gout, unspecified",Long-term condition
+M140,,GOUT,Gouty arthropathy due to enzyme defects and other inherited disorders,Long-term condition

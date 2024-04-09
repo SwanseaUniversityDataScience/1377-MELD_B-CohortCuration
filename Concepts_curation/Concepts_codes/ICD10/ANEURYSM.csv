@@ -1,0 +1,11 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+I71,,ANEURYSM,Aortic aneurysm and dissection,Long-term condition
+I710,,ANEURYSM,Dissection of aorta [any part],Long-term condition
+I711,,ANEURYSM,"Thoracic aortic aneurysm, ruptured",Long-term condition
+I712,,ANEURYSM,"Thoracic aortic aneurysm, without mention of rupture",Long-term condition
+I713,,ANEURYSM,"Abdominal aortic aneurysm, ruptured",Long-term condition
+I714,,ANEURYSM,"Abdominal aortic aneurysm, without mention of rupture",Long-term condition
+I715,,ANEURYSM,"Thoracoabdominal aortic aneurysm, ruptured",Long-term condition
+I716,,ANEURYSM,"Thoracoabdominal aortic aneurysm, without mention of rupture",Long-term condition
+I718,,ANEURYSM,"Aortic aneurysm of unspecified site, ruptured",Long-term condition
+I719,,ANEURYSM,"Aortic aneurysm of unspecified site, without mention of rupture",Long-term condition

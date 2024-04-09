@@ -1,0 +1,24 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+C18,,COLON_CANCER,Malignant neoplasm of colon,Long-term condition
+C180,,COLON_CANCER,Malignant neoplasm: Caecum,Long-term condition
+C181,,COLON_CANCER,Malignant neoplasm: Appendix,Long-term condition
+C182,,COLON_CANCER,Malignant neoplasm: Ascending colon,Long-term condition
+C183,,COLON_CANCER,Malignant neoplasm: Hepatic flexure,Long-term condition
+C184,,COLON_CANCER,Malignant neoplasm: Transverse colon,Long-term condition
+C185,,COLON_CANCER,Malignant neoplasm: Splenic flexure,Long-term condition
+C186,,COLON_CANCER,Malignant neoplasm: Descending colon,Long-term condition
+C187,,COLON_CANCER,Malignant neoplasm: Sigmoid colon,Long-term condition
+C188,,COLON_CANCER,Malignant neoplasm: Overlapping lesion of colon,Long-term condition
+C189,,COLON_CANCER,"Malignant neoplasm: Colon, unspecified",Long-term condition
+C19,,COLON_CANCER,Malignant neoplasm of rectosigmoid junction,Long-term condition
+C20,,COLON_CANCER,Malignant neoplasm of rectum,Long-term condition
+C218,,COLON_CANCER,"Malignant neoplasm: Overlapping lesion of rectum, anus and anal canal",Long-term condition
+C785,,COLON_CANCER,Secondary malignant neoplasm of large intestine and rectum,Long-term condition
+D010,,COLON_CANCER,Carcinoma in situ: Colon,Long-term condition
+D011,,COLON_CANCER,Carcinoma in situ: Rectosigmoid junction,Long-term condition
+D012,,COLON_CANCER,Carcinoma in situ: Rectum,Long-term condition
+D013,,COLON_CANCER,Carcinoma in situ: Anus and anal canal,Long-term condition
+D017,,COLON_CANCER,Carcinoma in situ: Other specified digestive organs,Long-term condition
+D37,,COLON_CANCER,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,Long-term condition
+D374,,COLON_CANCER,Neoplasm of uncertain or unknown behaviour: Colon,Long-term condition
+D375,,COLON_CANCER,Neoplasm of uncertain or unknown behaviour: Rectum,Long-term condition

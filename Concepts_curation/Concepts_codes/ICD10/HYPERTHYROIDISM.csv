@@ -1,0 +1,7 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+E05,,HYPERTHYROIDISM,Thyrotoxicosis [hyperthyroidism],Long-term condition
+E050,,HYPERTHYROIDISM,Thyrotoxicosis with diffuse goitre,Long-term condition
+E051,,HYPERTHYROIDISM,Thyrotoxicosis with toxic single thyroid nodule,Long-term condition
+E052,,HYPERTHYROIDISM,Thyrotoxicosis with toxic multinodular goitre,Long-term condition
+E053,,HYPERTHYROIDISM,Thyrotoxicosis from ectopic thyroid tissue,Long-term condition
+E059,,HYPERTHYROIDISM,"Thyrotoxicosis, unspecified",Long-term condition

@@ -1,0 +1,89 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+G110,,HEART_VALVE_DISORDERS,Congenital nonprogressive ataxia,Long-term condition
+G111,,HEART_VALVE_DISORDERS,Early-onset cerebellar ataxia,Long-term condition
+G112,,HEART_VALVE_DISORDERS,Late-onset cerebellar ataxia,Long-term condition
+G113,,HEART_VALVE_DISORDERS,Cerebellar ataxia with defective DNA repair,Long-term condition
+G114,,HEART_VALVE_DISORDERS,Hereditary spastic paraplegia,Long-term condition
+G118,,HEART_VALVE_DISORDERS,Other hereditary ataxias,Long-term condition
+G119,,HEART_VALVE_DISORDERS,"Hereditary ataxia, unspecified",Long-term condition
+I05,,HEART_VALVE_DISORDERS,Rheumatic mitral valve diseases,Long-term condition
+I050,,HEART_VALVE_DISORDERS,Mitral stenosis,Long-term condition
+I051,,HEART_VALVE_DISORDERS,Rheumatic mitral insufficiency,Long-term condition
+I052,,HEART_VALVE_DISORDERS,Mitral stenosis with insufficiency,Long-term condition
+I058,,HEART_VALVE_DISORDERS,Other mitral valve diseases,Long-term condition
+I059,,HEART_VALVE_DISORDERS,"Mitral valve disease, unspecified",Long-term condition
+I06,,HEART_VALVE_DISORDERS,Rheumatic aortic valve diseases,Long-term condition
+I060,,HEART_VALVE_DISORDERS,Rheumatic aortic stenosis,Long-term condition
+I062,,HEART_VALVE_DISORDERS,Rheumatic aortic stenosis with insufficiency,Long-term condition
+I068,,HEART_VALVE_DISORDERS,Other rheumatic aortic valve diseases,Long-term condition
+I069,,HEART_VALVE_DISORDERS,"Rheumatic aortic valve disease, unspecified",Long-term condition
+I07,,HEART_VALVE_DISORDERS,Rheumatic tricuspid valve diseases,Long-term condition
+I070,,HEART_VALVE_DISORDERS,Tricuspid stenosis,Long-term condition
+I072,,HEART_VALVE_DISORDERS,Tricuspid stenosis with insufficiency,Long-term condition
+I078,,HEART_VALVE_DISORDERS,Other tricuspid valve diseases,Long-term condition
+I079,,HEART_VALVE_DISORDERS,"Tricuspid valve disease, unspecified",Long-term condition
+I08,,HEART_VALVE_DISORDERS,Multiple valve diseases,Long-term condition
+I080,,HEART_VALVE_DISORDERS,Disorders of both mitral and aortic valves,Long-term condition
+I081,,HEART_VALVE_DISORDERS,Disorders of both mitral and tricuspid valves,Long-term condition
+I082,,HEART_VALVE_DISORDERS,Disorders of both aortic and tricuspid valves,Long-term condition
+I083,,HEART_VALVE_DISORDERS,"Combined disorders of mitral, aortic and tricuspid valves",Long-term condition
+I088,,HEART_VALVE_DISORDERS,Other multiple valve diseases,Long-term condition
+I089,,HEART_VALVE_DISORDERS,"Multiple valve disease, unspecified",Long-term condition
+I091,,HEART_VALVE_DISORDERS,"Rheumatic diseases of endocardium, valve unspecified",Long-term condition
+I34,,HEART_VALVE_DISORDERS,Nonrheumatic mitral valve disorders,Long-term condition
+I340,,HEART_VALVE_DISORDERS,Mitral (valve) insufficiency,Long-term condition
+I341,,HEART_VALVE_DISORDERS,Mitral (valve) prolapse,Long-term condition
+I342,,HEART_VALVE_DISORDERS,Nonrheumatic mitral (valve) stenosis,Long-term condition
+I348,,HEART_VALVE_DISORDERS,Other nonrheumatic mitral valve disorders,Long-term condition
+I349,,HEART_VALVE_DISORDERS,"Nonrheumatic mitral valve disorder, unspecified",Long-term condition
+I35,,HEART_VALVE_DISORDERS,Nonrheumatic aortic valve disorders,Long-term condition
+I350,,HEART_VALVE_DISORDERS,Aortic (valve) stenosis,Long-term condition
+I351,,HEART_VALVE_DISORDERS,Aortic (valve) insufficiency,Long-term condition
+I352,,HEART_VALVE_DISORDERS,Aortic (valve) stenosis with insufficiency,Long-term condition
+I358,,HEART_VALVE_DISORDERS,Other aortic valve disorders,Long-term condition
+I359,,HEART_VALVE_DISORDERS,"Aortic valve disorder, unspecified",Long-term condition
+I36,,HEART_VALVE_DISORDERS,Nonrheumatic tricuspid valve disorders,Long-term condition
+I360,,HEART_VALVE_DISORDERS,Nonrheumatic tricuspid (valve) stenosis,Long-term condition
+I361,,HEART_VALVE_DISORDERS,Nonrheumatic tricuspid (valve) insufficiency,Long-term condition
+I362,,HEART_VALVE_DISORDERS,Nonrheumatic tricuspid (valve) stenosis with insufficiency,Long-term condition
+I368,,HEART_VALVE_DISORDERS,Other nonrheumatic tricuspid valve disorders,Long-term condition
+I369,,HEART_VALVE_DISORDERS,"Nonrheumatic tricuspid valve disorder, unspecified",Long-term condition
+I37,,HEART_VALVE_DISORDERS,Pulmonary valve disorders,Long-term condition
+I370,,HEART_VALVE_DISORDERS,Pulmonary valve stenosis,Long-term condition
+I371,,HEART_VALVE_DISORDERS,Pulmonary valve insufficiency,Long-term condition
+I372,,HEART_VALVE_DISORDERS,Pulmonary valve stenosis with insufficiency,Long-term condition
+I378,,HEART_VALVE_DISORDERS,Other pulmonary valve disorders,Long-term condition
+I379,,HEART_VALVE_DISORDERS,"Pulmonary valve disorder, unspecified",Long-term condition
+I38,,HEART_VALVE_DISORDERS,"Endocarditis, valve unspecified",Long-term condition
+I39,,HEART_VALVE_DISORDERS,Endocarditis and heart valve disorders in diseases classified elsewhere,Long-term condition
+I390,,HEART_VALVE_DISORDERS,Mitral valve disorders in diseases classified elsewhere,Long-term condition
+I391,,HEART_VALVE_DISORDERS,Aortic valve disorders in diseases classified elsewhere,Long-term condition
+I392,,HEART_VALVE_DISORDERS,Tricuspid valve disorders in diseases classified elsewhere,Long-term condition
+I393,,HEART_VALVE_DISORDERS,Pulmonary valve disorders in diseases classified elsewhere,Long-term condition
+I394,,HEART_VALVE_DISORDERS,Multiple valve disorders in diseases classified elsewhere,Long-term condition
+I398,,HEART_VALVE_DISORDERS,"Endocarditis, valve unspecified, in diseases classified elsewhere",Long-term condition
+Q22,,HEART_VALVE_DISORDERS,Congenital malformations of pulmonary and tricuspid valves,Long-term condition
+Q220,,HEART_VALVE_DISORDERS,Pulmonary valve atresia,Long-term condition
+Q221,,HEART_VALVE_DISORDERS,Congenital pulmonary valve stenosis,Long-term condition
+Q222,,HEART_VALVE_DISORDERS,Congenital pulmonary valve insufficiency,Long-term condition
+Q223,,HEART_VALVE_DISORDERS,Other congenital malformations of pulmonary valve,Long-term condition
+Q224,,HEART_VALVE_DISORDERS,Congenital tricuspid stenosis,Long-term condition
+Q225,,HEART_VALVE_DISORDERS,Ebstein anomaly,Long-term condition
+Q228,,HEART_VALVE_DISORDERS,Other congenital malformations of tricuspid valve,Long-term condition
+Q229,,HEART_VALVE_DISORDERS,"Congenital malformation of tricuspid valve, unspecified",Long-term condition
+Q23,,HEART_VALVE_DISORDERS,Congenital malformations of aortic and mitral valves,Long-term condition
+Q230,,HEART_VALVE_DISORDERS,Congenital stenosis of aortic valve,Long-term condition
+Q231,,HEART_VALVE_DISORDERS,Congenital insufficiency of aortic valve,Long-term condition
+Q232,,HEART_VALVE_DISORDERS,Congenital mitral stenosis,Long-term condition
+Q233,,HEART_VALVE_DISORDERS,Congenital mitral insufficiency,Long-term condition
+Q238,,HEART_VALVE_DISORDERS,Other congenital malformations of aortic and mitral valves,Long-term condition
+Q239,,HEART_VALVE_DISORDERS,"Congenital malformation of aortic and mitral valves, unspecified",Long-term condition
+Q243,,HEART_VALVE_DISORDERS,Pulmonary infundibular stenosis,Long-term condition
+Q244,,HEART_VALVE_DISORDERS,Congenital subaortic stenosis,Long-term condition
+Q642,,HEART_VALVE_DISORDERS,Congenital posterior urethral valves,Long-term condition
+T820,,HEART_VALVE_DISORDERS,Mechanical complication of heart valve prosthesis,Long-term condition
+T822,,HEART_VALVE_DISORDERS,Mechanical complication of coronary artery bypass and valve grafts,Long-term condition
+T826,,HEART_VALVE_DISORDERS,Infection and inflammatory reaction due to cardiac valve prosthesis,Long-term condition
+Z952,,HEART_VALVE_DISORDERS,Presence of prosthetic heart valve,Long-term condition
+Z953,,HEART_VALVE_DISORDERS,Presence of xenogenic heart valve,Long-term condition
+Z954,,HEART_VALVE_DISORDERS,Presence of other heart-valve replacement,Long-term condition

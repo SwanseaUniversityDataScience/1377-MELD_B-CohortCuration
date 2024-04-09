@@ -1,0 +1,15 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+C50,,BREAST_CANCER,Malignant neoplasm of breast,Long-term condition
+C501,,BREAST_CANCER,Malignant neoplasm: Central portion of breast,Long-term condition
+C502,,BREAST_CANCER,Malignant neoplasm: Upper-inner quadrant of breast,Long-term condition
+C503,,BREAST_CANCER,Malignant neoplasm: Lower-inner quadrant of breast,Long-term condition
+C504,,BREAST_CANCER,Malignant neoplasm: Upper-outer quadrant of breast,Long-term condition
+C505,,BREAST_CANCER,Malignant neoplasm: Lower-outer quadrant of breast,Long-term condition
+C506,,BREAST_CANCER,Malignant neoplasm: Axillary tail of breast,Long-term condition
+C508,,BREAST_CANCER,Malignant neoplasm: Overlapping lesion of breast,Long-term condition
+C509,,BREAST_CANCER,"Malignant neoplasm: Breast, unspecified",Long-term condition
+D05,,BREAST_CANCER,Carcinoma in situ of breast,Long-term condition
+D057,,BREAST_CANCER,Other carcinoma in situ of breast,Long-term condition
+D059,,BREAST_CANCER,"Carcinoma in situ of breast, unspecified",Long-term condition
+D24,,BREAST_CANCER,Benign neoplasm of breast,Long-term condition
+Z853,,BREAST_CANCER,Personal history of malignant neoplasm of breast,Long-term condition

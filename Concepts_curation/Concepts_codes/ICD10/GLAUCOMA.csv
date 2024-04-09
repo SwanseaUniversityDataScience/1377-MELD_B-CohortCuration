@@ -1,0 +1,9 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+H40,,GLAUCOMA,Glaucoma,Long-term condition
+H401,,GLAUCOMA,Primary open-angle glaucoma,Long-term condition
+H402,,GLAUCOMA,Primary angle-closure glaucoma,Long-term condition
+H408,,GLAUCOMA,Other glaucoma,Long-term condition
+H409,,GLAUCOMA,"Glaucoma, unspecified",Long-term condition
+H42,,GLAUCOMA,Glaucoma in diseases classified elsewhere,Long-term condition
+H420,,GLAUCOMA,"Glaucoma in endocrine, nutritional and metabolic diseases",Long-term condition
+H428,,GLAUCOMA,Glaucoma in other diseases classified elsewhere,Long-term condition

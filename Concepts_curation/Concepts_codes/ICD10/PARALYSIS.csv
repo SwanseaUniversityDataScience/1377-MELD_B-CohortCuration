@@ -1,0 +1,16 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+G041,,PARALYSIS,Tropical spastic paraplegia,Long-term condition
+G114,,PARALYSIS,Hereditary spastic paraplegia,Long-term condition
+G800,,PARALYSIS,Spastic quadriplegic cerebral palsy,Long-term condition
+G802,,PARALYSIS,Spastic hemiplegic cerebral palsy,Long-term condition
+G81,,PARALYSIS,Hemiplegia,Long-term condition
+G810,,PARALYSIS,Flaccid hemiplegia,Long-term condition
+G811,,PARALYSIS,Spastic hemiplegia,Long-term condition
+G819,,PARALYSIS,"Hemiplegia, unspecified",Long-term condition
+G82,,PARALYSIS,Paraplegia and tetraplegia,Long-term condition
+G820,,PARALYSIS,Flaccid paraplegia,Long-term condition
+G821,,PARALYSIS,Spastic paraplegia,Long-term condition
+G822,,PARALYSIS,"Paraplegia, unspecified",Long-term condition
+G823,,PARALYSIS,Flaccid tetraplegia,Long-term condition
+G824,,PARALYSIS,Spastic tetraplegia,Long-term condition
+G825,,PARALYSIS,"Tetraplegia, unspecified",Long-term condition

@@ -1,0 +1,45 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+E244,,DRUG_ALCOHOL_MISUSE,Alcohol-induced pseudo-Cushing syndrome,Long-term condition
+F04,,DRUG_ALCOHOL_MISUSE,"Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",Long-term condition
+F05,,DRUG_ALCOHOL_MISUSE,"Delirium, not induced by alcohol and other psychoactive substances",Long-term condition
+F10,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F100,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F101,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F102,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F103,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F104,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F105,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F106,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F107,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F108,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F109,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to use of alcohol,Long-term condition
+F19,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F190,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F191,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F192,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F193,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F194,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F195,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F196,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F197,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F198,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F199,,DRUG_ALCOHOL_MISUSE,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Long-term condition
+F55,,DRUG_ALCOHOL_MISUSE,Abuse of non-dependence-producing substances,Long-term condition
+G312,,DRUG_ALCOHOL_MISUSE,Degeneration of nervous system due to alcohol,Long-term condition
+G621,,DRUG_ALCOHOL_MISUSE,Alcoholic polyneuropathy,Long-term condition
+G721,,DRUG_ALCOHOL_MISUSE,Alcoholic myopathy,Long-term condition
+I426,,DRUG_ALCOHOL_MISUSE,Alcoholic cardiomyopathy,Long-term condition
+K292,,DRUG_ALCOHOL_MISUSE,Alcoholic gastritis,Long-term condition
+K70,,DRUG_ALCOHOL_MISUSE,Alcoholic liver disease,Long-term condition
+K700,,DRUG_ALCOHOL_MISUSE,Alcoholic fatty liver,Long-term condition
+K701,,DRUG_ALCOHOL_MISUSE,Alcoholic hepatitis,Long-term condition
+K702,,DRUG_ALCOHOL_MISUSE,Alcoholic fibrosis and sclerosis of liver,Long-term condition
+K703,,DRUG_ALCOHOL_MISUSE,Alcoholic cirrhosis of liver,Long-term condition
+K704,,DRUG_ALCOHOL_MISUSE,Alcoholic hepatic failure,Long-term condition
+K709,,DRUG_ALCOHOL_MISUSE,"Alcoholic liver disease, unspecified",Long-term condition
+K852,,DRUG_ALCOHOL_MISUSE,Alcohol-induced acute pancreatitis,Long-term condition
+K860,,DRUG_ALCOHOL_MISUSE,Alcohol-induced chronic pancreatitis,Long-term condition
+T436,,DRUG_ALCOHOL_MISUSE,Poisoning: Psychostimulants with abuse potential,Long-term condition
+Y497,,DRUG_ALCOHOL_MISUSE,Psychostimulants with abuse potential,Long-term condition
+Z722,,DRUG_ALCOHOL_MISUSE,Drug use,Long-term condition
+Z864,,DRUG_ALCOHOL_MISUSE,Personal history of psychoactive substance abuse,Long-term condition

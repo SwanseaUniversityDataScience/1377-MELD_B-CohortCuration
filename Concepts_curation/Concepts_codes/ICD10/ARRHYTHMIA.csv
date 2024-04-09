@@ -1,0 +1,36 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+I44,,ARRHYTHMIA,Atrioventricular and left bundle-branch block,Long-term condition
+I440,,ARRHYTHMIA,"Atrioventricular block, first degree",Long-term condition
+I441,,ARRHYTHMIA,"Atrioventricular block, second degree",Long-term condition
+I442,,ARRHYTHMIA,"Atrioventricular block, complete",Long-term condition
+I443,,ARRHYTHMIA,Other and unspecified atrioventricular block,Long-term condition
+I447,,ARRHYTHMIA,"Left bundle-branch block, unspecified",Long-term condition
+I451,,ARRHYTHMIA,Other and unspecified right bundle-branch block,Long-term condition
+I453,,ARRHYTHMIA,Trifascicular block,Long-term condition
+I455,,ARRHYTHMIA,Other specified heart block,Long-term condition
+I46,,ARRHYTHMIA,Cardiac arrest,Long-term condition
+I460,,ARRHYTHMIA,Cardiac arrest with successful resuscitation,Long-term condition
+I461,,ARRHYTHMIA,"Sudden cardiac death, so described",Long-term condition
+I469,,ARRHYTHMIA,"Cardiac arrest, unspecified",Long-term condition
+I47,,ARRHYTHMIA,Paroxysmal tachycardia,Long-term condition
+I470,,ARRHYTHMIA,Re-entry ventricular arrhythmia,Long-term condition
+I471,,ARRHYTHMIA,Supraventricular tachycardia,Long-term condition
+I472,,ARRHYTHMIA,Ventricular tachycardia,Long-term condition
+I479,,ARRHYTHMIA,"Paroxysmal tachycardia, unspecified",Long-term condition
+I48,,ARRHYTHMIA,Atrial fibrillation and flutter,Long-term condition
+I480,,ARRHYTHMIA,Paroxysmal atrial fibrillation,Long-term condition
+I481,,ARRHYTHMIA,Persistent atrial fibrillation,Long-term condition
+I482,,ARRHYTHMIA,Chronic atrial fibrillation,Long-term condition
+I483,,ARRHYTHMIA,Typical atrial flutter,Long-term condition
+I484,,ARRHYTHMIA,Atypical atrial flutter,Long-term condition
+I489,,ARRHYTHMIA,"Atrial fibrillation and atrial flutter, unspecified",Long-term condition
+I49,,ARRHYTHMIA,Other cardiac arrhythmias,Long-term condition
+I490,,ARRHYTHMIA,Ventricular fibrillation and flutter,Long-term condition
+I491,,ARRHYTHMIA,Atrial premature depolarization,Long-term condition
+I492,,ARRHYTHMIA,Junctional premature depolarization,Long-term condition
+I493,,ARRHYTHMIA,Ventricular premature depolarization,Long-term condition
+I494,,ARRHYTHMIA,Other and unspecified premature depolarization,Long-term condition
+I495,,ARRHYTHMIA,Sick sinus syndrome,Long-term condition
+I498,,ARRHYTHMIA,Other specified cardiac arrhythmias,Long-term condition
+I499,,ARRHYTHMIA,"Cardiac arrhythmia, unspecified",Long-term condition
+P291,,ARRHYTHMIA,Neonatal cardiac dysrhythmia,Long-term condition

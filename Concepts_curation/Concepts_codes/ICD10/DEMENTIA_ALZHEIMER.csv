@@ -1,0 +1,22 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+A810,,DEMENTIA_ALZHEIMER,Creutzfeldt-Jakob disease,Long-term condition
+F00,,DEMENTIA_ALZHEIMER,Dementia in Alzheimer disease,Long-term condition
+F000,,DEMENTIA_ALZHEIMER,Dementia in Alzheimer disease with early onset,Long-term condition
+F001,,DEMENTIA_ALZHEIMER,Dementia in Alzheimer disease with late onset,Long-term condition
+F002,,DEMENTIA_ALZHEIMER,"Dementia in Alzheimer disease, atypical or mixed type",Long-term condition
+F009,,DEMENTIA_ALZHEIMER,"Dementia in Alzheimer disease, unspecified",Long-term condition
+F02,,DEMENTIA_ALZHEIMER,Dementia in other diseases classified elsewhere,Long-term condition
+F020,,DEMENTIA_ALZHEIMER,Dementia in Pick disease,Long-term condition
+F021,,DEMENTIA_ALZHEIMER,Dementia in Creutzfeldt-Jakob disease,Long-term condition
+F022,,DEMENTIA_ALZHEIMER,Dementia in Huntington disease,Long-term condition
+F023,,DEMENTIA_ALZHEIMER,Dementia in Parkinson disease,Long-term condition
+F024,,DEMENTIA_ALZHEIMER,Dementia in human immunodeficiency virus [HIV] disease,Long-term condition
+F028,,DEMENTIA_ALZHEIMER,Dementia in other specified diseases classified elsewhere,Long-term condition
+F03,,DEMENTIA_ALZHEIMER,Unspecified dementia,Long-term condition
+F051,,DEMENTIA_ALZHEIMER,Delirium superimposed on dementia,Long-term condition
+G30,,DEMENTIA_ALZHEIMER,Alzheimer disease,Long-term condition
+G300,,DEMENTIA_ALZHEIMER,Alzheimer disease with early onset,Long-term condition
+G301,,DEMENTIA_ALZHEIMER,Alzheimer disease with late onset,Long-term condition
+G308,,DEMENTIA_ALZHEIMER,Other Alzheimer disease,Long-term condition
+G309,,DEMENTIA_ALZHEIMER,"Alzheimer disease, unspecified",Long-term condition
+G912,,DEMENTIA_ALZHEIMER,Normal-pressure hydrocephalus,Long-term condition

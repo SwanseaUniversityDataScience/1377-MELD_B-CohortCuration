@@ -1,0 +1,19 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+F064,,ANXIETY,Organic anxiety disorder,Long-term condition
+F40,,ANXIETY,Phobic anxiety disorders,Long-term condition
+F400,,ANXIETY,Agoraphobia,Long-term condition
+F401,,ANXIETY,Social phobias,Long-term condition
+F402,,ANXIETY,Specific (isolated) phobias,Long-term condition
+F408,,ANXIETY,Other phobic anxiety disorders,Long-term condition
+F409,,ANXIETY,"Phobic anxiety disorder, unspecified",Long-term condition
+F41,,ANXIETY,Other anxiety disorders,Long-term condition
+F410,,ANXIETY,Panic disorder [episodic paroxysmal anxiety],Long-term condition
+F411,,ANXIETY,Generalized anxiety disorder,Long-term condition
+F412,,ANXIETY,Mixed anxiety and depressive disorder,Long-term condition
+F413,,ANXIETY,Other mixed anxiety disorders,Long-term condition
+F418,,ANXIETY,Other specified anxiety disorders,Long-term condition
+F419,,ANXIETY,"Anxiety disorder, unspecified",Long-term condition
+F606,,ANXIETY,Anxious [avoidant] personality disorder,Long-term condition
+F930,,ANXIETY,Separation anxiety disorder of childhood,Long-term condition
+F931,,ANXIETY,Phobic anxiety disorder of childhood,Long-term condition
+F932,,ANXIETY,Social anxiety disorder of childhood,Long-term condition

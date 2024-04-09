@@ -1,0 +1,20 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+F204,,DEPRESSION,Post-schizophrenic depression,Long-term condition
+F251,,DEPRESSION,"Schizoaffective disorder, depressive type",Long-term condition
+F32,,DEPRESSION,Depressive episode,Long-term condition
+F320,,DEPRESSION,Mild depressive episode,Long-term condition
+F321,,DEPRESSION,Moderate depressive episode,Long-term condition
+F322,,DEPRESSION,Severe depressive episode without psychotic symptoms,Long-term condition
+F323,,DEPRESSION,Severe depressive episode with psychotic symptoms,Long-term condition
+F328,,DEPRESSION,Other depressive episodes,Long-term condition
+F329,,DEPRESSION,"Depressive episode, unspecified",Long-term condition
+F33,,DEPRESSION,Recurrent depressive disorder,Long-term condition
+F330,,DEPRESSION,"Recurrent depressive disorder, current episode mild",Long-term condition
+F331,,DEPRESSION,"Recurrent depressive disorder, current episode moderate",Long-term condition
+F332,,DEPRESSION,"Recurrent depressive disorder, current episode severe without psychotic symptoms",Long-term condition
+F333,,DEPRESSION,"Recurrent depressive disorder, current episode severe with psychotic symptoms",Long-term condition
+F338,,DEPRESSION,Other recurrent depressive disorders,Long-term condition
+F339,,DEPRESSION,"Recurrent depressive disorder, unspecified",Long-term condition
+F341,,DEPRESSION,Dysthymia,Long-term condition
+F412,,DEPRESSION,Mixed anxiety and depressive disorder,Long-term condition
+F920,,DEPRESSION,Depressive conduct disorder,Long-term condition

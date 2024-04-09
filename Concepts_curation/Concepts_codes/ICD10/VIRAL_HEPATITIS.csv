@@ -1,0 +1,11 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+B16,,VIRAL_HEPATITIS,Acute hepatitis B,Long-term condition
+B160,,VIRAL_HEPATITIS,Acute hepatitis B with delta-agent (coinfection) with hepatic coma,Long-term condition
+B161,,VIRAL_HEPATITIS,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,Long-term condition
+B162,,VIRAL_HEPATITIS,Acute hepatitis B without delta-agent with hepatic coma,Long-term condition
+B169,,VIRAL_HEPATITIS,Acute hepatitis B without delta-agent and without hepatic coma,Long-term condition
+B170,,VIRAL_HEPATITIS,Acute delta-(super)infection of hepatitis B carrier,Long-term condition
+B171,,VIRAL_HEPATITIS,Acute hepatitis C,Long-term condition
+B180,,VIRAL_HEPATITIS,Chronic viral hepatitis B with delta-agent,Long-term condition
+B181,,VIRAL_HEPATITIS,Chronic viral hepatitis B without delta-agent,Long-term condition
+B182,,VIRAL_HEPATITIS,Chronic viral hepatitis C,Long-term condition

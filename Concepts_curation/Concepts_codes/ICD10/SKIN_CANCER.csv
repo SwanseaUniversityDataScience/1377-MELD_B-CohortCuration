@@ -1,0 +1,28 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+C43,,SKIN_CANCER,Malignant melanoma of skin,Long-term condition
+C430,,SKIN_CANCER,Malignant neoplasm: Malignant melanoma of lip,Long-term condition
+C431,,SKIN_CANCER,"Malignant neoplasm: Malignant melanoma of eyelid, including canthus",Long-term condition
+C432,,SKIN_CANCER,Malignant neoplasm: Malignant melanoma of ear and external auricular canal,Long-term condition
+C433,,SKIN_CANCER,Malignant neoplasm: Malignant melanoma of other and unspecified parts of face,Long-term condition
+C434,,SKIN_CANCER,Malignant neoplasm: Malignant melanoma of scalp and neck,Long-term condition
+C435,,SKIN_CANCER,Malignant neoplasm: Malignant melanoma of trunk,Long-term condition
+C436,,SKIN_CANCER,"Malignant neoplasm: Malignant melanoma of upper limb, including shoulder",Long-term condition
+C437,,SKIN_CANCER,"Malignant neoplasm: Malignant melanoma of lower limb, including hip",Long-term condition
+C438,,SKIN_CANCER,Malignant neoplasm: Overlapping malignant melanoma of skin,Long-term condition
+C439,,SKIN_CANCER,"Malignant neoplasm: Malignant melanoma of skin, unspecified",Long-term condition
+C44,,SKIN_CANCER,Other malignant neoplasms of skin,Long-term condition
+C440,,SKIN_CANCER,Malignant neoplasm: Skin of lip,Long-term condition
+C441,,SKIN_CANCER,"Malignant neoplasm: Skin of eyelid, including canthus",Long-term condition
+C442,,SKIN_CANCER,Malignant neoplasm: Skin of ear and external auricular canal,Long-term condition
+C443,,SKIN_CANCER,Malignant neoplasm: Skin of other and unspecified parts of face,Long-term condition
+C444,,SKIN_CANCER,Malignant neoplasm: Skin of scalp and neck,Long-term condition
+C445,,SKIN_CANCER,Malignant neoplasm: Skin of trunk,Long-term condition
+C446,,SKIN_CANCER,"Malignant neoplasm: Skin of upper limb, including shoulder",Long-term condition
+C447,,SKIN_CANCER,"Malignant neoplasm: Skin of lower limb, including hip",Long-term condition
+C448,,SKIN_CANCER,Malignant neoplasm: Overlapping lesion of skin,Long-term condition
+C449,,SKIN_CANCER,"Malignant neoplasm: Malignant neoplasm of skin, unspecified",Long-term condition
+C460,,SKIN_CANCER,Kaposi sarcoma of skin,Long-term condition
+C792,,SKIN_CANCER,Secondary malignant neoplasm of skin,Long-term condition
+C826,,SKIN_CANCER,Cutaneous follicle centre lymphoma,Long-term condition
+C848,,SKIN_CANCER,"Cutaneous T-cell lymphoma, unspecified",Long-term condition
+D485,,SKIN_CANCER,Neoplasm of uncertain or unknown behaviour: Skin,Long-term condition

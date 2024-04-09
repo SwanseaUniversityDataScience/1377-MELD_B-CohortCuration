@@ -1,0 +1,13 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+E001,,HYPOTHYROIDISM,"Congenital iodine-deficiency syndrome, myxoedematous type",Long-term condition
+E03,,HYPOTHYROIDISM,Other hypothyroidism,Long-term condition
+E030,,HYPOTHYROIDISM,Congenital hypothyroidism with diffuse goitre,Long-term condition
+E031,,HYPOTHYROIDISM,Congenital hypothyroidism without goitre,Long-term condition
+E032,,HYPOTHYROIDISM,Hypothyroidism due to medicaments and other exogenous substances,Long-term condition
+E033,,HYPOTHYROIDISM,Postinfectious hypothyroidism,Long-term condition
+E034,,HYPOTHYROIDISM,Atrophy of thyroid (acquired),Long-term condition
+E035,,HYPOTHYROIDISM,Myxoedema coma,Long-term condition
+E038,,HYPOTHYROIDISM,Other specified hypothyroidism,Long-term condition
+E039,,HYPOTHYROIDISM,"Hypothyroidism, unspecified",Long-term condition
+E890,,HYPOTHYROIDISM,Postprocedural hypothyroidism,Long-term condition
+G132,,HYPOTHYROIDISM,Systemic atrophy primarily affecting central nervous system in myxoedema,Long-term condition

@@ -1,0 +1,23 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+I70,,PVD,Atherosclerosis,Long-term condition
+I700,,PVD,Atherosclerosis of aorta,Long-term condition
+I7000,,PVD,Atherosclerosis of aorta,Long-term condition
+I7001,,PVD,Atherosclerosis of aorta,Long-term condition
+I701,,PVD,Atherosclerosis of renal artery,Long-term condition
+I7010,,PVD,Atherosclerosis of renal artery,Long-term condition
+I7011,,PVD,Atherosclerosis of renal artery,Long-term condition
+I702,,PVD,Atherosclerosis of arteries of extremities,Long-term condition
+I7020,,PVD,Atherosclerosis of arteries of extremities,Long-term condition
+I7021,,PVD,Atherosclerosis of arteries of extremities,Long-term condition
+I708,,PVD,Atherosclerosis of other arteries,Long-term condition
+I7080,,PVD,Atherosclerosis of other arteries,Long-term condition
+I7081,,PVD,Atherosclerosis of other arteries,Long-term condition
+I709,,PVD,Generalized and unspecified atherosclerosis,Long-term condition
+I7090,,PVD,Generalized and unspecified atherosclerosis,Long-term condition
+I7091,,PVD,Generalized and unspecified atherosclerosis,Long-term condition
+I73,,PVD,Other peripheral vascular diseases,Long-term condition
+I730,,PVD,Raynaud syndrome,Long-term condition
+I731,,PVD,Thromboangiitis obliterans [Buerger],Long-term condition
+I738,,PVD,Other specified peripheral vascular diseases,Long-term condition
+I739,,PVD,"Peripheral vascular disease, unspecified",Long-term condition
+I792,,PVD,Peripheral angiopathy in diseases classified elsewhere,Long-term condition

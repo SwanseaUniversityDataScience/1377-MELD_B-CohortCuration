@@ -1,0 +1,9 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+L93,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,Lupus erythematosus,Long-term condition
+L931,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,Subacute cutaneous lupus erythematosus,Long-term condition
+L932,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,Other local lupus erythematosus,Long-term condition
+M32,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,Systemic lupus erythematosus,Long-term condition
+M320,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,Drug-induced systemic lupus erythematosus,Long-term condition
+M321,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,Systemic lupus erythematosus with organ or system involvement,Long-term condition
+M328,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,Other forms of systemic lupus erythematosus,Long-term condition
+M329,,SYSTEMIC_LUPUS_ERYTHEMATOSUS,"Systemic lupus erythematosus, unspecified",Long-term condition

@@ -1,0 +1,35 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+B20,,HIVAIDS,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,Long-term condition
+B200,,HIVAIDS,HIV disease resulting in mycobacterial infection,Long-term condition
+B201,,HIVAIDS,HIV disease resulting in other bacterial infections,Long-term condition
+B202,,HIVAIDS,HIV disease resulting in cytomegaloviral disease,Long-term condition
+B203,,HIVAIDS,HIV disease resulting in other viral infections,Long-term condition
+B204,,HIVAIDS,HIV disease resulting in candidiasis,Long-term condition
+B205,,HIVAIDS,HIV disease resulting in other mycoses,Long-term condition
+B206,,HIVAIDS,HIV disease resulting in Pneumocystis jirovecii pneumonia,Long-term condition
+B207,,HIVAIDS,HIV disease resulting in multiple infections,Long-term condition
+B208,,HIVAIDS,HIV disease resulting in other infectious and parasitic diseases,Long-term condition
+B209,,HIVAIDS,HIV disease resulting in unspecified infectious or parasitic disease,Long-term condition
+B21,,HIVAIDS,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,Long-term condition
+B210,,HIVAIDS,HIV disease resulting in Kaposi sarcoma,Long-term condition
+B211,,HIVAIDS,HIV disease resulting in Burkitt lymphoma,Long-term condition
+B212,,HIVAIDS,HIV disease resulting in other types of non-Hodgkin lymphoma,Long-term condition
+B213,,HIVAIDS,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue",Long-term condition
+B217,,HIVAIDS,HIV disease resulting in multiple malignant neoplasms,Long-term condition
+B218,,HIVAIDS,HIV disease resulting in other malignant neoplasms,Long-term condition
+B219,,HIVAIDS,HIV disease resulting in unspecified malignant neoplasm,Long-term condition
+B22,,HIVAIDS,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,Long-term condition
+B220,,HIVAIDS,HIV disease resulting in encephalopathy,Long-term condition
+B221,,HIVAIDS,HIV disease resulting in lymphoid interstitial pneumonitis,Long-term condition
+B222,,HIVAIDS,HIV disease resulting in wasting syndrome,Long-term condition
+B227,,HIVAIDS,HIV disease resulting in multiple diseases classified elsewhere,Long-term condition
+B23,,HIVAIDS,Human immunodeficiency virus [HIV] disease resulting in other conditions,Long-term condition
+B230,,HIVAIDS,Acute HIV infection syndrome,Long-term condition
+B231,,HIVAIDS,HIV disease resulting in (persistent) generalized lymphadenopathy,Long-term condition
+B232,,HIVAIDS,"HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified",Long-term condition
+B238,,HIVAIDS,HIV disease resulting in other specified conditions,Long-term condition
+B24,,HIVAIDS,Unspecified human immunodeficiency virus [HIV] disease,Long-term condition
+F024,,HIVAIDS,Dementia in human immunodeficiency virus [HIV] disease,Long-term condition
+O987,,HIVAIDS,"Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium",Long-term condition
+R75,,HIVAIDS,Laboratory evidence of human immunodeficiency virus [HIV],Long-term condition
+Z21,,HIVAIDS,Asymptomatic human immunodeficiency virus [HIV] infection status,Long-term condition

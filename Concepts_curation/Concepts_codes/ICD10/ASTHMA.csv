@@ -1,0 +1,7 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+J45,,ASTHMA,Asthma,Long-term condition
+J450,,ASTHMA,Predominantly allergic asthma,Long-term condition
+J451,,ASTHMA,Nonallergic asthma,Long-term condition
+J458,,ASTHMA,Mixed asthma,Long-term condition
+J459,,ASTHMA,"Asthma, unspecified",Long-term condition
+J46,,ASTHMA,Status asthmaticus,Long-term condition

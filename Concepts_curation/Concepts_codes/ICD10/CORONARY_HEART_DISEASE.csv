@@ -1,0 +1,21 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+I20,,CORONARY_HEART_DISEASE,Angina pectoris,Long-term condition
+I200,,CORONARY_HEART_DISEASE,Unstable angina,Long-term condition
+I201,,CORONARY_HEART_DISEASE,Angina pectoris with documented spasm,Long-term condition
+I208,,CORONARY_HEART_DISEASE,Other forms of angina pectoris,Long-term condition
+I209,,CORONARY_HEART_DISEASE,"Angina pectoris, unspecified",Long-term condition
+I24,,CORONARY_HEART_DISEASE,Other acute ischaemic heart diseases,Long-term condition
+I240,,CORONARY_HEART_DISEASE,Coronary thrombosis not resulting in myocardial infarction,Long-term condition
+I248,,CORONARY_HEART_DISEASE,Other forms of acute ischaemic heart disease,Long-term condition
+I249,,CORONARY_HEART_DISEASE,"Acute ischaemic heart disease, unspecified",Long-term condition
+I25,,CORONARY_HEART_DISEASE,Chronic ischaemic heart disease,Long-term condition
+I250,,CORONARY_HEART_DISEASE,"Atherosclerotic cardiovascular disease, so described",Long-term condition
+I251,,CORONARY_HEART_DISEASE,Atherosclerotic heart disease,Long-term condition
+I253,,CORONARY_HEART_DISEASE,Aneurysm of heart,Long-term condition
+I254,,CORONARY_HEART_DISEASE,Coronary artery aneurysm and dissection,Long-term condition
+I255,,CORONARY_HEART_DISEASE,Ischaemic cardiomyopathy,Long-term condition
+I256,,CORONARY_HEART_DISEASE,Silent myocardial ischaemia,Long-term condition
+I258,,CORONARY_HEART_DISEASE,Other forms of chronic ischaemic heart disease,Long-term condition
+I259,,CORONARY_HEART_DISEASE,"Chronic ischaemic heart disease, unspecified",Long-term condition
+Z500,,CORONARY_HEART_DISEASE,Cardiac rehabilitation,Long-term condition
+Z955,,CORONARY_HEART_DISEASE,Presence of coronary angioplasty implant and graft,Long-term condition

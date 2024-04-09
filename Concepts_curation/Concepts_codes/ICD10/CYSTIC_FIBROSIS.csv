@@ -1,0 +1,7 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+E84,,CYSTIC_FIBROSIS,Cystic fibrosis,Long-term condition
+E840,,CYSTIC_FIBROSIS,Cystic fibrosis with pulmonary manifestations,Long-term condition
+E841,,CYSTIC_FIBROSIS,Cystic fibrosis with intestinal manifestations,Long-term condition
+E848,,CYSTIC_FIBROSIS,Cystic fibrosis with other manifestations,Long-term condition
+E849,,CYSTIC_FIBROSIS,"Cystic fibrosis, unspecified",Long-term condition
+P75,,CYSTIC_FIBROSIS,Meconium ileus in cystic fibrosis,Long-term condition

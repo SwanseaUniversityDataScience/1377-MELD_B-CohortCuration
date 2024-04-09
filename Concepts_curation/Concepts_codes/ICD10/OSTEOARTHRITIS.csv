@@ -1,0 +1,129 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+G552,,OSTEOARTHRITIS,Nerve root and plexus compressions in spondylosis,Long-term condition
+M15,,OSTEOARTHRITIS,Polyarthrosis,Long-term condition
+M150,,OSTEOARTHRITIS,Primary generalized (osteo)arthrosis,Long-term condition
+M153,,OSTEOARTHRITIS,Secondary multiple arthrosis,Long-term condition
+M154,,OSTEOARTHRITIS,Erosive (osteo)arthrosis,Long-term condition
+M158,,OSTEOARTHRITIS,Other polyarthrosis,Long-term condition
+M159,,OSTEOARTHRITIS,"Polyarthrosis, unspecified",Long-term condition
+M16,,OSTEOARTHRITIS,Coxarthrosis [arthrosis of hip],Long-term condition
+M160,,OSTEOARTHRITIS,"Primary coxarthrosis, bilateral",Long-term condition
+M161,,OSTEOARTHRITIS,Other primary coxarthrosis,Long-term condition
+M164,,OSTEOARTHRITIS,"Post-traumatic coxarthrosis, bilateral",Long-term condition
+M165,,OSTEOARTHRITIS,Other post-traumatic coxarthrosis,Long-term condition
+M166,,OSTEOARTHRITIS,"Other secondary coxarthrosis, bilateral",Long-term condition
+M167,,OSTEOARTHRITIS,Other secondary coxarthrosis,Long-term condition
+M169,,OSTEOARTHRITIS,"Coxarthrosis, unspecified",Long-term condition
+M17,,OSTEOARTHRITIS,Gonarthrosis [arthrosis of knee],Long-term condition
+M170,,OSTEOARTHRITIS,"Primary gonarthrosis, bilateral",Long-term condition
+M171,,OSTEOARTHRITIS,Other primary gonarthrosis,Long-term condition
+M172,,OSTEOARTHRITIS,"Post-traumatic gonarthrosis, bilateral",Long-term condition
+M173,,OSTEOARTHRITIS,Other post-traumatic gonarthrosis,Long-term condition
+M174,,OSTEOARTHRITIS,"Other secondary gonarthrosis, bilateral",Long-term condition
+M175,,OSTEOARTHRITIS,Other secondary gonarthrosis,Long-term condition
+M179,,OSTEOARTHRITIS,"Gonarthrosis, unspecified",Long-term condition
+M18,,OSTEOARTHRITIS,Arthrosis of first carpometacarpal joint,Long-term condition
+M180,,OSTEOARTHRITIS,"Primary arthrosis of first carpometacarpal joints, bilateral",Long-term condition
+M181,,OSTEOARTHRITIS,Other primary arthrosis of first carpometacarpal joint,Long-term condition
+M182,,OSTEOARTHRITIS,"Post-traumatic arthrosis of first carpometacarpal joints, bilateral",Long-term condition
+M183,,OSTEOARTHRITIS,Other post-traumatic arthrosis of first carpometacarpal joint,Long-term condition
+M184,,OSTEOARTHRITIS,"Other secondary arthrosis of first carpometacarpal joints, bilateral",Long-term condition
+M185,,OSTEOARTHRITIS,Other secondary arthrosis of first carpometacarpal joint,Long-term condition
+M189,,OSTEOARTHRITIS,"Arthrosis of first carpometacarpal joint, unspecified",Long-term condition
+M19,,OSTEOARTHRITIS,Other arthrosis,Long-term condition
+M190,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M1900,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M1901,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M1902,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M1903,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M1904,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M1905,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M1907,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M1908,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M1909,,OSTEOARTHRITIS,Primary arthrosis of other joints,Long-term condition
+M191,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M1910,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M1911,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M1912,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M1913,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M1914,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M1915,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M1917,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M1918,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M1919,,OSTEOARTHRITIS,Post-traumatic arthrosis of other joints,Long-term condition
+M192,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M1920,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M1921,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M1922,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M1923,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M1924,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M1925,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M1927,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M1928,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M1929,,OSTEOARTHRITIS,Other secondary arthrosis,Long-term condition
+M198,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1980,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1981,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1982,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1983,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1984,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1985,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1986,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1987,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1988,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M1989,,OSTEOARTHRITIS,Other specified arthrosis,Long-term condition
+M199,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M1990,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M1991,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M1992,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M1993,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M1994,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M1995,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M1997,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M1998,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M1999,,OSTEOARTHRITIS,"Arthrosis, unspecified",Long-term condition
+M47,,OSTEOARTHRITIS,Spondylosis,Long-term condition
+M471,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4710,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4711,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4712,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4713,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4714,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4715,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4716,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4717,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4718,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M4719,,OSTEOARTHRITIS,Other spondylosis with myelopathy,Long-term condition
+M472,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4720,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4721,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4722,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4723,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4724,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4725,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4726,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4727,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4728,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M4729,,OSTEOARTHRITIS,Other spondylosis with radiculopathy,Long-term condition
+M478,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4780,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4781,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4782,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4783,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4784,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4785,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4786,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4787,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4788,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M4789,,OSTEOARTHRITIS,Other spondylosis,Long-term condition
+M479,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4790,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4791,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4792,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4793,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4794,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4795,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4796,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4797,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4798,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition
+M4799,,OSTEOARTHRITIS,"Spondylosis, unspecified",Long-term condition

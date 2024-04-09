@@ -1,0 +1,49 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+B16,,CHRONIC_LIVER_DISEASE,Acute hepatitis B,Long-term condition
+B160,,CHRONIC_LIVER_DISEASE,Acute hepatitis B with delta-agent (coinfection) with hepatic coma,Long-term condition
+B161,,CHRONIC_LIVER_DISEASE,Acute hepatitis B with delta-agent (coinfection) without hepatic coma,Long-term condition
+B162,,CHRONIC_LIVER_DISEASE,Acute hepatitis B without delta-agent with hepatic coma,Long-term condition
+B169,,CHRONIC_LIVER_DISEASE,Acute hepatitis B without delta-agent and without hepatic coma,Long-term condition
+B170,,CHRONIC_LIVER_DISEASE,Acute delta-(super)infection of hepatitis B carrier,Long-term condition
+B171,,CHRONIC_LIVER_DISEASE,Acute hepatitis C,Long-term condition
+B18,,CHRONIC_LIVER_DISEASE,Chronic viral hepatitis,Long-term condition
+B180,,CHRONIC_LIVER_DISEASE,Chronic viral hepatitis B with delta-agent,Long-term condition
+B181,,CHRONIC_LIVER_DISEASE,Chronic viral hepatitis B without delta-agent,Long-term condition
+B182,,CHRONIC_LIVER_DISEASE,Chronic viral hepatitis C,Long-term condition
+B188,,CHRONIC_LIVER_DISEASE,Other chronic viral hepatitis,Long-term condition
+B189,,CHRONIC_LIVER_DISEASE,"Chronic viral hepatitis, unspecified",Long-term condition
+I85,,CHRONIC_LIVER_DISEASE,Oesophageal varices,Long-term condition
+I850,,CHRONIC_LIVER_DISEASE,Oesophageal varices with bleeding,Long-term condition
+I859,,CHRONIC_LIVER_DISEASE,Oesophageal varices without bleeding,Long-term condition
+I982,,CHRONIC_LIVER_DISEASE,Oesophageal varices without bleeding in diseases classified elsewhere,Long-term condition
+I983,,CHRONIC_LIVER_DISEASE,Oesophageal varices with bleeding in diseases classified elsewhere,Long-term condition
+K70,,CHRONIC_LIVER_DISEASE,Alcoholic liver disease,Long-term condition
+K700,,CHRONIC_LIVER_DISEASE,Alcoholic fatty liver,Long-term condition
+K701,,CHRONIC_LIVER_DISEASE,Alcoholic hepatitis,Long-term condition
+K702,,CHRONIC_LIVER_DISEASE,Alcoholic fibrosis and sclerosis of liver,Long-term condition
+K703,,CHRONIC_LIVER_DISEASE,Alcoholic cirrhosis of liver,Long-term condition
+K704,,CHRONIC_LIVER_DISEASE,Alcoholic hepatic failure,Long-term condition
+K709,,CHRONIC_LIVER_DISEASE,"Alcoholic liver disease, unspecified",Long-term condition
+K713,,CHRONIC_LIVER_DISEASE,Toxic liver disease with chronic persistent hepatitis,Long-term condition
+K714,,CHRONIC_LIVER_DISEASE,Toxic liver disease with chronic lobular hepatitis,Long-term condition
+K715,,CHRONIC_LIVER_DISEASE,Toxic liver disease with chronic active hepatitis,Long-term condition
+K717,,CHRONIC_LIVER_DISEASE,Toxic liver disease with fibrosis and cirrhosis of liver,Long-term condition
+K72,,CHRONIC_LIVER_DISEASE,"Hepatic failure, not elsewhere classified",Long-term condition
+K721,,CHRONIC_LIVER_DISEASE,Chronic hepatic failure,Long-term condition
+K729,,CHRONIC_LIVER_DISEASE,"Hepatic failure, unspecified",Long-term condition
+K73,,CHRONIC_LIVER_DISEASE,"Chronic hepatitis, not elsewhere classified",Long-term condition
+K730,,CHRONIC_LIVER_DISEASE,"Chronic persistent hepatitis, not elsewhere classified",Long-term condition
+K731,,CHRONIC_LIVER_DISEASE,"Chronic lobular hepatitis, not elsewhere classified",Long-term condition
+K732,,CHRONIC_LIVER_DISEASE,"Chronic active hepatitis, not elsewhere classified",Long-term condition
+K738,,CHRONIC_LIVER_DISEASE,"Other chronic hepatitis, not elsewhere classified",Long-term condition
+K739,,CHRONIC_LIVER_DISEASE,"Chronic hepatitis, unspecified",Long-term condition
+K74,,CHRONIC_LIVER_DISEASE,Fibrosis and cirrhosis of liver,Long-term condition
+K740,,CHRONIC_LIVER_DISEASE,Hepatic fibrosis,Long-term condition
+K742,,CHRONIC_LIVER_DISEASE,Hepatic fibrosis with hepatic sclerosis,Long-term condition
+K743,,CHRONIC_LIVER_DISEASE,Primary biliary cirrhosis,Long-term condition
+K744,,CHRONIC_LIVER_DISEASE,Secondary biliary cirrhosis,Long-term condition
+K745,,CHRONIC_LIVER_DISEASE,"Biliary cirrhosis, unspecified",Long-term condition
+K746,,CHRONIC_LIVER_DISEASE,Other and unspecified cirrhosis of liver,Long-term condition
+K754,,CHRONIC_LIVER_DISEASE,Autoimmune hepatitis,Long-term condition
+K766,,CHRONIC_LIVER_DISEASE,Portal hypertension,Long-term condition
+K767,,CHRONIC_LIVER_DISEASE,Hepatorenal syndrome,Long-term condition

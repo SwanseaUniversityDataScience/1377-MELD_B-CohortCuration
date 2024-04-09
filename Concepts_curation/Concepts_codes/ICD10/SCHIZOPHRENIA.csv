@@ -1,0 +1,15 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+F062,,SCHIZOPHRENIA,Organic delusional [schizophrenia-like] disorder,Long-term condition
+F20,,SCHIZOPHRENIA,Schizophrenia,Long-term condition
+F200,,SCHIZOPHRENIA,Paranoid schizophrenia,Long-term condition
+F201,,SCHIZOPHRENIA,Hebephrenic schizophrenia,Long-term condition
+F202,,SCHIZOPHRENIA,Catatonic schizophrenia,Long-term condition
+F203,,SCHIZOPHRENIA,Undifferentiated schizophrenia,Long-term condition
+F204,,SCHIZOPHRENIA,Post-schizophrenic depression,Long-term condition
+F205,,SCHIZOPHRENIA,Residual schizophrenia,Long-term condition
+F206,,SCHIZOPHRENIA,Simple schizophrenia,Long-term condition
+F208,,SCHIZOPHRENIA,Other schizophrenia,Long-term condition
+F209,,SCHIZOPHRENIA,"Schizophrenia, unspecified",Long-term condition
+F230,,SCHIZOPHRENIA,Acute polymorphic psychotic disorder without symptoms of schizophrenia,Long-term condition
+F231,,SCHIZOPHRENIA,Acute polymorphic psychotic disorder with symptoms of schizophrenia,Long-term condition
+F232,,SCHIZOPHRENIA,Acute schizophrenia-like psychotic disorder,Long-term condition

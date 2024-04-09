@@ -1,0 +1,11 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+F50,,EATING_DISORDERS,Eating disorders,Long-term condition
+F500,,EATING_DISORDERS,Anorexia nervosa,Long-term condition
+F501,,EATING_DISORDERS,Atypical anorexia nervosa,Long-term condition
+F502,,EATING_DISORDERS,Bulimia nervosa,Long-term condition
+F503,,EATING_DISORDERS,Atypical bulimia nervosa,Long-term condition
+F504,,EATING_DISORDERS,Overeating associated with other psychological disturbances,Long-term condition
+F505,,EATING_DISORDERS,Vomiting associated with other psychological disturbances,Long-term condition
+F508,,EATING_DISORDERS,Other eating disorders,Long-term condition
+F509,,EATING_DISORDERS,"Eating disorder, unspecified",Long-term condition
+F983,,EATING_DISORDERS,Pica of infancy and childhood,Long-term condition

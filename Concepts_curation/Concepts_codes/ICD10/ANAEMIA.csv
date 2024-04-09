@@ -1,0 +1,8 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+D51,,ANAEMIA,Vitamin B?? deficiency anaemia,Long-term condition
+D510,,ANAEMIA,Vitamin B?? deficiency anaemia due to intrinsic factor deficiency,Long-term condition
+D511,,ANAEMIA,Vitamin B?? deficiency anaemia due to selective vitamin B?? malabsorption with proteinuria,Long-term condition
+D512,,ANAEMIA,Transcobalamin II deficiency,Long-term condition
+D513,,ANAEMIA,Other dietary vitamin B?? deficiency anaemia,Long-term condition
+D518,,ANAEMIA,Other vitamin B?? deficiency anaemias,Long-term condition
+D519,,ANAEMIA,"Vitamin B?? deficiency anaemia, unspecified",Long-term condition

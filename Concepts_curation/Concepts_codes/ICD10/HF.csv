@@ -1,0 +1,21 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+I11,,HF,Hypertensive heart disease,Long-term condition
+I110,,HF,Hypertensive heart disease with (congestive) heart failure,Long-term condition
+I119,,HF,Hypertensive heart disease without (congestive) heart failure,Long-term condition
+I13,,HF,Hypertensive heart and renal disease,Long-term condition
+I130,,HF,Hypertensive heart and renal disease with (congestive) heart failure,Long-term condition
+I131,,HF,Hypertensive heart and renal disease with renal failure,Long-term condition
+I132,,HF,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Long-term condition
+I139,,HF,"Hypertensive heart and renal disease, unspecified",Long-term condition
+I255,,HF,Ischaemic cardiomyopathy,Long-term condition
+I260,,HF,Pulmonary embolism with mention of acute cor pulmonale,Long-term condition
+I420,,HF,Dilated cardiomyopathy,Long-term condition
+I421,,HF,Obstructive hypertrophic cardiomyopathy,Long-term condition
+I422,,HF,Other hypertrophic cardiomyopathy,Long-term condition
+I429,,HF,"Cardiomyopathy, unspecified",Long-term condition
+I50,,HF,Heart failure,Long-term condition
+I500,,HF,Congestive heart failure,Long-term condition
+I501,,HF,Left ventricular failure,Long-term condition
+I509,,HF,"Heart failure, unspecified",Long-term condition
+P290,,HF,Neonatal cardiac failure,Long-term condition
+Z994,,HF,Dependence on artificial heart,Long-term condition

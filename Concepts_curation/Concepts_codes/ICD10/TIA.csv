@@ -1,0 +1,6 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+G45,,TIA,Transient cerebral ischaemic attacks and related syndromes,Long-term condition
+G453,,TIA,Amaurosis fugax,Long-term condition
+G454,,TIA,Transient global amnesia,Long-term condition
+G458,,TIA,Other transient cerebral ischaemic attacks and related syndromes,Long-term condition
+G459,,TIA,"Transient cerebral ischaemic attack, unspecified",Long-term condition

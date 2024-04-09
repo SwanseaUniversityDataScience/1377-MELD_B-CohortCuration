@@ -1,0 +1,5 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+L20,,ATOPIC_ECZEMA,Atopic dermatitis,Long-term condition
+L200,,ATOPIC_ECZEMA,Besnier prurigo,Long-term condition
+L208,,ATOPIC_ECZEMA,Other atopic dermatitis,Long-term condition
+L209,,ATOPIC_ECZEMA,"Atopic dermatitis, unspecified",Long-term condition

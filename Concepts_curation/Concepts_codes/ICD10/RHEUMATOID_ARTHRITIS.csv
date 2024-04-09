@@ -1,0 +1,125 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+J990,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M05,,RHEUMATOID_ARTHRITIS,Seropositive rheumatoid arthritis,Long-term condition
+M050,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0500,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0501,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0502,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0503,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0504,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0505,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0506,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0507,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0508,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M0509,,RHEUMATOID_ARTHRITIS,Felty syndrome,Long-term condition
+M051,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0510,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0511,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0512,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0513,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0514,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0515,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0516,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0517,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0518,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M0519,,RHEUMATOID_ARTHRITIS,Rheumatoid lung disease,Long-term condition
+M052,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0520,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0521,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0522,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0523,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0524,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0525,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0526,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0527,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0528,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M0529,,RHEUMATOID_ARTHRITIS,Rheumatoid vasculitis,Long-term condition
+M053,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0530,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0531,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0532,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0533,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0534,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0535,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0536,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0537,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0538,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M0539,,RHEUMATOID_ARTHRITIS,Rheumatoid arthritis with involvement of other organs and systems,Long-term condition
+M058,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0580,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0581,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0582,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0583,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0584,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0585,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0586,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0587,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0588,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M0589,,RHEUMATOID_ARTHRITIS,Other seropositive rheumatoid arthritis,Long-term condition
+M059,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0590,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0591,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0592,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0593,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0594,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0595,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0596,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0597,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0598,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M0599,,RHEUMATOID_ARTHRITIS,"Seropositive rheumatoid arthritis, unspecified",Long-term condition
+M06,,RHEUMATOID_ARTHRITIS,Other rheumatoid arthritis,Long-term condition
+M060,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0600,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0601,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0602,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0603,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0604,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0605,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0606,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0607,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0608,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M0609,,RHEUMATOID_ARTHRITIS,Seronegative rheumatoid arthritis,Long-term condition
+M062,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0620,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0621,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0622,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0623,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0624,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0625,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0626,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0627,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0628,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M0629,,RHEUMATOID_ARTHRITIS,Rheumatoid bursitis,Long-term condition
+M063,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0630,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0631,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0632,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0633,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0634,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0635,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0636,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0637,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0638,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M0639,,RHEUMATOID_ARTHRITIS,Rheumatoid nodule,Long-term condition
+M068,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0680,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0681,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0682,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0683,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0684,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0685,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0686,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0687,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0688,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M0689,,RHEUMATOID_ARTHRITIS,Other specified rheumatoid arthritis,Long-term condition
+M069,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0690,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0691,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0692,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0693,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0694,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0695,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0696,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0697,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0698,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition
+M0699,,RHEUMATOID_ARTHRITIS,"Rheumatoid arthritis, unspecified",Long-term condition

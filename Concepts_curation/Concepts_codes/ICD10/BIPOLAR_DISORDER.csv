@@ -1,0 +1,18 @@
+code,description,MELDB_concept,DESCRIPTION,CONCEPT TYPE
+F30,,BIPOLAR_DISORDER,Manic episode,Long-term condition
+F301,,BIPOLAR_DISORDER,Mania without psychotic symptoms,Long-term condition
+F302,,BIPOLAR_DISORDER,Mania with psychotic symptoms,Long-term condition
+F308,,BIPOLAR_DISORDER,Other manic episodes,Long-term condition
+F309,,BIPOLAR_DISORDER,"Manic episode, unspecified",Long-term condition
+F31,,BIPOLAR_DISORDER,Bipolar affective disorder,Long-term condition
+F310,,BIPOLAR_DISORDER,"Bipolar affective disorder, current episode hypomanic",Long-term condition
+F311,,BIPOLAR_DISORDER,"Bipolar affective disorder, current episode manic without psychotic symptoms",Long-term condition
+F312,,BIPOLAR_DISORDER,"Bipolar affective disorder, current episode manic with psychotic symptoms",Long-term condition
+F313,,BIPOLAR_DISORDER,"Bipolar affective disorder, current episode mild or moderate depression",Long-term condition
+F314,,BIPOLAR_DISORDER,"Bipolar affective disorder, current episode severe depression without psychotic symptoms",Long-term condition
+F315,,BIPOLAR_DISORDER,"Bipolar affective disorder, current episode severe depression with psychotic symptoms",Long-term condition
+F316,,BIPOLAR_DISORDER,"Bipolar affective disorder, current episode mixed",Long-term condition
+F317,,BIPOLAR_DISORDER,"Bipolar affective disorder, currently in remission",Long-term condition
+F318,,BIPOLAR_DISORDER,Other bipolar affective disorders,Long-term condition
+F319,,BIPOLAR_DISORDER,"Bipolar affective disorder, unspecified",Long-term condition
+F340,,BIPOLAR_DISORDER,Cyclothymia,Long-term condition
