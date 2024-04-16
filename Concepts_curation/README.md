@@ -4,6 +4,6 @@ The MELD-B clinical domain expert group proposed an initial set of concepts base
 The initial set of concepts proposed by the group consists of  84 long-term conditions, and the full list can be found in [concept_list](https://github.com/SwanseaUniversityDataScience/1377-MELD_B-CohortCuration/blob/main/Concepts_curation/Concepts_codes/concepts_list.xlsx), and the full list of codes associated to each concept is available in [Concept_codes/ICD10](https://github.com/SwanseaUniversityDataScience/1377-MELD_B-CohortCuration/tree/main/Concepts_curation/Concepts_codes/ICD10) and [Concept_codes/ReadV2](https://github.com/SwanseaUniversityDataScience/1377-MELD_B-CohortCuration/tree/main/Concepts_curation/Concepts_codes/ReadV2)
 
 Brief overview of the codes:
-- a0.c : this code is used to transform the .csvs imported into SAIL into tables on the database. Each .csv is checked against the UKHDV view available in SAIL so that _only_ readV2 and ICD10 codes available in the UKHDV list are imported.
+- a0.a : this code is used to transform the .csvs imported into SAIL into tables on the database. Each .csv is checked against the UKHDV view available in SAIL so that _only_ readV2 and ICD10 codes available in the UKHDV list are imported.
 - b1.a : this code creates outcomes tables for the SMC. For each concept, it creates a table on the database containing _all_ the records related to that concept for each individual in the cohort.
 - b2.a: this code extracts an initial descriptive analysis. 
