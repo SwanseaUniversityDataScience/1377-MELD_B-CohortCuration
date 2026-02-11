@@ -21,7 +21,7 @@
 We have established the SAIL MELD-B electronic cohort (e-cohort SMC) and the SAIL MELD-B children and Young adults e-cohort (SMYC) as a part of the Multidisciplinary Ecosystem to study Lifecourse Determinants and Prevention of Early-onset Burdensome Multimorbidity (MELD-B) project. Each cohort has been created to investigate and develop a deeper understanding of the lived experience of the ‘burdensomeness’ of multimorbidity by identifying new clusters of burdensomness indicators, exploring early life risk factors of multimorbidity and modelling hypothetical prevention scenarios.
 
 ## 🖋️ How to cite this work 
-Pending publication
+Chiovoloni R, Dylag JJ, Alwan NA, et alCohort profile: creation of the SAIL MELD-B e-cohort (SMC) and SAIL MELD-B children and young adult e-cohort (SMYC) to investigate the lived experience of the ‘burdensomeness’ of multimorbidityBMJ Open 2025;15:e087946. doi: 10.1136/bmjopen-2024-087946
 
 ## 📃 Funding 
 The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work was supported by the National Institute for Health Research (NIHR) under its Programme Artificial Intelligence for Multiple and Long-Term Conditions (NIHR203988). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
